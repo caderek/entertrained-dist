@@ -1,0 +1,200 @@
+@font-face {
+  font-family: "icons";
+  src:
+    url("./icons.ttf?a057d54e391c38b226bb76d995a78d7b") format("truetype"),
+    url("./icons.woff?a057d54e391c38b226bb76d995a78d7b") format("woff"),
+    url("./icons.woff2?a057d54e391c38b226bb76d995a78d7b") format("woff2");
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: icons !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-new-line:before {
+  content: "\23ce";
+}
+.icon-accuracy:before {
+  content: "\f101";
+}
+.icon-annotations:before {
+  content: "\f102";
+}
+.icon-arrow-down:before {
+  content: "\f103";
+}
+.icon-arrow-left:before {
+  content: "\f104";
+}
+.icon-arrow-right:before {
+  content: "\f105";
+}
+.icon-arrow-up:before {
+  content: "\f106";
+}
+.icon-back:before {
+  content: "\f107";
+}
+.icon-backspace-word:before {
+  content: "\f108";
+}
+.icon-backspace:before {
+  content: "\f109";
+}
+.icon-bookmark-off:before {
+  content: "\f10a";
+}
+.icon-bookmark-on:before {
+  content: "\f10b";
+}
+.icon-books:before {
+  content: "\f10c";
+}
+.icon-close:before {
+  content: "\f10d";
+}
+.icon-dark-mode:before {
+  content: "\f10e";
+}
+.icon-download:before {
+  content: "\f10f";
+}
+.icon-enter-1:before {
+  content: "\f110";
+}
+.icon-enter:before {
+  content: "\f111";
+}
+.icon-extra:before {
+  content: "\f112";
+}
+.icon-favorite-off:before {
+  content: "\f113";
+}
+.icon-favorite:before {
+  content: "\f114";
+}
+.icon-fullscreen-off:before {
+  content: "\f115";
+}
+.icon-fullscreen:before {
+  content: "\f116";
+}
+.icon-heart-off:before {
+  content: "\f117";
+}
+.icon-heart:before {
+  content: "\f118";
+}
+.icon-home:before {
+  content: "\f119";
+}
+.icon-info:before {
+  content: "\f11a";
+}
+.icon-less:before {
+  content: "\f11b";
+}
+.icon-light-mode:before {
+  content: "\f11c";
+}
+.icon-loading:before {
+  content: "\f11d";
+}
+.icon-logo:before {
+  content: "\f11e";
+}
+.icon-menu:before {
+  content: "\f11f";
+}
+.icon-meta-linux:before {
+  content: "\f120";
+}
+.icon-meta-macos:before {
+  content: "\f121";
+}
+.icon-meta-windows:before {
+  content: "\f122";
+}
+.icon-more:before {
+  content: "\f123";
+}
+.icon-next:before {
+  content: "\f124";
+}
+.icon-option:before {
+  content: "\f125";
+}
+.icon-pause:before {
+  content: "\f126";
+}
+.icon-pb:before {
+  content: "\f127";
+}
+.icon-prev:before {
+  content: "\f128";
+}
+.icon-profile:before {
+  content: "\f129";
+}
+.icon-reading-off:before {
+  content: "\f12a";
+}
+.icon-reading-on:before {
+  content: "\f12b";
+}
+.icon-reload:before {
+  content: "\f12c";
+}
+.icon-repeat:before {
+  content: "\f12d";
+}
+.icon-reset:before {
+  content: "\f12e";
+}
+.icon-save:before {
+  content: "\f12f";
+}
+.icon-settings:before {
+  content: "\f130";
+}
+.icon-shift-off:before {
+  content: "\f131";
+}
+.icon-shift:before {
+  content: "\f132";
+}
+.icon-skip:before {
+  content: "\f133";
+}
+.icon-speed:before {
+  content: "\f134";
+}
+.icon-stats:before {
+  content: "\f135";
+}
+.icon-symbols:before {
+  content: "\f136";
+}
+.icon-toggle-off:before {
+  content: "\f137";
+}
+.icon-toggle-on:before {
+  content: "\f138";
+}
+.icon-warning:before {
+  content: "\f139";
+}
+.icon-watch:before {
+  content: "\f13a";
+}
+.icon-zen:before {
+  content: "\f13b";
+}
