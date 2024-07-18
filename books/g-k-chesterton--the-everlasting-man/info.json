@@ -1,1 +1,178 @@
-{"id":"g-k-chesterton--the-everlasting-man","title":"The Everlasting Man","titleAlpha":"everlasting man","author":"G. K. Chesterton","language":"en","description":"G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.","longDescription":["The Everlasting Man is inspired by H. G. Wells' The Outline of History, which explains the history of mankind and religion as solely a product of natural selection and other material causes. In contrast, G. K. Chesterton presents the case for Christianity throughout history, by illustrating firstly, the uniqueness of man amongst the animals, and secondly, the uniqueness of Christ and the Church amongst other religions and philosophies.","Written in Chesterton's typical style, already familiar to readers of Orthodoxy and Heretics, and ripe with humor and symbolism, The Everlasting Man doesn't aim to be a scholarly history treatise. Rather, like the title of Wells' work, Chesterton merely presents us his outline of history. It is in this outline that his Christian, specifically Catholic, perspective contrasts with secular views common in modern times."],"year":2024,"genres":["nonfiction","philosophy","spirituality"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man"},"series":null,"part":0,"chapters":[{"id":"001","title":"Prefatory Note","length":1439,"skip":false},{"id":"002","title":"Introduction - The Plan of This Book","length":24836,"skip":false},{"id":"003","title":"Part I: On the Creature Called Man - I: The Man in the Cave","length":38999,"skip":false},{"id":"004","title":"Part I: On the Creature Called Man - II: Professors and Prehistoric Men","length":36584,"skip":false},{"id":"005","title":"Part I: On the Creature Called Man - III: The Antiquity of Civilisation","length":60380,"skip":false},{"id":"006","title":"Part I: On the Creature Called Man - IV: God and Comparative Religion","length":42816,"skip":false},{"id":"007","title":"Part I: On the Creature Called Man - V: Man and Mythologies","length":35326,"skip":false},{"id":"008","title":"Part I: On the Creature Called Man - VI: The Demons and the Philosophers","length":48693,"skip":false},{"id":"009","title":"Part I: On the Creature Called Man - VII: The War of the Gods and Demons","length":32675,"skip":false},{"id":"010","title":"Part I: On the Creature Called Man - VIII: The End of the World","length":33368,"skip":false},{"id":"011","title":"Part II: On the Man Called Christ - I: The God in the Cave","length":38821,"skip":false},{"id":"012","title":"Part II: On the Man Called Christ - II: The Riddles of the Gospel","length":29274,"skip":false},{"id":"013","title":"Part II: On the Man Called Christ - III: The Strangest Story in the World","length":33914,"skip":false},{"id":"014","title":"Part II: On the Man Called Christ - IV: The Witness of the Heretics","length":41246,"skip":false},{"id":"015","title":"Part II: On the Man Called Christ - V: The Escape from Paganism","length":40520,"skip":false},{"id":"016","title":"Part II: On the Man Called Christ - VI: The Five Deaths of the Faith","length":26211,"skip":false},{"id":"017","title":"Conclusion - The Summary of This Book","length":21620,"skip":false},{"id":"018","title":"Appendix I: On Prehistoric Man","length":2886,"skip":false},{"id":"019","title":"Appendix II: On Authority and Accuracy","length":2228,"skip":false}],"createdAt":1719506922388}
+{
+  "id": "g-k-chesterton--the-everlasting-man",
+  "title": "The Everlasting Man",
+  "titleAlpha": "everlasting man",
+  "author": "G. K. Chesterton",
+  "language": "en",
+  "description": "G. K. Chesterton takes us through the history of man, rebuking common secular views and presenting the case for the Catholic Church.",
+  "longDescription": [
+    "The Everlasting Man is inspired by H. G. Wells' The Outline of History, which explains the history of mankind and religion as solely a product of natural selection and other material causes. In contrast, G. K. Chesterton presents the case for Christianity throughout history, by illustrating firstly, the uniqueness of man amongst the animals, and secondly, the uniqueness of Christ and the Church amongst other religions and philosophies.",
+    "Written in Chesterton's typical style, already familiar to readers of Orthodoxy and Heretics, and ripe with humor and symbolism, The Everlasting Man doesn't aim to be a scholarly history treatise. Rather, like the title of Wells' work, Chesterton merely presents us his outline of history. It is in this outline that his Christian, specifically Catholic, perspective contrasts with secular views common in modern times."
+  ],
+  "year": 1925,
+  "genres": [
+    "classics",
+    "philosophy",
+    "spirituality",
+    "history"
+  ],
+  "topics": [
+    "religion"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/g-k-chesterton/the-everlasting-man"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Everlasting Man",
+      "length": 21,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Prefatory Note",
+      "length": 1439,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Introduction - The Plan of This Book",
+      "length": 24836,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Part I: On the Creature Called Man - I: The Man in the Cave",
+      "length": 38999,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Part I: On the Creature Called Man - II: Professors and Prehistoric Men",
+      "length": 36584,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Part I: On the Creature Called Man - III: The Antiquity of Civilisation",
+      "length": 60380,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Part I: On the Creature Called Man - IV: God and Comparative Religion",
+      "length": 42816,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Part I: On the Creature Called Man - V: Man and Mythologies",
+      "length": 35326,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Part I: On the Creature Called Man - VI: The Demons and the Philosophers",
+      "length": 48693,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Part I: On the Creature Called Man - VII: The War of the Gods and Demons",
+      "length": 32675,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Part I: On the Creature Called Man - VIII: The End of the World",
+      "length": 33368,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Part II: On the Man Called Christ - I: The God in the Cave",
+      "length": 38821,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Part II: On the Man Called Christ - II: The Riddles of the Gospel",
+      "length": 29274,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Part II: On the Man Called Christ - III: The Strangest Story in the World",
+      "length": 33914,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Part II: On the Man Called Christ - IV: The Witness of the Heretics",
+      "length": 41246,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Part II: On the Man Called Christ - V: The Escape from Paganism",
+      "length": 40520,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Part II: On the Man Called Christ - VI: The Five Deaths of the Faith",
+      "length": 26211,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Conclusion - The Summary of This Book",
+      "length": 21620,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Appendix I: On Prehistoric Man",
+      "length": 2886,
+      "mode": "skip"
+    },
+    {
+      "id": "021",
+      "title": "Appendix II: On Authority and Accuracy",
+      "length": 2228,
+      "mode": "skip"
+    },
+    {
+      "id": "022",
+      "title": "Colophon",
+      "length": 1077,
+      "mode": "hide"
+    },
+    {
+      "id": "023",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL76474W",
+  "goodreadsId": "112760",
+  "rating": 0.8300000000000001,
+  "popularity": 9669,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721171852474
+}

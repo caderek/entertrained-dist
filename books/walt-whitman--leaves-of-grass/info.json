@@ -1,1 +1,4022 @@
-{"id":"walt-whitman--leaves-of-grass","title":"Leaves of Grass","titleAlpha":"leaves of grass","author":"Walt Whitman","language":"en","description":"The definitive collection of Walt Whitman's poetry.","longDescription":["Walt Whitman consciously set out to forge a personal path for himself as a poet. Inspired by contemporaries like Emerson who expressed a need for a new, uniquely American style of poetry, Whitman eschewed conventions he saw as outdated or undemocratic. Setting aside traditional rhyme, meter, and even brevity, Whitman favored a style that was declarative, direct, and maximalist. For subject matter he focused on the common individual, as democratic representative of all humanity, and the natural world of which humanity exists as an integral part. \"Song of Myself\" is perhaps the most well-known exemplar of this aesthetic.","Whitman's poetic career took an abrupt turn during the American Civil War, and his poems from that time draw on his experiences volunteering at military hospitals. These, coupled with his elegy for President Lincoln after his assassination (\"When Lilacs Last in the Dooryard Bloom'd\"), helped to cement Whitman's position as a particularly American voice.","Among Whitman's recurring themes are the embracing of sensual pleasures, including frank acknowledgments of homosexuality. This latter aspect drove several contemporary critics to reject his work as indecent. Threats of censorship and outright banning encouraged his supporters to speak more publicly in defense of his work, however, and Whitman is now considered to be one of America's most important poets.","Leaves of Grass was continually edited and extended over most of Whitman's life. Months before his death, he announced that the next edition would be the complete and definitive one. Referred to now as the \"deathbed edition,\" it was published in 1892 by Whitman's literary executors, and is the basis for this ebook."],"year":2024,"genres":["poetry"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/walt-whitman/leaves-of-grass"},"series":null,"part":0,"chapters":[{"id":"001","title":"Epigraph","length":419,"skip":true},{"id":"002","title":"Inscriptions - One's-Self I Sing","length":404,"skip":false},{"id":"003","title":"Inscriptions - As I Ponder'd in Silence","length":916,"skip":false},{"id":"004","title":"Inscriptions - In Cabin'd Ships at Sea","length":1460,"skip":false},{"id":"005","title":"Inscriptions - To Foreign Lands","length":191,"skip":false},{"id":"006","title":"Inscriptions - To a Historian","length":484,"skip":false},{"id":"007","title":"Inscriptions - To Thee Old Cause","length":889,"skip":false},{"id":"008","title":"Inscriptions - Eidolons","length":3151,"skip":false},{"id":"009","title":"Inscriptions - For Him I Sing","length":224,"skip":false},{"id":"010","title":"Inscriptions - When I Read the Book","length":387,"skip":false},{"id":"011","title":"Inscriptions - Beginning My Studies","length":347,"skip":false},{"id":"012","title":"Inscriptions - Beginners","length":451,"skip":false},{"id":"013","title":"Inscriptions - To the States","length":233,"skip":false},{"id":"014","title":"Inscriptions - On Journeys Through the States","length":861,"skip":false},{"id":"015","title":"Inscriptions - To a Certain Cantatrice","length":300,"skip":false},{"id":"016","title":"Inscriptions - Me Imperturbe","length":629,"skip":false},{"id":"017","title":"Inscriptions - Savantism","length":398,"skip":false},{"id":"018","title":"Inscriptions - The Ship Starting","length":267,"skip":false},{"id":"019","title":"Inscriptions - I Hear America Singing","length":843,"skip":false},{"id":"020","title":"Inscriptions - What Place Is Besieged?","length":230,"skip":false},{"id":"021","title":"Inscriptions - Still Though the One I Sing","length":182,"skip":false},{"id":"022","title":"Inscriptions - Shut Not Your Doors","length":360,"skip":false},{"id":"023","title":"Inscriptions - Poets to Come","length":541,"skip":false},{"id":"024","title":"Inscriptions - To You","length":127,"skip":false},{"id":"025","title":"Inscriptions - Thou Reader","length":102,"skip":false},{"id":"026","title":"Starting from Paumanok - 1","length":942,"skip":false},{"id":"027","title":"Starting from Paumanok - 2","length":1010,"skip":false},{"id":"028","title":"Starting from Paumanok - 3","length":405,"skip":false},{"id":"029","title":"Starting from Paumanok - 4","length":519,"skip":false},{"id":"030","title":"Starting from Paumanok - 5","length":810,"skip":false},{"id":"031","title":"Starting from Paumanok - 6","length":1734,"skip":false},{"id":"032","title":"Starting from Paumanok - 7","length":1205,"skip":false},{"id":"033","title":"Starting from Paumanok - 8","length":444,"skip":false},{"id":"034","title":"Starting from Paumanok - 9","length":398,"skip":false},{"id":"035","title":"Starting from Paumanok - 10","length":1127,"skip":false},{"id":"036","title":"Starting from Paumanok - 11","length":502,"skip":false},{"id":"037","title":"Starting from Paumanok - 12","length":1727,"skip":false},{"id":"038","title":"Starting from Paumanok - 13","length":889,"skip":false},{"id":"039","title":"Starting from Paumanok - 14","length":2766,"skip":false},{"id":"040","title":"Starting from Paumanok - 15","length":434,"skip":false},{"id":"041","title":"Starting from Paumanok - 16","length":605,"skip":false},{"id":"042","title":"Starting from Paumanok - 17","length":484,"skip":false},{"id":"043","title":"Starting from Paumanok - 18","length":1367,"skip":false},{"id":"044","title":"Starting from Paumanok - 19","length":320,"skip":false},{"id":"045","title":"Song of Myself - 1","length":662,"skip":false},{"id":"046","title":"Song of Myself - 2","length":1752,"skip":false},{"id":"047","title":"Song of Myself - 3","length":1846,"skip":false},{"id":"048","title":"Song of Myself - 4","length":1059,"skip":false},{"id":"049","title":"Song of Myself - 5","length":1136,"skip":false},{"id":"050","title":"Song of Myself - 6","length":1937,"skip":false},{"id":"051","title":"Song of Myself - 7","length":1096,"skip":false},{"id":"052","title":"Song of Myself - 8","length":1386,"skip":false},{"id":"053","title":"Song of Myself - 9","length":456,"skip":false},{"id":"054","title":"Song of Myself - 10","length":1813,"skip":false},{"id":"055","title":"Song of Myself - 11","length":1040,"skip":false},{"id":"056","title":"Song of Myself - 12","length":538,"skip":false},{"id":"057","title":"Song of Myself - 13","length":1440,"skip":false},{"id":"058","title":"Song of Myself - 14","length":1111,"skip":false},{"id":"059","title":"Song of Myself - 15","length":5219,"skip":false},{"id":"060","title":"Song of Myself - 16","length":1737,"skip":false},{"id":"061","title":"Song of Myself - 17","length":425,"skip":false},{"id":"062","title":"Song of Myself - 18","length":645,"skip":false},{"id":"063","title":"Song of Myself - 19","length":989,"skip":false},{"id":"064","title":"Song of Myself - 20","length":1815,"skip":false},{"id":"065","title":"Song of Myself - 21","length":1430,"skip":false},{"id":"066","title":"Song of Myself - 22","length":1685,"skip":false},{"id":"067","title":"Song of Myself - 23","length":1173,"skip":false},{"id":"068","title":"Song of Myself - 24","length":3633,"skip":false},{"id":"069","title":"Song of Myself - 25","length":1278,"skip":false},{"id":"070","title":"Song of Myself - 26","length":1933,"skip":false},{"id":"071","title":"Song of Myself - 27","length":449,"skip":false},{"id":"072","title":"Song of Myself - 28","length":1318,"skip":false},{"id":"073","title":"Song of Myself - 29","length":346,"skip":false},{"id":"074","title":"Song of Myself - 30","length":751,"skip":false},{"id":"075","title":"Song of Myself - 31","length":1290,"skip":false},{"id":"076","title":"Song of Myself - 32","length":1539,"skip":false},{"id":"077","title":"Song of Myself - 33","length":11218,"skip":false},{"id":"078","title":"Song of Myself - 34","length":1693,"skip":false},{"id":"079","title":"Song of Myself - 35","length":1992,"skip":false},{"id":"080","title":"Song of Myself - 36","length":1150,"skip":false},{"id":"081","title":"Song of Myself - 37","length":863,"skip":false},{"id":"082","title":"Song of Myself - 38","length":932,"skip":false},{"id":"083","title":"Song of Myself - 39","length":730,"skip":false},{"id":"084","title":"Song of Myself - 40","length":1787,"skip":false},{"id":"085","title":"Song of Myself - 41","length":2418,"skip":false},{"id":"086","title":"Song of Myself - 42","length":2671,"skip":false},{"id":"087","title":"Song of Myself - 43","length":2726,"skip":false},{"id":"088","title":"Song of Myself - 44","length":1963,"skip":false},{"id":"089","title":"Song of Myself - 45","length":1913,"skip":false},{"id":"090","title":"Song of Myself - 46","length":2067,"skip":false},{"id":"091","title":"Song of Myself - 47","length":2305,"skip":false},{"id":"092","title":"Song of Myself - 48","length":1401,"skip":false},{"id":"093","title":"Song of Myself - 49","length":1217,"skip":false},{"id":"094","title":"Song of Myself - 50","length":582,"skip":false},{"id":"095","title":"Song of Myself - 51","length":616,"skip":false},{"id":"096","title":"Song of Myself - 52","length":822,"skip":false},{"id":"097","title":"Children of Adam - To the Garden the World","length":570,"skip":false},{"id":"098","title":"Children of Adam - From Pent-Up Aching Rivers","length":3379,"skip":false},{"id":"099","title":"Children of Adam - I Sing the Body Electric - 1","length":476,"skip":false},{"id":"100","title":"Children of Adam - I Sing the Body Electric - 2","length":2223,"skip":false},{"id":"101","title":"Children of Adam - I Sing the Body Electric - 3","length":1182,"skip":false},{"id":"102","title":"Children of Adam - I Sing the Body Electric - 4","length":568,"skip":false},{"id":"103","title":"Children of Adam - I Sing the Body Electric - 5","length":1644,"skip":false},{"id":"104","title":"Children of Adam - I Sing the Body Electric - 6","length":1372,"skip":false},{"id":"105","title":"Children of Adam - I Sing the Body Electric - 7","length":1435,"skip":false},{"id":"106","title":"Children of Adam - I Sing the Body Electric - 8","length":733,"skip":false},{"id":"107","title":"Children of Adam - I Sing the Body Electric - 9","length":2606,"skip":false},{"id":"108","title":"Children of Adam - A Woman Waits for Me","length":2644,"skip":false},{"id":"109","title":"Children of Adam - Spontaneous Me","length":3726,"skip":false},{"id":"110","title":"Children of Adam - One Hour to Madness and Joy","length":1419,"skip":false},{"id":"111","title":"Children of Adam - Out of the Rolling Ocean the Crowd","length":738,"skip":false},{"id":"112","title":"Children of Adam - Ages and Ages Returning at Intervals","length":363,"skip":false},{"id":"113","title":"Children of Adam - We Two, How Long We Were Fool'd","length":1222,"skip":false},{"id":"114","title":"Children of Adam - O Hymen! O Hymenee!","length":229,"skip":false},{"id":"115","title":"Children of Adam - I Am He That Aches with Love","length":154,"skip":false},{"id":"116","title":"Children of Adam - Native Moments","length":770,"skip":false},{"id":"117","title":"Children of Adam - Once I Pass'd Through a Populous City","length":532,"skip":false},{"id":"118","title":"Children of Adam - I Heard You Solemn-Sweet Pipes of the Organ","length":479,"skip":false},{"id":"119","title":"Children of Adam - Facing West from California's Shores","length":636,"skip":false},{"id":"120","title":"Children of Adam - As Adam Early in the Morning","length":216,"skip":false},{"id":"121","title":"Calamus - In Paths Untrodden","length":978,"skip":false},{"id":"122","title":"Calamus - Scented Herbage of My Breast","length":2755,"skip":false},{"id":"123","title":"Calamus - Whoever You Are Holding Me Now in Hand","length":2358,"skip":false},{"id":"124","title":"Calamus - For You O Democracy","length":580,"skip":false},{"id":"125","title":"Calamus - These I Singing in Spring","length":1998,"skip":false},{"id":"126","title":"Calamus - Not Heaving from My Ribb'd Breast Only","length":985,"skip":false},{"id":"127","title":"Calamus - Of the Terrible Doubt of Appearances","length":1387,"skip":false},{"id":"128","title":"Calamus - The Base of All Metaphysics","length":832,"skip":false},{"id":"129","title":"Calamus - Recorders Ages Hence","length":906,"skip":false},{"id":"130","title":"Calamus - When I Heard at the Close of the Day","length":1256,"skip":false},{"id":"131","title":"Calamus - Are You the New Person Drawn Toward Me?","length":546,"skip":false},{"id":"132","title":"Calamus - Roots and Leaves Themselves Alone","length":785,"skip":false},{"id":"133","title":"Calamus - Not Heat Flames Up and Consumes","length":652,"skip":false},{"id":"134","title":"Calamus - Trickle Drops","length":594,"skip":false},{"id":"135","title":"Calamus - City of Orgies","length":609,"skip":false},{"id":"136","title":"Calamus - Behold This Swarthy Face","length":435,"skip":false},{"id":"137","title":"Calamus - I Saw in Louisiana a Live-Oak Growing","length":900,"skip":false},{"id":"138","title":"Calamus - To a Stranger","length":736,"skip":false},{"id":"139","title":"Calamus - This Moment Yearning and Thoughtful","length":471,"skip":false},{"id":"140","title":"Calamus - I Hear It Was Charged Against Me","length":490,"skip":false},{"id":"141","title":"Calamus - The Prairie-Grass Dividing","length":641,"skip":false},{"id":"142","title":"Calamus - When I Peruse the Conquer'd Fame","length":501,"skip":false},{"id":"143","title":"Calamus - We Two Boys Together Clinging","length":510,"skip":false},{"id":"144","title":"Calamus - A Promise to California","length":370,"skip":false},{"id":"145","title":"Calamus - Here the Frailest Leaves of Me","length":178,"skip":false},{"id":"146","title":"Calamus - No Labor-Saving Machine","length":337,"skip":false},{"id":"147","title":"Calamus - A Glimpse","length":460,"skip":false},{"id":"148","title":"Calamus - A Leaf for Hand in Hand","length":328,"skip":false},{"id":"149","title":"Calamus - Earth, My Likeness","length":366,"skip":false},{"id":"150","title":"Calamus - I Dream'd in a Dream","length":316,"skip":false},{"id":"151","title":"Calamus - What Think You I Take My Pen in Hand?","length":554,"skip":false},{"id":"152","title":"Calamus - To the East and to the West","length":395,"skip":false},{"id":"153","title":"Calamus - Sometimes with One I Love","length":279,"skip":false},{"id":"154","title":"Calamus - To a Western Boy","length":247,"skip":false},{"id":"155","title":"Calamus - Fast-Anchor'd Eternal O Love!","length":297,"skip":false},{"id":"156","title":"Calamus - Among the Multitude","length":399,"skip":false},{"id":"157","title":"Calamus - O You Whom I Often and Silently Come","length":230,"skip":false},{"id":"158","title":"Calamus - That Shadow My Likeness","length":305,"skip":false},{"id":"159","title":"Calamus - Full of Life Now","length":461,"skip":false},{"id":"160","title":"Salut au Monde! - 1","length":654,"skip":false},{"id":"161","title":"Salut au Monde! - 2","length":530,"skip":false},{"id":"162","title":"Salut au Monde! - 3","length":1529,"skip":false},{"id":"163","title":"Salut au Monde! - 4","length":2760,"skip":false},{"id":"164","title":"Salut au Monde! - 5","length":716,"skip":false},{"id":"165","title":"Salut au Monde! - 6","length":1148,"skip":false},{"id":"166","title":"Salut au Monde! - 7","length":1436,"skip":false},{"id":"167","title":"Salut au Monde! - 8","length":395,"skip":false},{"id":"168","title":"Salut au Monde! - 9","length":551,"skip":false},{"id":"169","title":"Salut au Monde! - 10","length":1634,"skip":false},{"id":"170","title":"Salut au Monde! - 11","length":2314,"skip":false},{"id":"171","title":"Salut au Monde! - 12","length":794,"skip":false},{"id":"172","title":"Salut au Monde! - 13","length":905,"skip":false},{"id":"173","title":"Song of the Open Road - 1","length":757,"skip":false},{"id":"174","title":"Song of the Open Road - 2","length":702,"skip":false},{"id":"175","title":"Song of the Open Road - 3","length":1002,"skip":false},{"id":"176","title":"Song of the Open Road - 4","length":859,"skip":false},{"id":"177","title":"Song of the Open Road - 5","length":862,"skip":false},{"id":"178","title":"Song of the Open Road - 6","length":1607,"skip":false},{"id":"179","title":"Song of the Open Road - 7","length":817,"skip":false},{"id":"180","title":"Song of the Open Road - 8","length":659,"skip":false},{"id":"181","title":"Song of the Open Road - 9","length":664,"skip":false},{"id":"182","title":"Song of the Open Road - 10","length":868,"skip":false},{"id":"183","title":"Song of the Open Road - 11","length":673,"skip":false},{"id":"184","title":"Song of the Open Road - 12","length":1223,"skip":false},{"id":"185","title":"Song of the Open Road - 13","length":3158,"skip":false},{"id":"186","title":"Song of the Open Road - 14","length":529,"skip":false},{"id":"187","title":"Song of the Open Road - 15","length":645,"skip":false},{"id":"188","title":"Crossing Brooklyn Ferry - 1","length":446,"skip":false},{"id":"189","title":"Crossing Brooklyn Ferry - 2","length":1091,"skip":false},{"id":"190","title":"Crossing Brooklyn Ferry - 3","length":2330,"skip":false},{"id":"191","title":"Crossing Brooklyn Ferry - 4","length":312,"skip":false},{"id":"192","title":"Crossing Brooklyn Ferry - 5","length":680,"skip":false},{"id":"193","title":"Crossing Brooklyn Ferry - 6","length":1332,"skip":false},{"id":"194","title":"Crossing Brooklyn Ferry - 7","length":355,"skip":false},{"id":"195","title":"Crossing Brooklyn Ferry - 8","length":712,"skip":false},{"id":"196","title":"Crossing Brooklyn Ferry - 9","length":2372,"skip":false},{"id":"197","title":"Song of the Answerer - 1","length":4118,"skip":false},{"id":"198","title":"Song of the Answerer - 2","length":2517,"skip":false},{"id":"199","title":"Our Old Feuillage","length":9313,"skip":false},{"id":"200","title":"A Song of Joys","length":10716,"skip":false},{"id":"201","title":"Song of the Broad-Axe - 1","length":469,"skip":false},{"id":"202","title":"Song of the Broad-Axe - 2","length":790,"skip":false},{"id":"203","title":"Song of the Broad-Axe - 3","length":5145,"skip":false},{"id":"204","title":"Song of the Broad-Axe - 4","length":915,"skip":false},{"id":"205","title":"Song of the Broad-Axe - 5","length":1797,"skip":false},{"id":"206","title":"Song of the Broad-Axe - 6","length":658,"skip":false},{"id":"207","title":"Song of the Broad-Axe - 7","length":1436,"skip":false},{"id":"208","title":"Song of the Broad-Axe - 8","length":1037,"skip":false},{"id":"209","title":"Song of the Broad-Axe - 9","length":2000,"skip":false},{"id":"210","title":"Song of the Broad-Axe - 10","length":1706,"skip":false},{"id":"211","title":"Song of the Broad-Axe - 11","length":657,"skip":false},{"id":"212","title":"Song of the Broad-Axe - 12","length":258,"skip":false},{"id":"213","title":"Song of the Exposition - 1","length":684,"skip":false},{"id":"214","title":"Song of the Exposition - 2","length":496,"skip":false},{"id":"215","title":"Song of the Exposition - 3","length":2530,"skip":false},{"id":"216","title":"Song of the Exposition - 4","length":508,"skip":false},{"id":"217","title":"Song of the Exposition - 5","length":2553,"skip":false},{"id":"218","title":"Song of the Exposition - 6","length":630,"skip":false},{"id":"219","title":"Song of the Exposition - 7","length":2510,"skip":false},{"id":"220","title":"Song of the Exposition - 8","length":2541,"skip":false},{"id":"221","title":"Song of the Exposition - 9","length":1637,"skip":false},{"id":"222","title":"Song of the Redwood-Tree - 1","length":4713,"skip":false},{"id":"223","title":"Song of the Redwood-Tree - 2","length":886,"skip":false},{"id":"224","title":"Song of the Redwood-Tree - 3","length":677,"skip":false},{"id":"225","title":"A Song for Occupations - 1","length":1823,"skip":false},{"id":"226","title":"A Song for Occupations - 2","length":1714,"skip":false},{"id":"227","title":"A Song for Occupations - 3","length":2335,"skip":false},{"id":"228","title":"A Song for Occupations - 4","length":1291,"skip":false},{"id":"229","title":"A Song for Occupations - 5","length":3698,"skip":false},{"id":"230","title":"A Song for Occupations - 6","length":1213,"skip":false},{"id":"231","title":"A Song of the Rolling Earth - 1","length":4625,"skip":false},{"id":"232","title":"A Song of the Rolling Earth - 2","length":1073,"skip":false},{"id":"233","title":"A Song of the Rolling Earth - 3","length":1666,"skip":false},{"id":"234","title":"A Song of the Rolling Earth - 4","length":946,"skip":false},{"id":"235","title":"Youth, Day, Old Age and Night","length":316,"skip":false},{"id":"236","title":"Birds of Passage - Song of the Universal - 1","length":341,"skip":false},{"id":"237","title":"Birds of Passage - Song of the Universal - 2","length":851,"skip":false},{"id":"238","title":"Birds of Passage - Song of the Universal - 3","length":518,"skip":false},{"id":"239","title":"Birds of Passage - Song of the Universal - 4","length":1026,"skip":false},{"id":"240","title":"Birds of Passage - Pioneers! O Pioneers!","length":4752,"skip":false},{"id":"241","title":"Birds of Passage - To You","length":3564,"skip":false},{"id":"242","title":"Birds of Passage - France","length":1822,"skip":false},{"id":"243","title":"Birds of Passage - Myself and Mine","length":2239,"skip":false},{"id":"244","title":"Birds of Passage - Year of Meteors","length":1937,"skip":false},{"id":"245","title":"Birds of Passage - With Antecedents - 1","length":898,"skip":false},{"id":"246","title":"Birds of Passage - With Antecedents - 2","length":1139,"skip":false},{"id":"247","title":"Birds of Passage - With Antecedents - 3","length":540,"skip":false},{"id":"248","title":"A Broadway Pageant - 1","length":1450,"skip":false},{"id":"249","title":"A Broadway Pageant - 2","length":2912,"skip":false},{"id":"250","title":"A Broadway Pageant - 3","length":1123,"skip":false},{"id":"251","title":"Sea-Drift - Out of the Cradle Endlessly Rocking","length":8557,"skip":false},{"id":"252","title":"Sea-Drift - As I Ebb'd with the Ocean of Life - 1","length":986,"skip":false},{"id":"253","title":"Sea-Drift - As I Ebb'd with the Ocean of Life - 2","length":1127,"skip":false},{"id":"254","title":"Sea-Drift - As I Ebb'd with the Ocean of Life - 3","length":774,"skip":false},{"id":"255","title":"Sea-Drift - As I Ebb'd with the Ocean of Life - 4","length":1177,"skip":false},{"id":"256","title":"Sea-Drift - Tears","length":714,"skip":false},{"id":"257","title":"Sea-Drift - To the Man-of-War-Bird","length":996,"skip":false},{"id":"258","title":"Sea-Drift - Aboard at a Ship's Helm","length":637,"skip":false},{"id":"259","title":"Sea-Drift - On the Beach at Night","length":1588,"skip":false},{"id":"260","title":"Sea-Drift - The World Below the Brine","length":941,"skip":false},{"id":"261","title":"Sea-Drift - On the Beach at Night Alone","length":849,"skip":false},{"id":"262","title":"Sea-Drift - Song for All Seas, All Ships - 1","length":847,"skip":false},{"id":"263","title":"Sea-Drift - Song for All Seas, All Ships - 2","length":537,"skip":false},{"id":"264","title":"Sea-Drift - Patroling Barnegat","length":800,"skip":false},{"id":"265","title":"Sea-Drift - After the Sea-Ship","length":752,"skip":false},{"id":"266","title":"By the Roadside - A Boston Ballad","length":2808,"skip":false},{"id":"267","title":"By the Roadside - Europe","length":2372,"skip":false},{"id":"268","title":"By the Roadside - A Hand-Mirror","length":642,"skip":false},{"id":"269","title":"By the Roadside - Gods","length":702,"skip":false},{"id":"270","title":"By the Roadside - Germs","length":566,"skip":false},{"id":"271","title":"By the Roadside - Thoughts","length":527,"skip":false},{"id":"272","title":"By the Roadside - When I Heard the Learn'd Astronomer","length":472,"skip":false},{"id":"273","title":"By the Roadside - Perfections","length":98,"skip":false},{"id":"274","title":"By the Roadside - O Me! O Life!","length":658,"skip":false},{"id":"275","title":"By the Roadside - To a President","length":330,"skip":false},{"id":"276","title":"By the Roadside - I Sit and Look Out","length":893,"skip":false},{"id":"277","title":"By the Roadside - To Rich Givers","length":410,"skip":false},{"id":"278","title":"By the Roadside - The Dalliance of the Eagles","length":607,"skip":false},{"id":"279","title":"By the Roadside - Roaming in Thought","length":225,"skip":false},{"id":"280","title":"By the Roadside - A Farm Picture","length":166,"skip":false},{"id":"281","title":"By the Roadside - A Child's Amaze","length":161,"skip":false},{"id":"282","title":"By the Roadside - The Runner","length":191,"skip":false},{"id":"283","title":"By the Roadside - Beautiful Women","length":125,"skip":false},{"id":"284","title":"By the Roadside - Mother and Babe","length":126,"skip":false},{"id":"285","title":"By the Roadside - Thought","length":185,"skip":false},{"id":"286","title":"By the Roadside - Visor'd","length":185,"skip":false},{"id":"287","title":"By the Roadside - Thought","length":178,"skip":false},{"id":"288","title":"By the Roadside - Gliding O'er All","length":170,"skip":false},{"id":"289","title":"By the Roadside - Hast Never Come to Thee an Hour","length":197,"skip":false},{"id":"290","title":"By the Roadside - Thought","length":167,"skip":false},{"id":"291","title":"By the Roadside - To Old Age","length":96,"skip":false},{"id":"292","title":"By the Roadside - Locations and Times","length":184,"skip":false},{"id":"293","title":"By the Roadside - Offerings","length":128,"skip":false},{"id":"294","title":"By the Roadside - To the States","length":628,"skip":false},{"id":"295","title":"Drum-Taps - First O Songs for a Prelude","length":3766,"skip":false},{"id":"296","title":"Drum-Taps - Eighteen Sixty-One","length":1187,"skip":false},{"id":"297","title":"Drum-Taps - Beat! Beat! Drums!","length":1310,"skip":false},{"id":"298","title":"Drum-Taps - From Paumanok Starting I Fly Like a Bird","length":688,"skip":false},{"id":"299","title":"Drum-Taps - Song of the Banner at Daybreak","length":9182,"skip":false},{"id":"300","title":"Drum-Taps - Rise O Days from Your Fathomless Deeps - 1","length":1088,"skip":false},{"id":"301","title":"Drum-Taps - Rise O Days from Your Fathomless Deeps - 2","length":1186,"skip":false},{"id":"302","title":"Drum-Taps - Rise O Days from Your Fathomless Deeps - 3","length":1119,"skip":false},{"id":"303","title":"Drum-Taps - Virginia - The West","length":673,"skip":false},{"id":"304","title":"Drum-Taps - City of Ships","length":991,"skip":false},{"id":"305","title":"Drum-Taps - The Centenarian's Story","length":6723,"skip":false},{"id":"306","title":"Drum-Taps - Cavalry Crossing a Ford","length":479,"skip":false},{"id":"307","title":"Drum-Taps - Bivouac on a Mountain Side","length":508,"skip":false},{"id":"308","title":"Drum-Taps - An Army Corps on the March","length":412,"skip":false},{"id":"309","title":"Drum-Taps - By the Bivouac's Fitful Flame","length":611,"skip":false},{"id":"310","title":"Drum-Taps - Come Up from the Fields Father","length":2193,"skip":false},{"id":"311","title":"Drum-Taps - Vigil Strange I Kept on the Field One Night","length":1942,"skip":false},{"id":"312","title":"Drum-Taps - A March in the Ranks Hard-Prest, and the Road Unknown","length":1858,"skip":false},{"id":"313","title":"Drum-Taps - A Sight in Camp in the Daybreak Gray and Dim","length":949,"skip":false},{"id":"314","title":"Drum-Taps - As Toilsome I Wander'd Virginia's Woods","length":762,"skip":false},{"id":"315","title":"Drum-Taps - Not the Pilot","length":412,"skip":false},{"id":"316","title":"Drum-Taps - Year That Trembled and Reel'd Beneath Me","length":308,"skip":false},{"id":"317","title":"Drum-Taps - The Wound-Dresser - 1","length":777,"skip":false},{"id":"318","title":"Drum-Taps - The Wound-Dresser - 2","length":1632,"skip":false},{"id":"319","title":"Drum-Taps - The Wound-Dresser - 3","length":1210,"skip":false},{"id":"320","title":"Drum-Taps - The Wound-Dresser - 4","length":395,"skip":false},{"id":"321","title":"Drum-Taps - Long, Too Long America","length":376,"skip":false},{"id":"322","title":"Drum-Taps - Give Me the Splendid Silent Sun - 1","length":1360,"skip":false},{"id":"323","title":"Drum-Taps - Give Me the Splendid Silent Sun - 2","length":1512,"skip":false},{"id":"324","title":"Drum-Taps - Dirge for Two Veterans","length":1382,"skip":false},{"id":"325","title":"Drum-Taps - Over the Carnage Rose Prophetic a Voice","length":1268,"skip":false},{"id":"326","title":"Drum-Taps - I Saw Old General at Bay","length":469,"skip":false},{"id":"327","title":"Drum-Taps - The Artilleryman's Vision","length":2131,"skip":false},{"id":"328","title":"Drum-Taps - Ethiopia Saluting the Colors","length":852,"skip":false},{"id":"329","title":"Drum-Taps - Not Youth Pertains to Me","length":437,"skip":false},{"id":"330","title":"Drum-Taps - Race of Veterans","length":240,"skip":false},{"id":"331","title":"Drum-Taps - World Take Good Notice","length":213,"skip":false},{"id":"332","title":"Drum-Taps - O Tan-Faced Prairie-Boy","length":286,"skip":false},{"id":"333","title":"Drum-Taps - Look Down Fair Moon","length":211,"skip":false},{"id":"334","title":"Drum-Taps - Reconciliation","length":424,"skip":false},{"id":"335","title":"Drum-Taps - How Solemn as One by One","length":670,"skip":false},{"id":"336","title":"Drum-Taps - As I Lay with My Head in Your Lap Camerado","length":807,"skip":false},{"id":"337","title":"Drum-Taps - Delicate Cluster","length":397,"skip":false},{"id":"338","title":"Drum-Taps - To a Certain Civilian","length":626,"skip":false},{"id":"339","title":"Drum-Taps - Lo, Victress on the Peaks","length":498,"skip":false},{"id":"340","title":"Drum-Taps - Spirit Whose Work Is Done","length":1298,"skip":false},{"id":"341","title":"Drum-Taps - Adieu to a Soldier","length":734,"skip":false},{"id":"342","title":"Drum-Taps - Turn O Libertad","length":790,"skip":false},{"id":"343","title":"Drum-Taps - To the Leaven'd Soil They Trod","length":958,"skip":false},{"id":"344","title":"Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 1","length":303,"skip":false},{"id":"345","title":"Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 2","length":257,"skip":false},{"id":"346","title":"Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 3","length":393,"skip":false},{"id":"347","title":"Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 4","length":331,"skip":false},{"id":"348","title":"Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 5","length":491,"skip":false},{"id":"349","title":"Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 6","length":811,"skip":false},{"id":"350","title":"Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 7","length":441,"skip":false},{"id":"351","title":"Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 8","length":763,"skip":false},{"id":"352","title":"Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 9","length":252,"skip":false},{"id":"353","title":"Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 10","length":405,"skip":false},{"id":"354","title":"Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 11","length":779,"skip":false},{"id":"355","title":"Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 12","length":587,"skip":false},{"id":"356","title":"Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 13","length":446,"skip":false},{"id":"357","title":"Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 14","length":3198,"skip":false},{"id":"358","title":"Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 15","length":1084,"skip":false},{"id":"359","title":"Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 16","length":1383,"skip":false},{"id":"360","title":"Memories of President Lincoln - O Captain! My Captain!","length":1072,"skip":false},{"id":"361","title":"Memories of President Lincoln - Hush'd Be the Camps To-day","length":541,"skip":false},{"id":"362","title":"Memories of President Lincoln - This Dust Was Once the Man","length":189,"skip":false},{"id":"363","title":"By Blue Ontario's Shore - 1","length":514,"skip":false},{"id":"364","title":"By Blue Ontario's Shore - 2","length":872,"skip":false},{"id":"365","title":"By Blue Ontario's Shore - 3","length":430,"skip":false},{"id":"366","title":"By Blue Ontario's Shore - 4","length":866,"skip":false},{"id":"367","title":"By Blue Ontario's Shore - 5","length":1284,"skip":false},{"id":"368","title":"By Blue Ontario's Shore - 6","length":3313,"skip":false},{"id":"369","title":"By Blue Ontario's Shore - 7","length":717,"skip":false},{"id":"370","title":"By Blue Ontario's Shore - 8","length":583,"skip":false},{"id":"371","title":"By Blue Ontario's Shore - 9","length":790,"skip":false},{"id":"372","title":"By Blue Ontario's Shore - 10","length":1694,"skip":false},{"id":"373","title":"By Blue Ontario's Shore - 11","length":784,"skip":false},{"id":"374","title":"By Blue Ontario's Shore - 12","length":3114,"skip":false},{"id":"375","title":"By Blue Ontario's Shore - 13","length":1365,"skip":false},{"id":"376","title":"By Blue Ontario's Shore - 14","length":1281,"skip":false},{"id":"377","title":"By Blue Ontario's Shore - 15","length":737,"skip":false},{"id":"378","title":"By Blue Ontario's Shore - 16","length":799,"skip":false},{"id":"379","title":"By Blue Ontario's Shore - 17","length":1505,"skip":false},{"id":"380","title":"By Blue Ontario's Shore - 18","length":1029,"skip":false},{"id":"381","title":"By Blue Ontario's Shore - 19","length":384,"skip":false},{"id":"382","title":"By Blue Ontario's Shore - 20","length":773,"skip":false},{"id":"383","title":"Reversals","length":299,"skip":false},{"id":"384","title":"Autumn Rivulets - As Consequent, etc.","length":1715,"skip":false},{"id":"385","title":"Autumn Rivulets - The Return of the Heroes - 1","length":424,"skip":false},{"id":"386","title":"Autumn Rivulets - The Return of the Heroes - 2","length":694,"skip":false},{"id":"387","title":"Autumn Rivulets - The Return of the Heroes - 3","length":874,"skip":false},{"id":"388","title":"Autumn Rivulets - The Return of the Heroes - 4","length":1086,"skip":false},{"id":"389","title":"Autumn Rivulets - The Return of the Heroes - 5","length":552,"skip":false},{"id":"390","title":"Autumn Rivulets - The Return of the Heroes - 6","length":1043,"skip":false},{"id":"391","title":"Autumn Rivulets - The Return of the Heroes - 7","length":922,"skip":false},{"id":"392","title":"Autumn Rivulets - The Return of the Heroes - 8","length":1813,"skip":false},{"id":"393","title":"Autumn Rivulets - There Was a Child Went Forth","length":3140,"skip":false},{"id":"394","title":"Autumn Rivulets - Old Ireland","length":991,"skip":false},{"id":"395","title":"Autumn Rivulets - The City Dead-House","length":1157,"skip":false},{"id":"396","title":"Autumn Rivulets - This Compost - 1","length":937,"skip":false},{"id":"397","title":"Autumn Rivulets - This Compost - 2","length":2050,"skip":false},{"id":"398","title":"Autumn Rivulets - To a Foil'd European Revolutionaire","length":2253,"skip":false},{"id":"399","title":"Autumn Rivulets - Unnamed Lands","length":2230,"skip":false},{"id":"400","title":"Autumn Rivulets - Song of Prudence","length":4240,"skip":false},{"id":"401","title":"Autumn Rivulets - The Singer in the Prison - 1","length":387,"skip":false},{"id":"402","title":"Autumn Rivulets - The Singer in the Prison - 2","length":1196,"skip":false},{"id":"403","title":"Autumn Rivulets - The Singer in the Prison - 3","length":1100,"skip":false},{"id":"404","title":"Autumn Rivulets - Warble for Lilac-Time","length":1694,"skip":false},{"id":"405","title":"Autumn Rivulets - Outlines for a Tomb - 1","length":245,"skip":false},{"id":"406","title":"Autumn Rivulets - Outlines for a Tomb - 2","length":1595,"skip":false},{"id":"407","title":"Autumn Rivulets - Outlines for a Tomb - 3","length":494,"skip":false},{"id":"408","title":"Autumn Rivulets - Out from Behind This Mask - 1","length":837,"skip":false},{"id":"409","title":"Autumn Rivulets - Out from Behind This Mask - 2","length":492,"skip":false},{"id":"410","title":"Autumn Rivulets - Vocalism - 1","length":1040,"skip":false},{"id":"411","title":"Autumn Rivulets - Vocalism - 2","length":642,"skip":false},{"id":"412","title":"Autumn Rivulets - To Him That Was Crucified","length":1055,"skip":false},{"id":"413","title":"Autumn Rivulets - You Felons on Trial in Courts","length":906,"skip":false},{"id":"414","title":"Autumn Rivulets - Laws for Creations","length":754,"skip":false},{"id":"415","title":"Autumn Rivulets - To a Common Prostitute","length":508,"skip":false},{"id":"416","title":"Autumn Rivulets - I Was Looking a Long While","length":703,"skip":false},{"id":"417","title":"Autumn Rivulets - Thought","length":692,"skip":false},{"id":"418","title":"Autumn Rivulets - Miracles","length":1242,"skip":false},{"id":"419","title":"Autumn Rivulets - Sparkles from the Wheel","length":978,"skip":false},{"id":"420","title":"Autumn Rivulets - To a Pupil","length":661,"skip":false},{"id":"421","title":"Autumn Rivulets - Unfolded Out of the Folds","length":1104,"skip":false},{"id":"422","title":"Autumn Rivulets - What Am I After All","length":257,"skip":false},{"id":"423","title":"Autumn Rivulets - Kosmos","length":1035,"skip":false},{"id":"424","title":"Autumn Rivulets - Others May Praise What They Like","length":230,"skip":false},{"id":"425","title":"Autumn Rivulets - Who Learns My Lesson Complete?","length":2078,"skip":false},{"id":"426","title":"Autumn Rivulets - Tests","length":403,"skip":false},{"id":"427","title":"Autumn Rivulets - The Torch","length":253,"skip":false},{"id":"428","title":"Autumn Rivulets - O Star of France","length":1891,"skip":false},{"id":"429","title":"Autumn Rivulets - The Ox-Tamer","length":1509,"skip":false},{"id":"430","title":"Autumn Rivulets - An Old Man's Thought of School","length":983,"skip":false},{"id":"431","title":"Autumn Rivulets - Wandering at Morn","length":784,"skip":false},{"id":"432","title":"Autumn Rivulets - Italian Music in Dakota","length":902,"skip":false},{"id":"433","title":"Autumn Rivulets - With All Thy Gifts","length":438,"skip":false},{"id":"434","title":"Autumn Rivulets - My Picture-Gallery","length":370,"skip":false},{"id":"435","title":"Autumn Rivulets - The Prairie States","length":319,"skip":false},{"id":"436","title":"Proud Music of the Storm - 1","length":701,"skip":false},{"id":"437","title":"Proud Music of the Storm - 2","length":2387,"skip":false},{"id":"438","title":"Proud Music of the Storm - 3","length":1888,"skip":false},{"id":"439","title":"Proud Music of the Storm - 4","length":1554,"skip":false},{"id":"440","title":"Proud Music of the Storm - 5","length":1080,"skip":false},{"id":"441","title":"Proud Music of the Storm - 6","length":1193,"skip":false},{"id":"442","title":"Passage to India - 1","length":719,"skip":false},{"id":"443","title":"Passage to India - 2","length":1179,"skip":false},{"id":"444","title":"Passage to India - 3","length":1733,"skip":false},{"id":"445","title":"Passage to India - 4","length":633,"skip":false},{"id":"446","title":"Passage to India - 5","length":2156,"skip":false},{"id":"447","title":"Passage to India - 6","length":2545,"skip":false},{"id":"448","title":"Passage to India - 7","length":401,"skip":false},{"id":"449","title":"Passage to India - 8","length":2465,"skip":false},{"id":"450","title":"Passage to India - 9","length":1489,"skip":false},{"id":"451","title":"Prayer of Columbus","length":3202,"skip":false},{"id":"452","title":"The Sleepers - 1","length":3693,"skip":false},{"id":"453","title":"The Sleepers - 2","length":691,"skip":false},{"id":"454","title":"The Sleepers - 3","length":814,"skip":false},{"id":"455","title":"The Sleepers - 4","length":611,"skip":false},{"id":"456","title":"The Sleepers - 5","length":743,"skip":false},{"id":"457","title":"The Sleepers - 6","length":1143,"skip":false},{"id":"458","title":"The Sleepers - 7","length":3201,"skip":false},{"id":"459","title":"The Sleepers - 8","length":1950,"skip":false},{"id":"460","title":"Transpositions","length":317,"skip":false},{"id":"461","title":"To Think of Time - 1","length":589,"skip":false},{"id":"462","title":"To Think of Time - 2","length":903,"skip":false},{"id":"463","title":"To Think of Time - 3","length":659,"skip":false},{"id":"464","title":"To Think of Time - 4","length":1536,"skip":false},{"id":"465","title":"To Think of Time - 5","length":928,"skip":false},{"id":"466","title":"To Think of Time - 6","length":603,"skip":false},{"id":"467","title":"To Think of Time - 7","length":1023,"skip":false},{"id":"468","title":"To Think of Time - 8","length":1972,"skip":false},{"id":"469","title":"To Think of Time - 9","length":405,"skip":false},{"id":"470","title":"Whispers of Heavenly Death - Darest Thou Now O Soul","length":671,"skip":false},{"id":"471","title":"Whispers of Heavenly Death - Whispers of Heavenly Death","length":600,"skip":false},{"id":"472","title":"Whispers of Heavenly Death - Chanting the Square Deific - 1","length":827,"skip":false},{"id":"473","title":"Whispers of Heavenly Death - Chanting the Square Deific - 2","length":973,"skip":false},{"id":"474","title":"Whispers of Heavenly Death - Chanting the Square Deific - 3","length":656,"skip":false},{"id":"475","title":"Whispers of Heavenly Death - Chanting the Square Deific - 4","length":614,"skip":false},{"id":"476","title":"Whispers of Heavenly Death - Of Him I Love Day and Night","length":1049,"skip":false},{"id":"477","title":"Whispers of Heavenly Death - Yet, Yet, Ye Downcast Hours","length":767,"skip":false},{"id":"478","title":"Whispers of Heavenly Death - As if a Phantom Caress'd Me","length":314,"skip":false},{"id":"479","title":"Whispers of Heavenly Death - Assurances","length":1553,"skip":false},{"id":"480","title":"Whispers of Heavenly Death - Quicksand Years","length":407,"skip":false},{"id":"481","title":"Whispers of Heavenly Death - That Music Always Round Me","length":754,"skip":false},{"id":"482","title":"Whispers of Heavenly Death - What Ship Puzzled at Sea","length":264,"skip":false},{"id":"483","title":"Whispers of Heavenly Death - A Noiseless Patient Spider","length":552,"skip":false},{"id":"484","title":"Whispers of Heavenly Death - O Living Always, Always Dying","length":363,"skip":false},{"id":"485","title":"Whispers of Heavenly Death - To One Shortly to Die","length":916,"skip":false},{"id":"486","title":"Whispers of Heavenly Death - Night on the Prairies","length":1104,"skip":false},{"id":"487","title":"Whispers of Heavenly Death - Thought","length":849,"skip":false},{"id":"488","title":"Whispers of Heavenly Death - The Last Invocation","length":380,"skip":false},{"id":"489","title":"Whispers of Heavenly Death - As I Watch'd the Ploughman Ploughing","length":218,"skip":false},{"id":"490","title":"Whispers of Heavenly Death - Pensive and Faltering","length":149,"skip":false},{"id":"491","title":"Thou Mother with Thy Equal Brood - 1","length":605,"skip":false},{"id":"492","title":"Thou Mother with Thy Equal Brood - 2","length":1244,"skip":false},{"id":"493","title":"Thou Mother with Thy Equal Brood - 3","length":884,"skip":false},{"id":"494","title":"Thou Mother with Thy Equal Brood - 4","length":709,"skip":false},{"id":"495","title":"Thou Mother with Thy Equal Brood - 5","length":2989,"skip":false},{"id":"496","title":"Thou Mother with Thy Equal Brood - 6","length":2090,"skip":false},{"id":"497","title":"A Paumanok Picture","length":607,"skip":false},{"id":"498","title":"From Noon to Starry Night - Thou Orb Aloft Full-Dazzling","length":1471,"skip":false},{"id":"499","title":"From Noon to Starry Night - Faces - 1","length":1049,"skip":false},{"id":"500","title":"From Noon to Starry Night - Faces - 2","length":1084,"skip":false},{"id":"501","title":"From Noon to Starry Night - Faces - 3","length":706,"skip":false},{"id":"502","title":"From Noon to Starry Night - Faces - 4","length":1212,"skip":false},{"id":"503","title":"From Noon to Starry Night - Faces - 5","length":907,"skip":false},{"id":"504","title":"From Noon to Starry Night - The Mystic Trumpeter - 1","length":259,"skip":false},{"id":"505","title":"From Noon to Starry Night - The Mystic Trumpeter - 2","length":352,"skip":false},{"id":"506","title":"From Noon to Starry Night - The Mystic Trumpeter - 3","length":409,"skip":false},{"id":"507","title":"From Noon to Starry Night - The Mystic Trumpeter - 4","length":615,"skip":false},{"id":"508","title":"From Noon to Starry Night - The Mystic Trumpeter - 5","length":776,"skip":false},{"id":"509","title":"From Noon to Starry Night - The Mystic Trumpeter - 6","length":541,"skip":false},{"id":"510","title":"From Noon to Starry Night - The Mystic Trumpeter - 7","length":639,"skip":false},{"id":"511","title":"From Noon to Starry Night - The Mystic Trumpeter - 8","length":830,"skip":false},{"id":"512","title":"From Noon to Starry Night - To a Locomotive in Winter","length":1524,"skip":false},{"id":"513","title":"From Noon to Starry Night - O Magnet-South","length":2261,"skip":false},{"id":"514","title":"From Noon to Starry Night - Mannahatta","length":1670,"skip":false},{"id":"515","title":"From Noon to Starry Night - All Is Truth","length":1234,"skip":false},{"id":"516","title":"From Noon to Starry Night - A Riddle Song","length":1883,"skip":false},{"id":"517","title":"From Noon to Starry Night - Excelsior","length":1065,"skip":false},{"id":"518","title":"From Noon to Starry Night - Ah Poverties, Wincings, and Sulky Retreats","length":708,"skip":false},{"id":"519","title":"From Noon to Starry Night - Thoughts","length":872,"skip":false},{"id":"520","title":"From Noon to Starry Night - Mediums","length":913,"skip":false},{"id":"521","title":"From Noon to Starry Night - Weave In, My Hardy Life","length":579,"skip":false},{"id":"522","title":"From Noon to Starry Night - Spain, 1873 - 74","length":666,"skip":false},{"id":"523","title":"From Noon to Starry Night - By Broad Potomac's Shore","length":661,"skip":false},{"id":"524","title":"From Noon to Starry Night - From Far Dakota's Canyons","length":1371,"skip":false},{"id":"525","title":"From Noon to Starry Night - Old War-Dreams","length":656,"skip":false},{"id":"526","title":"From Noon to Starry Night - Thick-Sprinkled Bunting","length":511,"skip":false},{"id":"527","title":"From Noon to Starry Night - What Best I See in Thee","length":692,"skip":false},{"id":"528","title":"From Noon to Starry Night - Spirit That Form'd This Scene","length":667,"skip":false},{"id":"529","title":"From Noon to Starry Night - As I Walk These Broad Majestic Days","length":1236,"skip":false},{"id":"530","title":"From Noon to Starry Night - A Clear Midnight","length":242,"skip":false},{"id":"531","title":"Songs of Parting - As the Time Draws Nigh","length":445,"skip":false},{"id":"532","title":"Songs of Parting - Years of the Modern","length":2207,"skip":false},{"id":"533","title":"Songs of Parting - Ashes of Soldiers","length":2197,"skip":false},{"id":"534","title":"Songs of Parting - Thoughts - 1","length":1575,"skip":false},{"id":"535","title":"Songs of Parting - Thoughts - 2","length":1351,"skip":false},{"id":"536","title":"Songs of Parting - Song at Sunset","length":3096,"skip":false},{"id":"537","title":"Songs of Parting - As at Thy Portals Also Death","length":572,"skip":false},{"id":"538","title":"Songs of Parting - My Legacy","length":603,"skip":false},{"id":"539","title":"Songs of Parting - Pensive on Her Dead Gazing","length":1247,"skip":false},{"id":"540","title":"Songs of Parting - Camps of Green","length":1516,"skip":false},{"id":"541","title":"Songs of Parting - The Sobbing of the Bells","length":397,"skip":false},{"id":"542","title":"Songs of Parting - As They Draw to a Close","length":731,"skip":false},{"id":"543","title":"Songs of Parting - Joy, Shipmate, Joy!","length":223,"skip":false},{"id":"544","title":"Songs of Parting - The Untold Want","length":94,"skip":false},{"id":"545","title":"Songs of Parting - Portals","length":107,"skip":false},{"id":"546","title":"Songs of Parting - These Carols","length":113,"skip":false},{"id":"547","title":"Songs of Parting - Now Finale to the Shore","length":429,"skip":false},{"id":"548","title":"Songs of Parting - So Long!","length":4045,"skip":false},{"id":"549","title":"Sands at Seventy - Mannahatta","length":188,"skip":false},{"id":"550","title":"Sands at Seventy - Paumanok","length":326,"skip":false},{"id":"551","title":"Sands at Seventy - From Montauk Point","length":268,"skip":false},{"id":"552","title":"Sands at Seventy - To Those Who've Fail'd","length":398,"skip":false},{"id":"553","title":"Sands at Seventy - A Carol Closing Sixty-Nine","length":571,"skip":false},{"id":"554","title":"Sands at Seventy - The Bravest Soldiers","length":145,"skip":false},{"id":"555","title":"Sands at Seventy - A Font of Type","length":315,"skip":false},{"id":"556","title":"Sands at Seventy - As I Sit Writing Here","length":205,"skip":false},{"id":"557","title":"Sands at Seventy - My Canary Bird","length":281,"skip":false},{"id":"558","title":"Sands at Seventy - Queries to My Seventieth Year","length":324,"skip":false},{"id":"559","title":"Sands at Seventy - The Wallabout Martyrs","length":671,"skip":false},{"id":"560","title":"Sands at Seventy - The First Dandelion","length":258,"skip":false},{"id":"561","title":"Sands at Seventy - America","length":266,"skip":false},{"id":"562","title":"Sands at Seventy - Memories","length":145,"skip":false},{"id":"563","title":"Sands at Seventy - To-day and Thee","length":317,"skip":false},{"id":"564","title":"Sands at Seventy - After the Dazzle of Day","length":202,"skip":false},{"id":"565","title":"Sands at Seventy - Abraham Lincoln, Born Feb, 1809","length":130,"skip":false},{"id":"566","title":"Sands at Seventy - Out of May's Shows Selected","length":298,"skip":false},{"id":"567","title":"Sands at Seventy - Halcyon Days","length":495,"skip":false},{"id":"568","title":"Sands at Seventy - Fancies at Navesink - The Pilot in the Mist","length":449,"skip":false},{"id":"569","title":"Sands at Seventy - Fancies at Navesink - Had I the Choice","length":524,"skip":false},{"id":"570","title":"Sands at Seventy - Fancies at Navesink - You Tides with Ceaseless Swell","length":533,"skip":false},{"id":"571","title":"Sands at Seventy - Fancies at Navesink - Last of Ebb, and Daylight Waning","length":625,"skip":false},{"id":"572","title":"Sands at Seventy - Fancies at Navesink - And Yet Not You Alone","length":373,"skip":false},{"id":"573","title":"Sands at Seventy - Fancies at Navesink - Proudly the Flood Comes In","length":421,"skip":false},{"id":"574","title":"Sands at Seventy - Fancies at Navesink - By That Long Scan of Waves","length":590,"skip":false},{"id":"575","title":"Sands at Seventy - Fancies at Navesink - Then Last of All","length":216,"skip":false},{"id":"576","title":"Sands at Seventy - Election Day, November, 1884","length":1202,"skip":false},{"id":"577","title":"Sands at Seventy - With Husky-Haughty Lips, O Sea!","length":1308,"skip":false},{"id":"578","title":"Sands at Seventy - Death of General Grant","length":524,"skip":false},{"id":"579","title":"Sands at Seventy - Red Jacket (from Aloft)","length":565,"skip":false},{"id":"580","title":"Sands at Seventy - Washington's Monument, February, 1885","length":949,"skip":false},{"id":"581","title":"Sands at Seventy - Of That Blithe Throat of Thine","length":803,"skip":false},{"id":"582","title":"Sands at Seventy - Broadway","length":640,"skip":false},{"id":"583","title":"Sands at Seventy - To Get the Final Lilt of Songs","length":370,"skip":false},{"id":"584","title":"Sands at Seventy - Old Salt Kossabone","length":948,"skip":false},{"id":"585","title":"Sands at Seventy - The Dead Tenor","length":838,"skip":false},{"id":"586","title":"Sands at Seventy - Continuities","length":618,"skip":false},{"id":"587","title":"Sands at Seventy - Yonnondio","length":884,"skip":false},{"id":"588","title":"Sands at Seventy - Life","length":373,"skip":false},{"id":"589","title":"Sands at Seventy - \"Going Somewhere\"","length":577,"skip":false},{"id":"590","title":"Sands at Seventy - Small the Theme of My Chant","length":767,"skip":false},{"id":"591","title":"Sands at Seventy - True Conquerors","length":385,"skip":false},{"id":"592","title":"Sands at Seventy - The United States to Old World Critics","length":292,"skip":false},{"id":"593","title":"Sands at Seventy - The Calming Thought of All","length":204,"skip":false},{"id":"594","title":"Sands at Seventy - Thanks in Old Age","length":1121,"skip":false},{"id":"595","title":"Sands at Seventy - Life and Death","length":183,"skip":false},{"id":"596","title":"Sands at Seventy - The Voice of the Rain","length":657,"skip":false},{"id":"597","title":"Sands at Seventy - Soon Shall the Winter's Foil Be Here","length":726,"skip":false},{"id":"598","title":"Sands at Seventy - While Not the Past Forgetting","length":327,"skip":false},{"id":"599","title":"Sands at Seventy - The Dying Veteran","length":1030,"skip":false},{"id":"600","title":"Sands at Seventy - Stronger Lessons","length":268,"skip":false},{"id":"601","title":"Sands at Seventy - A Prairie Sunset","length":369,"skip":false},{"id":"602","title":"Sands at Seventy - Twenty Years","length":873,"skip":false},{"id":"603","title":"Sands at Seventy - Orange Buds by Mail from Florida","length":537,"skip":false},{"id":"604","title":"Sands at Seventy - Twilight","length":166,"skip":false},{"id":"605","title":"Sands at Seventy - You Lingering Sparse Leaves of Me","length":381,"skip":false},{"id":"606","title":"Sands at Seventy - Not Meagre, Latent Boughs Alone","length":370,"skip":false},{"id":"607","title":"Sands at Seventy - The Dead Emperor","length":279,"skip":false},{"id":"608","title":"Sands at Seventy - As the Greek's Signal Flame","length":347,"skip":false},{"id":"609","title":"Sands at Seventy - The Dismantled Ship","length":265,"skip":false},{"id":"610","title":"Sands at Seventy - Now Precedent Songs, Farewell","length":948,"skip":false},{"id":"611","title":"Sands at Seventy - An Evening Lull","length":167,"skip":false},{"id":"612","title":"Sands at Seventy - Old Age's Lambent Peaks","length":522,"skip":false},{"id":"613","title":"Sands at Seventy - After the Supper and Talk","length":787,"skip":false},{"id":"614","title":"Goodbye My Fancy - Preface Note to 2nd Annex","length":3911,"skip":true},{"id":"615","title":"Goodbye My Fancy - Sail Out for Good, Eidolon Yacht!","length":457,"skip":false},{"id":"616","title":"Goodbye My Fancy - Lingering Last Drops","length":234,"skip":false},{"id":"617","title":"Goodbye My Fancy - Good-Bye My Fancy","length":190,"skip":false},{"id":"618","title":"Goodbye My Fancy - On, on the Same, Ye Jocund Twain!","length":1111,"skip":false},{"id":"619","title":"Goodbye My Fancy - My 71st Year","length":409,"skip":false},{"id":"620","title":"Goodbye My Fancy - Apparitions","length":172,"skip":false},{"id":"621","title":"Goodbye My Fancy - The Pallid Wreath","length":605,"skip":false},{"id":"622","title":"Goodbye My Fancy - An Ended Day","length":143,"skip":false},{"id":"623","title":"Goodbye My Fancy - Old Age's Ship & Crafty Death's","length":453,"skip":false},{"id":"624","title":"Goodbye My Fancy - To the Pending Year","length":394,"skip":false},{"id":"625","title":"Goodbye My Fancy - Shakespeare-Bacon's Cipher","length":331,"skip":false},{"id":"626","title":"Goodbye My Fancy - Long, Long Hence","length":285,"skip":false},{"id":"627","title":"Goodbye My Fancy - Bravo, Paris Exposition!","length":393,"skip":false},{"id":"628","title":"Goodbye My Fancy - Interpolation Sounds","length":813,"skip":false},{"id":"629","title":"Goodbye My Fancy - To the Sun-Set Breeze","length":1156,"skip":false},{"id":"630","title":"Goodbye My Fancy - Old Chants","length":1272,"skip":false},{"id":"631","title":"Goodbye My Fancy - A Christmas Greeting","length":621,"skip":false},{"id":"632","title":"Goodbye My Fancy - Sounds of the Winter","length":398,"skip":false},{"id":"633","title":"Goodbye My Fancy - A Twilight Song","length":1122,"skip":false},{"id":"634","title":"Goodbye My Fancy - When the Full-Grown Poet Came","length":478,"skip":false},{"id":"635","title":"Goodbye My Fancy - Osceola","length":1173,"skip":false},{"id":"636","title":"Goodbye My Fancy - A Voice from Death","length":2267,"skip":false},{"id":"637","title":"Goodbye My Fancy - A Persian Lesson","length":952,"skip":false},{"id":"638","title":"Goodbye My Fancy - The Commonplace","length":385,"skip":false},{"id":"639","title":"Goodbye My Fancy - \"The Rounded Catalogue Divine Complete\"","length":737,"skip":false},{"id":"640","title":"Goodbye My Fancy - Mirages","length":1069,"skip":false},{"id":"641","title":"Goodbye My Fancy - L. of G.'s Purport","length":690,"skip":false},{"id":"642","title":"Goodbye My Fancy - The Unexpress'd","length":608,"skip":false},{"id":"643","title":"Goodbye My Fancy - Grand Is the Seen","length":517,"skip":false},{"id":"644","title":"Goodbye My Fancy - Unseen Buds","length":460,"skip":false},{"id":"645","title":"Goodbye My Fancy - Goodbye My Fancy!","length":888,"skip":false},{"id":"646","title":"Old Age Echoes - To Soar in Freedom and in Fullness of Power","length":323,"skip":false},{"id":"647","title":"Old Age Echoes - Then Shall Perceive","length":181,"skip":false},{"id":"648","title":"Old Age Echoes - The Few Drops Known","length":372,"skip":false},{"id":"649","title":"Old Age Echoes - One Thought Ever at the Fore","length":190,"skip":false},{"id":"650","title":"Old Age Echoes - While Behind All Firm and Erect","length":162,"skip":false},{"id":"651","title":"Old Age Echoes - A Kiss to the Bride","length":645,"skip":false},{"id":"652","title":"Old Age Echoes - Nay, Tell Me Not To-day the Publish'd Shame","length":1115,"skip":false},{"id":"653","title":"Old Age Echoes - Supplement Hours","length":497,"skip":false},{"id":"654","title":"Old Age Echoes - Of Many a Smutch'd Deed Reminiscent","length":297,"skip":false},{"id":"655","title":"Old Age Echoes - To Be at All","length":615,"skip":false},{"id":"656","title":"Old Age Echoes - Death's Valley","length":1287,"skip":false},{"id":"657","title":"Old Age Echoes - On the Same Picture","length":497,"skip":false},{"id":"658","title":"Old Age Echoes - A Thought of Columbus","length":1555,"skip":false},{"id":"659","title":"A Backward Glance O'er Travel'd Roads","length":35895,"skip":false},{"id":"660","title":"Endnotes","length":5249,"skip":true}],"createdAt":1719507307754}
+{
+  "id": "walt-whitman--leaves-of-grass",
+  "title": "Leaves of Grass",
+  "titleAlpha": "leaves of grass",
+  "author": "Walt Whitman",
+  "language": "en",
+  "description": "The definitive collection of Walt Whitman's poetry.",
+  "longDescription": [
+    "Walt Whitman consciously set out to forge a personal path for himself as a poet. Inspired by contemporaries like Emerson who expressed a need for a new, uniquely American style of poetry, Whitman eschewed conventions he saw as outdated or undemocratic. Setting aside traditional rhyme, meter, and even brevity, Whitman favored a style that was declarative, direct, and maximalist. For subject matter he focused on the common individual, as democratic representative of all humanity, and the natural world of which humanity exists as an integral part. \"Song of Myself\" is perhaps the most well-known exemplar of this aesthetic.",
+    "Whitman's poetic career took an abrupt turn during the American Civil War, and his poems from that time draw on his experiences volunteering at military hospitals. These, coupled with his elegy for President Lincoln after his assassination (\"When Lilacs Last in the Dooryard Bloom'd\"), helped to cement Whitman's position as a particularly American voice.",
+    "Among Whitman's recurring themes are the embracing of sensual pleasures, including frank acknowledgments of homosexuality. This latter aspect drove several contemporary critics to reject his work as indecent. Threats of censorship and outright banning encouraged his supporters to speak more publicly in defense of his work, however, and Whitman is now considered to be one of America's most important poets.",
+    "Leaves of Grass was continually edited and extended over most of Whitman's life. Months before his death, he announced that the next edition would be the complete and definitive one. Referred to now as the \"deathbed edition,\" it was published in 1892 by Whitman's literary executors, and is the basis for this ebook."
+  ],
+  "year": 1855,
+  "genres": [
+    "classics",
+    "poetry"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/walt-whitman/leaves-of-grass"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Leaves of Grass",
+      "length": 17,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Epigraph",
+      "length": 419,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Inscriptions - One's-Self I Sing",
+      "length": 404,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Inscriptions - As I Ponder'd in Silence",
+      "length": 916,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Inscriptions - In Cabin'd Ships at Sea",
+      "length": 1460,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Inscriptions - To Foreign Lands",
+      "length": 191,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Inscriptions - To a Historian",
+      "length": 484,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Inscriptions - To Thee Old Cause",
+      "length": 889,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Inscriptions - Eidolons",
+      "length": 3151,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Inscriptions - For Him I Sing",
+      "length": 224,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Inscriptions - When I Read the Book",
+      "length": 387,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Inscriptions - Beginning My Studies",
+      "length": 347,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Inscriptions - Beginners",
+      "length": 451,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Inscriptions - To the States",
+      "length": 233,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Inscriptions - On Journeys Through the States",
+      "length": 861,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Inscriptions - To a Certain Cantatrice",
+      "length": 300,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Inscriptions - Me Imperturbe",
+      "length": 629,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Inscriptions - Savantism",
+      "length": 398,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Inscriptions - The Ship Starting",
+      "length": 267,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Inscriptions - I Hear America Singing",
+      "length": 843,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Inscriptions - What Place Is Besieged?",
+      "length": 230,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Inscriptions - Still Though the One I Sing",
+      "length": 182,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Inscriptions - Shut Not Your Doors",
+      "length": 360,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Inscriptions - Poets to Come",
+      "length": 541,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Inscriptions - To You",
+      "length": 127,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Inscriptions - Thou Reader",
+      "length": 102,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Starting from Paumanok - 1",
+      "length": 942,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Starting from Paumanok - 2",
+      "length": 1010,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Starting from Paumanok - 3",
+      "length": 405,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Starting from Paumanok - 4",
+      "length": 519,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Starting from Paumanok - 5",
+      "length": 810,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Starting from Paumanok - 6",
+      "length": 1734,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Starting from Paumanok - 7",
+      "length": 1205,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Starting from Paumanok - 8",
+      "length": 444,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Starting from Paumanok - 9",
+      "length": 398,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Starting from Paumanok - 10",
+      "length": 1127,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Starting from Paumanok - 11",
+      "length": 502,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Starting from Paumanok - 12",
+      "length": 1727,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Starting from Paumanok - 13",
+      "length": 889,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Starting from Paumanok - 14",
+      "length": 2766,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Starting from Paumanok - 15",
+      "length": 434,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Starting from Paumanok - 16",
+      "length": 605,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Starting from Paumanok - 17",
+      "length": 484,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Starting from Paumanok - 18",
+      "length": 1367,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Starting from Paumanok - 19",
+      "length": 320,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Song of Myself - 1",
+      "length": 662,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Song of Myself - 2",
+      "length": 1752,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "Song of Myself - 3",
+      "length": 1846,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Song of Myself - 4",
+      "length": 1059,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "Song of Myself - 5",
+      "length": 1136,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "Song of Myself - 6",
+      "length": 1937,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "Song of Myself - 7",
+      "length": 1096,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "Song of Myself - 8",
+      "length": 1386,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "Song of Myself - 9",
+      "length": 456,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "Song of Myself - 10",
+      "length": 1813,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "Song of Myself - 11",
+      "length": 1040,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "Song of Myself - 12",
+      "length": 538,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "Song of Myself - 13",
+      "length": 1440,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "Song of Myself - 14",
+      "length": 1111,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "Song of Myself - 15",
+      "length": 5219,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "Song of Myself - 16",
+      "length": 1737,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "Song of Myself - 17",
+      "length": 425,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "Song of Myself - 18",
+      "length": 645,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "Song of Myself - 19",
+      "length": 989,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "Song of Myself - 20",
+      "length": 1815,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "Song of Myself - 21",
+      "length": 1430,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "Song of Myself - 22",
+      "length": 1685,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "Song of Myself - 23",
+      "length": 1173,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "Song of Myself - 24",
+      "length": 3633,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "Song of Myself - 25",
+      "length": 1278,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "Song of Myself - 26",
+      "length": 1933,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "Song of Myself - 27",
+      "length": 449,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "Song of Myself - 28",
+      "length": 1318,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "Song of Myself - 29",
+      "length": 346,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "Song of Myself - 30",
+      "length": 751,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "Song of Myself - 31",
+      "length": 1290,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "Song of Myself - 32",
+      "length": 1539,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "Song of Myself - 33",
+      "length": 11218,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "Song of Myself - 34",
+      "length": 1693,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "Song of Myself - 35",
+      "length": 1992,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "Song of Myself - 36",
+      "length": 1150,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "Song of Myself - 37",
+      "length": 863,
+      "mode": "type"
+    },
+    {
+      "id": "084",
+      "title": "Song of Myself - 38",
+      "length": 932,
+      "mode": "type"
+    },
+    {
+      "id": "085",
+      "title": "Song of Myself - 39",
+      "length": 730,
+      "mode": "type"
+    },
+    {
+      "id": "086",
+      "title": "Song of Myself - 40",
+      "length": 1787,
+      "mode": "type"
+    },
+    {
+      "id": "087",
+      "title": "Song of Myself - 41",
+      "length": 2418,
+      "mode": "type"
+    },
+    {
+      "id": "088",
+      "title": "Song of Myself - 42",
+      "length": 2671,
+      "mode": "type"
+    },
+    {
+      "id": "089",
+      "title": "Song of Myself - 43",
+      "length": 2726,
+      "mode": "type"
+    },
+    {
+      "id": "090",
+      "title": "Song of Myself - 44",
+      "length": 1963,
+      "mode": "type"
+    },
+    {
+      "id": "091",
+      "title": "Song of Myself - 45",
+      "length": 1913,
+      "mode": "type"
+    },
+    {
+      "id": "092",
+      "title": "Song of Myself - 46",
+      "length": 2067,
+      "mode": "type"
+    },
+    {
+      "id": "093",
+      "title": "Song of Myself - 47",
+      "length": 2305,
+      "mode": "type"
+    },
+    {
+      "id": "094",
+      "title": "Song of Myself - 48",
+      "length": 1401,
+      "mode": "type"
+    },
+    {
+      "id": "095",
+      "title": "Song of Myself - 49",
+      "length": 1217,
+      "mode": "type"
+    },
+    {
+      "id": "096",
+      "title": "Song of Myself - 50",
+      "length": 582,
+      "mode": "type"
+    },
+    {
+      "id": "097",
+      "title": "Song of Myself - 51",
+      "length": 616,
+      "mode": "type"
+    },
+    {
+      "id": "098",
+      "title": "Song of Myself - 52",
+      "length": 822,
+      "mode": "type"
+    },
+    {
+      "id": "099",
+      "title": "Children of Adam - To the Garden the World",
+      "length": 570,
+      "mode": "type"
+    },
+    {
+      "id": "100",
+      "title": "Children of Adam - From Pent-Up Aching Rivers",
+      "length": 3379,
+      "mode": "type"
+    },
+    {
+      "id": "101",
+      "title": "Children of Adam - I Sing the Body Electric - 1",
+      "length": 476,
+      "mode": "type"
+    },
+    {
+      "id": "102",
+      "title": "Children of Adam - I Sing the Body Electric - 2",
+      "length": 2223,
+      "mode": "type"
+    },
+    {
+      "id": "103",
+      "title": "Children of Adam - I Sing the Body Electric - 3",
+      "length": 1182,
+      "mode": "type"
+    },
+    {
+      "id": "104",
+      "title": "Children of Adam - I Sing the Body Electric - 4",
+      "length": 568,
+      "mode": "type"
+    },
+    {
+      "id": "105",
+      "title": "Children of Adam - I Sing the Body Electric - 5",
+      "length": 1644,
+      "mode": "type"
+    },
+    {
+      "id": "106",
+      "title": "Children of Adam - I Sing the Body Electric - 6",
+      "length": 1372,
+      "mode": "type"
+    },
+    {
+      "id": "107",
+      "title": "Children of Adam - I Sing the Body Electric - 7",
+      "length": 1435,
+      "mode": "type"
+    },
+    {
+      "id": "108",
+      "title": "Children of Adam - I Sing the Body Electric - 8",
+      "length": 733,
+      "mode": "type"
+    },
+    {
+      "id": "109",
+      "title": "Children of Adam - I Sing the Body Electric - 9",
+      "length": 2606,
+      "mode": "type"
+    },
+    {
+      "id": "110",
+      "title": "Children of Adam - A Woman Waits for Me",
+      "length": 2644,
+      "mode": "type"
+    },
+    {
+      "id": "111",
+      "title": "Children of Adam - Spontaneous Me",
+      "length": 3726,
+      "mode": "type"
+    },
+    {
+      "id": "112",
+      "title": "Children of Adam - One Hour to Madness and Joy",
+      "length": 1419,
+      "mode": "type"
+    },
+    {
+      "id": "113",
+      "title": "Children of Adam - Out of the Rolling Ocean the Crowd",
+      "length": 738,
+      "mode": "type"
+    },
+    {
+      "id": "114",
+      "title": "Children of Adam - Ages and Ages Returning at Intervals",
+      "length": 363,
+      "mode": "type"
+    },
+    {
+      "id": "115",
+      "title": "Children of Adam - We Two, How Long We Were Fool'd",
+      "length": 1222,
+      "mode": "type"
+    },
+    {
+      "id": "116",
+      "title": "Children of Adam - O Hymen! O Hymenee!",
+      "length": 229,
+      "mode": "type"
+    },
+    {
+      "id": "117",
+      "title": "Children of Adam - I Am He That Aches with Love",
+      "length": 154,
+      "mode": "type"
+    },
+    {
+      "id": "118",
+      "title": "Children of Adam - Native Moments",
+      "length": 770,
+      "mode": "type"
+    },
+    {
+      "id": "119",
+      "title": "Children of Adam - Once I Pass'd Through a Populous City",
+      "length": 532,
+      "mode": "type"
+    },
+    {
+      "id": "120",
+      "title": "Children of Adam - I Heard You Solemn-Sweet Pipes of the Organ",
+      "length": 479,
+      "mode": "type"
+    },
+    {
+      "id": "121",
+      "title": "Children of Adam - Facing West from California's Shores",
+      "length": 636,
+      "mode": "type"
+    },
+    {
+      "id": "122",
+      "title": "Children of Adam - As Adam Early in the Morning",
+      "length": 216,
+      "mode": "type"
+    },
+    {
+      "id": "123",
+      "title": "Calamus - In Paths Untrodden",
+      "length": 978,
+      "mode": "type"
+    },
+    {
+      "id": "124",
+      "title": "Calamus - Scented Herbage of My Breast",
+      "length": 2755,
+      "mode": "type"
+    },
+    {
+      "id": "125",
+      "title": "Calamus - Whoever You Are Holding Me Now in Hand",
+      "length": 2358,
+      "mode": "type"
+    },
+    {
+      "id": "126",
+      "title": "Calamus - For You O Democracy",
+      "length": 580,
+      "mode": "type"
+    },
+    {
+      "id": "127",
+      "title": "Calamus - These I Singing in Spring",
+      "length": 1998,
+      "mode": "type"
+    },
+    {
+      "id": "128",
+      "title": "Calamus - Not Heaving from My Ribb'd Breast Only",
+      "length": 985,
+      "mode": "type"
+    },
+    {
+      "id": "129",
+      "title": "Calamus - Of the Terrible Doubt of Appearances",
+      "length": 1387,
+      "mode": "type"
+    },
+    {
+      "id": "130",
+      "title": "Calamus - The Base of All Metaphysics",
+      "length": 832,
+      "mode": "type"
+    },
+    {
+      "id": "131",
+      "title": "Calamus - Recorders Ages Hence",
+      "length": 906,
+      "mode": "type"
+    },
+    {
+      "id": "132",
+      "title": "Calamus - When I Heard at the Close of the Day",
+      "length": 1256,
+      "mode": "type"
+    },
+    {
+      "id": "133",
+      "title": "Calamus - Are You the New Person Drawn Toward Me?",
+      "length": 546,
+      "mode": "type"
+    },
+    {
+      "id": "134",
+      "title": "Calamus - Roots and Leaves Themselves Alone",
+      "length": 785,
+      "mode": "type"
+    },
+    {
+      "id": "135",
+      "title": "Calamus - Not Heat Flames Up and Consumes",
+      "length": 652,
+      "mode": "type"
+    },
+    {
+      "id": "136",
+      "title": "Calamus - Trickle Drops",
+      "length": 594,
+      "mode": "type"
+    },
+    {
+      "id": "137",
+      "title": "Calamus - City of Orgies",
+      "length": 609,
+      "mode": "type"
+    },
+    {
+      "id": "138",
+      "title": "Calamus - Behold This Swarthy Face",
+      "length": 435,
+      "mode": "type"
+    },
+    {
+      "id": "139",
+      "title": "Calamus - I Saw in Louisiana a Live-Oak Growing",
+      "length": 900,
+      "mode": "type"
+    },
+    {
+      "id": "140",
+      "title": "Calamus - To a Stranger",
+      "length": 736,
+      "mode": "type"
+    },
+    {
+      "id": "141",
+      "title": "Calamus - This Moment Yearning and Thoughtful",
+      "length": 471,
+      "mode": "type"
+    },
+    {
+      "id": "142",
+      "title": "Calamus - I Hear It Was Charged Against Me",
+      "length": 490,
+      "mode": "type"
+    },
+    {
+      "id": "143",
+      "title": "Calamus - The Prairie-Grass Dividing",
+      "length": 641,
+      "mode": "type"
+    },
+    {
+      "id": "144",
+      "title": "Calamus - When I Peruse the Conquer'd Fame",
+      "length": 501,
+      "mode": "type"
+    },
+    {
+      "id": "145",
+      "title": "Calamus - We Two Boys Together Clinging",
+      "length": 510,
+      "mode": "type"
+    },
+    {
+      "id": "146",
+      "title": "Calamus - A Promise to California",
+      "length": 370,
+      "mode": "type"
+    },
+    {
+      "id": "147",
+      "title": "Calamus - Here the Frailest Leaves of Me",
+      "length": 178,
+      "mode": "type"
+    },
+    {
+      "id": "148",
+      "title": "Calamus - No Labor-Saving Machine",
+      "length": 337,
+      "mode": "type"
+    },
+    {
+      "id": "149",
+      "title": "Calamus - A Glimpse",
+      "length": 460,
+      "mode": "type"
+    },
+    {
+      "id": "150",
+      "title": "Calamus - A Leaf for Hand in Hand",
+      "length": 328,
+      "mode": "type"
+    },
+    {
+      "id": "151",
+      "title": "Calamus - Earth, My Likeness",
+      "length": 366,
+      "mode": "type"
+    },
+    {
+      "id": "152",
+      "title": "Calamus - I Dream'd in a Dream",
+      "length": 316,
+      "mode": "type"
+    },
+    {
+      "id": "153",
+      "title": "Calamus - What Think You I Take My Pen in Hand?",
+      "length": 554,
+      "mode": "type"
+    },
+    {
+      "id": "154",
+      "title": "Calamus - To the East and to the West",
+      "length": 395,
+      "mode": "type"
+    },
+    {
+      "id": "155",
+      "title": "Calamus - Sometimes with One I Love",
+      "length": 279,
+      "mode": "type"
+    },
+    {
+      "id": "156",
+      "title": "Calamus - To a Western Boy",
+      "length": 247,
+      "mode": "type"
+    },
+    {
+      "id": "157",
+      "title": "Calamus - Fast-Anchor'd Eternal O Love!",
+      "length": 297,
+      "mode": "type"
+    },
+    {
+      "id": "158",
+      "title": "Calamus - Among the Multitude",
+      "length": 399,
+      "mode": "type"
+    },
+    {
+      "id": "159",
+      "title": "Calamus - O You Whom I Often and Silently Come",
+      "length": 230,
+      "mode": "type"
+    },
+    {
+      "id": "160",
+      "title": "Calamus - That Shadow My Likeness",
+      "length": 305,
+      "mode": "type"
+    },
+    {
+      "id": "161",
+      "title": "Calamus - Full of Life Now",
+      "length": 461,
+      "mode": "type"
+    },
+    {
+      "id": "162",
+      "title": "Salut au Monde! - 1",
+      "length": 654,
+      "mode": "type"
+    },
+    {
+      "id": "163",
+      "title": "Salut au Monde! - 2",
+      "length": 530,
+      "mode": "type"
+    },
+    {
+      "id": "164",
+      "title": "Salut au Monde! - 3",
+      "length": 1529,
+      "mode": "type"
+    },
+    {
+      "id": "165",
+      "title": "Salut au Monde! - 4",
+      "length": 2760,
+      "mode": "type"
+    },
+    {
+      "id": "166",
+      "title": "Salut au Monde! - 5",
+      "length": 716,
+      "mode": "type"
+    },
+    {
+      "id": "167",
+      "title": "Salut au Monde! - 6",
+      "length": 1148,
+      "mode": "type"
+    },
+    {
+      "id": "168",
+      "title": "Salut au Monde! - 7",
+      "length": 1436,
+      "mode": "type"
+    },
+    {
+      "id": "169",
+      "title": "Salut au Monde! - 8",
+      "length": 395,
+      "mode": "type"
+    },
+    {
+      "id": "170",
+      "title": "Salut au Monde! - 9",
+      "length": 551,
+      "mode": "type"
+    },
+    {
+      "id": "171",
+      "title": "Salut au Monde! - 10",
+      "length": 1634,
+      "mode": "type"
+    },
+    {
+      "id": "172",
+      "title": "Salut au Monde! - 11",
+      "length": 2314,
+      "mode": "type"
+    },
+    {
+      "id": "173",
+      "title": "Salut au Monde! - 12",
+      "length": 794,
+      "mode": "type"
+    },
+    {
+      "id": "174",
+      "title": "Salut au Monde! - 13",
+      "length": 905,
+      "mode": "type"
+    },
+    {
+      "id": "175",
+      "title": "Song of the Open Road - 1",
+      "length": 757,
+      "mode": "type"
+    },
+    {
+      "id": "176",
+      "title": "Song of the Open Road - 2",
+      "length": 702,
+      "mode": "type"
+    },
+    {
+      "id": "177",
+      "title": "Song of the Open Road - 3",
+      "length": 1002,
+      "mode": "type"
+    },
+    {
+      "id": "178",
+      "title": "Song of the Open Road - 4",
+      "length": 859,
+      "mode": "type"
+    },
+    {
+      "id": "179",
+      "title": "Song of the Open Road - 5",
+      "length": 862,
+      "mode": "type"
+    },
+    {
+      "id": "180",
+      "title": "Song of the Open Road - 6",
+      "length": 1607,
+      "mode": "type"
+    },
+    {
+      "id": "181",
+      "title": "Song of the Open Road - 7",
+      "length": 817,
+      "mode": "type"
+    },
+    {
+      "id": "182",
+      "title": "Song of the Open Road - 8",
+      "length": 659,
+      "mode": "type"
+    },
+    {
+      "id": "183",
+      "title": "Song of the Open Road - 9",
+      "length": 664,
+      "mode": "type"
+    },
+    {
+      "id": "184",
+      "title": "Song of the Open Road - 10",
+      "length": 868,
+      "mode": "type"
+    },
+    {
+      "id": "185",
+      "title": "Song of the Open Road - 11",
+      "length": 673,
+      "mode": "type"
+    },
+    {
+      "id": "186",
+      "title": "Song of the Open Road - 12",
+      "length": 1223,
+      "mode": "type"
+    },
+    {
+      "id": "187",
+      "title": "Song of the Open Road - 13",
+      "length": 3158,
+      "mode": "type"
+    },
+    {
+      "id": "188",
+      "title": "Song of the Open Road - 14",
+      "length": 529,
+      "mode": "type"
+    },
+    {
+      "id": "189",
+      "title": "Song of the Open Road - 15",
+      "length": 645,
+      "mode": "type"
+    },
+    {
+      "id": "190",
+      "title": "Crossing Brooklyn Ferry - 1",
+      "length": 446,
+      "mode": "type"
+    },
+    {
+      "id": "191",
+      "title": "Crossing Brooklyn Ferry - 2",
+      "length": 1091,
+      "mode": "type"
+    },
+    {
+      "id": "192",
+      "title": "Crossing Brooklyn Ferry - 3",
+      "length": 2330,
+      "mode": "type"
+    },
+    {
+      "id": "193",
+      "title": "Crossing Brooklyn Ferry - 4",
+      "length": 312,
+      "mode": "type"
+    },
+    {
+      "id": "194",
+      "title": "Crossing Brooklyn Ferry - 5",
+      "length": 680,
+      "mode": "type"
+    },
+    {
+      "id": "195",
+      "title": "Crossing Brooklyn Ferry - 6",
+      "length": 1332,
+      "mode": "type"
+    },
+    {
+      "id": "196",
+      "title": "Crossing Brooklyn Ferry - 7",
+      "length": 355,
+      "mode": "type"
+    },
+    {
+      "id": "197",
+      "title": "Crossing Brooklyn Ferry - 8",
+      "length": 712,
+      "mode": "type"
+    },
+    {
+      "id": "198",
+      "title": "Crossing Brooklyn Ferry - 9",
+      "length": 2372,
+      "mode": "type"
+    },
+    {
+      "id": "199",
+      "title": "Song of the Answerer - 1",
+      "length": 4118,
+      "mode": "type"
+    },
+    {
+      "id": "200",
+      "title": "Song of the Answerer - 2",
+      "length": 2517,
+      "mode": "type"
+    },
+    {
+      "id": "201",
+      "title": "Our Old Feuillage",
+      "length": 9313,
+      "mode": "type"
+    },
+    {
+      "id": "202",
+      "title": "A Song of Joys",
+      "length": 10716,
+      "mode": "type"
+    },
+    {
+      "id": "203",
+      "title": "Song of the Broad-Axe - 1",
+      "length": 469,
+      "mode": "type"
+    },
+    {
+      "id": "204",
+      "title": "Song of the Broad-Axe - 2",
+      "length": 790,
+      "mode": "type"
+    },
+    {
+      "id": "205",
+      "title": "Song of the Broad-Axe - 3",
+      "length": 5145,
+      "mode": "type"
+    },
+    {
+      "id": "206",
+      "title": "Song of the Broad-Axe - 4",
+      "length": 915,
+      "mode": "type"
+    },
+    {
+      "id": "207",
+      "title": "Song of the Broad-Axe - 5",
+      "length": 1797,
+      "mode": "type"
+    },
+    {
+      "id": "208",
+      "title": "Song of the Broad-Axe - 6",
+      "length": 658,
+      "mode": "type"
+    },
+    {
+      "id": "209",
+      "title": "Song of the Broad-Axe - 7",
+      "length": 1436,
+      "mode": "type"
+    },
+    {
+      "id": "210",
+      "title": "Song of the Broad-Axe - 8",
+      "length": 1037,
+      "mode": "type"
+    },
+    {
+      "id": "211",
+      "title": "Song of the Broad-Axe - 9",
+      "length": 2000,
+      "mode": "type"
+    },
+    {
+      "id": "212",
+      "title": "Song of the Broad-Axe - 10",
+      "length": 1706,
+      "mode": "type"
+    },
+    {
+      "id": "213",
+      "title": "Song of the Broad-Axe - 11",
+      "length": 657,
+      "mode": "type"
+    },
+    {
+      "id": "214",
+      "title": "Song of the Broad-Axe - 12",
+      "length": 258,
+      "mode": "type"
+    },
+    {
+      "id": "215",
+      "title": "Song of the Exposition - 1",
+      "length": 684,
+      "mode": "type"
+    },
+    {
+      "id": "216",
+      "title": "Song of the Exposition - 2",
+      "length": 496,
+      "mode": "type"
+    },
+    {
+      "id": "217",
+      "title": "Song of the Exposition - 3",
+      "length": 2530,
+      "mode": "type"
+    },
+    {
+      "id": "218",
+      "title": "Song of the Exposition - 4",
+      "length": 508,
+      "mode": "type"
+    },
+    {
+      "id": "219",
+      "title": "Song of the Exposition - 5",
+      "length": 2553,
+      "mode": "type"
+    },
+    {
+      "id": "220",
+      "title": "Song of the Exposition - 6",
+      "length": 630,
+      "mode": "type"
+    },
+    {
+      "id": "221",
+      "title": "Song of the Exposition - 7",
+      "length": 2510,
+      "mode": "type"
+    },
+    {
+      "id": "222",
+      "title": "Song of the Exposition - 8",
+      "length": 2541,
+      "mode": "type"
+    },
+    {
+      "id": "223",
+      "title": "Song of the Exposition - 9",
+      "length": 1637,
+      "mode": "type"
+    },
+    {
+      "id": "224",
+      "title": "Song of the Redwood-Tree - 1",
+      "length": 4713,
+      "mode": "type"
+    },
+    {
+      "id": "225",
+      "title": "Song of the Redwood-Tree - 2",
+      "length": 886,
+      "mode": "type"
+    },
+    {
+      "id": "226",
+      "title": "Song of the Redwood-Tree - 3",
+      "length": 677,
+      "mode": "type"
+    },
+    {
+      "id": "227",
+      "title": "A Song for Occupations - 1",
+      "length": 1823,
+      "mode": "type"
+    },
+    {
+      "id": "228",
+      "title": "A Song for Occupations - 2",
+      "length": 1714,
+      "mode": "type"
+    },
+    {
+      "id": "229",
+      "title": "A Song for Occupations - 3",
+      "length": 2335,
+      "mode": "type"
+    },
+    {
+      "id": "230",
+      "title": "A Song for Occupations - 4",
+      "length": 1291,
+      "mode": "type"
+    },
+    {
+      "id": "231",
+      "title": "A Song for Occupations - 5",
+      "length": 3698,
+      "mode": "type"
+    },
+    {
+      "id": "232",
+      "title": "A Song for Occupations - 6",
+      "length": 1213,
+      "mode": "type"
+    },
+    {
+      "id": "233",
+      "title": "A Song of the Rolling Earth - 1",
+      "length": 4625,
+      "mode": "type"
+    },
+    {
+      "id": "234",
+      "title": "A Song of the Rolling Earth - 2",
+      "length": 1073,
+      "mode": "type"
+    },
+    {
+      "id": "235",
+      "title": "A Song of the Rolling Earth - 3",
+      "length": 1666,
+      "mode": "type"
+    },
+    {
+      "id": "236",
+      "title": "A Song of the Rolling Earth - 4",
+      "length": 946,
+      "mode": "type"
+    },
+    {
+      "id": "237",
+      "title": "Youth, Day, Old Age and Night",
+      "length": 316,
+      "mode": "type"
+    },
+    {
+      "id": "238",
+      "title": "Birds of Passage - Song of the Universal - 1",
+      "length": 341,
+      "mode": "type"
+    },
+    {
+      "id": "239",
+      "title": "Birds of Passage - Song of the Universal - 2",
+      "length": 851,
+      "mode": "type"
+    },
+    {
+      "id": "240",
+      "title": "Birds of Passage - Song of the Universal - 3",
+      "length": 518,
+      "mode": "type"
+    },
+    {
+      "id": "241",
+      "title": "Birds of Passage - Song of the Universal - 4",
+      "length": 1026,
+      "mode": "type"
+    },
+    {
+      "id": "242",
+      "title": "Birds of Passage - Pioneers! O Pioneers!",
+      "length": 4752,
+      "mode": "type"
+    },
+    {
+      "id": "243",
+      "title": "Birds of Passage - To You",
+      "length": 3564,
+      "mode": "type"
+    },
+    {
+      "id": "244",
+      "title": "Birds of Passage - France",
+      "length": 1822,
+      "mode": "type"
+    },
+    {
+      "id": "245",
+      "title": "Birds of Passage - Myself and Mine",
+      "length": 2239,
+      "mode": "type"
+    },
+    {
+      "id": "246",
+      "title": "Birds of Passage - Year of Meteors",
+      "length": 1937,
+      "mode": "type"
+    },
+    {
+      "id": "247",
+      "title": "Birds of Passage - With Antecedents - 1",
+      "length": 898,
+      "mode": "type"
+    },
+    {
+      "id": "248",
+      "title": "Birds of Passage - With Antecedents - 2",
+      "length": 1139,
+      "mode": "type"
+    },
+    {
+      "id": "249",
+      "title": "Birds of Passage - With Antecedents - 3",
+      "length": 540,
+      "mode": "type"
+    },
+    {
+      "id": "250",
+      "title": "A Broadway Pageant - 1",
+      "length": 1450,
+      "mode": "type"
+    },
+    {
+      "id": "251",
+      "title": "A Broadway Pageant - 2",
+      "length": 2912,
+      "mode": "type"
+    },
+    {
+      "id": "252",
+      "title": "A Broadway Pageant - 3",
+      "length": 1123,
+      "mode": "type"
+    },
+    {
+      "id": "253",
+      "title": "Sea-Drift - Out of the Cradle Endlessly Rocking",
+      "length": 8557,
+      "mode": "type"
+    },
+    {
+      "id": "254",
+      "title": "Sea-Drift - As I Ebb'd with the Ocean of Life - 1",
+      "length": 986,
+      "mode": "type"
+    },
+    {
+      "id": "255",
+      "title": "Sea-Drift - As I Ebb'd with the Ocean of Life - 2",
+      "length": 1127,
+      "mode": "type"
+    },
+    {
+      "id": "256",
+      "title": "Sea-Drift - As I Ebb'd with the Ocean of Life - 3",
+      "length": 774,
+      "mode": "type"
+    },
+    {
+      "id": "257",
+      "title": "Sea-Drift - As I Ebb'd with the Ocean of Life - 4",
+      "length": 1177,
+      "mode": "type"
+    },
+    {
+      "id": "258",
+      "title": "Sea-Drift - Tears",
+      "length": 714,
+      "mode": "type"
+    },
+    {
+      "id": "259",
+      "title": "Sea-Drift - To the Man-of-War-Bird",
+      "length": 996,
+      "mode": "type"
+    },
+    {
+      "id": "260",
+      "title": "Sea-Drift - Aboard at a Ship's Helm",
+      "length": 637,
+      "mode": "type"
+    },
+    {
+      "id": "261",
+      "title": "Sea-Drift - On the Beach at Night",
+      "length": 1588,
+      "mode": "type"
+    },
+    {
+      "id": "262",
+      "title": "Sea-Drift - The World Below the Brine",
+      "length": 941,
+      "mode": "type"
+    },
+    {
+      "id": "263",
+      "title": "Sea-Drift - On the Beach at Night Alone",
+      "length": 849,
+      "mode": "type"
+    },
+    {
+      "id": "264",
+      "title": "Sea-Drift - Song for All Seas, All Ships - 1",
+      "length": 847,
+      "mode": "type"
+    },
+    {
+      "id": "265",
+      "title": "Sea-Drift - Song for All Seas, All Ships - 2",
+      "length": 537,
+      "mode": "type"
+    },
+    {
+      "id": "266",
+      "title": "Sea-Drift - Patroling Barnegat",
+      "length": 800,
+      "mode": "type"
+    },
+    {
+      "id": "267",
+      "title": "Sea-Drift - After the Sea-Ship",
+      "length": 752,
+      "mode": "type"
+    },
+    {
+      "id": "268",
+      "title": "By the Roadside - A Boston Ballad",
+      "length": 2808,
+      "mode": "type"
+    },
+    {
+      "id": "269",
+      "title": "By the Roadside - Europe",
+      "length": 2372,
+      "mode": "type"
+    },
+    {
+      "id": "270",
+      "title": "By the Roadside - A Hand-Mirror",
+      "length": 642,
+      "mode": "type"
+    },
+    {
+      "id": "271",
+      "title": "By the Roadside - Gods",
+      "length": 702,
+      "mode": "type"
+    },
+    {
+      "id": "272",
+      "title": "By the Roadside - Germs",
+      "length": 566,
+      "mode": "type"
+    },
+    {
+      "id": "273",
+      "title": "By the Roadside - Thoughts",
+      "length": 527,
+      "mode": "type"
+    },
+    {
+      "id": "274",
+      "title": "By the Roadside - When I Heard the Learn'd Astronomer",
+      "length": 472,
+      "mode": "type"
+    },
+    {
+      "id": "275",
+      "title": "By the Roadside - Perfections",
+      "length": 98,
+      "mode": "type"
+    },
+    {
+      "id": "276",
+      "title": "By the Roadside - O Me! O Life!",
+      "length": 658,
+      "mode": "type"
+    },
+    {
+      "id": "277",
+      "title": "By the Roadside - To a President",
+      "length": 330,
+      "mode": "type"
+    },
+    {
+      "id": "278",
+      "title": "By the Roadside - I Sit and Look Out",
+      "length": 893,
+      "mode": "type"
+    },
+    {
+      "id": "279",
+      "title": "By the Roadside - To Rich Givers",
+      "length": 410,
+      "mode": "type"
+    },
+    {
+      "id": "280",
+      "title": "By the Roadside - The Dalliance of the Eagles",
+      "length": 607,
+      "mode": "type"
+    },
+    {
+      "id": "281",
+      "title": "By the Roadside - Roaming in Thought",
+      "length": 225,
+      "mode": "type"
+    },
+    {
+      "id": "282",
+      "title": "By the Roadside - A Farm Picture",
+      "length": 166,
+      "mode": "type"
+    },
+    {
+      "id": "283",
+      "title": "By the Roadside - A Child's Amaze",
+      "length": 161,
+      "mode": "type"
+    },
+    {
+      "id": "284",
+      "title": "By the Roadside - The Runner",
+      "length": 191,
+      "mode": "type"
+    },
+    {
+      "id": "285",
+      "title": "By the Roadside - Beautiful Women",
+      "length": 125,
+      "mode": "type"
+    },
+    {
+      "id": "286",
+      "title": "By the Roadside - Mother and Babe",
+      "length": 126,
+      "mode": "type"
+    },
+    {
+      "id": "287",
+      "title": "By the Roadside - Thought",
+      "length": 185,
+      "mode": "type"
+    },
+    {
+      "id": "288",
+      "title": "By the Roadside - Visor'd",
+      "length": 185,
+      "mode": "type"
+    },
+    {
+      "id": "289",
+      "title": "By the Roadside - Thought",
+      "length": 178,
+      "mode": "type"
+    },
+    {
+      "id": "290",
+      "title": "By the Roadside - Gliding O'er All",
+      "length": 170,
+      "mode": "type"
+    },
+    {
+      "id": "291",
+      "title": "By the Roadside - Hast Never Come to Thee an Hour",
+      "length": 197,
+      "mode": "type"
+    },
+    {
+      "id": "292",
+      "title": "By the Roadside - Thought",
+      "length": 167,
+      "mode": "type"
+    },
+    {
+      "id": "293",
+      "title": "By the Roadside - To Old Age",
+      "length": 96,
+      "mode": "type"
+    },
+    {
+      "id": "294",
+      "title": "By the Roadside - Locations and Times",
+      "length": 184,
+      "mode": "type"
+    },
+    {
+      "id": "295",
+      "title": "By the Roadside - Offerings",
+      "length": 128,
+      "mode": "type"
+    },
+    {
+      "id": "296",
+      "title": "By the Roadside - To the States",
+      "length": 628,
+      "mode": "type"
+    },
+    {
+      "id": "297",
+      "title": "Drum-Taps - First O Songs for a Prelude",
+      "length": 3766,
+      "mode": "type"
+    },
+    {
+      "id": "298",
+      "title": "Drum-Taps - Eighteen Sixty-One",
+      "length": 1187,
+      "mode": "type"
+    },
+    {
+      "id": "299",
+      "title": "Drum-Taps - Beat! Beat! Drums!",
+      "length": 1310,
+      "mode": "type"
+    },
+    {
+      "id": "300",
+      "title": "Drum-Taps - From Paumanok Starting I Fly Like a Bird",
+      "length": 688,
+      "mode": "type"
+    },
+    {
+      "id": "301",
+      "title": "Drum-Taps - Song of the Banner at Daybreak",
+      "length": 9182,
+      "mode": "type"
+    },
+    {
+      "id": "302",
+      "title": "Drum-Taps - Rise O Days from Your Fathomless Deeps - 1",
+      "length": 1088,
+      "mode": "type"
+    },
+    {
+      "id": "303",
+      "title": "Drum-Taps - Rise O Days from Your Fathomless Deeps - 2",
+      "length": 1186,
+      "mode": "type"
+    },
+    {
+      "id": "304",
+      "title": "Drum-Taps - Rise O Days from Your Fathomless Deeps - 3",
+      "length": 1119,
+      "mode": "type"
+    },
+    {
+      "id": "305",
+      "title": "Drum-Taps - Virginia - The West",
+      "length": 673,
+      "mode": "type"
+    },
+    {
+      "id": "306",
+      "title": "Drum-Taps - City of Ships",
+      "length": 991,
+      "mode": "type"
+    },
+    {
+      "id": "307",
+      "title": "Drum-Taps - The Centenarian's Story",
+      "length": 6723,
+      "mode": "type"
+    },
+    {
+      "id": "308",
+      "title": "Drum-Taps - Cavalry Crossing a Ford",
+      "length": 479,
+      "mode": "type"
+    },
+    {
+      "id": "309",
+      "title": "Drum-Taps - Bivouac on a Mountain Side",
+      "length": 508,
+      "mode": "type"
+    },
+    {
+      "id": "310",
+      "title": "Drum-Taps - An Army Corps on the March",
+      "length": 412,
+      "mode": "type"
+    },
+    {
+      "id": "311",
+      "title": "Drum-Taps - By the Bivouac's Fitful Flame",
+      "length": 611,
+      "mode": "type"
+    },
+    {
+      "id": "312",
+      "title": "Drum-Taps - Come Up from the Fields Father",
+      "length": 2193,
+      "mode": "type"
+    },
+    {
+      "id": "313",
+      "title": "Drum-Taps - Vigil Strange I Kept on the Field One Night",
+      "length": 1942,
+      "mode": "type"
+    },
+    {
+      "id": "314",
+      "title": "Drum-Taps - A March in the Ranks Hard-Prest, and the Road Unknown",
+      "length": 1858,
+      "mode": "type"
+    },
+    {
+      "id": "315",
+      "title": "Drum-Taps - A Sight in Camp in the Daybreak Gray and Dim",
+      "length": 949,
+      "mode": "type"
+    },
+    {
+      "id": "316",
+      "title": "Drum-Taps - As Toilsome I Wander'd Virginia's Woods",
+      "length": 762,
+      "mode": "type"
+    },
+    {
+      "id": "317",
+      "title": "Drum-Taps - Not the Pilot",
+      "length": 412,
+      "mode": "type"
+    },
+    {
+      "id": "318",
+      "title": "Drum-Taps - Year That Trembled and Reel'd Beneath Me",
+      "length": 308,
+      "mode": "type"
+    },
+    {
+      "id": "319",
+      "title": "Drum-Taps - The Wound-Dresser - 1",
+      "length": 777,
+      "mode": "type"
+    },
+    {
+      "id": "320",
+      "title": "Drum-Taps - The Wound-Dresser - 2",
+      "length": 1632,
+      "mode": "type"
+    },
+    {
+      "id": "321",
+      "title": "Drum-Taps - The Wound-Dresser - 3",
+      "length": 1210,
+      "mode": "type"
+    },
+    {
+      "id": "322",
+      "title": "Drum-Taps - The Wound-Dresser - 4",
+      "length": 395,
+      "mode": "type"
+    },
+    {
+      "id": "323",
+      "title": "Drum-Taps - Long, Too Long America",
+      "length": 376,
+      "mode": "type"
+    },
+    {
+      "id": "324",
+      "title": "Drum-Taps - Give Me the Splendid Silent Sun - 1",
+      "length": 1360,
+      "mode": "type"
+    },
+    {
+      "id": "325",
+      "title": "Drum-Taps - Give Me the Splendid Silent Sun - 2",
+      "length": 1512,
+      "mode": "type"
+    },
+    {
+      "id": "326",
+      "title": "Drum-Taps - Dirge for Two Veterans",
+      "length": 1382,
+      "mode": "type"
+    },
+    {
+      "id": "327",
+      "title": "Drum-Taps - Over the Carnage Rose Prophetic a Voice",
+      "length": 1268,
+      "mode": "type"
+    },
+    {
+      "id": "328",
+      "title": "Drum-Taps - I Saw Old General at Bay",
+      "length": 469,
+      "mode": "type"
+    },
+    {
+      "id": "329",
+      "title": "Drum-Taps - The Artilleryman's Vision",
+      "length": 2131,
+      "mode": "type"
+    },
+    {
+      "id": "330",
+      "title": "Drum-Taps - Ethiopia Saluting the Colors",
+      "length": 852,
+      "mode": "type"
+    },
+    {
+      "id": "331",
+      "title": "Drum-Taps - Not Youth Pertains to Me",
+      "length": 437,
+      "mode": "type"
+    },
+    {
+      "id": "332",
+      "title": "Drum-Taps - Race of Veterans",
+      "length": 240,
+      "mode": "type"
+    },
+    {
+      "id": "333",
+      "title": "Drum-Taps - World Take Good Notice",
+      "length": 213,
+      "mode": "type"
+    },
+    {
+      "id": "334",
+      "title": "Drum-Taps - O Tan-Faced Prairie-Boy",
+      "length": 286,
+      "mode": "type"
+    },
+    {
+      "id": "335",
+      "title": "Drum-Taps - Look Down Fair Moon",
+      "length": 211,
+      "mode": "type"
+    },
+    {
+      "id": "336",
+      "title": "Drum-Taps - Reconciliation",
+      "length": 424,
+      "mode": "type"
+    },
+    {
+      "id": "337",
+      "title": "Drum-Taps - How Solemn as One by One",
+      "length": 670,
+      "mode": "type"
+    },
+    {
+      "id": "338",
+      "title": "Drum-Taps - As I Lay with My Head in Your Lap Camerado",
+      "length": 807,
+      "mode": "type"
+    },
+    {
+      "id": "339",
+      "title": "Drum-Taps - Delicate Cluster",
+      "length": 397,
+      "mode": "type"
+    },
+    {
+      "id": "340",
+      "title": "Drum-Taps - To a Certain Civilian",
+      "length": 626,
+      "mode": "type"
+    },
+    {
+      "id": "341",
+      "title": "Drum-Taps - Lo, Victress on the Peaks",
+      "length": 498,
+      "mode": "type"
+    },
+    {
+      "id": "342",
+      "title": "Drum-Taps - Spirit Whose Work Is Done",
+      "length": 1298,
+      "mode": "type"
+    },
+    {
+      "id": "343",
+      "title": "Drum-Taps - Adieu to a Soldier",
+      "length": 734,
+      "mode": "type"
+    },
+    {
+      "id": "344",
+      "title": "Drum-Taps - Turn O Libertad",
+      "length": 790,
+      "mode": "type"
+    },
+    {
+      "id": "345",
+      "title": "Drum-Taps - To the Leaven'd Soil They Trod",
+      "length": 958,
+      "mode": "type"
+    },
+    {
+      "id": "346",
+      "title": "Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 1",
+      "length": 303,
+      "mode": "type"
+    },
+    {
+      "id": "347",
+      "title": "Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 2",
+      "length": 257,
+      "mode": "type"
+    },
+    {
+      "id": "348",
+      "title": "Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 3",
+      "length": 393,
+      "mode": "type"
+    },
+    {
+      "id": "349",
+      "title": "Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 4",
+      "length": 331,
+      "mode": "type"
+    },
+    {
+      "id": "350",
+      "title": "Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 5",
+      "length": 491,
+      "mode": "type"
+    },
+    {
+      "id": "351",
+      "title": "Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 6",
+      "length": 811,
+      "mode": "type"
+    },
+    {
+      "id": "352",
+      "title": "Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 7",
+      "length": 441,
+      "mode": "type"
+    },
+    {
+      "id": "353",
+      "title": "Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 8",
+      "length": 763,
+      "mode": "type"
+    },
+    {
+      "id": "354",
+      "title": "Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 9",
+      "length": 252,
+      "mode": "type"
+    },
+    {
+      "id": "355",
+      "title": "Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 10",
+      "length": 405,
+      "mode": "type"
+    },
+    {
+      "id": "356",
+      "title": "Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 11",
+      "length": 779,
+      "mode": "type"
+    },
+    {
+      "id": "357",
+      "title": "Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 12",
+      "length": 587,
+      "mode": "type"
+    },
+    {
+      "id": "358",
+      "title": "Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 13",
+      "length": 446,
+      "mode": "type"
+    },
+    {
+      "id": "359",
+      "title": "Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 14",
+      "length": 3198,
+      "mode": "type"
+    },
+    {
+      "id": "360",
+      "title": "Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 15",
+      "length": 1084,
+      "mode": "type"
+    },
+    {
+      "id": "361",
+      "title": "Memories of President Lincoln - When Lilacs Last in the Dooryard Bloom'd - 16",
+      "length": 1383,
+      "mode": "type"
+    },
+    {
+      "id": "362",
+      "title": "Memories of President Lincoln - O Captain! My Captain!",
+      "length": 1072,
+      "mode": "type"
+    },
+    {
+      "id": "363",
+      "title": "Memories of President Lincoln - Hush'd Be the Camps To-day",
+      "length": 541,
+      "mode": "type"
+    },
+    {
+      "id": "364",
+      "title": "Memories of President Lincoln - This Dust Was Once the Man",
+      "length": 189,
+      "mode": "type"
+    },
+    {
+      "id": "365",
+      "title": "By Blue Ontario's Shore - 1",
+      "length": 514,
+      "mode": "type"
+    },
+    {
+      "id": "366",
+      "title": "By Blue Ontario's Shore - 2",
+      "length": 872,
+      "mode": "type"
+    },
+    {
+      "id": "367",
+      "title": "By Blue Ontario's Shore - 3",
+      "length": 430,
+      "mode": "type"
+    },
+    {
+      "id": "368",
+      "title": "By Blue Ontario's Shore - 4",
+      "length": 866,
+      "mode": "type"
+    },
+    {
+      "id": "369",
+      "title": "By Blue Ontario's Shore - 5",
+      "length": 1284,
+      "mode": "type"
+    },
+    {
+      "id": "370",
+      "title": "By Blue Ontario's Shore - 6",
+      "length": 3313,
+      "mode": "type"
+    },
+    {
+      "id": "371",
+      "title": "By Blue Ontario's Shore - 7",
+      "length": 717,
+      "mode": "type"
+    },
+    {
+      "id": "372",
+      "title": "By Blue Ontario's Shore - 8",
+      "length": 583,
+      "mode": "type"
+    },
+    {
+      "id": "373",
+      "title": "By Blue Ontario's Shore - 9",
+      "length": 790,
+      "mode": "type"
+    },
+    {
+      "id": "374",
+      "title": "By Blue Ontario's Shore - 10",
+      "length": 1694,
+      "mode": "type"
+    },
+    {
+      "id": "375",
+      "title": "By Blue Ontario's Shore - 11",
+      "length": 784,
+      "mode": "type"
+    },
+    {
+      "id": "376",
+      "title": "By Blue Ontario's Shore - 12",
+      "length": 3114,
+      "mode": "type"
+    },
+    {
+      "id": "377",
+      "title": "By Blue Ontario's Shore - 13",
+      "length": 1365,
+      "mode": "type"
+    },
+    {
+      "id": "378",
+      "title": "By Blue Ontario's Shore - 14",
+      "length": 1281,
+      "mode": "type"
+    },
+    {
+      "id": "379",
+      "title": "By Blue Ontario's Shore - 15",
+      "length": 737,
+      "mode": "type"
+    },
+    {
+      "id": "380",
+      "title": "By Blue Ontario's Shore - 16",
+      "length": 799,
+      "mode": "type"
+    },
+    {
+      "id": "381",
+      "title": "By Blue Ontario's Shore - 17",
+      "length": 1505,
+      "mode": "type"
+    },
+    {
+      "id": "382",
+      "title": "By Blue Ontario's Shore - 18",
+      "length": 1029,
+      "mode": "type"
+    },
+    {
+      "id": "383",
+      "title": "By Blue Ontario's Shore - 19",
+      "length": 384,
+      "mode": "type"
+    },
+    {
+      "id": "384",
+      "title": "By Blue Ontario's Shore - 20",
+      "length": 773,
+      "mode": "type"
+    },
+    {
+      "id": "385",
+      "title": "Reversals",
+      "length": 299,
+      "mode": "type"
+    },
+    {
+      "id": "386",
+      "title": "Autumn Rivulets - As Consequent, etc.",
+      "length": 1715,
+      "mode": "type"
+    },
+    {
+      "id": "387",
+      "title": "Autumn Rivulets - The Return of the Heroes - 1",
+      "length": 424,
+      "mode": "type"
+    },
+    {
+      "id": "388",
+      "title": "Autumn Rivulets - The Return of the Heroes - 2",
+      "length": 694,
+      "mode": "type"
+    },
+    {
+      "id": "389",
+      "title": "Autumn Rivulets - The Return of the Heroes - 3",
+      "length": 874,
+      "mode": "type"
+    },
+    {
+      "id": "390",
+      "title": "Autumn Rivulets - The Return of the Heroes - 4",
+      "length": 1086,
+      "mode": "type"
+    },
+    {
+      "id": "391",
+      "title": "Autumn Rivulets - The Return of the Heroes - 5",
+      "length": 552,
+      "mode": "type"
+    },
+    {
+      "id": "392",
+      "title": "Autumn Rivulets - The Return of the Heroes - 6",
+      "length": 1043,
+      "mode": "type"
+    },
+    {
+      "id": "393",
+      "title": "Autumn Rivulets - The Return of the Heroes - 7",
+      "length": 922,
+      "mode": "type"
+    },
+    {
+      "id": "394",
+      "title": "Autumn Rivulets - The Return of the Heroes - 8",
+      "length": 1813,
+      "mode": "type"
+    },
+    {
+      "id": "395",
+      "title": "Autumn Rivulets - There Was a Child Went Forth",
+      "length": 3140,
+      "mode": "type"
+    },
+    {
+      "id": "396",
+      "title": "Autumn Rivulets - Old Ireland",
+      "length": 991,
+      "mode": "type"
+    },
+    {
+      "id": "397",
+      "title": "Autumn Rivulets - The City Dead-House",
+      "length": 1157,
+      "mode": "type"
+    },
+    {
+      "id": "398",
+      "title": "Autumn Rivulets - This Compost - 1",
+      "length": 937,
+      "mode": "type"
+    },
+    {
+      "id": "399",
+      "title": "Autumn Rivulets - This Compost - 2",
+      "length": 2050,
+      "mode": "type"
+    },
+    {
+      "id": "400",
+      "title": "Autumn Rivulets - To a Foil'd European Revolutionaire",
+      "length": 2253,
+      "mode": "type"
+    },
+    {
+      "id": "401",
+      "title": "Autumn Rivulets - Unnamed Lands",
+      "length": 2230,
+      "mode": "type"
+    },
+    {
+      "id": "402",
+      "title": "Autumn Rivulets - Song of Prudence",
+      "length": 4240,
+      "mode": "type"
+    },
+    {
+      "id": "403",
+      "title": "Autumn Rivulets - The Singer in the Prison - 1",
+      "length": 387,
+      "mode": "type"
+    },
+    {
+      "id": "404",
+      "title": "Autumn Rivulets - The Singer in the Prison - 2",
+      "length": 1196,
+      "mode": "type"
+    },
+    {
+      "id": "405",
+      "title": "Autumn Rivulets - The Singer in the Prison - 3",
+      "length": 1100,
+      "mode": "type"
+    },
+    {
+      "id": "406",
+      "title": "Autumn Rivulets - Warble for Lilac-Time",
+      "length": 1694,
+      "mode": "type"
+    },
+    {
+      "id": "407",
+      "title": "Autumn Rivulets - Outlines for a Tomb - 1",
+      "length": 245,
+      "mode": "type"
+    },
+    {
+      "id": "408",
+      "title": "Autumn Rivulets - Outlines for a Tomb - 2",
+      "length": 1595,
+      "mode": "type"
+    },
+    {
+      "id": "409",
+      "title": "Autumn Rivulets - Outlines for a Tomb - 3",
+      "length": 494,
+      "mode": "type"
+    },
+    {
+      "id": "410",
+      "title": "Autumn Rivulets - Out from Behind This Mask - 1",
+      "length": 837,
+      "mode": "type"
+    },
+    {
+      "id": "411",
+      "title": "Autumn Rivulets - Out from Behind This Mask - 2",
+      "length": 492,
+      "mode": "type"
+    },
+    {
+      "id": "412",
+      "title": "Autumn Rivulets - Vocalism - 1",
+      "length": 1040,
+      "mode": "type"
+    },
+    {
+      "id": "413",
+      "title": "Autumn Rivulets - Vocalism - 2",
+      "length": 642,
+      "mode": "type"
+    },
+    {
+      "id": "414",
+      "title": "Autumn Rivulets - To Him That Was Crucified",
+      "length": 1055,
+      "mode": "type"
+    },
+    {
+      "id": "415",
+      "title": "Autumn Rivulets - You Felons on Trial in Courts",
+      "length": 906,
+      "mode": "type"
+    },
+    {
+      "id": "416",
+      "title": "Autumn Rivulets - Laws for Creations",
+      "length": 754,
+      "mode": "type"
+    },
+    {
+      "id": "417",
+      "title": "Autumn Rivulets - To a Common Prostitute",
+      "length": 508,
+      "mode": "type"
+    },
+    {
+      "id": "418",
+      "title": "Autumn Rivulets - I Was Looking a Long While",
+      "length": 703,
+      "mode": "type"
+    },
+    {
+      "id": "419",
+      "title": "Autumn Rivulets - Thought",
+      "length": 692,
+      "mode": "type"
+    },
+    {
+      "id": "420",
+      "title": "Autumn Rivulets - Miracles",
+      "length": 1242,
+      "mode": "type"
+    },
+    {
+      "id": "421",
+      "title": "Autumn Rivulets - Sparkles from the Wheel",
+      "length": 978,
+      "mode": "type"
+    },
+    {
+      "id": "422",
+      "title": "Autumn Rivulets - To a Pupil",
+      "length": 661,
+      "mode": "type"
+    },
+    {
+      "id": "423",
+      "title": "Autumn Rivulets - Unfolded Out of the Folds",
+      "length": 1104,
+      "mode": "type"
+    },
+    {
+      "id": "424",
+      "title": "Autumn Rivulets - What Am I After All",
+      "length": 257,
+      "mode": "type"
+    },
+    {
+      "id": "425",
+      "title": "Autumn Rivulets - Kosmos",
+      "length": 1035,
+      "mode": "type"
+    },
+    {
+      "id": "426",
+      "title": "Autumn Rivulets - Others May Praise What They Like",
+      "length": 230,
+      "mode": "type"
+    },
+    {
+      "id": "427",
+      "title": "Autumn Rivulets - Who Learns My Lesson Complete?",
+      "length": 2078,
+      "mode": "type"
+    },
+    {
+      "id": "428",
+      "title": "Autumn Rivulets - Tests",
+      "length": 403,
+      "mode": "type"
+    },
+    {
+      "id": "429",
+      "title": "Autumn Rivulets - The Torch",
+      "length": 253,
+      "mode": "type"
+    },
+    {
+      "id": "430",
+      "title": "Autumn Rivulets - O Star of France",
+      "length": 1891,
+      "mode": "type"
+    },
+    {
+      "id": "431",
+      "title": "Autumn Rivulets - The Ox-Tamer",
+      "length": 1509,
+      "mode": "type"
+    },
+    {
+      "id": "432",
+      "title": "Autumn Rivulets - An Old Man's Thought of School",
+      "length": 983,
+      "mode": "type"
+    },
+    {
+      "id": "433",
+      "title": "Autumn Rivulets - Wandering at Morn",
+      "length": 784,
+      "mode": "type"
+    },
+    {
+      "id": "434",
+      "title": "Autumn Rivulets - Italian Music in Dakota",
+      "length": 902,
+      "mode": "type"
+    },
+    {
+      "id": "435",
+      "title": "Autumn Rivulets - With All Thy Gifts",
+      "length": 438,
+      "mode": "type"
+    },
+    {
+      "id": "436",
+      "title": "Autumn Rivulets - My Picture-Gallery",
+      "length": 370,
+      "mode": "type"
+    },
+    {
+      "id": "437",
+      "title": "Autumn Rivulets - The Prairie States",
+      "length": 319,
+      "mode": "type"
+    },
+    {
+      "id": "438",
+      "title": "Proud Music of the Storm - 1",
+      "length": 701,
+      "mode": "type"
+    },
+    {
+      "id": "439",
+      "title": "Proud Music of the Storm - 2",
+      "length": 2387,
+      "mode": "type"
+    },
+    {
+      "id": "440",
+      "title": "Proud Music of the Storm - 3",
+      "length": 1888,
+      "mode": "type"
+    },
+    {
+      "id": "441",
+      "title": "Proud Music of the Storm - 4",
+      "length": 1554,
+      "mode": "type"
+    },
+    {
+      "id": "442",
+      "title": "Proud Music of the Storm - 5",
+      "length": 1080,
+      "mode": "type"
+    },
+    {
+      "id": "443",
+      "title": "Proud Music of the Storm - 6",
+      "length": 1193,
+      "mode": "type"
+    },
+    {
+      "id": "444",
+      "title": "Passage to India - 1",
+      "length": 719,
+      "mode": "type"
+    },
+    {
+      "id": "445",
+      "title": "Passage to India - 2",
+      "length": 1179,
+      "mode": "type"
+    },
+    {
+      "id": "446",
+      "title": "Passage to India - 3",
+      "length": 1733,
+      "mode": "type"
+    },
+    {
+      "id": "447",
+      "title": "Passage to India - 4",
+      "length": 633,
+      "mode": "type"
+    },
+    {
+      "id": "448",
+      "title": "Passage to India - 5",
+      "length": 2156,
+      "mode": "type"
+    },
+    {
+      "id": "449",
+      "title": "Passage to India - 6",
+      "length": 2545,
+      "mode": "type"
+    },
+    {
+      "id": "450",
+      "title": "Passage to India - 7",
+      "length": 401,
+      "mode": "type"
+    },
+    {
+      "id": "451",
+      "title": "Passage to India - 8",
+      "length": 2465,
+      "mode": "type"
+    },
+    {
+      "id": "452",
+      "title": "Passage to India - 9",
+      "length": 1489,
+      "mode": "type"
+    },
+    {
+      "id": "453",
+      "title": "Prayer of Columbus",
+      "length": 3202,
+      "mode": "type"
+    },
+    {
+      "id": "454",
+      "title": "The Sleepers - 1",
+      "length": 3693,
+      "mode": "type"
+    },
+    {
+      "id": "455",
+      "title": "The Sleepers - 2",
+      "length": 691,
+      "mode": "type"
+    },
+    {
+      "id": "456",
+      "title": "The Sleepers - 3",
+      "length": 814,
+      "mode": "type"
+    },
+    {
+      "id": "457",
+      "title": "The Sleepers - 4",
+      "length": 611,
+      "mode": "type"
+    },
+    {
+      "id": "458",
+      "title": "The Sleepers - 5",
+      "length": 743,
+      "mode": "type"
+    },
+    {
+      "id": "459",
+      "title": "The Sleepers - 6",
+      "length": 1143,
+      "mode": "type"
+    },
+    {
+      "id": "460",
+      "title": "The Sleepers - 7",
+      "length": 3201,
+      "mode": "type"
+    },
+    {
+      "id": "461",
+      "title": "The Sleepers - 8",
+      "length": 1950,
+      "mode": "type"
+    },
+    {
+      "id": "462",
+      "title": "Transpositions",
+      "length": 317,
+      "mode": "type"
+    },
+    {
+      "id": "463",
+      "title": "To Think of Time - 1",
+      "length": 589,
+      "mode": "type"
+    },
+    {
+      "id": "464",
+      "title": "To Think of Time - 2",
+      "length": 903,
+      "mode": "type"
+    },
+    {
+      "id": "465",
+      "title": "To Think of Time - 3",
+      "length": 659,
+      "mode": "type"
+    },
+    {
+      "id": "466",
+      "title": "To Think of Time - 4",
+      "length": 1536,
+      "mode": "type"
+    },
+    {
+      "id": "467",
+      "title": "To Think of Time - 5",
+      "length": 928,
+      "mode": "type"
+    },
+    {
+      "id": "468",
+      "title": "To Think of Time - 6",
+      "length": 603,
+      "mode": "type"
+    },
+    {
+      "id": "469",
+      "title": "To Think of Time - 7",
+      "length": 1023,
+      "mode": "type"
+    },
+    {
+      "id": "470",
+      "title": "To Think of Time - 8",
+      "length": 1972,
+      "mode": "type"
+    },
+    {
+      "id": "471",
+      "title": "To Think of Time - 9",
+      "length": 405,
+      "mode": "type"
+    },
+    {
+      "id": "472",
+      "title": "Whispers of Heavenly Death - Darest Thou Now O Soul",
+      "length": 671,
+      "mode": "type"
+    },
+    {
+      "id": "473",
+      "title": "Whispers of Heavenly Death - Whispers of Heavenly Death",
+      "length": 600,
+      "mode": "type"
+    },
+    {
+      "id": "474",
+      "title": "Whispers of Heavenly Death - Chanting the Square Deific - 1",
+      "length": 827,
+      "mode": "type"
+    },
+    {
+      "id": "475",
+      "title": "Whispers of Heavenly Death - Chanting the Square Deific - 2",
+      "length": 973,
+      "mode": "type"
+    },
+    {
+      "id": "476",
+      "title": "Whispers of Heavenly Death - Chanting the Square Deific - 3",
+      "length": 656,
+      "mode": "type"
+    },
+    {
+      "id": "477",
+      "title": "Whispers of Heavenly Death - Chanting the Square Deific - 4",
+      "length": 614,
+      "mode": "type"
+    },
+    {
+      "id": "478",
+      "title": "Whispers of Heavenly Death - Of Him I Love Day and Night",
+      "length": 1049,
+      "mode": "type"
+    },
+    {
+      "id": "479",
+      "title": "Whispers of Heavenly Death - Yet, Yet, Ye Downcast Hours",
+      "length": 767,
+      "mode": "type"
+    },
+    {
+      "id": "480",
+      "title": "Whispers of Heavenly Death - As if a Phantom Caress'd Me",
+      "length": 314,
+      "mode": "type"
+    },
+    {
+      "id": "481",
+      "title": "Whispers of Heavenly Death - Assurances",
+      "length": 1553,
+      "mode": "type"
+    },
+    {
+      "id": "482",
+      "title": "Whispers of Heavenly Death - Quicksand Years",
+      "length": 407,
+      "mode": "type"
+    },
+    {
+      "id": "483",
+      "title": "Whispers of Heavenly Death - That Music Always Round Me",
+      "length": 754,
+      "mode": "type"
+    },
+    {
+      "id": "484",
+      "title": "Whispers of Heavenly Death - What Ship Puzzled at Sea",
+      "length": 264,
+      "mode": "type"
+    },
+    {
+      "id": "485",
+      "title": "Whispers of Heavenly Death - A Noiseless Patient Spider",
+      "length": 552,
+      "mode": "type"
+    },
+    {
+      "id": "486",
+      "title": "Whispers of Heavenly Death - O Living Always, Always Dying",
+      "length": 363,
+      "mode": "type"
+    },
+    {
+      "id": "487",
+      "title": "Whispers of Heavenly Death - To One Shortly to Die",
+      "length": 916,
+      "mode": "type"
+    },
+    {
+      "id": "488",
+      "title": "Whispers of Heavenly Death - Night on the Prairies",
+      "length": 1104,
+      "mode": "type"
+    },
+    {
+      "id": "489",
+      "title": "Whispers of Heavenly Death - Thought",
+      "length": 849,
+      "mode": "type"
+    },
+    {
+      "id": "490",
+      "title": "Whispers of Heavenly Death - The Last Invocation",
+      "length": 380,
+      "mode": "type"
+    },
+    {
+      "id": "491",
+      "title": "Whispers of Heavenly Death - As I Watch'd the Ploughman Ploughing",
+      "length": 218,
+      "mode": "type"
+    },
+    {
+      "id": "492",
+      "title": "Whispers of Heavenly Death - Pensive and Faltering",
+      "length": 149,
+      "mode": "type"
+    },
+    {
+      "id": "493",
+      "title": "Thou Mother with Thy Equal Brood - 1",
+      "length": 605,
+      "mode": "type"
+    },
+    {
+      "id": "494",
+      "title": "Thou Mother with Thy Equal Brood - 2",
+      "length": 1244,
+      "mode": "type"
+    },
+    {
+      "id": "495",
+      "title": "Thou Mother with Thy Equal Brood - 3",
+      "length": 884,
+      "mode": "type"
+    },
+    {
+      "id": "496",
+      "title": "Thou Mother with Thy Equal Brood - 4",
+      "length": 709,
+      "mode": "type"
+    },
+    {
+      "id": "497",
+      "title": "Thou Mother with Thy Equal Brood - 5",
+      "length": 2989,
+      "mode": "type"
+    },
+    {
+      "id": "498",
+      "title": "Thou Mother with Thy Equal Brood - 6",
+      "length": 2090,
+      "mode": "type"
+    },
+    {
+      "id": "499",
+      "title": "A Paumanok Picture",
+      "length": 607,
+      "mode": "type"
+    },
+    {
+      "id": "500",
+      "title": "From Noon to Starry Night - Thou Orb Aloft Full-Dazzling",
+      "length": 1471,
+      "mode": "type"
+    },
+    {
+      "id": "501",
+      "title": "From Noon to Starry Night - Faces - 1",
+      "length": 1049,
+      "mode": "type"
+    },
+    {
+      "id": "502",
+      "title": "From Noon to Starry Night - Faces - 2",
+      "length": 1084,
+      "mode": "type"
+    },
+    {
+      "id": "503",
+      "title": "From Noon to Starry Night - Faces - 3",
+      "length": 706,
+      "mode": "type"
+    },
+    {
+      "id": "504",
+      "title": "From Noon to Starry Night - Faces - 4",
+      "length": 1212,
+      "mode": "type"
+    },
+    {
+      "id": "505",
+      "title": "From Noon to Starry Night - Faces - 5",
+      "length": 907,
+      "mode": "type"
+    },
+    {
+      "id": "506",
+      "title": "From Noon to Starry Night - The Mystic Trumpeter - 1",
+      "length": 259,
+      "mode": "type"
+    },
+    {
+      "id": "507",
+      "title": "From Noon to Starry Night - The Mystic Trumpeter - 2",
+      "length": 352,
+      "mode": "type"
+    },
+    {
+      "id": "508",
+      "title": "From Noon to Starry Night - The Mystic Trumpeter - 3",
+      "length": 409,
+      "mode": "type"
+    },
+    {
+      "id": "509",
+      "title": "From Noon to Starry Night - The Mystic Trumpeter - 4",
+      "length": 615,
+      "mode": "type"
+    },
+    {
+      "id": "510",
+      "title": "From Noon to Starry Night - The Mystic Trumpeter - 5",
+      "length": 776,
+      "mode": "type"
+    },
+    {
+      "id": "511",
+      "title": "From Noon to Starry Night - The Mystic Trumpeter - 6",
+      "length": 541,
+      "mode": "type"
+    },
+    {
+      "id": "512",
+      "title": "From Noon to Starry Night - The Mystic Trumpeter - 7",
+      "length": 639,
+      "mode": "type"
+    },
+    {
+      "id": "513",
+      "title": "From Noon to Starry Night - The Mystic Trumpeter - 8",
+      "length": 830,
+      "mode": "type"
+    },
+    {
+      "id": "514",
+      "title": "From Noon to Starry Night - To a Locomotive in Winter",
+      "length": 1524,
+      "mode": "type"
+    },
+    {
+      "id": "515",
+      "title": "From Noon to Starry Night - O Magnet-South",
+      "length": 2261,
+      "mode": "type"
+    },
+    {
+      "id": "516",
+      "title": "From Noon to Starry Night - Mannahatta",
+      "length": 1670,
+      "mode": "type"
+    },
+    {
+      "id": "517",
+      "title": "From Noon to Starry Night - All Is Truth",
+      "length": 1234,
+      "mode": "type"
+    },
+    {
+      "id": "518",
+      "title": "From Noon to Starry Night - A Riddle Song",
+      "length": 1883,
+      "mode": "type"
+    },
+    {
+      "id": "519",
+      "title": "From Noon to Starry Night - Excelsior",
+      "length": 1065,
+      "mode": "type"
+    },
+    {
+      "id": "520",
+      "title": "From Noon to Starry Night - Ah Poverties, Wincings, and Sulky Retreats",
+      "length": 708,
+      "mode": "type"
+    },
+    {
+      "id": "521",
+      "title": "From Noon to Starry Night - Thoughts",
+      "length": 872,
+      "mode": "type"
+    },
+    {
+      "id": "522",
+      "title": "From Noon to Starry Night - Mediums",
+      "length": 913,
+      "mode": "type"
+    },
+    {
+      "id": "523",
+      "title": "From Noon to Starry Night - Weave In, My Hardy Life",
+      "length": 579,
+      "mode": "type"
+    },
+    {
+      "id": "524",
+      "title": "From Noon to Starry Night - Spain, 1873 - 74",
+      "length": 666,
+      "mode": "type"
+    },
+    {
+      "id": "525",
+      "title": "From Noon to Starry Night - By Broad Potomac's Shore",
+      "length": 661,
+      "mode": "type"
+    },
+    {
+      "id": "526",
+      "title": "From Noon to Starry Night - From Far Dakota's Canyons",
+      "length": 1371,
+      "mode": "type"
+    },
+    {
+      "id": "527",
+      "title": "From Noon to Starry Night - Old War-Dreams",
+      "length": 656,
+      "mode": "type"
+    },
+    {
+      "id": "528",
+      "title": "From Noon to Starry Night - Thick-Sprinkled Bunting",
+      "length": 511,
+      "mode": "type"
+    },
+    {
+      "id": "529",
+      "title": "From Noon to Starry Night - What Best I See in Thee",
+      "length": 692,
+      "mode": "type"
+    },
+    {
+      "id": "530",
+      "title": "From Noon to Starry Night - Spirit That Form'd This Scene",
+      "length": 667,
+      "mode": "type"
+    },
+    {
+      "id": "531",
+      "title": "From Noon to Starry Night - As I Walk These Broad Majestic Days",
+      "length": 1236,
+      "mode": "type"
+    },
+    {
+      "id": "532",
+      "title": "From Noon to Starry Night - A Clear Midnight",
+      "length": 242,
+      "mode": "type"
+    },
+    {
+      "id": "533",
+      "title": "Songs of Parting - As the Time Draws Nigh",
+      "length": 445,
+      "mode": "type"
+    },
+    {
+      "id": "534",
+      "title": "Songs of Parting - Years of the Modern",
+      "length": 2207,
+      "mode": "type"
+    },
+    {
+      "id": "535",
+      "title": "Songs of Parting - Ashes of Soldiers",
+      "length": 2197,
+      "mode": "type"
+    },
+    {
+      "id": "536",
+      "title": "Songs of Parting - Thoughts - 1",
+      "length": 1575,
+      "mode": "type"
+    },
+    {
+      "id": "537",
+      "title": "Songs of Parting - Thoughts - 2",
+      "length": 1351,
+      "mode": "type"
+    },
+    {
+      "id": "538",
+      "title": "Songs of Parting - Song at Sunset",
+      "length": 3096,
+      "mode": "type"
+    },
+    {
+      "id": "539",
+      "title": "Songs of Parting - As at Thy Portals Also Death",
+      "length": 572,
+      "mode": "type"
+    },
+    {
+      "id": "540",
+      "title": "Songs of Parting - My Legacy",
+      "length": 603,
+      "mode": "type"
+    },
+    {
+      "id": "541",
+      "title": "Songs of Parting - Pensive on Her Dead Gazing",
+      "length": 1247,
+      "mode": "type"
+    },
+    {
+      "id": "542",
+      "title": "Songs of Parting - Camps of Green",
+      "length": 1516,
+      "mode": "type"
+    },
+    {
+      "id": "543",
+      "title": "Songs of Parting - The Sobbing of the Bells",
+      "length": 397,
+      "mode": "type"
+    },
+    {
+      "id": "544",
+      "title": "Songs of Parting - As They Draw to a Close",
+      "length": 731,
+      "mode": "type"
+    },
+    {
+      "id": "545",
+      "title": "Songs of Parting - Joy, Shipmate, Joy!",
+      "length": 223,
+      "mode": "type"
+    },
+    {
+      "id": "546",
+      "title": "Songs of Parting - The Untold Want",
+      "length": 94,
+      "mode": "type"
+    },
+    {
+      "id": "547",
+      "title": "Songs of Parting - Portals",
+      "length": 107,
+      "mode": "type"
+    },
+    {
+      "id": "548",
+      "title": "Songs of Parting - These Carols",
+      "length": 113,
+      "mode": "type"
+    },
+    {
+      "id": "549",
+      "title": "Songs of Parting - Now Finale to the Shore",
+      "length": 429,
+      "mode": "type"
+    },
+    {
+      "id": "550",
+      "title": "Songs of Parting - So Long!",
+      "length": 4045,
+      "mode": "type"
+    },
+    {
+      "id": "551",
+      "title": "Sands at Seventy - Mannahatta",
+      "length": 188,
+      "mode": "type"
+    },
+    {
+      "id": "552",
+      "title": "Sands at Seventy - Paumanok",
+      "length": 326,
+      "mode": "type"
+    },
+    {
+      "id": "553",
+      "title": "Sands at Seventy - From Montauk Point",
+      "length": 268,
+      "mode": "type"
+    },
+    {
+      "id": "554",
+      "title": "Sands at Seventy - To Those Who've Fail'd",
+      "length": 398,
+      "mode": "type"
+    },
+    {
+      "id": "555",
+      "title": "Sands at Seventy - A Carol Closing Sixty-Nine",
+      "length": 571,
+      "mode": "type"
+    },
+    {
+      "id": "556",
+      "title": "Sands at Seventy - The Bravest Soldiers",
+      "length": 145,
+      "mode": "type"
+    },
+    {
+      "id": "557",
+      "title": "Sands at Seventy - A Font of Type",
+      "length": 315,
+      "mode": "type"
+    },
+    {
+      "id": "558",
+      "title": "Sands at Seventy - As I Sit Writing Here",
+      "length": 205,
+      "mode": "type"
+    },
+    {
+      "id": "559",
+      "title": "Sands at Seventy - My Canary Bird",
+      "length": 281,
+      "mode": "type"
+    },
+    {
+      "id": "560",
+      "title": "Sands at Seventy - Queries to My Seventieth Year",
+      "length": 324,
+      "mode": "type"
+    },
+    {
+      "id": "561",
+      "title": "Sands at Seventy - The Wallabout Martyrs",
+      "length": 671,
+      "mode": "type"
+    },
+    {
+      "id": "562",
+      "title": "Sands at Seventy - The First Dandelion",
+      "length": 258,
+      "mode": "type"
+    },
+    {
+      "id": "563",
+      "title": "Sands at Seventy - America",
+      "length": 266,
+      "mode": "type"
+    },
+    {
+      "id": "564",
+      "title": "Sands at Seventy - Memories",
+      "length": 145,
+      "mode": "type"
+    },
+    {
+      "id": "565",
+      "title": "Sands at Seventy - To-day and Thee",
+      "length": 317,
+      "mode": "type"
+    },
+    {
+      "id": "566",
+      "title": "Sands at Seventy - After the Dazzle of Day",
+      "length": 202,
+      "mode": "type"
+    },
+    {
+      "id": "567",
+      "title": "Sands at Seventy - Abraham Lincoln, Born Feb, 1809",
+      "length": 130,
+      "mode": "type"
+    },
+    {
+      "id": "568",
+      "title": "Sands at Seventy - Out of May's Shows Selected",
+      "length": 298,
+      "mode": "type"
+    },
+    {
+      "id": "569",
+      "title": "Sands at Seventy - Halcyon Days",
+      "length": 495,
+      "mode": "type"
+    },
+    {
+      "id": "570",
+      "title": "Sands at Seventy - Fancies at Navesink - The Pilot in the Mist",
+      "length": 449,
+      "mode": "type"
+    },
+    {
+      "id": "571",
+      "title": "Sands at Seventy - Fancies at Navesink - Had I the Choice",
+      "length": 524,
+      "mode": "type"
+    },
+    {
+      "id": "572",
+      "title": "Sands at Seventy - Fancies at Navesink - You Tides with Ceaseless Swell",
+      "length": 533,
+      "mode": "type"
+    },
+    {
+      "id": "573",
+      "title": "Sands at Seventy - Fancies at Navesink - Last of Ebb, and Daylight Waning",
+      "length": 625,
+      "mode": "type"
+    },
+    {
+      "id": "574",
+      "title": "Sands at Seventy - Fancies at Navesink - And Yet Not You Alone",
+      "length": 373,
+      "mode": "type"
+    },
+    {
+      "id": "575",
+      "title": "Sands at Seventy - Fancies at Navesink - Proudly the Flood Comes In",
+      "length": 421,
+      "mode": "type"
+    },
+    {
+      "id": "576",
+      "title": "Sands at Seventy - Fancies at Navesink - By That Long Scan of Waves",
+      "length": 590,
+      "mode": "type"
+    },
+    {
+      "id": "577",
+      "title": "Sands at Seventy - Fancies at Navesink - Then Last of All",
+      "length": 216,
+      "mode": "type"
+    },
+    {
+      "id": "578",
+      "title": "Sands at Seventy - Election Day, November, 1884",
+      "length": 1202,
+      "mode": "type"
+    },
+    {
+      "id": "579",
+      "title": "Sands at Seventy - With Husky-Haughty Lips, O Sea!",
+      "length": 1308,
+      "mode": "type"
+    },
+    {
+      "id": "580",
+      "title": "Sands at Seventy - Death of General Grant",
+      "length": 524,
+      "mode": "type"
+    },
+    {
+      "id": "581",
+      "title": "Sands at Seventy - Red Jacket (from Aloft)",
+      "length": 565,
+      "mode": "type"
+    },
+    {
+      "id": "582",
+      "title": "Sands at Seventy - Washington's Monument, February, 1885",
+      "length": 949,
+      "mode": "type"
+    },
+    {
+      "id": "583",
+      "title": "Sands at Seventy - Of That Blithe Throat of Thine",
+      "length": 803,
+      "mode": "type"
+    },
+    {
+      "id": "584",
+      "title": "Sands at Seventy - Broadway",
+      "length": 640,
+      "mode": "type"
+    },
+    {
+      "id": "585",
+      "title": "Sands at Seventy - To Get the Final Lilt of Songs",
+      "length": 370,
+      "mode": "type"
+    },
+    {
+      "id": "586",
+      "title": "Sands at Seventy - Old Salt Kossabone",
+      "length": 948,
+      "mode": "type"
+    },
+    {
+      "id": "587",
+      "title": "Sands at Seventy - The Dead Tenor",
+      "length": 838,
+      "mode": "type"
+    },
+    {
+      "id": "588",
+      "title": "Sands at Seventy - Continuities",
+      "length": 618,
+      "mode": "type"
+    },
+    {
+      "id": "589",
+      "title": "Sands at Seventy - Yonnondio",
+      "length": 884,
+      "mode": "type"
+    },
+    {
+      "id": "590",
+      "title": "Sands at Seventy - Life",
+      "length": 373,
+      "mode": "type"
+    },
+    {
+      "id": "591",
+      "title": "Sands at Seventy - \"Going Somewhere\"",
+      "length": 577,
+      "mode": "type"
+    },
+    {
+      "id": "592",
+      "title": "Sands at Seventy - Small the Theme of My Chant",
+      "length": 767,
+      "mode": "type"
+    },
+    {
+      "id": "593",
+      "title": "Sands at Seventy - True Conquerors",
+      "length": 385,
+      "mode": "type"
+    },
+    {
+      "id": "594",
+      "title": "Sands at Seventy - The United States to Old World Critics",
+      "length": 292,
+      "mode": "type"
+    },
+    {
+      "id": "595",
+      "title": "Sands at Seventy - The Calming Thought of All",
+      "length": 204,
+      "mode": "type"
+    },
+    {
+      "id": "596",
+      "title": "Sands at Seventy - Thanks in Old Age",
+      "length": 1121,
+      "mode": "type"
+    },
+    {
+      "id": "597",
+      "title": "Sands at Seventy - Life and Death",
+      "length": 183,
+      "mode": "type"
+    },
+    {
+      "id": "598",
+      "title": "Sands at Seventy - The Voice of the Rain",
+      "length": 657,
+      "mode": "type"
+    },
+    {
+      "id": "599",
+      "title": "Sands at Seventy - Soon Shall the Winter's Foil Be Here",
+      "length": 726,
+      "mode": "type"
+    },
+    {
+      "id": "600",
+      "title": "Sands at Seventy - While Not the Past Forgetting",
+      "length": 327,
+      "mode": "type"
+    },
+    {
+      "id": "601",
+      "title": "Sands at Seventy - The Dying Veteran",
+      "length": 1030,
+      "mode": "type"
+    },
+    {
+      "id": "602",
+      "title": "Sands at Seventy - Stronger Lessons",
+      "length": 268,
+      "mode": "type"
+    },
+    {
+      "id": "603",
+      "title": "Sands at Seventy - A Prairie Sunset",
+      "length": 369,
+      "mode": "type"
+    },
+    {
+      "id": "604",
+      "title": "Sands at Seventy - Twenty Years",
+      "length": 873,
+      "mode": "type"
+    },
+    {
+      "id": "605",
+      "title": "Sands at Seventy - Orange Buds by Mail from Florida",
+      "length": 537,
+      "mode": "type"
+    },
+    {
+      "id": "606",
+      "title": "Sands at Seventy - Twilight",
+      "length": 166,
+      "mode": "type"
+    },
+    {
+      "id": "607",
+      "title": "Sands at Seventy - You Lingering Sparse Leaves of Me",
+      "length": 381,
+      "mode": "type"
+    },
+    {
+      "id": "608",
+      "title": "Sands at Seventy - Not Meagre, Latent Boughs Alone",
+      "length": 370,
+      "mode": "type"
+    },
+    {
+      "id": "609",
+      "title": "Sands at Seventy - The Dead Emperor",
+      "length": 279,
+      "mode": "type"
+    },
+    {
+      "id": "610",
+      "title": "Sands at Seventy - As the Greek's Signal Flame",
+      "length": 347,
+      "mode": "type"
+    },
+    {
+      "id": "611",
+      "title": "Sands at Seventy - The Dismantled Ship",
+      "length": 265,
+      "mode": "type"
+    },
+    {
+      "id": "612",
+      "title": "Sands at Seventy - Now Precedent Songs, Farewell",
+      "length": 948,
+      "mode": "type"
+    },
+    {
+      "id": "613",
+      "title": "Sands at Seventy - An Evening Lull",
+      "length": 167,
+      "mode": "type"
+    },
+    {
+      "id": "614",
+      "title": "Sands at Seventy - Old Age's Lambent Peaks",
+      "length": 522,
+      "mode": "type"
+    },
+    {
+      "id": "615",
+      "title": "Sands at Seventy - After the Supper and Talk",
+      "length": 787,
+      "mode": "type"
+    },
+    {
+      "id": "616",
+      "title": "Goodbye My Fancy - Preface Note to 2nd Annex",
+      "length": 3911,
+      "mode": "skip"
+    },
+    {
+      "id": "617",
+      "title": "Goodbye My Fancy - Sail Out for Good, Eidolon Yacht!",
+      "length": 457,
+      "mode": "type"
+    },
+    {
+      "id": "618",
+      "title": "Goodbye My Fancy - Lingering Last Drops",
+      "length": 234,
+      "mode": "type"
+    },
+    {
+      "id": "619",
+      "title": "Goodbye My Fancy - Good-Bye My Fancy",
+      "length": 190,
+      "mode": "type"
+    },
+    {
+      "id": "620",
+      "title": "Goodbye My Fancy - On, on the Same, Ye Jocund Twain!",
+      "length": 1111,
+      "mode": "type"
+    },
+    {
+      "id": "621",
+      "title": "Goodbye My Fancy - My 71st Year",
+      "length": 409,
+      "mode": "type"
+    },
+    {
+      "id": "622",
+      "title": "Goodbye My Fancy - Apparitions",
+      "length": 172,
+      "mode": "type"
+    },
+    {
+      "id": "623",
+      "title": "Goodbye My Fancy - The Pallid Wreath",
+      "length": 605,
+      "mode": "type"
+    },
+    {
+      "id": "624",
+      "title": "Goodbye My Fancy - An Ended Day",
+      "length": 143,
+      "mode": "type"
+    },
+    {
+      "id": "625",
+      "title": "Goodbye My Fancy - Old Age's Ship & Crafty Death's",
+      "length": 453,
+      "mode": "type"
+    },
+    {
+      "id": "626",
+      "title": "Goodbye My Fancy - To the Pending Year",
+      "length": 394,
+      "mode": "type"
+    },
+    {
+      "id": "627",
+      "title": "Goodbye My Fancy - Shakespeare-Bacon's Cipher",
+      "length": 331,
+      "mode": "type"
+    },
+    {
+      "id": "628",
+      "title": "Goodbye My Fancy - Long, Long Hence",
+      "length": 285,
+      "mode": "type"
+    },
+    {
+      "id": "629",
+      "title": "Goodbye My Fancy - Bravo, Paris Exposition!",
+      "length": 393,
+      "mode": "type"
+    },
+    {
+      "id": "630",
+      "title": "Goodbye My Fancy - Interpolation Sounds",
+      "length": 813,
+      "mode": "type"
+    },
+    {
+      "id": "631",
+      "title": "Goodbye My Fancy - To the Sun-Set Breeze",
+      "length": 1156,
+      "mode": "type"
+    },
+    {
+      "id": "632",
+      "title": "Goodbye My Fancy - Old Chants",
+      "length": 1272,
+      "mode": "type"
+    },
+    {
+      "id": "633",
+      "title": "Goodbye My Fancy - A Christmas Greeting",
+      "length": 621,
+      "mode": "type"
+    },
+    {
+      "id": "634",
+      "title": "Goodbye My Fancy - Sounds of the Winter",
+      "length": 398,
+      "mode": "type"
+    },
+    {
+      "id": "635",
+      "title": "Goodbye My Fancy - A Twilight Song",
+      "length": 1122,
+      "mode": "type"
+    },
+    {
+      "id": "636",
+      "title": "Goodbye My Fancy - When the Full-Grown Poet Came",
+      "length": 478,
+      "mode": "type"
+    },
+    {
+      "id": "637",
+      "title": "Goodbye My Fancy - Osceola",
+      "length": 1173,
+      "mode": "type"
+    },
+    {
+      "id": "638",
+      "title": "Goodbye My Fancy - A Voice from Death",
+      "length": 2267,
+      "mode": "type"
+    },
+    {
+      "id": "639",
+      "title": "Goodbye My Fancy - A Persian Lesson",
+      "length": 952,
+      "mode": "type"
+    },
+    {
+      "id": "640",
+      "title": "Goodbye My Fancy - The Commonplace",
+      "length": 385,
+      "mode": "type"
+    },
+    {
+      "id": "641",
+      "title": "Goodbye My Fancy - \"The Rounded Catalogue Divine Complete\"",
+      "length": 737,
+      "mode": "type"
+    },
+    {
+      "id": "642",
+      "title": "Goodbye My Fancy - Mirages",
+      "length": 1069,
+      "mode": "type"
+    },
+    {
+      "id": "643",
+      "title": "Goodbye My Fancy - L. of G.'s Purport",
+      "length": 690,
+      "mode": "type"
+    },
+    {
+      "id": "644",
+      "title": "Goodbye My Fancy - The Unexpress'd",
+      "length": 608,
+      "mode": "type"
+    },
+    {
+      "id": "645",
+      "title": "Goodbye My Fancy - Grand Is the Seen",
+      "length": 517,
+      "mode": "type"
+    },
+    {
+      "id": "646",
+      "title": "Goodbye My Fancy - Unseen Buds",
+      "length": 460,
+      "mode": "type"
+    },
+    {
+      "id": "647",
+      "title": "Goodbye My Fancy - Goodbye My Fancy!",
+      "length": 888,
+      "mode": "type"
+    },
+    {
+      "id": "648",
+      "title": "Old Age Echoes - To Soar in Freedom and in Fullness of Power",
+      "length": 323,
+      "mode": "type"
+    },
+    {
+      "id": "649",
+      "title": "Old Age Echoes - Then Shall Perceive",
+      "length": 181,
+      "mode": "type"
+    },
+    {
+      "id": "650",
+      "title": "Old Age Echoes - The Few Drops Known",
+      "length": 372,
+      "mode": "type"
+    },
+    {
+      "id": "651",
+      "title": "Old Age Echoes - One Thought Ever at the Fore",
+      "length": 190,
+      "mode": "type"
+    },
+    {
+      "id": "652",
+      "title": "Old Age Echoes - While Behind All Firm and Erect",
+      "length": 162,
+      "mode": "type"
+    },
+    {
+      "id": "653",
+      "title": "Old Age Echoes - A Kiss to the Bride",
+      "length": 645,
+      "mode": "type"
+    },
+    {
+      "id": "654",
+      "title": "Old Age Echoes - Nay, Tell Me Not To-day the Publish'd Shame",
+      "length": 1115,
+      "mode": "type"
+    },
+    {
+      "id": "655",
+      "title": "Old Age Echoes - Supplement Hours",
+      "length": 497,
+      "mode": "type"
+    },
+    {
+      "id": "656",
+      "title": "Old Age Echoes - Of Many a Smutch'd Deed Reminiscent",
+      "length": 297,
+      "mode": "type"
+    },
+    {
+      "id": "657",
+      "title": "Old Age Echoes - To Be at All",
+      "length": 615,
+      "mode": "type"
+    },
+    {
+      "id": "658",
+      "title": "Old Age Echoes - Death's Valley",
+      "length": 1287,
+      "mode": "type"
+    },
+    {
+      "id": "659",
+      "title": "Old Age Echoes - On the Same Picture",
+      "length": 497,
+      "mode": "type"
+    },
+    {
+      "id": "660",
+      "title": "Old Age Echoes - A Thought of Columbus",
+      "length": 1555,
+      "mode": "type"
+    },
+    {
+      "id": "661",
+      "title": "A Backward Glance O'er Travel'd Roads",
+      "length": 35895,
+      "mode": "type"
+    },
+    {
+      "id": "662",
+      "title": "Endnotes",
+      "length": 5249,
+      "mode": "skip"
+    },
+    {
+      "id": "663",
+      "title": "Colophon",
+      "length": 1039,
+      "mode": "hide"
+    },
+    {
+      "id": "664",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL16333W",
+  "goodreadsId": "1979081",
+  "rating": 0.8240000000000001,
+  "popularity": 103858,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720831859568
+}

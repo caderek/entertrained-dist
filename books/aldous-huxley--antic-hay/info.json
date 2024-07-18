@@ -1,1 +1,176 @@
-{"id":"aldous-huxley--antic-hay","title":"Antic Hay","titleAlpha":"antic hay","author":"Aldous Huxley","language":"en","description":"A group of 1920s London socialites struggle with their futures.","longDescription":["Theodore Gumbril Junior is fed up with his job as a teacher, and tries a new tack as an inventor of pneumatic trousers. The development and marketing of these is set against his attempts to find love, and the backdrop of his friends' and acquaintances' similar quest for meaning in what seems to them a meaningless world.","Aldous Huxley, although primarily known these days for his seminal work Brave New World, gained fame in the 1920s as a writer of social satires such as this, his second novel. Condemned at the time for its frank treatment of sexuality and adultery - it was even banned in Australia - the book's characters' comic lack of stability following the society-wide alignment of the Great War still resonates today."],"year":2019,"genres":["comedy","fiction","satire"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/aldous-huxley/antic-hay"},"series":null,"part":0,"chapters":[{"id":"001","title":"Epigraph","length":88,"skip":true},{"id":"002","title":"I","length":23289,"skip":false},{"id":"003","title":"II","length":27990,"skip":false},{"id":"004","title":"III","length":27284,"skip":false},{"id":"005","title":"IV","length":24235,"skip":false},{"id":"006","title":"V","length":31189,"skip":false},{"id":"007","title":"VI","length":25843,"skip":false},{"id":"008","title":"VII","length":11195,"skip":false},{"id":"009","title":"VIII","length":9708,"skip":false},{"id":"010","title":"IX","length":43515,"skip":false},{"id":"011","title":"X","length":27779,"skip":false},{"id":"012","title":"XI","length":25862,"skip":false},{"id":"013","title":"XII","length":18816,"skip":false},{"id":"014","title":"XIII","length":14440,"skip":false},{"id":"015","title":"XIV","length":21507,"skip":false},{"id":"016","title":"XV","length":7133,"skip":false},{"id":"017","title":"XVI","length":27917,"skip":false},{"id":"018","title":"XVII","length":17383,"skip":false},{"id":"019","title":"XVIII","length":35609,"skip":false},{"id":"020","title":"XIX","length":13198,"skip":false},{"id":"021","title":"XX","length":14529,"skip":false},{"id":"022","title":"XXI","length":48547,"skip":false},{"id":"023","title":"XXII","length":11938,"skip":false}],"createdAt":1719506666262}
+{
+  "id": "aldous-huxley--antic-hay",
+  "title": "Antic Hay",
+  "titleAlpha": "antic hay",
+  "author": "Aldous Huxley",
+  "language": "en",
+  "description": "A group of 1920s London socialites struggle with their futures.",
+  "longDescription": [
+    "Theodore Gumbril Junior is fed up with his job as a teacher, and tries a new tack as an inventor of pneumatic trousers. The development and marketing of these is set against his attempts to find love, and the backdrop of his friends' and acquaintances' similar quest for meaning in what seems to them a meaningless world.",
+    "Aldous Huxley, although primarily known these days for his seminal work Brave New World, gained fame in the 1920s as a writer of social satires such as this, his second novel. Condemned at the time for its frank treatment of sexuality and adultery - it was even banned in Australia - the book's characters' comic lack of stability following the society-wide alignment of the Great War still resonates today."
+  ],
+  "year": 1923,
+  "genres": [
+    "classics",
+    "comedy",
+    "fiction",
+    "satire"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/aldous-huxley/antic-hay"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Epigraph",
+      "length": 88,
+      "mode": "skip"
+    },
+    {
+      "id": "002",
+      "title": "I",
+      "length": 23289,
+      "mode": "type"
+    },
+    {
+      "id": "003",
+      "title": "II",
+      "length": 27990,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "III",
+      "length": 27284,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "IV",
+      "length": 24235,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "V",
+      "length": 31189,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "VI",
+      "length": 25843,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VII",
+      "length": 11195,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VIII",
+      "length": 9708,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "IX",
+      "length": 43515,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "X",
+      "length": 27779,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "XI",
+      "length": 25862,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XII",
+      "length": 18816,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XIII",
+      "length": 14440,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIV",
+      "length": 21507,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XV",
+      "length": 7133,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XVI",
+      "length": 27917,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVII",
+      "length": 17383,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVIII",
+      "length": 35609,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XIX",
+      "length": 13198,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XX",
+      "length": 14529,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XXI",
+      "length": 48547,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXII",
+      "length": 11938,
+      "mode": "type"
+    }
+  ],
+  "openlibraryId": "OL64466W",
+  "goodreadsId": "5839851",
+  "rating": 0.6799999999999999,
+  "popularity": 2346,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720554861864
+}

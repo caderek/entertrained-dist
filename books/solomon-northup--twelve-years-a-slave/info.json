@@ -1,1 +1,241 @@
-{"id":"solomon-northup--twelve-years-a-slave","title":"Twelve Years a Slave","titleAlpha":"twelve years a slave","author":"Solomon Northup","language":"en","description":"The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.","longDescription":["In 1841, Solomon Northup was a free black man, married with three children and living in upstate New York, when he was tricked into going to Washington DC. There, he was drugged, kidnapped, and sold into slavery, eventually ending up on a plantation in the Red River area of Louisiana. For twelve years he experienced and witnessed the arbitrary beatings and whippings, around-the-clock back-breaking work, and countless other degradations that came with being enslaved in the antebellum south. Through the sympathetic ear of a white man and with miraculous timing, he was eventually freed and returned home. He then wrote this memoir and contributed to the abolitionist movement before disappearing from the pages of history.","Like Incidents in the Life of a Slave Girl, Twelve Years a Slave stands in stark contrast to the era's bucolic propaganda that the enslaved in the south were well treated, well provided for, and made \"part of the family.\" As a first-hand account, it exposes slavery for what it is: barbaric, dehumanizing, and evil."],"year":2021,"genres":["biography","history","memoir","nonfiction"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave"},"series":null,"part":0,"chapters":[{"id":"001","title":"Epigraph","length":554,"skip":true},{"id":"002","title":"Editor's Preface","length":1667,"skip":true},{"id":"003","title":"I","length":15363,"skip":false},{"id":"004","title":"II","length":16441,"skip":false},{"id":"005","title":"III","length":20112,"skip":false},{"id":"006","title":"IV","length":15719,"skip":false},{"id":"007","title":"V","length":18658,"skip":false},{"id":"008","title":"VI","length":16081,"skip":false},{"id":"009","title":"VII","length":22396,"skip":false},{"id":"010","title":"VIII","length":17378,"skip":false},{"id":"011","title":"IX","length":18275,"skip":false},{"id":"012","title":"X","length":21004,"skip":false},{"id":"013","title":"XI","length":22464,"skip":false},{"id":"014","title":"XII","length":19736,"skip":false},{"id":"015","title":"XIII","length":21243,"skip":false},{"id":"016","title":"XIV","length":24220,"skip":false},{"id":"017","title":"XV","length":20798,"skip":false},{"id":"018","title":"XVI","length":18957,"skip":false},{"id":"019","title":"XVII","length":20284,"skip":false},{"id":"020","title":"XVIII","length":17633,"skip":false},{"id":"021","title":"XIX","length":22852,"skip":false},{"id":"022","title":"XX","length":14022,"skip":false},{"id":"023","title":"XXI","length":29448,"skip":false},{"id":"024","title":"XXII","length":17666,"skip":false},{"id":"025","title":"Appendix - A","length":2473,"skip":false},{"id":"026","title":"Appendix - B","length":17366,"skip":false},{"id":"027","title":"Appendix - C","length":1942,"skip":false},{"id":"028","title":"Endnotes","length":54,"skip":true}],"createdAt":1719507247876}
+{
+  "id": "solomon-northup--twelve-years-a-slave",
+  "title": "Twelve Years a Slave",
+  "titleAlpha": "twelve years a slave",
+  "author": "Solomon Northup",
+  "language": "en",
+  "description": "The account of a free black man kidnapped in 1841 and sold into slavery, from which it took twelve years to free himself.",
+  "longDescription": [
+    "In 1841, Solomon Northup was a free black man, married with three children and living in upstate New York, when he was tricked into going to Washington DC. There, he was drugged, kidnapped, and sold into slavery, eventually ending up on a plantation in the Red River area of Louisiana. For twelve years he experienced and witnessed the arbitrary beatings and whippings, around-the-clock back-breaking work, and countless other degradations that came with being enslaved in the antebellum south. Through the sympathetic ear of a white man and with miraculous timing, he was eventually freed and returned home. He then wrote this memoir and contributed to the abolitionist movement before disappearing from the pages of history.",
+    "Like Incidents in the Life of a Slave Girl, Twelve Years a Slave stands in stark contrast to the era's bucolic propaganda that the enslaved in the south were well treated, well provided for, and made \"part of the family.\" As a first-hand account, it exposes slavery for what it is: barbaric, dehumanizing, and evil."
+  ],
+  "year": 1853,
+  "genres": [
+    "biography",
+    "classics",
+    "history",
+    "memoir",
+    "nonfiction",
+    "autobiography"
+  ],
+  "topics": [
+    "african-americans",
+    "slavery"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Twelve Years a Slave",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 497,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Epigraph",
+      "length": 554,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Editor's Preface",
+      "length": 1667,
+      "mode": "hide"
+    },
+    {
+      "id": "006",
+      "title": "I",
+      "length": 15363,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "II",
+      "length": 16441,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "III",
+      "length": 20112,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "IV",
+      "length": 15719,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "V",
+      "length": 18658,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VI",
+      "length": 16081,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VII",
+      "length": 22396,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "VIII",
+      "length": 17378,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "IX",
+      "length": 18275,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "X",
+      "length": 21004,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XI",
+      "length": 22464,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XII",
+      "length": 19736,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIII",
+      "length": 21243,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XIV",
+      "length": 24220,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XV",
+      "length": 20798,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVI",
+      "length": 18957,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVII",
+      "length": 20284,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XVIII",
+      "length": 17633,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XIX",
+      "length": 22852,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XX",
+      "length": 14022,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXI",
+      "length": 29448,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXII",
+      "length": 17666,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Appendix - A",
+      "length": 2473,
+      "mode": "skip"
+    },
+    {
+      "id": "029",
+      "title": "Appendix - B",
+      "length": 17366,
+      "mode": "skip"
+    },
+    {
+      "id": "030",
+      "title": "Appendix - C",
+      "length": 1942,
+      "mode": "skip"
+    },
+    {
+      "id": "031",
+      "title": "Endnotes",
+      "length": 54,
+      "mode": "hide"
+    },
+    {
+      "id": "032",
+      "title": "Colophon",
+      "length": 1062,
+      "mode": "hide"
+    },
+    {
+      "id": "033",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL78871W",
+  "goodreadsId": "18478222",
+  "rating": 0.844,
+  "popularity": 118666,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720831787358
+}

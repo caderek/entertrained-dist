@@ -1,1 +1,288 @@
-{"id":"charlotte-bronte--jane-eyre","title":"Jane Eyre","titleAlpha":"jane eyre","author":"Charlotte Brontë","language":"en","description":"A woman is hired by the mysterious master of Thornfield Hall as a governess for his young ward.","longDescription":["Jane Eyre experienced abuse at a young age, not only from her aunt - who raised her after both her parents died - but also from the headmaster of Lowood Institution, where she is sent away to. After ten years of living and teaching at Lowood Jane decides she is ready to see more of the world and takes a position as a governess at Thornfield Hall. Jane later meets the mysterious master of Thornfield Hall, Mr. Rochester, and becomes drawn to him.","Charlotte Bronte published Jane Eyre: An Autobiography on October 16th 1847 using the pen name \"Currer Bell.\" The novel is known for revolutionizing prose fiction, and is considered to be ahead of its time because of how it deals with topics of class, religion, and feminism."],"year":2019,"genres":["coming-of-age","fiction","romance"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/charlotte-bronte/jane-eyre"},"series":null,"part":0,"chapters":[{"id":"001","title":"Preface","length":4563,"skip":true},{"id":"002","title":"Note to the Third Edition","length":524,"skip":false},{"id":"003","title":"I","length":10816,"skip":false},{"id":"004","title":"II","length":15325,"skip":false},{"id":"005","title":"III","length":17486,"skip":false},{"id":"006","title":"IV","length":31841,"skip":false},{"id":"007","title":"V","length":27676,"skip":false},{"id":"008","title":"VI","length":15968,"skip":false},{"id":"009","title":"VII","length":20078,"skip":false},{"id":"010","title":"VIII","length":16473,"skip":false},{"id":"011","title":"IX","length":17723,"skip":false},{"id":"012","title":"X","length":23909,"skip":false},{"id":"013","title":"XI","length":35267,"skip":false},{"id":"014","title":"XII","length":22885,"skip":false},{"id":"015","title":"XIII","length":22167,"skip":false},{"id":"016","title":"XIV","length":27209,"skip":false},{"id":"017","title":"XV","length":27421,"skip":false},{"id":"018","title":"XVI","length":21144,"skip":false},{"id":"019","title":"XVII","length":45070,"skip":false},{"id":"020","title":"XVIII","length":33539,"skip":false},{"id":"021","title":"XIX","length":20387,"skip":false},{"id":"022","title":"XX","length":31967,"skip":false},{"id":"023","title":"XXI","length":47563,"skip":false},{"id":"024","title":"XXII","length":15367,"skip":false},{"id":"025","title":"XXIII","length":21179,"skip":false},{"id":"026","title":"XXIV","length":38302,"skip":false},{"id":"027","title":"XXV","length":26990,"skip":false},{"id":"028","title":"XXVI","length":23625,"skip":false},{"id":"029","title":"XXVII","length":59889,"skip":false},{"id":"030","title":"XXVIII","length":36856,"skip":false},{"id":"031","title":"XXIX","length":24558,"skip":false},{"id":"032","title":"XXX","length":21013,"skip":false},{"id":"033","title":"XXXI","length":16976,"skip":false},{"id":"034","title":"XXXII","length":25886,"skip":false},{"id":"035","title":"XXXIII","length":26586,"skip":false},{"id":"036","title":"XXXIV","length":50865,"skip":false},{"id":"037","title":"XXXV","length":23387,"skip":false},{"id":"038","title":"XXXVI","length":21114,"skip":false},{"id":"039","title":"XXXVII","length":40090,"skip":false},{"id":"040","title":"XXXVIII: Conclusion","length":9724,"skip":false},{"id":"041","title":"Endnotes","length":2243,"skip":true}],"createdAt":1719506787011}
+{
+  "id": "charlotte-bronte--jane-eyre",
+  "title": "Jane Eyre",
+  "titleAlpha": "jane eyre",
+  "author": "Charlotte Brontë",
+  "language": "en",
+  "description": "A woman is hired by the mysterious master of Thornfield Hall as a governess for his young ward.",
+  "longDescription": [
+    "Jane Eyre experienced abuse at a young age, not only from her aunt - who raised her after both her parents died - but also from the headmaster of Lowood Institution, where she is sent away to. After ten years of living and teaching at Lowood Jane decides she is ready to see more of the world and takes a position as a governess at Thornfield Hall. Jane later meets the mysterious master of Thornfield Hall, Mr. Rochester, and becomes drawn to him.",
+    "Charlotte Bronte published Jane Eyre: An Autobiography on October 16th 1847 using the pen name \"Currer Bell.\" The novel is known for revolutionizing prose fiction, and is considered to be ahead of its time because of how it deals with topics of class, religion, and feminism."
+  ],
+  "year": 1847,
+  "genres": [
+    "classics",
+    "coming-of-age",
+    "fiction",
+    "romance",
+    "gothic"
+  ],
+  "topics": [
+    "school",
+    "country"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/charlotte-bronte/jane-eyre"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Preface",
+      "length": 4563,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Note to the Third Edition",
+      "length": 524,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I",
+      "length": 10816,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II",
+      "length": 15325,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III",
+      "length": 17486,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV",
+      "length": 31841,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V",
+      "length": 27676,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI",
+      "length": 15968,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII",
+      "length": 20078,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII",
+      "length": 16473,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX",
+      "length": 17723,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X",
+      "length": 23909,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI",
+      "length": 35267,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII",
+      "length": 22885,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII",
+      "length": 22167,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV",
+      "length": 27209,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV",
+      "length": 27421,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI",
+      "length": 21144,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII",
+      "length": 45070,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII",
+      "length": 33539,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX",
+      "length": 20387,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX",
+      "length": 31967,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI",
+      "length": 47563,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII",
+      "length": 15367,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII",
+      "length": 21179,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV",
+      "length": 38302,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXV",
+      "length": 26990,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXVI",
+      "length": 23625,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVII",
+      "length": 59889,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVIII",
+      "length": 36856,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXIX",
+      "length": 24558,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXX",
+      "length": 21013,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXXI",
+      "length": 16976,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXXII",
+      "length": 25886,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXIII",
+      "length": 26586,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXIV",
+      "length": 50865,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXV",
+      "length": 23387,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXVI",
+      "length": 21114,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXVII",
+      "length": 40090,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXVIII: Conclusion",
+      "length": 9724,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Endnotes",
+      "length": 2243,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1095427W",
+  "goodreadsId": "1370392",
+  "rating": 0.8300000000000001,
+  "popularity": 2114255,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720555029537
+}

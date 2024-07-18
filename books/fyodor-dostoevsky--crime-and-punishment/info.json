@@ -1,1 +1,299 @@
-{"id":"fyodor-dostoevsky--crime-and-punishment","title":"Crime and Punishment","titleAlpha":"crime and punishment","author":"Fyodor Dostoevsky","language":"en","description":"Inflated by his own ambition, Raskolnikov murders a pawnbroker then faces the inevitable consequences.","longDescription":["Crime and Punishment tells the story of Rodion Raskolnikov, an ex-student who plans to murder a pawnbroker to test his theory of personality. Having accomplished the deed, Raskolnikov struggles with mental anguish while trying to both avoid the consequences and hide his guilt from his friends and family.","Dostoevsky's original idea for the novel centered on the Marmeladov family and the impact of alcoholism in Russia, but inspired by a double murder in France he decided to rework it around the new character of Raskolnikov. The novel was first serialized in The Russian Messenger over the course of 1866, where it was an instant success. It was published in a single volume in 1867. Presented here is Constance Garnett's 1914 translation."],"year":2017,"genres":["fiction","mystery","psychological"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/fyodor-dostoevsky/crime-and-punishment/constance-garnett"},"series":null,"part":0,"chapters":[{"id":"001","title":"Translator's Preface","length":4432,"skip":true},{"id":"002","title":"Part I - I","length":18214,"skip":false},{"id":"003","title":"Part I - II","length":39890,"skip":false},{"id":"004","title":"Part I - III","length":29698,"skip":false},{"id":"005","title":"Part I - IV","length":27721,"skip":false},{"id":"006","title":"Part I - V","length":22911,"skip":false},{"id":"007","title":"Part I - VI","length":27433,"skip":false},{"id":"008","title":"Part I - VII","length":26145,"skip":false},{"id":"009","title":"Part II - I","length":37251,"skip":false},{"id":"010","title":"Part II - II","length":22843,"skip":false},{"id":"011","title":"Part II - III","length":29081,"skip":false},{"id":"012","title":"Part II - IV","length":22372,"skip":false},{"id":"013","title":"Part II - V","length":23325,"skip":false},{"id":"014","title":"Part II - VI","length":41677,"skip":false},{"id":"015","title":"Part II - VII","length":38921,"skip":false},{"id":"016","title":"Part III - I","length":29068,"skip":false},{"id":"017","title":"Part III - II","length":25188,"skip":false},{"id":"018","title":"Part III - III","length":28462,"skip":false},{"id":"019","title":"Part III - IV","length":23738,"skip":false},{"id":"020","title":"Part III - V","length":40172,"skip":false},{"id":"021","title":"Part III - VI","length":23624,"skip":false},{"id":"022","title":"Part IV - I","length":27098,"skip":false},{"id":"023","title":"Part IV - II","length":25985,"skip":false},{"id":"024","title":"Part IV - III","length":16861,"skip":false},{"id":"025","title":"Part IV - IV","length":33671,"skip":false},{"id":"026","title":"Part IV - V","length":39196,"skip":false},{"id":"027","title":"Part IV - VI","length":15362,"skip":false},{"id":"028","title":"Part V - I","length":35254,"skip":false},{"id":"029","title":"Part V - II","length":28526,"skip":false},{"id":"030","title":"Part V - III","length":31405,"skip":false},{"id":"031","title":"Part V - IV","length":35393,"skip":false},{"id":"032","title":"Part V - V","length":28561,"skip":false},{"id":"033","title":"Part VI - I","length":21031,"skip":false},{"id":"034","title":"Part VI - II","length":30169,"skip":false},{"id":"035","title":"Part VI - III","length":20840,"skip":false},{"id":"036","title":"Part VI - IV","length":24370,"skip":false},{"id":"037","title":"Part VI - V","length":30048,"skip":false},{"id":"038","title":"Part VI - VI","length":29949,"skip":false},{"id":"039","title":"Part VI - VII","length":19137,"skip":false},{"id":"040","title":"Part VI - VIII","length":21246,"skip":false},{"id":"041","title":"Epilogue - I","length":17359,"skip":false},{"id":"042","title":"Epilogue - II","length":17901,"skip":false},{"id":"043","title":"Endnotes","length":258,"skip":true}],"createdAt":1719506913356}
+{
+  "id": "fyodor-dostoevsky--crime-and-punishment",
+  "title": "Crime and Punishment",
+  "titleAlpha": "crime and punishment",
+  "author": "Fyodor Dostoevsky",
+  "language": "en",
+  "description": "Inflated by his own ambition, Raskolnikov murders a pawnbroker then faces the inevitable consequences.",
+  "longDescription": [
+    "Crime and Punishment tells the story of Rodion Raskolnikov, an ex-student who plans to murder a pawnbroker to test his theory of personality. Having accomplished the deed, Raskolnikov struggles with mental anguish while trying to both avoid the consequences and hide his guilt from his friends and family.",
+    "Dostoevsky's original idea for the novel centered on the Marmeladov family and the impact of alcoholism in Russia, but inspired by a double murder in France he decided to rework it around the new character of Raskolnikov. The novel was first serialized in The Russian Messenger over the course of 1866, where it was an instant success. It was published in a single volume in 1867. Presented here is Constance Garnett's 1914 translation."
+  ],
+  "year": 1866,
+  "genres": [
+    "classics",
+    "fiction",
+    "mystery",
+    "psychological",
+    "philosophy"
+  ],
+  "topics": [
+    "detective"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/fyodor-dostoevsky/crime-and-punishment/constance-garnett"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Translator's Preface",
+      "length": 4432,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Part I - I",
+      "length": 18214,
+      "mode": "type"
+    },
+    {
+      "id": "003",
+      "title": "Part I - II",
+      "length": 39890,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Part I - III",
+      "length": 29698,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Part I - IV",
+      "length": 27721,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Part I - V",
+      "length": 22911,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Part I - VI",
+      "length": 27433,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Part I - VII",
+      "length": 26145,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Part II - I",
+      "length": 37251,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Part II - II",
+      "length": 22843,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Part II - III",
+      "length": 29081,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Part II - IV",
+      "length": 22372,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Part II - V",
+      "length": 23325,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Part II - VI",
+      "length": 41677,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Part II - VII",
+      "length": 38921,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Part III - I",
+      "length": 29068,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Part III - II",
+      "length": 25188,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Part III - III",
+      "length": 28462,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Part III - IV",
+      "length": 23738,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Part III - V",
+      "length": 40172,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Part III - VI",
+      "length": 23624,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Part IV - I",
+      "length": 27098,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Part IV - II",
+      "length": 25985,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Part IV - III",
+      "length": 16861,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Part IV - IV",
+      "length": 33671,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Part IV - V",
+      "length": 39196,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Part IV - VI",
+      "length": 15362,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Part V - I",
+      "length": 35254,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Part V - II",
+      "length": 28526,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Part V - III",
+      "length": 31405,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Part V - IV",
+      "length": 35393,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Part V - V",
+      "length": 28561,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Part VI - I",
+      "length": 21031,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Part VI - II",
+      "length": 30169,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Part VI - III",
+      "length": 20840,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Part VI - IV",
+      "length": 24370,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Part VI - V",
+      "length": 30048,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Part VI - VI",
+      "length": 29949,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Part VI - VII",
+      "length": 19137,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Part VI - VIII",
+      "length": 21246,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Epilogue - I",
+      "length": 17359,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Epilogue - II",
+      "length": 17901,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Endnotes",
+      "length": 258,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL24574391W",
+  "goodreadsId": "7144",
+  "rating": 0.8539999999999999,
+  "popularity": 923853,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720555254938
+}

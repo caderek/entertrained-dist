@@ -1,1 +1,152 @@
-{"id":"james-joyce--dubliners","title":"Dubliners","titleAlpha":"dubliners","author":"James Joyce","language":"en","description":"Fifteen short stories about middle-class life in early 20th-century Dublin.","longDescription":["Dubliners is a collection of picturesque short stories that paint a portrait of life in middle-class Dublin in the early 20th century. Joyce, a Dublin native, was careful to use actual locations and settings in the city, as well as language and slang in use at the time, to make the stories directly relatable to those who lived there.","The collection had a rocky publication history, with the stories being initially rejected over eighteen times before being provisionally accepted by a publisher - then later rejected again, multiple times. It took Joyce nine years to finally see his stories in print, but not before seeing a printer burn all but one copy of the proofs. Today Dubliners survives as a rich example of not just literary excellence, but of what everyday life was like for average Dubliners in their day."],"year":2014,"genres":["fiction","shorts"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/james-joyce/dubliners"},"series":null,"part":0,"chapters":[{"id":"001","title":"The Sisters","length":16365,"skip":false},{"id":"002","title":"An Encounter","length":17098,"skip":false},{"id":"003","title":"Araby","length":12263,"skip":false},{"id":"004","title":"Eveline","length":9635,"skip":false},{"id":"005","title":"After the Race","length":12559,"skip":false},{"id":"006","title":"Two Gallants","length":21050,"skip":false},{"id":"007","title":"The Boarding House","length":14984,"skip":false},{"id":"008","title":"A Little Cloud","length":27187,"skip":false},{"id":"009","title":"Counterparts","length":22161,"skip":false},{"id":"010","title":"Clay","length":13633,"skip":false},{"id":"011","title":"A Painful Case","length":20185,"skip":false},{"id":"012","title":"Ivy Day in the Committee Room","length":28005,"skip":false},{"id":"013","title":"A Mother","length":25225,"skip":false},{"id":"014","title":"Grace","length":42017,"skip":false},{"id":"015","title":"The Dead","length":85419,"skip":false}],"createdAt":1719507024025}
+{
+  "id": "james-joyce--dubliners",
+  "title": "Dubliners",
+  "titleAlpha": "dubliners",
+  "author": "James Joyce",
+  "language": "en",
+  "description": "Fifteen short stories about middle-class life in early 20th-century Dublin.",
+  "longDescription": [
+    "Dubliners is a collection of picturesque short stories that paint a portrait of life in middle-class Dublin in the early 20th century. Joyce, a Dublin native, was careful to use actual locations and settings in the city, as well as language and slang in use at the time, to make the stories directly relatable to those who lived there.",
+    "The collection had a rocky publication history, with the stories being initially rejected over eighteen times before being provisionally accepted by a publisher - then later rejected again, multiple times. It took Joyce nine years to finally see his stories in print, but not before seeing a printer burn all but one copy of the proofs. Today Dubliners survives as a rich example of not just literary excellence, but of what everyday life was like for average Dubliners in their day."
+  ],
+  "year": 1914,
+  "genres": [
+    "classics",
+    "fiction",
+    "shorts",
+    "history"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/james-joyce/dubliners"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Dubliners",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "The Sisters",
+      "length": 16365,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "An Encounter",
+      "length": 17098,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Araby",
+      "length": 12263,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Eveline",
+      "length": 9635,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "After the Race",
+      "length": 12559,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Two Gallants",
+      "length": 21050,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "The Boarding House",
+      "length": 14984,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "A Little Cloud",
+      "length": 27187,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Counterparts",
+      "length": 22161,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Clay",
+      "length": 13633,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "A Painful Case",
+      "length": 20185,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Ivy Day in the Committee Room",
+      "length": 28005,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "A Mother",
+      "length": 25225,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Grace",
+      "length": 42017,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "The Dead",
+      "length": 85419,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Colophon",
+      "length": 1045,
+      "mode": "hide"
+    },
+    {
+      "id": "019",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL86320W",
+  "goodreadsId": "11012",
+  "rating": 0.768,
+  "popularity": 158688,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720831488621
+}

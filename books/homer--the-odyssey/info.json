@@ -1,1 +1,212 @@
-{"id":"homer--the-odyssey","title":"The Odyssey","titleAlpha":"odyssey","author":"Homer","language":"en","description":"An epic poem following a Greek hero trying to return home after the Trojan war.","longDescription":["The Odyssey is one of the oldest works of Western literature, dating back to classical antiquity. Homer's epic poem belongs in a collection called the Epic Cycle, which includes the Iliad. It was originally written in ancient Greek, utilizing a dactylic hexameter rhyme scheme. Although this rhyme scheme sounds beautiful in its native language, in modern English it can sound awkward and, as Eric McMillan humorously describes it, resembles \"pumpkins rolling on a barn floor.\" William Cullen Bryant avoided this problem by composing his translation in blank verse, a rhyme scheme that sounds natural in English.","This epic poem follows Ulysses, one of the Greek leaders that brought an end to the ten-year-long Trojan war. Longing for home, he travels across the Mediterranean Sea to return to his kingdom in Ithaca; unfortunately, our hero manages to anger Neptune, the god of the sea, making his trip home agonizingly slow and extremely dangerous. While Ulysses is trying to return home, his family in Ithaca is also in danger. Suitors have traveled to the home of Ulysses to marry his wife, Penelope, believing that her husband did not survive the war. These men are willing to kill anyone who stands in their way."],"year":2020,"genres":["poetry"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant"},"series":null,"part":0,"chapters":[{"id":"001","title":"Preface","length":6708,"skip":true},{"id":"002","title":"Book I: Visit of Pallas to Telemachus","length":23384,"skip":false},{"id":"003","title":"Book II: Departure of Telemachus from Ithaca","length":23196,"skip":false},{"id":"004","title":"Book III: Interview of Telemachus with Nestor","length":27586,"skip":false},{"id":"005","title":"Book IV: Conference of Telemachus and Menelaus","length":45880,"skip":false},{"id":"006","title":"Book V: Departure of Ulysses from Calypso","length":26008,"skip":false},{"id":"007","title":"Book VI: Ulysses Discovered by Nausicaa","length":18319,"skip":false},{"id":"008","title":"Book VII: Reception of Ulysses by Alcinous","length":17948,"skip":false},{"id":"009","title":"Book VIII: Festivals in Honor of Ulysses","length":30667,"skip":false},{"id":"010","title":"Book IX: The Ciconians, Lotus-Eaters, and Cyclops","length":29511,"skip":false},{"id":"011","title":"Book X: Aeolus, the Lestrigonians, and Circe","length":30264,"skip":false},{"id":"012","title":"Book XI: Visit of Ulysses to the Land of the Dead","length":33792,"skip":false},{"id":"013","title":"Book XII: The Sirens, Scylla, and Charybdis","length":24326,"skip":false},{"id":"014","title":"Book XIII: Arrival of Ulysses at Ithaca","length":23897,"skip":false},{"id":"015","title":"Book XIV: Meeting of Ulysses and Eumaeus","length":28189,"skip":false},{"id":"016","title":"Book XV: Return of Telemachus","length":29515,"skip":false},{"id":"017","title":"Book XVI: Ulysses Discovering Himself to Telemachus","length":24711,"skip":false},{"id":"018","title":"Book XVII: Return of Ulysses to His Palace","length":31848,"skip":false},{"id":"019","title":"Book XVIII: Combat of Ulysses and Irus","length":22984,"skip":false},{"id":"020","title":"Book XIX: Ulysses Recognized by Eurycleia","length":31530,"skip":false},{"id":"021","title":"Book XX: The Last Banquet of the Suitors","length":20982,"skip":false},{"id":"022","title":"Book XXI: The Bending of the Bow of Ulysses","length":23002,"skip":false},{"id":"023","title":"Book XXII: Death of the Suitors","length":26510,"skip":false},{"id":"024","title":"Book XXIII: Ulysses and Penelope After the Slaughter","length":19613,"skip":false},{"id":"025","title":"Book XXIV: Conclusion","length":29078,"skip":false}],"createdAt":1719506993945}
+{
+  "id": "homer--the-odyssey",
+  "title": "The Odyssey",
+  "titleAlpha": "odyssey",
+  "author": "Homer",
+  "language": "en",
+  "description": "An epic poem following a Greek hero trying to return home after the Trojan war.",
+  "longDescription": [
+    "The Odyssey is one of the oldest works of Western literature, dating back to classical antiquity. Homer's epic poem belongs in a collection called the Epic Cycle, which includes the Iliad. It was originally written in ancient Greek, utilizing a dactylic hexameter rhyme scheme. Although this rhyme scheme sounds beautiful in its native language, in modern English it can sound awkward and, as Eric McMillan humorously describes it, resembles \"pumpkins rolling on a barn floor.\" William Cullen Bryant avoided this problem by composing his translation in blank verse, a rhyme scheme that sounds natural in English.",
+    "This epic poem follows Ulysses, one of the Greek leaders that brought an end to the ten-year-long Trojan war. Longing for home, he travels across the Mediterranean Sea to return to his kingdom in Ithaca; unfortunately, our hero manages to anger Neptune, the god of the sea, making his trip home agonizingly slow and extremely dangerous. While Ulysses is trying to return home, his family in Ithaca is also in danger. Suitors have traveled to the home of Ulysses to marry his wife, Penelope, believing that her husband did not survive the war. These men are willing to kill anyone who stands in their way."
+  ],
+  "year": null,
+  "genres": [
+    "classics",
+    "poetry"
+  ],
+  "topics": [
+    "mythology"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/homer/the-odyssey/william-cullen-bryant"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Odyssey",
+      "length": 47,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1133,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Preface",
+      "length": 6708,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Book I: Visit of Pallas to Telemachus",
+      "length": 23384,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Book II: Departure of Telemachus from Ithaca",
+      "length": 23196,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book III: Interview of Telemachus with Nestor",
+      "length": 27586,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Book IV: Conference of Telemachus and Menelaus",
+      "length": 45880,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Book V: Departure of Ulysses from Calypso",
+      "length": 26008,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book VI: Ulysses Discovered by Nausicaa",
+      "length": 18319,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Book VII: Reception of Ulysses by Alcinous",
+      "length": 17948,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book VIII: Festivals in Honor of Ulysses",
+      "length": 30667,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book IX: The Ciconians, Lotus-Eaters, and Cyclops",
+      "length": 29511,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book X: Aeolus, the Lestrigonians, and Circe",
+      "length": 30264,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book XI: Visit of Ulysses to the Land of the Dead",
+      "length": 33792,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book XII: The Sirens, Scylla, and Charybdis",
+      "length": 24326,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Book XIII: Arrival of Ulysses at Ithaca",
+      "length": 23897,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book XIV: Meeting of Ulysses and Eumaeus",
+      "length": 28189,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book XV: Return of Telemachus",
+      "length": 29515,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Book XVI: Ulysses Discovering Himself to Telemachus",
+      "length": 24711,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Book XVII: Return of Ulysses to His Palace",
+      "length": 31848,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Book XVIII: Combat of Ulysses and Irus",
+      "length": 22984,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Book XIX: Ulysses Recognized by Eurycleia",
+      "length": 31530,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Book XX: The Last Banquet of the Suitors",
+      "length": 20982,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Book XXI: The Bending of the Bow of Ulysses",
+      "length": 23002,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Book XXII: Death of the Suitors",
+      "length": 26510,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Book XXIII: Ulysses and Penelope After the Slaughter",
+      "length": 19613,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Book XXIV: Conclusion",
+      "length": 29078,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Colophon",
+      "length": 1037,
+      "mode": "hide"
+    },
+    {
+      "id": "029",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL17812254W",
+  "goodreadsId": "1381",
+  "rating": 0.762,
+  "popularity": 1098518,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720831448262
+}

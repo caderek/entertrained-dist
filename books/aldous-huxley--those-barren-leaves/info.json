@@ -1,1 +1,294 @@
-{"id":"aldous-huxley--those-barren-leaves","title":"Those Barren Leaves","titleAlpha":"those barren leaves","author":"Aldous Huxley","language":"en","description":"An aristocrat summons a group of \"intelligentsia\" to vacation in her Italian mansion.","longDescription":["Mrs. Aldwinkle, an English aristocrat of a certain age, has purchased a mansion in the Italian countryside. She wishes to bring a salon of intellectual luminaries into her orbit, and to that end she invites a strange cast of characters to spend time with her in her palazzo: Irene, her young niece; Ms. Thriplow, a governess-turned-novelist; Mr. Calamy, a handsome young man of great privilege and even greater ennui; Mr. Cardan, a worldly gentleman whose main talent seems to be the enjoyment of life; Hovenden, a young motorcar-obsessed lord with a speech impediment; and Mr. Falx, a socialist leader. To this unlikely cast is soon added Mr. Chelifer, an author with an especially florid, overwrought style that is wasted on his day job as editor of The Rabbit Fancier's Gazette, and the Elvers, a scheming brother who is the guardian of his mentally-challenged sister.","As this unlikely group mingles, they discuss a great many grand topics: love, art, language, life, culture. Yet very early on the reader comes to realize that behind the pompousness of their elaborate discussions lies nothing but vacuity - these characters are a satire of the self-important intellectuals of Huxley's era.","His skewering of their intellectual barrenness continues as the group moves on to a trip around the surrounding country, in a satire of the Grand Tour tradition. The party brings their English snobbery out in full force as they traipse around Rome, sure of nothing else except in their belief that Italy is culturally superior simply because it's Italy.","As the vacation winds down, we're left with a biting lampoon of the elites who suppose themselves to be at the height of art and culture - the kinds of personalities that arise in every generation, sure of their own greatness but unable to actually contribute anything to the world of art and culture that they feel is so important."],"year":2022,"genres":["fiction","satire"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves"},"series":null,"part":0,"chapters":[{"id":"001","title":"Part I: An Evening at Mrs. Aldwinkle's - I","length":21525,"skip":false},{"id":"002","title":"Part I: An Evening at Mrs. Aldwinkle's - II","length":16201,"skip":false},{"id":"003","title":"Part I: An Evening at Mrs. Aldwinkle's - III","length":38088,"skip":false},{"id":"004","title":"Part I: An Evening at Mrs. Aldwinkle's - IV","length":18660,"skip":false},{"id":"005","title":"Part I: An Evening at Mrs. Aldwinkle's - V","length":11871,"skip":false},{"id":"006","title":"Part I: An Evening at Mrs. Aldwinkle's - VI","length":10727,"skip":false},{"id":"007","title":"Part I: An Evening at Mrs. Aldwinkle's - VII","length":18514,"skip":false},{"id":"008","title":"Part I: An Evening at Mrs. Aldwinkle's - VIII","length":12169,"skip":false},{"id":"009","title":"Part I: An Evening at Mrs. Aldwinkle's - IX","length":4886,"skip":false},{"id":"010","title":"Part II: Fragments from the Autobiography of Francis Chelifer - I","length":28477,"skip":false},{"id":"011","title":"Part II: Fragments from the Autobiography of Francis Chelifer - II","length":15448,"skip":false},{"id":"012","title":"Part II: Fragments from the Autobiography of Francis Chelifer - III","length":26502,"skip":false},{"id":"013","title":"Part II: Fragments from the Autobiography of Francis Chelifer - IV","length":5679,"skip":false},{"id":"014","title":"Part II: Fragments from the Autobiography of Francis Chelifer - V","length":54919,"skip":false},{"id":"015","title":"Part II: Fragments from the Autobiography of Francis Chelifer - VI","length":22312,"skip":false},{"id":"016","title":"Part II: Fragments from the Autobiography of Francis Chelifer - VII","length":18951,"skip":false},{"id":"017","title":"Part III: The Loves of the Parallels - I","length":22629,"skip":false},{"id":"018","title":"Part III: The Loves of the Parallels - II","length":5258,"skip":false},{"id":"019","title":"Part III: The Loves of the Parallels - III","length":14396,"skip":false},{"id":"020","title":"Part III: The Loves of the Parallels - IV","length":7265,"skip":false},{"id":"021","title":"Part III: The Loves of the Parallels - V","length":25110,"skip":false},{"id":"022","title":"Part III: The Loves of the Parallels - VI","length":15482,"skip":false},{"id":"023","title":"Part III: The Loves of the Parallels - VII","length":29803,"skip":false},{"id":"024","title":"Part III: The Loves of the Parallels - VIII","length":17238,"skip":false},{"id":"025","title":"Part III: The Loves of the Parallels - IX","length":6237,"skip":false},{"id":"026","title":"Part III: The Loves of the Parallels - X","length":9889,"skip":false},{"id":"027","title":"Part III: The Loves of the Parallels - XI","length":7877,"skip":false},{"id":"028","title":"Part III: The Loves of the Parallels - XII","length":9456,"skip":false},{"id":"029","title":"Part III: The Loves of the Parallels - XIII","length":8179,"skip":false},{"id":"030","title":"Part IV: The Journey - I","length":24302,"skip":false},{"id":"031","title":"Part IV: The Journey - II","length":9333,"skip":false},{"id":"032","title":"Part IV: The Journey - III","length":10474,"skip":false},{"id":"033","title":"Part IV: The Journey - IV","length":11215,"skip":false},{"id":"034","title":"Part IV: The Journey - V","length":21729,"skip":false},{"id":"035","title":"Part IV: The Journey - VI","length":8772,"skip":false},{"id":"036","title":"Part IV: The Journey - VII","length":20992,"skip":false},{"id":"037","title":"Part IV: The Journey - VIII","length":5691,"skip":false},{"id":"038","title":"Part IV: The Journey - IX","length":9989,"skip":false},{"id":"039","title":"Part V: Conclusions - I","length":18767,"skip":false},{"id":"040","title":"Part V: Conclusions - II","length":12529,"skip":false},{"id":"041","title":"Part V: Conclusions - III","length":11498,"skip":false},{"id":"042","title":"Part V: Conclusions - IV","length":34988,"skip":false}],"createdAt":1719506667589}
+{
+  "id": "aldous-huxley--those-barren-leaves",
+  "title": "Those Barren Leaves",
+  "titleAlpha": "those barren leaves",
+  "author": "Aldous Huxley",
+  "language": "en",
+  "description": "An aristocrat summons a group of \"intelligentsia\" to vacation in her Italian mansion.",
+  "longDescription": [
+    "Mrs. Aldwinkle, an English aristocrat of a certain age, has purchased a mansion in the Italian countryside. She wishes to bring a salon of intellectual luminaries into her orbit, and to that end she invites a strange cast of characters to spend time with her in her palazzo: Irene, her young niece; Ms. Thriplow, a governess-turned-novelist; Mr. Calamy, a handsome young man of great privilege and even greater ennui; Mr. Cardan, a worldly gentleman whose main talent seems to be the enjoyment of life; Hovenden, a young motorcar-obsessed lord with a speech impediment; and Mr. Falx, a socialist leader. To this unlikely cast is soon added Mr. Chelifer, an author with an especially florid, overwrought style that is wasted on his day job as editor of The Rabbit Fancier's Gazette, and the Elvers, a scheming brother who is the guardian of his mentally-challenged sister.",
+    "As this unlikely group mingles, they discuss a great many grand topics: love, art, language, life, culture. Yet very early on the reader comes to realize that behind the pompousness of their elaborate discussions lies nothing but vacuity - these characters are a satire of the self-important intellectuals of Huxley's era.",
+    "His skewering of their intellectual barrenness continues as the group moves on to a trip around the surrounding country, in a satire of the Grand Tour tradition. The party brings their English snobbery out in full force as they traipse around Rome, sure of nothing else except in their belief that Italy is culturally superior simply because it's Italy.",
+    "As the vacation winds down, we're left with a biting lampoon of the elites who suppose themselves to be at the height of art and culture - the kinds of personalities that arise in every generation, sure of their own greatness but unable to actually contribute anything to the world of art and culture that they feel is so important."
+  ],
+  "year": 1925,
+  "genres": [
+    "classics",
+    "fiction",
+    "satire",
+    "philosophy"
+  ],
+  "topics": [
+    "art"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Part I: An Evening at Mrs. Aldwinkle's - I",
+      "length": 21525,
+      "mode": "type"
+    },
+    {
+      "id": "002",
+      "title": "Part I: An Evening at Mrs. Aldwinkle's - II",
+      "length": 16201,
+      "mode": "type"
+    },
+    {
+      "id": "003",
+      "title": "Part I: An Evening at Mrs. Aldwinkle's - III",
+      "length": 38088,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Part I: An Evening at Mrs. Aldwinkle's - IV",
+      "length": 18660,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Part I: An Evening at Mrs. Aldwinkle's - V",
+      "length": 11871,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Part I: An Evening at Mrs. Aldwinkle's - VI",
+      "length": 10727,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Part I: An Evening at Mrs. Aldwinkle's - VII",
+      "length": 18514,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Part I: An Evening at Mrs. Aldwinkle's - VIII",
+      "length": 12169,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Part I: An Evening at Mrs. Aldwinkle's - IX",
+      "length": 4886,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Part II: Fragments from the Autobiography of Francis Chelifer - I",
+      "length": 28477,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Part II: Fragments from the Autobiography of Francis Chelifer - II",
+      "length": 15448,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Part II: Fragments from the Autobiography of Francis Chelifer - III",
+      "length": 26502,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Part II: Fragments from the Autobiography of Francis Chelifer - IV",
+      "length": 5679,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Part II: Fragments from the Autobiography of Francis Chelifer - V",
+      "length": 54919,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Part II: Fragments from the Autobiography of Francis Chelifer - VI",
+      "length": 22312,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Part II: Fragments from the Autobiography of Francis Chelifer - VII",
+      "length": 18951,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Part III: The Loves of the Parallels - I",
+      "length": 22629,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Part III: The Loves of the Parallels - II",
+      "length": 5258,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Part III: The Loves of the Parallels - III",
+      "length": 14396,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Part III: The Loves of the Parallels - IV",
+      "length": 7265,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Part III: The Loves of the Parallels - V",
+      "length": 25110,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Part III: The Loves of the Parallels - VI",
+      "length": 15482,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Part III: The Loves of the Parallels - VII",
+      "length": 29803,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Part III: The Loves of the Parallels - VIII",
+      "length": 17238,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Part III: The Loves of the Parallels - IX",
+      "length": 6237,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Part III: The Loves of the Parallels - X",
+      "length": 9889,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Part III: The Loves of the Parallels - XI",
+      "length": 7877,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Part III: The Loves of the Parallels - XII",
+      "length": 9456,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Part III: The Loves of the Parallels - XIII",
+      "length": 8179,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Part IV: The Journey - I",
+      "length": 24302,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Part IV: The Journey - II",
+      "length": 9333,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Part IV: The Journey - III",
+      "length": 10474,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Part IV: The Journey - IV",
+      "length": 11215,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Part IV: The Journey - V",
+      "length": 21729,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Part IV: The Journey - VI",
+      "length": 8772,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Part IV: The Journey - VII",
+      "length": 20992,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Part IV: The Journey - VIII",
+      "length": 5691,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Part IV: The Journey - IX",
+      "length": 9989,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Part V: Conclusions - I",
+      "length": 18767,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Part V: Conclusions - II",
+      "length": 12529,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Part V: Conclusions - III",
+      "length": 11498,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Part V: Conclusions - IV",
+      "length": 34988,
+      "mode": "type"
+    }
+  ],
+  "openlibraryId": "OL64391W",
+  "goodreadsId": "6393333",
+  "rating": 0.71,
+  "popularity": 812,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720554863234
+}

@@ -1,1 +1,191 @@
-{"id":"homer--the-iliad","title":"The Iliad","titleAlpha":"iliad","author":"Homer","language":"en","description":"The epic poem which follows a Greek warrior who refuses to give up his prize of war.","longDescription":["The Iliad is one of the oldest works of Western literature, dating back to classical antiquity. Homer's epic poem belongs in a collection called the Epic Cycle, which includes the Odyssey. It was originally written in ancient Greek and utilized a dactylic hexameter rhyme scheme. Although this rhyme scheme sounds beautiful in its native language, in modern English it can sound awkward and, as Eric McMillan humorously describes it, resembles \"pumpkins rolling on a barn floor.\" William Cullen Bryant avoided this problem by converting his translation into blank verse.","This epic poem begins with the Achaean army sacking the city of Chryse and capturing two maidens as prizes of war. One of the maidens, Chryseis, is given to Agamemnon, the leader of the Achaeans, and the other maiden, Briseis, was given to the army's best warrior, Achilles. Chryseis' father, the city's priest, prays to the god Apollo and asks for a plague on the Achaean army. To stop this plague, Agamemnon returns Chryseis to her father, but then orders Achilles to give him Briseis as compensation. Achilles refuses."],"year":2020,"genres":["poetry"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant"},"series":null,"part":0,"chapters":[{"id":"001","title":"Preface","length":19526,"skip":true},{"id":"002","title":"Book I: The Contention of Achilles and Agamemnon","length":33457,"skip":false},{"id":"003","title":"Book II: The Trial of the Army, and Catalogue of the Forces","length":47008,"skip":false},{"id":"004","title":"Book III: Single Combat of Menelaus and Paris","length":24417,"skip":false},{"id":"005","title":"Book IV: The Breaking of the Truce, and the First Battle","length":29878,"skip":false},{"id":"006","title":"Book V: The Exploits of Diomed","length":49165,"skip":false},{"id":"007","title":"Book VI: Interviews Between Glaucus and Diomed, and Hector and Andromache","length":28655,"skip":false},{"id":"008","title":"Book VII: The Combat of Hector and Ajax","length":26025,"skip":false},{"id":"009","title":"Book VIII: The Second Battle","length":30344,"skip":false},{"id":"010","title":"Book IX: The Embassy to Achilles","length":37713,"skip":false},{"id":"011","title":"Book X: The Night-Adventure of Diomed and Ulysses","length":29594,"skip":false},{"id":"012","title":"Book XI: The Third Battle, and Exploits of Agamemnon","length":45172,"skip":false},{"id":"013","title":"Book XII: The Battle at the Grecian Wall","length":24789,"skip":false},{"id":"014","title":"Book XIII: The Continuation of the Fourth Battle","length":45592,"skip":false},{"id":"015","title":"Book XIV: The Fraud Practised on Jupiter by Juno","length":27929,"skip":false},{"id":"016","title":"Book XV: The Fifth Battle at the Ships","length":41067,"skip":false},{"id":"017","title":"Book XVI: The Sixth Battle - Death of Patroclus","length":47233,"skip":false},{"id":"018","title":"Book XVII: The Seventh Battle","length":39651,"skip":false},{"id":"019","title":"Book XVIII: The Grief of Achilles for the Death of Patroclus","length":33096,"skip":false},{"id":"020","title":"Book XIX: The Reconciliation of Achilles and Agamemnon","length":22601,"skip":false},{"id":"021","title":"Book XX: The Battle of the Gods","length":27618,"skip":false},{"id":"022","title":"Book XXI: The Battle in the River Scamander","length":33081,"skip":false},{"id":"023","title":"Book XXII: The Death of Hector","length":27717,"skip":false},{"id":"024","title":"Book XXIII: The Funeral of Patroclus","length":47454,"skip":false},{"id":"025","title":"Book XXIV: The Body of Hector Recovered","length":44051,"skip":false}],"createdAt":1719506993106}
+{
+  "id": "homer--the-iliad",
+  "title": "The Iliad",
+  "titleAlpha": "iliad",
+  "author": "Homer",
+  "language": "en",
+  "description": "The epic poem which follows a Greek warrior who refuses to give up his prize of war.",
+  "longDescription": [
+    "The Iliad is one of the oldest works of Western literature, dating back to classical antiquity. Homer's epic poem belongs in a collection called the Epic Cycle, which includes the Odyssey. It was originally written in ancient Greek and utilized a dactylic hexameter rhyme scheme. Although this rhyme scheme sounds beautiful in its native language, in modern English it can sound awkward and, as Eric McMillan humorously describes it, resembles \"pumpkins rolling on a barn floor.\" William Cullen Bryant avoided this problem by converting his translation into blank verse.",
+    "This epic poem begins with the Achaean army sacking the city of Chryse and capturing two maidens as prizes of war. One of the maidens, Chryseis, is given to Agamemnon, the leader of the Achaeans, and the other maiden, Briseis, was given to the army's best warrior, Achilles. Chryseis' father, the city's priest, prays to the god Apollo and asks for a plague on the Achaean army. To stop this plague, Agamemnon returns Chryseis to her father, but then orders Achilles to give him Briseis as compensation. Achilles refuses."
+  ],
+  "year": 1488,
+  "genres": [
+    "classics",
+    "poetry",
+    "fantasy",
+    "fiction"
+  ],
+  "topics": [
+    "mythology",
+    "war"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/homer/the-iliad/william-cullen-bryant"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Preface",
+      "length": 19526,
+      "mode": "skip"
+    },
+    {
+      "id": "002",
+      "title": "Book I: The Contention of Achilles and Agamemnon",
+      "length": 33457,
+      "mode": "type"
+    },
+    {
+      "id": "003",
+      "title": "Book II: The Trial of the Army, and Catalogue of the Forces",
+      "length": 47008,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Book III: Single Combat of Menelaus and Paris",
+      "length": 24417,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Book IV: The Breaking of the Truce, and the First Battle",
+      "length": 29878,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book V: The Exploits of Diomed",
+      "length": 49165,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Book VI: Interviews Between Glaucus and Diomed, and Hector and Andromache",
+      "length": 28655,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Book VII: The Combat of Hector and Ajax",
+      "length": 26025,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book VIII: The Second Battle",
+      "length": 30344,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Book IX: The Embassy to Achilles",
+      "length": 37713,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book X: The Night-Adventure of Diomed and Ulysses",
+      "length": 29594,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book XI: The Third Battle, and Exploits of Agamemnon",
+      "length": 45172,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book XII: The Battle at the Grecian Wall",
+      "length": 24789,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book XIII: The Continuation of the Fourth Battle",
+      "length": 45592,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book XIV: The Fraud Practised on Jupiter by Juno",
+      "length": 27929,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Book XV: The Fifth Battle at the Ships",
+      "length": 41067,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book XVI: The Sixth Battle - Death of Patroclus",
+      "length": 47233,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book XVII: The Seventh Battle",
+      "length": 39651,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Book XVIII: The Grief of Achilles for the Death of Patroclus",
+      "length": 33096,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Book XIX: The Reconciliation of Achilles and Agamemnon",
+      "length": 22601,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Book XX: The Battle of the Gods",
+      "length": 27618,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Book XXI: The Battle in the River Scamander",
+      "length": 33081,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Book XXII: The Death of Hector",
+      "length": 27717,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Book XXIII: The Funeral of Patroclus",
+      "length": 47454,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Book XXIV: The Body of Hector Recovered",
+      "length": 44051,
+      "mode": "type"
+    }
+  ],
+  "openlibraryId": "OL61982W",
+  "goodreadsId": "847086",
+  "rating": 0.782,
+  "popularity": 461873,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720555378168
+}

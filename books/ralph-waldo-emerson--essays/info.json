@@ -1,1 +1,196 @@
-{"id":"ralph-waldo-emerson--essays","title":"Essays","titleAlpha":"essays","author":"Ralph Waldo Emerson","language":"en","description":"A collection of Ralph Waldo Emerson's essays.","longDescription":["The titles of Ralph Waldo Emerson's essays consist of a range of general concepts such as character, experience, friendship, history, intellect, love, nature, politics, prudence and, most famously, self-reliance. However, in no case is the content of an essay limited to considerations relevant to its title concept. Emerson's style is digressive and aphoristic, his lengthy paragraphs strewn with terse, dogmatic assertions. The pieces record the diffuse preconceptions and opinions of the author, typically without arguing for them.","\"Nature,\" Emerson's first published essay, was published independently five years before his first collection of essays. It became a foundational text for transcendentalism, the New England intellectual movement that upheld the divine character of the natural world and the importance of spiritual connection with it. In its emphasis on reason, individual conscience, and innate human goodness, transcendentalism was related to Unitarianism, where Emerson began his career as a minister. While Emerson resigned from this post after only a few years, he retained a lifelong concern with religion and theology that is frequently manifest in his essays.","Even in the earlier essays Emerson expresses in passing a general opposition to slavery, but he has sometimes been criticized for remaining aloof from the social issues of his day, and especially from abolition. Emerson's growing willingness to think and speak about slavery as he aged is visible in the collection; its final essay is a lecture given before the American Anti-Slavery Society. In \"Politics,\" he includes \"emancipat[ing] the slave\" alongside befriending the poor, building schools and cherishing the arts in a list of causes that he takes to represent \"real good.\"","Emerson's essays were especially influential among the members of the Transcendental Club that met in Cambridge, Massachusetts, which included Henry Thoreau among its members. Reading the essays was also instrumental in the literary development of Emerson's later correspondent Walt Whitman, who in Leaves of Grass aimed to attain the ideal of the American poet described in \"The Poet.\" In German translation, the essays were read and appreciated by Nietzsche, who chose a quotation from \"History\" as the epigraph for the first edition of his 1882 book The Gay Science and in the same book named Emerson among the few men he judged to be \"masters of prose.\"","The essays collected here were originally released in two volumes, or \"series,\" the first in 1841 and the second in 1844. In the original editions, each essay was prefaced by a poem of Emerson's own authorship. While some of these poems were omitted in later editions, all have been included here."],"year":2023,"genres":["nonfiction","philosophy"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/ralph-waldo-emerson/essays"},"series":null,"part":0,"chapters":[{"id":"001","title":"History","length":46412,"skip":false},{"id":"002","title":"Self-Reliance","length":55481,"skip":false},{"id":"003","title":"Compensation","length":42646,"skip":false},{"id":"004","title":"Spiritual Laws","length":43505,"skip":false},{"id":"005","title":"Love","length":24687,"skip":false},{"id":"006","title":"Friendship","length":32723,"skip":false},{"id":"007","title":"Prudence","length":24983,"skip":false},{"id":"008","title":"Heroism","length":23961,"skip":false},{"id":"009","title":"The Over-Soul","length":38139,"skip":false},{"id":"010","title":"Circles","length":26277,"skip":false},{"id":"011","title":"Intellect","length":27550,"skip":false},{"id":"012","title":"Art","length":23588,"skip":false},{"id":"013","title":"The Poet","length":49862,"skip":false},{"id":"014","title":"Experience","length":51214,"skip":false},{"id":"015","title":"Character","length":33359,"skip":false},{"id":"016","title":"Manners","length":46176,"skip":false},{"id":"017","title":"Gifts","length":8166,"skip":false},{"id":"018","title":"Nature","length":35196,"skip":false},{"id":"019","title":"Politics","length":29100,"skip":false},{"id":"020","title":"Nominalist and Realist","length":29926,"skip":false},{"id":"021","title":"New England Reformers - A Lecture Read Before the Society in Amory Hall, on Sunday, March 3, 1844.","length":43117,"skip":false},{"id":"022","title":"Endnotes","length":36,"skip":true}],"createdAt":1719507201190}
+{
+  "id": "ralph-waldo-emerson--essays",
+  "title": "Essays",
+  "titleAlpha": "essays",
+  "author": "Ralph Waldo Emerson",
+  "language": "en",
+  "description": "A collection of Ralph Waldo Emerson's essays.",
+  "longDescription": [
+    "The titles of Ralph Waldo Emerson's essays consist of a range of general concepts such as character, experience, friendship, history, intellect, love, nature, politics, prudence and, most famously, self-reliance. However, in no case is the content of an essay limited to considerations relevant to its title concept. Emerson's style is digressive and aphoristic, his lengthy paragraphs strewn with terse, dogmatic assertions. The pieces record the diffuse preconceptions and opinions of the author, typically without arguing for them.",
+    "\"Nature,\" Emerson's first published essay, was published independently five years before his first collection of essays. It became a foundational text for transcendentalism, the New England intellectual movement that upheld the divine character of the natural world and the importance of spiritual connection with it. In its emphasis on reason, individual conscience, and innate human goodness, transcendentalism was related to Unitarianism, where Emerson began his career as a minister. While Emerson resigned from this post after only a few years, he retained a lifelong concern with religion and theology that is frequently manifest in his essays.",
+    "Even in the earlier essays Emerson expresses in passing a general opposition to slavery, but he has sometimes been criticized for remaining aloof from the social issues of his day, and especially from abolition. Emerson's growing willingness to think and speak about slavery as he aged is visible in the collection; its final essay is a lecture given before the American Anti-Slavery Society. In \"Politics,\" he includes \"emancipat[ing] the slave\" alongside befriending the poor, building schools and cherishing the arts in a list of causes that he takes to represent \"real good.\"",
+    "Emerson's essays were especially influential among the members of the Transcendental Club that met in Cambridge, Massachusetts, which included Henry Thoreau among its members. Reading the essays was also instrumental in the literary development of Emerson's later correspondent Walt Whitman, who in Leaves of Grass aimed to attain the ideal of the American poet described in \"The Poet.\" In German translation, the essays were read and appreciated by Nietzsche, who chose a quotation from \"History\" as the epigraph for the first edition of his 1882 book The Gay Science and in the same book named Emerson among the few men he judged to be \"masters of prose.\"",
+    "The essays collected here were originally released in two volumes, or \"series,\" the first in 1841 and the second in 1844. In the original editions, each essay was prefaced by a poem of Emerson's own authorship. While some of these poems were omitted in later editions, all have been included here."
+  ],
+  "year": 1844,
+  "genres": [
+    "classics",
+    "nonfiction",
+    "philosophy"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/ralph-waldo-emerson/essays"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Essays",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1183,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "History",
+      "length": 46412,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Self-Reliance",
+      "length": 55481,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Compensation",
+      "length": 42646,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Spiritual Laws",
+      "length": 43505,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Love",
+      "length": 24687,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Friendship",
+      "length": 32723,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Prudence",
+      "length": 24983,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Heroism",
+      "length": 23961,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "The Over-Soul",
+      "length": 38139,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Circles",
+      "length": 26277,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Intellect",
+      "length": 27550,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Art",
+      "length": 23588,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "The Poet",
+      "length": 49862,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Experience",
+      "length": 51214,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Character",
+      "length": 33359,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Manners",
+      "length": 46176,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Gifts",
+      "length": 8166,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Nature",
+      "length": 35196,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Politics",
+      "length": 29100,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Nominalist and Realist",
+      "length": 29926,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "New England Reformers - A Lecture Read Before the Society in Amory Hall, on Sunday, March 3, 1844.",
+      "length": 43117,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Endnotes",
+      "length": 36,
+      "mode": "hide"
+    },
+    {
+      "id": "025",
+      "title": "Colophon",
+      "length": 1083,
+      "mode": "hide"
+    },
+    {
+      "id": "026",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL62250W",
+  "goodreadsId": "296911",
+  "rating": 0.8480000000000001,
+  "popularity": 2627,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721172358286
+}

@@ -1,1 +1,363 @@
-{"id":"mark-twain--a-connecticut-yankee-in-king-arthurs-court","title":"A Connecticut Yankee in King Arthur's Court","titleAlpha":"connecticut yankee in king arthur's court","author":"Mark Twain","language":"en","description":"An engineer from 19th-century Connecticut is sent back in time to King Arthur's medieval England.","longDescription":["A Connecticut Yankee in King Arthur's Court is one of Mark Twain's most enduring novels. During a stay at a modern-day English castle, the narrator meets a mysterious stranger. The stranger, Hank Morgan, is an engineer from Connecticut, and proceeds to weave a satirical, biting, and hilarious tale of how he traveled back in time to find himself in the court of the legendary King Arthur. There he uses his modern-day knowledge to convince the locals that he's a powerful magician. As the book progresses, Hank modernizes - and Americanizes - the lives of the locals.","Twain's talent for humor and satire are on full display in Yankee, and he doesn't waste the opportunity to use Hank as a mouthpiece for his views on things like politics, capitalism, and justice. Many consider it to be his best work."],"year":2015,"genres":["fantasy","fiction","romance","satire","travel"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court"},"series":null,"part":0,"chapters":[{"id":"001","title":"Preface","length":4366,"skip":true},{"id":"002","title":"A Word of Explanation - How Sir Launcelot Slew Two Giants, and Made a Castle Free","length":4875,"skip":false},{"id":"003","title":"A Word of Explanation - The Stranger's History","length":4737,"skip":false},{"id":"004","title":"I: Camelot","length":4390,"skip":false},{"id":"005","title":"II: King Arthur's Court","length":10870,"skip":false},{"id":"006","title":"III: Knights of the Table Round","length":11339,"skip":false},{"id":"007","title":"IV: Sir Dinadan the Humorist","length":6196,"skip":false},{"id":"008","title":"V: An Inspiration","length":10218,"skip":false},{"id":"009","title":"VI: The Eclipse","length":12422,"skip":false},{"id":"010","title":"VII: Merlin's Tower","length":12827,"skip":false},{"id":"011","title":"VIII: The Boss","length":12095,"skip":false},{"id":"012","title":"IX: The Tournament","length":12141,"skip":false},{"id":"013","title":"X: Beginnings of Civilization","length":8969,"skip":false},{"id":"014","title":"XI: The Yankee in Search of Adventures","length":15314,"skip":false},{"id":"015","title":"XII: Slow Torture","length":8950,"skip":false},{"id":"016","title":"XIII: Freemen!","length":16806,"skip":false},{"id":"017","title":"XIV: \"Defend Thee, Lord!\"","length":7674,"skip":false},{"id":"018","title":"XV: Sandy's Tale","length":15799,"skip":false},{"id":"019","title":"XVI: Morgan le Fay","length":12776,"skip":false},{"id":"020","title":"XVII: A Royal Banquet","length":17082,"skip":false},{"id":"021","title":"XVIII: In the Queen's Dungeons","length":21467,"skip":false},{"id":"022","title":"XIX: Knight-Errantry as a Trade","length":6165,"skip":false},{"id":"023","title":"XX: The Ogre's Castle","length":14001,"skip":false},{"id":"024","title":"XXI: The Pilgrims","length":23903,"skip":false},{"id":"025","title":"XXII: The Holy Fountain","length":20359,"skip":false},{"id":"026","title":"XXIII: Restoration of the Fountain","length":15031,"skip":false},{"id":"027","title":"XXIV: A Rival Magician","length":20047,"skip":false},{"id":"028","title":"XXV: A Competitive Examination","length":23638,"skip":false},{"id":"029","title":"XXVI: The First Newspaper","length":18239,"skip":false},{"id":"030","title":"XXVII: The Yankee and the King Travel Incognito","length":15632,"skip":false},{"id":"031","title":"XXVIII: Drilling the King","length":8025,"skip":false},{"id":"032","title":"XXIX: The Smallpox Hut","length":12132,"skip":false},{"id":"033","title":"XXX: The Tragedy of the Manor-House","length":19114,"skip":false},{"id":"034","title":"XXXI: Marco","length":13959,"skip":false},{"id":"035","title":"XXXII: Dowley's Humiliation","length":12288,"skip":false},{"id":"036","title":"XXXIII: Sixth Century Political Economy","length":21616,"skip":false},{"id":"037","title":"XXXIV: The Yankee and the King Sold as Slaves","length":21752,"skip":false},{"id":"038","title":"XXXV: A Pitiful Incident","length":14617,"skip":false},{"id":"039","title":"XXXVI: An Encounter in the Dark","length":7517,"skip":false},{"id":"040","title":"XXXVII: An Awful Predicament","length":13536,"skip":false},{"id":"041","title":"XXXVIII: Sir Launcelot and Knights to the Rescue","length":4717,"skip":false},{"id":"042","title":"XXXIX: The Yankee's Fight with the Knights","length":19404,"skip":false},{"id":"043","title":"XL: Three Years Later","length":15022,"skip":false},{"id":"044","title":"XLI: The Interdict","length":7878,"skip":false},{"id":"045","title":"XLII: War!","length":21499,"skip":false},{"id":"046","title":"XLIII: The Battle of the Sand-Belt","length":25713,"skip":false},{"id":"047","title":"XLIV: A Postscript by Clarence","length":3458,"skip":false},{"id":"048","title":"Final P. S. by M. T.","length":3283,"skip":false},{"id":"049","title":"Endnotes","length":349,"skip":true}],"createdAt":1719507126042}
+{
+  "id": "mark-twain--a-connecticut-yankee-in-king-arthurs-court",
+  "title": "A Connecticut Yankee in King Arthur's Court",
+  "titleAlpha": "connecticut yankee in king arthur's court",
+  "author": "Mark Twain",
+  "language": "en",
+  "description": "An engineer from 19th-century Connecticut is sent back in time to King Arthur's medieval England.",
+  "longDescription": [
+    "A Connecticut Yankee in King Arthur's Court is one of Mark Twain's most enduring novels. During a stay at a modern-day English castle, the narrator meets a mysterious stranger. The stranger, Hank Morgan, is an engineer from Connecticut, and proceeds to weave a satirical, biting, and hilarious tale of how he traveled back in time to find himself in the court of the legendary King Arthur. There he uses his modern-day knowledge to convince the locals that he's a powerful magician. As the book progresses, Hank modernizes - and Americanizes - the lives of the locals.",
+    "Twain's talent for humor and satire are on full display in Yankee, and he doesn't waste the opportunity to use Hank as a mouthpiece for his views on things like politics, capitalism, and justice. Many consider it to be his best work."
+  ],
+  "year": 1889,
+  "genres": [
+    "classics",
+    "fantasy",
+    "fiction",
+    "romance",
+    "satire",
+    "travel",
+    "comedy",
+    "adventure"
+  ],
+  "topics": [
+    "knights",
+    "medieval"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - A Connecticut Yankee in King Arthur's Court",
+      "length": 15,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Preface",
+      "length": 4366,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "A Word of Explanation - How Sir Launcelot Slew Two Giants, and Made a Castle Free",
+      "length": 4875,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "A Word of Explanation - The Stranger's History",
+      "length": 4737,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "I: Camelot",
+      "length": 4390,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "II: King Arthur's Court",
+      "length": 10870,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "III: Knights of the Table Round",
+      "length": 11339,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "IV: Sir Dinadan the Humorist",
+      "length": 6196,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "V: An Inspiration",
+      "length": 10218,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VI: The Eclipse",
+      "length": 12422,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VII: Merlin's Tower",
+      "length": 12827,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "VIII: The Boss",
+      "length": 12095,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "IX: The Tournament",
+      "length": 12141,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "X: Beginnings of Civilization",
+      "length": 8969,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XI: The Yankee in Search of Adventures",
+      "length": 15314,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XII: Slow Torture",
+      "length": 8950,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIII: Freemen!",
+      "length": 16806,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XIV: \"Defend Thee, Lord!\"",
+      "length": 7674,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XV: Sandy's Tale",
+      "length": 15799,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVI: Morgan le Fay",
+      "length": 12776,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVII: A Royal Banquet",
+      "length": 17082,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XVIII: In the Queen's Dungeons",
+      "length": 21467,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XIX: Knight-Errantry as a Trade",
+      "length": 6165,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XX: The Ogre's Castle",
+      "length": 14001,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXI: The Pilgrims",
+      "length": 23903,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXII: The Holy Fountain",
+      "length": 20359,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXIII: Restoration of the Fountain",
+      "length": 15031,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXIV: A Rival Magician",
+      "length": 20047,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXV: A Competitive Examination",
+      "length": 23638,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVI: The First Newspaper",
+      "length": 18239,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXVII: The Yankee and the King Travel Incognito",
+      "length": 15632,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXVIII: Drilling the King",
+      "length": 8025,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXIX: The Smallpox Hut",
+      "length": 12132,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXX: The Tragedy of the Manor-House",
+      "length": 19114,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXI: Marco",
+      "length": 13959,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXII: Dowley's Humiliation",
+      "length": 12288,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXIII: Sixth Century Political Economy",
+      "length": 21616,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXIV: The Yankee and the King Sold as Slaves",
+      "length": 21752,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXV: A Pitiful Incident",
+      "length": 14617,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XXXVI: An Encounter in the Dark",
+      "length": 7517,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XXXVII: An Awful Predicament",
+      "length": 13536,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XXXVIII: Sir Launcelot and Knights to the Rescue",
+      "length": 4717,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XXXIX: The Yankee's Fight with the Knights",
+      "length": 19404,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XL: Three Years Later",
+      "length": 15022,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "XLI: The Interdict",
+      "length": 7878,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "XLII: War!",
+      "length": 21499,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "XLIII: The Battle of the Sand-Belt",
+      "length": 25713,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "XLIV: A Postscript by Clarence",
+      "length": 3458,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Final P. S. by M. T.",
+      "length": 3283,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "Endnotes",
+      "length": 349,
+      "mode": "hide"
+    },
+    {
+      "id": "052",
+      "title": "Colophon",
+      "length": 1102,
+      "mode": "hide"
+    },
+    {
+      "id": "053",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL54031W",
+  "goodreadsId": "1256835",
+  "rating": 0.754,
+  "popularity": 104108,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721172238179
+}

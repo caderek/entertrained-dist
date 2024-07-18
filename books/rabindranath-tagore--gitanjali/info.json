@@ -1,1 +1,693 @@
-{"id":"rabindranath-tagore--gitanjali","title":"Gitanjali","titleAlpha":"gitanjali","author":"Rabindranath Tagore","language":"en","description":"Prose poems of offering translated by the author from the original Bengali.","longDescription":["Widely regarded as one of the most important figures in Indian (and more specifically Bengali) literary history, Rabindranath Tagore was the first Indian - indeed, the first person outside Europe - to win the Nobel Prize in Literature, largely in recognition of his \"spiritual offering of songs,\" Gitanjali.","Tagore himself translated the poems from the original Bengali, taking many liberties in the process. His English translation is rightly recognized as a work distinct from the Bengali original, consisting of major revisions, many elisions, and many poems originally published in other collections.","Tagore's lyrical simplicity, vivid imagery, and themes of nature, spirituality, death, and transcendence combine to produce a truly unique, powerfully moving work of thoughtful beauty. For many who read it, Tagore's words in Song XCVI ring true: \"What I have seen is unsurpassable. I have tasted of the hidden honey of this lotus that expands on the ocean of light, and thus I am blessed.\""],"year":2017,"genres":["fiction","poetry","spirituality"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali"},"series":null,"part":0,"chapters":[{"id":"001","title":"Introduction - II","length":5517,"skip":false},{"id":"002","title":"Introduction - III","length":2246,"skip":false},{"id":"003","title":"I","length":509,"skip":false},{"id":"004","title":"II","length":569,"skip":false},{"id":"005","title":"III","length":473,"skip":false},{"id":"006","title":"IV","length":509,"skip":false},{"id":"007","title":"V","length":509,"skip":false},{"id":"008","title":"VI","length":390,"skip":false},{"id":"009","title":"VII","length":376,"skip":false},{"id":"010","title":"VIII","length":456,"skip":false},{"id":"011","title":"IX","length":363,"skip":false},{"id":"012","title":"X","length":479,"skip":false},{"id":"013","title":"XI","length":784,"skip":false},{"id":"014","title":"XII","length":739,"skip":false},{"id":"015","title":"XIII","length":624,"skip":false},{"id":"016","title":"XIV","length":646,"skip":false},{"id":"017","title":"XV","length":387,"skip":false},{"id":"018","title":"XVI","length":323,"skip":false},{"id":"019","title":"XVII","length":563,"skip":false},{"id":"020","title":"XVIII","length":449,"skip":false},{"id":"021","title":"XIX","length":439,"skip":false},{"id":"022","title":"XX","length":550,"skip":false},{"id":"023","title":"XXI","length":452,"skip":false},{"id":"024","title":"XXII","length":501,"skip":false},{"id":"025","title":"XXIII","length":435,"skip":false},{"id":"026","title":"XXIV","length":488,"skip":false},{"id":"027","title":"XXV","length":307,"skip":false},{"id":"028","title":"XXVI","length":303,"skip":false},{"id":"029","title":"XXVII","length":848,"skip":false},{"id":"030","title":"XXVIII","length":515,"skip":false},{"id":"031","title":"XXIX","length":379,"skip":false},{"id":"032","title":"XXX","length":363,"skip":false},{"id":"033","title":"XXXI","length":784,"skip":false},{"id":"034","title":"XXXII","length":372,"skip":false},{"id":"035","title":"XXXIII","length":428,"skip":false},{"id":"036","title":"XXXIV","length":441,"skip":false},{"id":"037","title":"XXXV","length":509,"skip":false},{"id":"038","title":"XXXVI","length":426,"skip":false},{"id":"039","title":"XXXVII","length":406,"skip":false},{"id":"040","title":"XXXVIII","length":476,"skip":false},{"id":"041","title":"XXXIX","length":515,"skip":false},{"id":"042","title":"XL","length":545,"skip":false},{"id":"043","title":"XLI","length":1459,"skip":false},{"id":"044","title":"XLII","length":587,"skip":false},{"id":"045","title":"XLIII","length":569,"skip":false},{"id":"046","title":"XLIV","length":516,"skip":false},{"id":"047","title":"XLV","length":592,"skip":false},{"id":"048","title":"XLVI","length":473,"skip":false},{"id":"049","title":"XLVII","length":895,"skip":false},{"id":"050","title":"XLVIII","length":1547,"skip":false},{"id":"051","title":"XLIX","length":448,"skip":false},{"id":"052","title":"L","length":980,"skip":false},{"id":"053","title":"LI","length":1548,"skip":false},{"id":"054","title":"LII","length":1456,"skip":false},{"id":"055","title":"LIII","length":601,"skip":false},{"id":"056","title":"LIV","length":1116,"skip":false},{"id":"057","title":"LV","length":589,"skip":false},{"id":"058","title":"LVI","length":508,"skip":false},{"id":"059","title":"LVII","length":635,"skip":false},{"id":"060","title":"LVIII","length":442,"skip":false},{"id":"061","title":"LIX","length":383,"skip":false},{"id":"062","title":"LX","length":1144,"skip":false},{"id":"063","title":"LXI","length":890,"skip":false},{"id":"064","title":"LXII","length":812,"skip":false},{"id":"065","title":"LXIII","length":684,"skip":false},{"id":"066","title":"LXIV","length":1220,"skip":false},{"id":"067","title":"LXV","length":394,"skip":false},{"id":"068","title":"LXVI","length":746,"skip":false},{"id":"069","title":"LXVII","length":649,"skip":false},{"id":"070","title":"LXVIII","length":539,"skip":false},{"id":"071","title":"LXIX","length":521,"skip":false},{"id":"072","title":"LXX","length":439,"skip":false},{"id":"073","title":"LXXI","length":844,"skip":false},{"id":"074","title":"LXXII","length":524,"skip":false},{"id":"075","title":"LXXIII","length":562,"skip":false},{"id":"076","title":"LXXIV","length":448,"skip":false},{"id":"077","title":"LXXV","length":466,"skip":false},{"id":"078","title":"LXXVI","length":518,"skip":false},{"id":"079","title":"LXXVII","length":594,"skip":false},{"id":"080","title":"LXXVIII","length":738,"skip":false},{"id":"081","title":"LXXIX","length":969,"skip":false},{"id":"082","title":"LXXX","length":599,"skip":false},{"id":"083","title":"LXXXI","length":421,"skip":false},{"id":"084","title":"LXXXII","length":567,"skip":false},{"id":"085","title":"LXXXIII","length":377,"skip":false},{"id":"086","title":"LXXXIV","length":454,"skip":false},{"id":"087","title":"LXXXV","length":551,"skip":false},{"id":"088","title":"LXXXVI","length":536,"skip":false},{"id":"089","title":"LXXXVII","length":619,"skip":false},{"id":"090","title":"LXXXVIII","length":862,"skip":false},{"id":"091","title":"LXXXIX","length":660,"skip":false},{"id":"092","title":"XC","length":368,"skip":false},{"id":"093","title":"XCI","length":517,"skip":false},{"id":"094","title":"XCII","length":621,"skip":false},{"id":"095","title":"XCIII","length":395,"skip":false},{"id":"096","title":"XCIV","length":513,"skip":false},{"id":"097","title":"XCV","length":651,"skip":false},{"id":"098","title":"XCVI","length":483,"skip":false},{"id":"099","title":"XCVII","length":539,"skip":false},{"id":"100","title":"XCVIII","length":576,"skip":false},{"id":"101","title":"XCIX","length":574,"skip":false},{"id":"102","title":"C","length":553,"skip":false},{"id":"103","title":"CI","length":503,"skip":false},{"id":"104","title":"CII","length":519,"skip":false},{"id":"105","title":"CIII","length":526,"skip":false}],"createdAt":1719507195814}
+{
+  "id": "rabindranath-tagore--gitanjali",
+  "title": "Gitanjali",
+  "titleAlpha": "gitanjali",
+  "author": "Rabindranath Tagore",
+  "language": "en",
+  "description": "Prose poems of offering translated by the author from the original Bengali.",
+  "longDescription": [
+    "Widely regarded as one of the most important figures in Indian (and more specifically Bengali) literary history, Rabindranath Tagore was the first Indian - indeed, the first person outside Europe - to win the Nobel Prize in Literature, largely in recognition of his \"spiritual offering of songs,\" Gitanjali.",
+    "Tagore himself translated the poems from the original Bengali, taking many liberties in the process. His English translation is rightly recognized as a work distinct from the Bengali original, consisting of major revisions, many elisions, and many poems originally published in other collections.",
+    "Tagore's lyrical simplicity, vivid imagery, and themes of nature, spirituality, death, and transcendence combine to produce a truly unique, powerfully moving work of thoughtful beauty. For many who read it, Tagore's words in Song XCVI ring true: \"What I have seen is unsurpassable. I have tasted of the hidden honey of this lotus that expands on the ocean of light, and thus I am blessed.\""
+  ],
+  "year": 1910,
+  "genres": [
+    "classics",
+    "fiction",
+    "poetry",
+    "spirituality"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Gitanjali",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 6203,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Introduction - II",
+      "length": 5517,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Introduction - III",
+      "length": 2246,
+      "mode": "hide"
+    },
+    {
+      "id": "005",
+      "title": "I",
+      "length": 509,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "II",
+      "length": 569,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "III",
+      "length": 473,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "IV",
+      "length": 509,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "V",
+      "length": 509,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VI",
+      "length": 390,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VII",
+      "length": 376,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VIII",
+      "length": 456,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "IX",
+      "length": 363,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "X",
+      "length": 479,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XI",
+      "length": 784,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XII",
+      "length": 739,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIII",
+      "length": 624,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIV",
+      "length": 646,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XV",
+      "length": 387,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVI",
+      "length": 323,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVII",
+      "length": 563,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVIII",
+      "length": 449,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XIX",
+      "length": 439,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XX",
+      "length": 550,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXI",
+      "length": 452,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXII",
+      "length": 501,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXIII",
+      "length": 435,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXIV",
+      "length": 488,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXV",
+      "length": 307,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVI",
+      "length": 303,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVII",
+      "length": 848,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXVIII",
+      "length": 515,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXIX",
+      "length": 379,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXX",
+      "length": 363,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXI",
+      "length": 784,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXII",
+      "length": 372,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXIII",
+      "length": 428,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXIV",
+      "length": 441,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXV",
+      "length": 509,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXVI",
+      "length": 426,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XXXVII",
+      "length": 406,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XXXVIII",
+      "length": 476,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XXXIX",
+      "length": 515,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XL",
+      "length": 545,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XLI",
+      "length": 1459,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "XLII",
+      "length": 587,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "XLIII",
+      "length": 569,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "XLIV",
+      "length": 516,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "XLV",
+      "length": 592,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "XLVI",
+      "length": 473,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "XLVII",
+      "length": 895,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "XLVIII",
+      "length": 1547,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "XLIX",
+      "length": 448,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "L",
+      "length": 980,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "LI",
+      "length": 1548,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "LII",
+      "length": 1456,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "LIII",
+      "length": 601,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "LIV",
+      "length": 1116,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "LV",
+      "length": 589,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "LVI",
+      "length": 508,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "LVII",
+      "length": 635,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "LVIII",
+      "length": 442,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "LIX",
+      "length": 383,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "LX",
+      "length": 1144,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "LXI",
+      "length": 890,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "LXII",
+      "length": 812,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "LXIII",
+      "length": 684,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "LXIV",
+      "length": 1220,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "LXV",
+      "length": 394,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "LXVI",
+      "length": 746,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "LXVII",
+      "length": 649,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "LXVIII",
+      "length": 539,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "LXIX",
+      "length": 521,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "LXX",
+      "length": 439,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "LXXI",
+      "length": 844,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "LXXII",
+      "length": 524,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "LXXIII",
+      "length": 562,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "LXXIV",
+      "length": 448,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "LXXV",
+      "length": 466,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "LXXVI",
+      "length": 518,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "LXXVII",
+      "length": 594,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "LXXVIII",
+      "length": 738,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "LXXIX",
+      "length": 969,
+      "mode": "type"
+    },
+    {
+      "id": "084",
+      "title": "LXXX",
+      "length": 599,
+      "mode": "type"
+    },
+    {
+      "id": "085",
+      "title": "LXXXI",
+      "length": 421,
+      "mode": "type"
+    },
+    {
+      "id": "086",
+      "title": "LXXXII",
+      "length": 567,
+      "mode": "type"
+    },
+    {
+      "id": "087",
+      "title": "LXXXIII",
+      "length": 377,
+      "mode": "type"
+    },
+    {
+      "id": "088",
+      "title": "LXXXIV",
+      "length": 454,
+      "mode": "type"
+    },
+    {
+      "id": "089",
+      "title": "LXXXV",
+      "length": 551,
+      "mode": "type"
+    },
+    {
+      "id": "090",
+      "title": "LXXXVI",
+      "length": 536,
+      "mode": "type"
+    },
+    {
+      "id": "091",
+      "title": "LXXXVII",
+      "length": 619,
+      "mode": "type"
+    },
+    {
+      "id": "092",
+      "title": "LXXXVIII",
+      "length": 862,
+      "mode": "type"
+    },
+    {
+      "id": "093",
+      "title": "LXXXIX",
+      "length": 660,
+      "mode": "type"
+    },
+    {
+      "id": "094",
+      "title": "XC",
+      "length": 368,
+      "mode": "type"
+    },
+    {
+      "id": "095",
+      "title": "XCI",
+      "length": 517,
+      "mode": "type"
+    },
+    {
+      "id": "096",
+      "title": "XCII",
+      "length": 621,
+      "mode": "type"
+    },
+    {
+      "id": "097",
+      "title": "XCIII",
+      "length": 395,
+      "mode": "type"
+    },
+    {
+      "id": "098",
+      "title": "XCIV",
+      "length": 513,
+      "mode": "type"
+    },
+    {
+      "id": "099",
+      "title": "XCV",
+      "length": 651,
+      "mode": "type"
+    },
+    {
+      "id": "100",
+      "title": "XCVI",
+      "length": 483,
+      "mode": "type"
+    },
+    {
+      "id": "101",
+      "title": "XCVII",
+      "length": 539,
+      "mode": "type"
+    },
+    {
+      "id": "102",
+      "title": "XCVIII",
+      "length": 576,
+      "mode": "type"
+    },
+    {
+      "id": "103",
+      "title": "XCIX",
+      "length": 574,
+      "mode": "type"
+    },
+    {
+      "id": "104",
+      "title": "C",
+      "length": 553,
+      "mode": "type"
+    },
+    {
+      "id": "105",
+      "title": "CI",
+      "length": 503,
+      "mode": "type"
+    },
+    {
+      "id": "106",
+      "title": "CII",
+      "length": 519,
+      "mode": "type"
+    },
+    {
+      "id": "107",
+      "title": "CIII",
+      "length": 526,
+      "mode": "type"
+    },
+    {
+      "id": "108",
+      "title": "Colophon",
+      "length": 1056,
+      "mode": "hide"
+    },
+    {
+      "id": "109",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL308575W",
+  "goodreadsId": "66414",
+  "rating": 0.86,
+  "popularity": 11059,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720967027366
+}

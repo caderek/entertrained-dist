@@ -1,1 +1,320 @@
-{"id":"alexander-berkman--the-bolshevik-myth","title":"The Bolshevik Myth","titleAlpha":"bolshevik myth","author":"Alexander Berkman","language":"en","description":"A left-wing radical records his experiences in revolutionary Russia.","longDescription":["After being imprisoned in the Atlanta Federal Penitentiary for his role in opposing mandatory conscription following the U. S. entry into World War I, Alexander Berkman became one of 246 left-wing radicals (including his fellow anarchist and lover Emma Goldman) deported to Russia in December 1919 aboard the U. S. S. Buford. While initially an enthusiastic supporter of the revolutionary Bolshevik regime, Berkman's travels throughout Russia and Ukraine led to increasing discomfort with the authoritarianism and corruption characteristic of Bolshevik rule. Eventually, the violent suppression of the Kronstadt rebellion completely broke his support for the Bolshevik regime, leading to his emigration from Russia.","Berkman recorded his experiences in the years from 1920 to 1922 in a diary, which he reworked into The Bolshevik Myth. (While the book is presented as the original diary, archival research has shown that much of the original material from Berkman's diary was rewritten.) Readers of The Bolshevik Myth may note considerable structural and topical similarities with Goldman's more famous memoir on the Russian Revolution, My Disillusionment in Russia. Since Goldman and Berkman were deported from the U. S. together and traveled throughout Russia and Ukraine as part of the same committees and delegations, the two memoirs represent two different perspectives on effectively the same journey.","This Standard Ebooks edition includes the final chapter of Berkman's original manuscript, which was rejected by the publisher Boni & Liveright as a literary \"anti-climax.\" Berkman later published the final chapter, which provides a theoretical analysis on the Bolshevik regime from an anarchist perspective, separately under the title of \"The Anti-Climax.\""],"year":2023,"genres":["memoir","nonfiction","travel"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth"},"series":null,"part":0,"chapters":[{"id":"001","title":"Preface","length":3644,"skip":true},{"id":"002","title":"I: The Log of the Transport Buford","length":25491,"skip":false},{"id":"003","title":"II: On Soviet Soil","length":5799,"skip":false},{"id":"004","title":"III: In Petrograd","length":16569,"skip":false},{"id":"005","title":"IV: Moscow","length":6299,"skip":false},{"id":"006","title":"V: The Guest House","length":7181,"skip":false},{"id":"007","title":"VI: Chicherin and Karakhan","length":8749,"skip":false},{"id":"008","title":"VII: The Market","length":9238,"skip":false},{"id":"009","title":"VIII: In the Moskkommune","length":6717,"skip":false},{"id":"010","title":"IX: The Club on the Tverskaya","length":11110,"skip":false},{"id":"011","title":"X: A Visit to Peter Kropotkin","length":7270,"skip":false},{"id":"012","title":"XI: Bolshevik Activities","length":9579,"skip":false},{"id":"013","title":"XII: Sights and Views","length":10526,"skip":false},{"id":"014","title":"XIII: Lenin","length":7233,"skip":false},{"id":"015","title":"XIV: On the Latvian Border - I","length":10528,"skip":false},{"id":"016","title":"XIV: On the Latvian Border - II","length":7730,"skip":false},{"id":"017","title":"XIV: On the Latvian Border - III","length":10704,"skip":false},{"id":"018","title":"XIV: On the Latvian Border - IV","length":7265,"skip":false},{"id":"019","title":"XV: Back in Petrograd","length":17941,"skip":false},{"id":"020","title":"XVI: Rest Homes for Workers","length":6173,"skip":false},{"id":"021","title":"XVII: The First of May","length":5862,"skip":false},{"id":"022","title":"XVIII: The British Labor Mission","length":15060,"skip":false},{"id":"023","title":"XIX: The Spirit of Fanaticism","length":15604,"skip":false},{"id":"024","title":"XX: Other People","length":9566,"skip":false},{"id":"025","title":"XXI: En Route to the Ukraine","length":8296,"skip":false},{"id":"026","title":"XXII: First Days in Kharkov","length":18283,"skip":false},{"id":"027","title":"XXIII: In Soviet Institutions","length":13016,"skip":false},{"id":"028","title":"XXIV: Yossif the Emigrant","length":13647,"skip":false},{"id":"029","title":"XXV: Nestor Makhno","length":11677,"skip":false},{"id":"030","title":"XXVI: Prison and Concentration Camp","length":11375,"skip":false},{"id":"031","title":"XXVII: Further South","length":4560,"skip":false},{"id":"032","title":"XXVIII: Fastov the Pogromed","length":18674,"skip":false},{"id":"033","title":"XXIX: Kiev","length":11354,"skip":false},{"id":"034","title":"XXX: In Various Walks","length":26436,"skip":false},{"id":"035","title":"XXXI: The Cheka","length":7392,"skip":false},{"id":"036","title":"XXXII: Odessa: Life and Vision","length":26500,"skip":false},{"id":"037","title":"XXXIII: Dark People","length":14193,"skip":false},{"id":"038","title":"XXXIV: A Bolshevik Trial","length":6800,"skip":false},{"id":"039","title":"XXXV: Returning to Petrograd","length":14708,"skip":false},{"id":"040","title":"XXXVI: In the Far North","length":7092,"skip":false},{"id":"041","title":"XXXVII: Early Days of 1921","length":8504,"skip":false},{"id":"042","title":"XXXVIII: Kronstadt","length":22993,"skip":false},{"id":"043","title":"XXXIX: Last Links in the Chain","length":25805,"skip":false},{"id":"044","title":"XL: The Lessons of the \"Bolshevik Myth\" - I: My Personal Attitude and Reactions","length":9730,"skip":false},{"id":"045","title":"XL: The Lessons of the \"Bolshevik Myth\" - II: The Communist Dictatorship and the Russian Revolution","length":20386,"skip":false},{"id":"046","title":"Endnotes","length":3133,"skip":true}],"createdAt":1719506670569}
+{
+  "id": "alexander-berkman--the-bolshevik-myth",
+  "title": "The Bolshevik Myth",
+  "titleAlpha": "bolshevik myth",
+  "author": "Alexander Berkman",
+  "language": "en",
+  "description": "A left-wing radical records his experiences in revolutionary Russia.",
+  "longDescription": [
+    "After being imprisoned in the Atlanta Federal Penitentiary for his role in opposing mandatory conscription following the U. S. entry into World War I, Alexander Berkman became one of 246 left-wing radicals (including his fellow anarchist and lover Emma Goldman) deported to Russia in December 1919 aboard the U. S. S. Buford. While initially an enthusiastic supporter of the revolutionary Bolshevik regime, Berkman's travels throughout Russia and Ukraine led to increasing discomfort with the authoritarianism and corruption characteristic of Bolshevik rule. Eventually, the violent suppression of the Kronstadt rebellion completely broke his support for the Bolshevik regime, leading to his emigration from Russia.",
+    "Berkman recorded his experiences in the years from 1920 to 1922 in a diary, which he reworked into The Bolshevik Myth. (While the book is presented as the original diary, archival research has shown that much of the original material from Berkman's diary was rewritten.) Readers of The Bolshevik Myth may note considerable structural and topical similarities with Goldman's more famous memoir on the Russian Revolution, My Disillusionment in Russia. Since Goldman and Berkman were deported from the U. S. together and traveled throughout Russia and Ukraine as part of the same committees and delegations, the two memoirs represent two different perspectives on effectively the same journey.",
+    "This Standard Ebooks edition includes the final chapter of Berkman's original manuscript, which was rejected by the publisher Boni & Liveright as a literary \"anti-climax.\" Berkman later published the final chapter, which provides a theoretical analysis on the Bolshevik regime from an anarchist perspective, separately under the title of \"The Anti-Climax.\""
+  ],
+  "year": 1925,
+  "genres": [
+    "classics",
+    "memoir",
+    "nonfiction",
+    "travel",
+    "history"
+  ],
+  "topics": [
+    "economics",
+    "politics",
+    "revolution"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/alexander-berkman/the-bolshevik-myth"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Preface",
+      "length": 3644,
+      "mode": "skip"
+    },
+    {
+      "id": "002",
+      "title": "I: The Log of the Transport Buford",
+      "length": 25491,
+      "mode": "type"
+    },
+    {
+      "id": "003",
+      "title": "II: On Soviet Soil",
+      "length": 5799,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "III: In Petrograd",
+      "length": 16569,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "IV: Moscow",
+      "length": 6299,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "V: The Guest House",
+      "length": 7181,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "VI: Chicherin and Karakhan",
+      "length": 8749,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VII: The Market",
+      "length": 9238,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VIII: In the Moskkommune",
+      "length": 6717,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "IX: The Club on the Tverskaya",
+      "length": 11110,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "X: A Visit to Peter Kropotkin",
+      "length": 7270,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "XI: Bolshevik Activities",
+      "length": 9579,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XII: Sights and Views",
+      "length": 10526,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XIII: Lenin",
+      "length": 7233,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIV: On the Latvian Border - I",
+      "length": 10528,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: On the Latvian Border - II",
+      "length": 7730,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIV: On the Latvian Border - III",
+      "length": 10704,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIV: On the Latvian Border - IV",
+      "length": 7265,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XV: Back in Petrograd",
+      "length": 17941,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVI: Rest Homes for Workers",
+      "length": 6173,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVII: The First of May",
+      "length": 5862,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVIII: The British Labor Mission",
+      "length": 15060,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XIX: The Spirit of Fanaticism",
+      "length": 15604,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XX: Other People",
+      "length": 9566,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXI: En Route to the Ukraine",
+      "length": 8296,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXII: First Days in Kharkov",
+      "length": 18283,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXIII: In Soviet Institutions",
+      "length": 13016,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXIV: Yossif the Emigrant",
+      "length": 13647,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXV: Nestor Makhno",
+      "length": 11677,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVI: Prison and Concentration Camp",
+      "length": 11375,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVII: Further South",
+      "length": 4560,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXVIII: Fastov the Pogromed",
+      "length": 18674,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXIX: Kiev",
+      "length": 11354,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXX: In Various Walks",
+      "length": 26436,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXI: The Cheka",
+      "length": 7392,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXII: Odessa: Life and Vision",
+      "length": 26500,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXIII: Dark People",
+      "length": 14193,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXIV: A Bolshevik Trial",
+      "length": 6800,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXV: Returning to Petrograd",
+      "length": 14708,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXVI: In the Far North",
+      "length": 7092,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XXXVII: Early Days of 1921",
+      "length": 8504,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XXXVIII: Kronstadt",
+      "length": 22993,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XXXIX: Last Links in the Chain",
+      "length": 25805,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XL: The Lessons of the \"Bolshevik Myth\" - I: My Personal Attitude and Reactions",
+      "length": 9730,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XL: The Lessons of the \"Bolshevik Myth\" - II: The Communist Dictatorship and the Russian Revolution",
+      "length": 20386,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Endnotes",
+      "length": 3133,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL14861335W",
+  "goodreadsId": "2244275",
+  "rating": 0.858,
+  "popularity": 119,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720554869323
+}

@@ -1,1 +1,260 @@
-{"id":"baroness-orczy--the-scarlet-pimpernel","title":"The Scarlet Pimpernel","titleAlpha":"scarlet pimpernel","author":"Baroness Orczy","language":"en","description":"A daring Englishman with a secret identity rescues French aristocrats from the guillotine during the French Revolution.","longDescription":["At the height of the French Revolution's Reign of Terror, a mysterious daredevil rescues French aristocrats from execution and smuggles them out of France. This secretive escape artist is known to the French authorities only by the drawings of a flower, the scarlet pimpernel, that he leaves as his calling card.","Marguerite St. Just has avoided the worst of the revolutionary turmoil. Her recent marriage to the English baronet Sir Percy Blakeney has taken her away from the chaos in France to England, where she is quickly recognized as the most fashionable and clever lady in London. But even in England, she is unable to escape the effects of the Revolution, and she is soon blackmailed into a plot to unmask and capture the elusive Scarlet Pimpernel.","With The Scarlet Pimpernel, Baroness Orczy introduced the world to a talented, adventurous hero hiding behind a dull and ineffectual secret identity. Countless imitators followed, until the \"secret identity\" became a common feature of adventure stories.","In addition to the novel, Orczy wrote with her husband a stage play of the same name, which broke stage records and saw several revivals. Both the play and the novel received much critical and popular acclaim, and Orczy went on to write several sequels about the mysterious Pimpernel and his companions."],"year":1905,"genres":["adventure","fiction","history"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/baroness-orczy/the-scarlet-pimpernel"},"series":"Scarlet Pimpernel","part":3,"chapters":[{"id":"001","title":"I: Paris: September, 1792","length":15517,"skip":false},{"id":"002","title":"II: Dover: The Fisherman's Rest","length":18153,"skip":false},{"id":"003","title":"III: The Refugees","length":14538,"skip":false},{"id":"004","title":"IV: The League of the Scarlet Pimpernel","length":14544,"skip":false},{"id":"005","title":"V: Marguerite","length":10364,"skip":false},{"id":"006","title":"VI: An Exquisite of '92","length":19201,"skip":false},{"id":"007","title":"VII: The Secret Orchard","length":11372,"skip":false},{"id":"008","title":"VIII: The Accredited Agent","length":21624,"skip":false},{"id":"009","title":"IX: The Outrage","length":12131,"skip":false},{"id":"010","title":"X: In the Opera Box","length":27865,"skip":false},{"id":"011","title":"XI: Lord Grenville's Ball","length":12021,"skip":false},{"id":"012","title":"XII: The Scrap of Paper","length":16384,"skip":false},{"id":"013","title":"XIII: Either - Or?","length":4536,"skip":false},{"id":"014","title":"XIV: One O'Clock Precisely!","length":15137,"skip":false},{"id":"015","title":"XV: Doubt","length":9755,"skip":false},{"id":"016","title":"XVI: Richmond","length":27030,"skip":false},{"id":"017","title":"XVII: Farewell","length":13271,"skip":false},{"id":"018","title":"XVIII: The Mysterious Device","length":8777,"skip":false},{"id":"019","title":"XIX: The Scarlet Pimpernel","length":17620,"skip":false},{"id":"020","title":"XX: The Friend","length":12744,"skip":false},{"id":"021","title":"XXI: Suspense","length":15523,"skip":false},{"id":"022","title":"XXII: Calais","length":18364,"skip":false},{"id":"023","title":"XXIII: Hope","length":12937,"skip":false},{"id":"024","title":"XXIV: The Deathtrap","length":13028,"skip":false},{"id":"025","title":"XXV: The Eagle and the Fox","length":15803,"skip":false},{"id":"026","title":"XXVI: The Jew","length":17098,"skip":false},{"id":"027","title":"XXVII: On the Track","length":14287,"skip":false},{"id":"028","title":"XXVIII: The Pere Blanchard's Hut","length":17659,"skip":false},{"id":"029","title":"XXIX: Trapped","length":8502,"skip":false},{"id":"030","title":"XXX: The Schooner","length":23659,"skip":false},{"id":"031","title":"XXXI: The Escape","length":21084,"skip":false}],"createdAt":1719506754756}
+{
+  "id": "baroness-orczy--the-scarlet-pimpernel",
+  "title": "The Scarlet Pimpernel",
+  "titleAlpha": "scarlet pimpernel",
+  "author": "Baroness Orczy",
+  "language": "en",
+  "description": "A daring Englishman with a secret identity rescues French aristocrats from the guillotine during the French Revolution.",
+  "longDescription": [
+    "At the height of the French Revolution's Reign of Terror, a mysterious daredevil rescues French aristocrats from execution and smuggles them out of France. This secretive escape artist is known to the French authorities only by the drawings of a flower, the scarlet pimpernel, that he leaves as his calling card.",
+    "Marguerite St. Just has avoided the worst of the revolutionary turmoil. Her recent marriage to the English baronet Sir Percy Blakeney has taken her away from the chaos in France to England, where she is quickly recognized as the most fashionable and clever lady in London. But even in England, she is unable to escape the effects of the Revolution, and she is soon blackmailed into a plot to unmask and capture the elusive Scarlet Pimpernel.",
+    "With The Scarlet Pimpernel, Baroness Orczy introduced the world to a talented, adventurous hero hiding behind a dull and ineffectual secret identity. Countless imitators followed, until the \"secret identity\" became a common feature of adventure stories.",
+    "In addition to the novel, Orczy wrote with her husband a stage play of the same name, which broke stage records and saw several revivals. Both the play and the novel received much critical and popular acclaim, and Orczy went on to write several sequels about the mysterious Pimpernel and his companions."
+  ],
+  "year": 1905,
+  "genres": [
+    "adventure",
+    "classics",
+    "fiction",
+    "history",
+    "action"
+  ],
+  "topics": [
+    "nobility",
+    "revolution"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "The Scarlet Pimpernel (chronological order)",
+  "part": 1,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/baroness-orczy/the-scarlet-pimpernel"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Scarlet Pimpernel",
+      "length": 19,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 147,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "I: Paris: September, 1792",
+      "length": 15517,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II: Dover: The Fisherman's Rest",
+      "length": 18153,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III: The Refugees",
+      "length": 14538,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "IV: The League of the Scarlet Pimpernel",
+      "length": 14544,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "V: Marguerite",
+      "length": 10364,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VI: An Exquisite of '92",
+      "length": 19201,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VII: The Secret Orchard",
+      "length": 11372,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VIII: The Accredited Agent",
+      "length": 21624,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "IX: The Outrage",
+      "length": 12131,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "X: In the Opera Box",
+      "length": 27865,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XI: Lord Grenville's Ball",
+      "length": 12021,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XII: The Scrap of Paper",
+      "length": 16384,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIII: Either - Or?",
+      "length": 4536,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIV: One O'Clock Precisely!",
+      "length": 15137,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XV: Doubt",
+      "length": 9755,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVI: Richmond",
+      "length": 27030,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVII: Farewell",
+      "length": 13271,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVIII: The Mysterious Device",
+      "length": 8777,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XIX: The Scarlet Pimpernel",
+      "length": 17620,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XX: The Friend",
+      "length": 12744,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXI: Suspense",
+      "length": 15523,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXII: Calais",
+      "length": 18364,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIII: Hope",
+      "length": 12937,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXIV: The Deathtrap",
+      "length": 13028,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXV: The Eagle and the Fox",
+      "length": 15803,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVI: The Jew",
+      "length": 17098,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVII: On the Track",
+      "length": 14287,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVIII: The Pere Blanchard's Hut",
+      "length": 17659,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXIX: Trapped",
+      "length": 8502,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXX: The Schooner",
+      "length": 23659,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXXI: The Escape",
+      "length": 21084,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Colophon",
+      "length": 1056,
+      "mode": "hide"
+    },
+    {
+      "id": "036",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1253285W",
+  "goodreadsId": "502868",
+  "rating": 0.8140000000000001,
+  "popularity": 136332,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720966363371
+}

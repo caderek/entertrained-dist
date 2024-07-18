@@ -1,1 +1,240 @@
-{"id":"h-g-wells--the-war-of-the-worlds","title":"The War of the Worlds","titleAlpha":"war of the worlds","author":"H. G. Wells","language":"en","description":"The first-person narrative of the Martian invasion of 19th-century Earth.","longDescription":["H. G. Wells' classic tale of alien invasion has to this day never been out of print. Like many works of the era, it was originally published as a serial - though the publisher, Pearson's Magazine, demanded to know the ending before committing to publication.","The War of the Worlds, with its matter-of-fact narrative style and deft mixture of contemporary science and fictionalized interstellar war machines, became an instant hit. Its themes of colonialism, social Darwinism, good and evil, and total war still resonate with modern-day readers, so much so that it's been continuously adapted for screen, radio, television, comics, and print."],"year":2016,"genres":["fiction","science-fiction"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds"},"series":null,"part":0,"chapters":[{"id":"001","title":"Epigraph","length":138,"skip":true},{"id":"002","title":"Book I: The Coming of the Martians - I: The Eve of the War","length":12647,"skip":false},{"id":"003","title":"Book I: The Coming of the Martians - II: The Falling Star","length":7368,"skip":false},{"id":"004","title":"Book I: The Coming of the Martians - III: On Horsell Common","length":5608,"skip":false},{"id":"005","title":"Book I: The Coming of the Martians - IV: The Cylinder Opens","length":6276,"skip":false},{"id":"006","title":"Book I: The Coming of the Martians - V: The Heat-Ray","length":8207,"skip":false},{"id":"007","title":"Book I: The Coming of the Martians - VI: The Heat-Ray in the Chobham Road","length":4742,"skip":false},{"id":"008","title":"Book I: The Coming of the Martians - VII: How I Reached Home","length":7202,"skip":false},{"id":"009","title":"Book I: The Coming of the Martians - VIII: Friday Night","length":5552,"skip":false},{"id":"010","title":"Book I: The Coming of the Martians - IX: The Fighting Begins","length":11366,"skip":false},{"id":"011","title":"Book I: The Coming of the Martians - X: In the Storm","length":12132,"skip":false},{"id":"012","title":"Book I: The Coming of the Martians - XI: At the Window","length":10929,"skip":false},{"id":"013","title":"Book I: The Coming of the Martians - XII: What I Saw of the Destruction of Weybridge and Shepperton","length":21524,"skip":false},{"id":"014","title":"Book I: The Coming of the Martians - XIII: How I Fell in with the Curate","length":9972,"skip":false},{"id":"015","title":"Book I: The Coming of the Martians - XIV: In London","length":21884,"skip":false},{"id":"016","title":"Book I: The Coming of the Martians - XV: What Had Happened in Surrey","length":16041,"skip":false},{"id":"017","title":"Book I: The Coming of the Martians - XVI: The Exodus from London","length":24500,"skip":false},{"id":"018","title":"Book I: The Coming of the Martians - XVII: The Thunder Child","length":18828,"skip":false},{"id":"019","title":"Book II: The Earth Under the Martians - I: Under Foot","length":14278,"skip":false},{"id":"020","title":"Book II: The Earth Under the Martians - II: What We Saw from the Ruined House","length":19226,"skip":false},{"id":"021","title":"Book II: The Earth Under the Martians - III: The Days of Imprisonment","length":10824,"skip":false},{"id":"022","title":"Book II: The Earth Under the Martians - IV: The Death of the Curate","length":8700,"skip":false},{"id":"023","title":"Book II: The Earth Under the Martians - V: The Stillness","length":5230,"skip":false},{"id":"024","title":"Book II: The Earth Under the Martians - VI: The Work of Fifteen Days","length":6845,"skip":false},{"id":"025","title":"Book II: The Earth Under the Martians - VII: The Man on Putney Hill","length":30280,"skip":false},{"id":"026","title":"Book II: The Earth Under the Martians - VIII: Dead London","length":16992,"skip":false},{"id":"027","title":"Book II: The Earth Under the Martians - IX: Wreckage","length":10141,"skip":false},{"id":"028","title":"Book II: The Earth Under the Martians - X: The Epilogue","length":7643,"skip":false}],"createdAt":1719506959798}
+{
+  "id": "h-g-wells--the-war-of-the-worlds",
+  "title": "The War of the Worlds",
+  "titleAlpha": "war of the worlds",
+  "author": "H. G. Wells",
+  "language": "en",
+  "description": "The first-person narrative of the Martian invasion of 19th-century Earth.",
+  "longDescription": [
+    "H. G. Wells' classic tale of alien invasion has to this day never been out of print. Like many works of the era, it was originally published as a serial - though the publisher, Pearson's Magazine, demanded to know the ending before committing to publication.",
+    "The War of the Worlds, with its matter-of-fact narrative style and deft mixture of contemporary science and fictionalized interstellar war machines, became an instant hit. Its themes of colonialism, social Darwinism, good and evil, and total war still resonate with modern-day readers, so much so that it's been continuously adapted for screen, radio, television, comics, and print."
+  ],
+  "year": 1898,
+  "genres": [
+    "classics",
+    "fiction",
+    "science-fiction",
+    "horror"
+  ],
+  "topics": [
+    "war",
+    "warfare",
+    "aliens"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The War of the Worlds",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 55,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Epigraph",
+      "length": 138,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Book I: The Coming of the Martians - I: The Eve of the War",
+      "length": 12647,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book I: The Coming of the Martians - II: The Falling Star",
+      "length": 7368,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Book I: The Coming of the Martians - III: On Horsell Common",
+      "length": 5608,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Book I: The Coming of the Martians - IV: The Cylinder Opens",
+      "length": 6276,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book I: The Coming of the Martians - V: The Heat-Ray",
+      "length": 8207,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Book I: The Coming of the Martians - VI: The Heat-Ray in the Chobham Road",
+      "length": 4742,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book I: The Coming of the Martians - VII: How I Reached Home",
+      "length": 7202,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book I: The Coming of the Martians - VIII: Friday Night",
+      "length": 5552,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book I: The Coming of the Martians - IX: The Fighting Begins",
+      "length": 11366,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book I: The Coming of the Martians - X: In the Storm",
+      "length": 12132,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book I: The Coming of the Martians - XI: At the Window",
+      "length": 10929,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Book I: The Coming of the Martians - XII: What I Saw of the Destruction of Weybridge and Shepperton",
+      "length": 21524,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book I: The Coming of the Martians - XIII: How I Fell in with the Curate",
+      "length": 9972,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book I: The Coming of the Martians - XIV: In London",
+      "length": 21884,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Book I: The Coming of the Martians - XV: What Had Happened in Surrey",
+      "length": 16041,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Book I: The Coming of the Martians - XVI: The Exodus from London",
+      "length": 24500,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Book I: The Coming of the Martians - XVII: The Thunder Child",
+      "length": 18828,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Book II: The Earth Under the Martians - I: Under Foot",
+      "length": 14278,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Book II: The Earth Under the Martians - II: What We Saw from the Ruined House",
+      "length": 19226,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Book II: The Earth Under the Martians - III: The Days of Imprisonment",
+      "length": 10824,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Book II: The Earth Under the Martians - IV: The Death of the Curate",
+      "length": 8700,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Book II: The Earth Under the Martians - V: The Stillness",
+      "length": 5230,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Book II: The Earth Under the Martians - VI: The Work of Fifteen Days",
+      "length": 6845,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Book II: The Earth Under the Martians - VII: The Man on Putney Hill",
+      "length": 30280,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Book II: The Earth Under the Martians - VIII: Dead London",
+      "length": 16992,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Book II: The Earth Under the Martians - IX: Wreckage",
+      "length": 10141,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Book II: The Earth Under the Martians - X: The Epilogue",
+      "length": 7643,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Colophon",
+      "length": 1078,
+      "mode": "hide"
+    },
+    {
+      "id": "033",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL52114W",
+  "goodreadsId": "753004",
+  "rating": 0.766,
+  "popularity": 318639,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720831410206
+}

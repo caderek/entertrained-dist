@@ -1,1 +1,218 @@
-{"id":"l-frank-baum--the-wonderful-wizard-of-oz","title":"The Wonderful Wizard of Oz","titleAlpha":"wonderful wizard of oz","author":"L. Frank Baum","language":"en","description":"The adventures of a young farm girl named Dorothy in the magical Land of Oz, after she and her pet dog Toto are swept away from their Kansas home by a cyclone.","longDescription":["The Wonderful Wizard of Oz is the classic American children's novel about the adventures of Dorothy, a young girl who along with her dog Toto is swept away by a cyclone to the magical Land of Oz. It was written by L. Frank Baum and published in May 1900.","Dorothy lives with her Aunt Em, Uncle Henry, and Toto on a farm in the Kansas prairie. One day, Dorothy and Toto are caught up in a cyclone that deposits her farmhouse into Munchkin Country in the magical Land of Oz. The falling house has killed the Wicked Witch of the East, the evil ruler of the Munchkins. The Good Witch of the North arrives with three grateful Munchkins and gives Dorothy the magical Silver Shoes that once belonged to the Wicked Witch. The Good Witch tells Dorothy that the only way she can return home is to go to the Emerald City and ask the great and powerful Wizard of Oz to help her.","The Library of Congress has declared it \"America's greatest and best-loved homegrown fairy-tale.\" Its groundbreaking success and the success of the Broadway musical adaptation led Baum to write thirteen additional Oz books which serve as sequels to the first story. The 1939 film musical adaptation starring Judy Garland is considered by many to be one of the greatest films in cinema history."],"year":1900,"genres":["children","fantasy","fiction"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/l-frank-baum/the-wonderful-wizard-of-oz"},"series":"Land of Oz","part":1,"chapters":[{"id":"001","title":"I: The Cyclone","length":5942,"skip":false},{"id":"002","title":"II: The Council with the Munchkins","length":10521,"skip":false},{"id":"003","title":"III: How Dorothy Saved the Scarecrow","length":10201,"skip":false},{"id":"004","title":"IV: The Road Through the Forest","length":7409,"skip":false},{"id":"005","title":"V: The Rescue of the Tin Woodman","length":10298,"skip":false},{"id":"006","title":"VI: The Cowardly Lion","length":7759,"skip":false},{"id":"007","title":"VII: The Journey to the Great Oz","length":9364,"skip":false},{"id":"008","title":"VIII: The Deadly Poppy Field","length":9984,"skip":false},{"id":"009","title":"IX: The Queen of the Field Mice","length":7203,"skip":false},{"id":"010","title":"X: The Guardian of the Gate","length":10033,"skip":false},{"id":"011","title":"XI: The Wonderful City of Oz","length":18602,"skip":false},{"id":"012","title":"XII: The Search for the Wicked Witch","length":18884,"skip":false},{"id":"013","title":"XIII: The Rescue","length":6275,"skip":false},{"id":"014","title":"XIV: The Winged Monkeys","length":9865,"skip":false},{"id":"015","title":"XV: The Discovery of Oz, the Terrible","length":14295,"skip":false},{"id":"016","title":"XVI: The Magic Art of the Great Humbug","length":4814,"skip":false},{"id":"017","title":"XVII: How the Balloon Was Launched","length":5827,"skip":false},{"id":"018","title":"XVIII: Away to the South","length":6106,"skip":false},{"id":"019","title":"XIX: Attacked by the Fighting Trees","length":5296,"skip":false},{"id":"020","title":"XX: The Dainty China Country","length":8083,"skip":false},{"id":"021","title":"XXI: The Lion Becomes the King of Beasts","length":4679,"skip":false},{"id":"022","title":"XXII: The Country of the Quadlings","length":4992,"skip":false},{"id":"023","title":"XXIII: Glinda the Good Witch Grants Dorothy's Wish","length":6553,"skip":false},{"id":"024","title":"XXIV: Home Again","length":378,"skip":false}],"createdAt":1719507075390}
+{
+  "id": "l-frank-baum--the-wonderful-wizard-of-oz",
+  "title": "The Wonderful Wizard of Oz",
+  "titleAlpha": "wonderful wizard of oz",
+  "author": "L. Frank Baum",
+  "language": "en",
+  "description": "The adventures of a young farm girl named Dorothy in the magical Land of Oz, after she and her pet dog Toto are swept away from their Kansas home by a cyclone.",
+  "longDescription": [
+    "The Wonderful Wizard of Oz is the classic American children's novel about the adventures of Dorothy, a young girl who along with her dog Toto is swept away by a cyclone to the magical Land of Oz. It was written by L. Frank Baum and published in May 1900.",
+    "Dorothy lives with her Aunt Em, Uncle Henry, and Toto on a farm in the Kansas prairie. One day, Dorothy and Toto are caught up in a cyclone that deposits her farmhouse into Munchkin Country in the magical Land of Oz. The falling house has killed the Wicked Witch of the East, the evil ruler of the Munchkins. The Good Witch of the North arrives with three grateful Munchkins and gives Dorothy the magical Silver Shoes that once belonged to the Wicked Witch. The Good Witch tells Dorothy that the only way she can return home is to go to the Emerald City and ask the great and powerful Wizard of Oz to help her.",
+    "The Library of Congress has declared it \"America's greatest and best-loved homegrown fairy-tale.\" Its groundbreaking success and the success of the Broadway musical adaptation led Baum to write thirteen additional Oz books which serve as sequels to the first story. The 1939 film musical adaptation starring Judy Garland is considered by many to be one of the greatest films in cinema history."
+  ],
+  "year": 1900,
+  "genres": [
+    "children",
+    "classics",
+    "fantasy",
+    "fiction",
+    "young-adult"
+  ],
+  "topics": [
+    "magic",
+    "friendship",
+    "fairy-tales"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Oz",
+  "part": 1,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/l-frank-baum/the-wonderful-wizard-of-oz"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Wonderful Wizard of Oz",
+      "length": 18,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Introduction",
+      "length": 1145,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "I: The Cyclone",
+      "length": 5942,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II: The Council with the Munchkins",
+      "length": 10521,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III: How Dorothy Saved the Scarecrow",
+      "length": 10201,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "IV: The Road Through the Forest",
+      "length": 7409,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "V: The Rescue of the Tin Woodman",
+      "length": 10298,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VI: The Cowardly Lion",
+      "length": 7759,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VII: The Journey to the Great Oz",
+      "length": 9364,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VIII: The Deadly Poppy Field",
+      "length": 9984,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "IX: The Queen of the Field Mice",
+      "length": 7203,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "X: The Guardian of the Gate",
+      "length": 10033,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XI: The Wonderful City of Oz",
+      "length": 18602,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XII: The Search for the Wicked Witch",
+      "length": 18884,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIII: The Rescue",
+      "length": 6275,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIV: The Winged Monkeys",
+      "length": 9865,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XV: The Discovery of Oz, the Terrible",
+      "length": 14295,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVI: The Magic Art of the Great Humbug",
+      "length": 4814,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVII: How the Balloon Was Launched",
+      "length": 5827,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVIII: Away to the South",
+      "length": 6106,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XIX: Attacked by the Fighting Trees",
+      "length": 5296,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XX: The Dainty China Country",
+      "length": 8083,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXI: The Lion Becomes the King of Beasts",
+      "length": 4679,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXII: The Country of the Quadlings",
+      "length": 4992,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIII: Glinda the Good Witch Grants Dorothy's Wish",
+      "length": 6553,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXIV: Home Again",
+      "length": 378,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Colophon",
+      "length": 1074,
+      "mode": "hide"
+    },
+    {
+      "id": "029",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL18417W",
+  "goodreadsId": "762682",
+  "rating": 0.8,
+  "popularity": 458272,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720831557353
+}

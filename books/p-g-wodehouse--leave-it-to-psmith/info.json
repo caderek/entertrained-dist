@@ -1,1 +1,359 @@
-{"id":"p-g-wodehouse--leave-it-to-psmith","title":"Leave It to Psmith","titleAlpha":"leave it to psmith","author":"P. G. Wodehouse","language":"en","description":"Psmith inveigles himself into Blandings Castle to help out a friend and to pursue love.","longDescription":["Psmith, down on his luck, takes out a newspaper advertisement to undertake a job, and the Hon. Freddie Threepwood, younger son of Lord Emsworth, enlists Psmith to steal his Aunt Constance's diamond necklace. Psmith inveigles himself into Blandings Castle, posing as a Canadian poet. He falls in love with Eve Halliday and has to survive the suspicious and Efficient Baxter. In the meantime, others in Blandings Castle are also after the necklace.","Sir Pelham Grenville Wodehouse was an English author and one of the most widely read humorists of the twentieth century. After leaving school, he was employed by a bank but disliked the work and turned to writing in his spare time. His early novels were mostly school stories, but he later switched to comic fiction, creating several regular characters who became familiar to the public over the years.","Leave It to Psmith was originally serialized in the Saturday Evening Post in the U. S. and in Grand Magazine in the U. K. in 1923. It is the sequel to Psmith, Journalist."],"year":1923,"genres":["comedy","fiction"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/p-g-wodehouse/leave-it-to-psmith"},"series":"Psmith","part":3,"chapters":[{"id":"001","title":"I: Dark Plottings at Blandings Castle - I","length":17093,"skip":false},{"id":"002","title":"I: Dark Plottings at Blandings Castle - II","length":12499,"skip":false},{"id":"003","title":"I: Dark Plottings at Blandings Castle - III","length":10703,"skip":false},{"id":"004","title":"I: Dark Plottings at Blandings Castle - IV","length":4727,"skip":false},{"id":"005","title":"I: Dark Plottings at Blandings Castle - V","length":1280,"skip":false},{"id":"006","title":"II: Enter Psmith - I","length":9420,"skip":false},{"id":"007","title":"II: Enter Psmith - II","length":21838,"skip":false},{"id":"008","title":"III: Eve Borrows an Umbrella","length":10305,"skip":false},{"id":"009","title":"IV: Painful Scene at the Drones Club","length":6012,"skip":false},{"id":"010","title":"V: Psmith Applies for Employment","length":13632,"skip":false},{"id":"011","title":"VI: Lord Emsworth Meets a Poet - I","length":12036,"skip":false},{"id":"012","title":"VI: Lord Emsworth Meets a Poet - II","length":7052,"skip":false},{"id":"013","title":"VI: Lord Emsworth Meets a Poet - III","length":4940,"skip":false},{"id":"014","title":"VI: Lord Emsworth Meets a Poet - IV","length":16489,"skip":false},{"id":"015","title":"VI: Lord Emsworth Meets a Poet - V","length":10465,"skip":false},{"id":"016","title":"VII: Baxter Suspects - I","length":10216,"skip":false},{"id":"017","title":"VII: Baxter Suspects - II","length":13103,"skip":false},{"id":"018","title":"VII: Baxter Suspects - III","length":12062,"skip":false},{"id":"019","title":"VIII: Confidences on the Lake - I","length":5789,"skip":false},{"id":"020","title":"VIII: Confidences on the Lake - II","length":7944,"skip":false},{"id":"021","title":"VIII: Confidences on the Lake - III","length":7323,"skip":false},{"id":"022","title":"VIII: Confidences on the Lake - IV","length":9021,"skip":false},{"id":"023","title":"VIII: Confidences on the Lake - V","length":12561,"skip":false},{"id":"024","title":"VIII: Confidences on the Lake - VI","length":7012,"skip":false},{"id":"025","title":"IX: Psmith Engages a Valet - I","length":9676,"skip":false},{"id":"026","title":"IX: Psmith Engages a Valet - II","length":6329,"skip":false},{"id":"027","title":"IX: Psmith Engages a Valet - III","length":7104,"skip":false},{"id":"028","title":"IX: Psmith Engages a Valet - IV","length":12348,"skip":false},{"id":"029","title":"IX: Psmith Engages a Valet - V","length":12283,"skip":false},{"id":"030","title":"IX: Psmith Engages a Valet - VI","length":12453,"skip":false},{"id":"031","title":"X: Sensational Occurrence at a Poetry Reading - I","length":9850,"skip":false},{"id":"032","title":"X: Sensational Occurrence at a Poetry Reading - II","length":12976,"skip":false},{"id":"033","title":"X: Sensational Occurrence at a Poetry Reading - III","length":10209,"skip":false},{"id":"034","title":"X: Sensational Occurrence at a Poetry Reading - IV","length":17785,"skip":false},{"id":"035","title":"X: Sensational Occurrence at a Poetry Reading - V","length":1931,"skip":false},{"id":"036","title":"X: Sensational Occurrence at a Poetry Reading - VI","length":145,"skip":false},{"id":"037","title":"XI: Almost Entirely About Flowerpots - I","length":8864,"skip":false},{"id":"038","title":"XI: Almost Entirely About Flowerpots - II","length":11150,"skip":false},{"id":"039","title":"XI: Almost Entirely About Flowerpots - III","length":8050,"skip":false},{"id":"040","title":"XI: Almost Entirely About Flowerpots - IV","length":7620,"skip":false},{"id":"041","title":"XI: Almost Entirely About Flowerpots - V","length":10498,"skip":false},{"id":"042","title":"XI: Almost Entirely About Flowerpots - VI","length":2504,"skip":false},{"id":"043","title":"XII: More on the Flowerpot Theme","length":18838,"skip":false},{"id":"044","title":"XIII: Psmith Receives Guests - I","length":13814,"skip":false},{"id":"045","title":"XIII: Psmith Receives Guests - II","length":7096,"skip":false},{"id":"046","title":"XIII: Psmith Receives Guests - III","length":9898,"skip":false},{"id":"047","title":"XIII: Psmith Receives Guests - IV","length":12158,"skip":false},{"id":"048","title":"XIII: Psmith Receives Guests - V","length":4381,"skip":false},{"id":"049","title":"XIV: Psmith Accepts Employment","length":21888,"skip":false}],"createdAt":1719507168593}
+{
+  "id": "p-g-wodehouse--leave-it-to-psmith",
+  "title": "Leave It to Psmith",
+  "titleAlpha": "leave it to psmith",
+  "author": "P. G. Wodehouse",
+  "language": "en",
+  "description": "Psmith inveigles himself into Blandings Castle to help out a friend and to pursue love.",
+  "longDescription": [
+    "Psmith, down on his luck, takes out a newspaper advertisement to undertake a job, and the Hon. Freddie Threepwood, younger son of Lord Emsworth, enlists Psmith to steal his Aunt Constance's diamond necklace. Psmith inveigles himself into Blandings Castle, posing as a Canadian poet. He falls in love with Eve Halliday and has to survive the suspicious and Efficient Baxter. In the meantime, others in Blandings Castle are also after the necklace.",
+    "Sir Pelham Grenville Wodehouse was an English author and one of the most widely read humorists of the twentieth century. After leaving school, he was employed by a bank but disliked the work and turned to writing in his spare time. His early novels were mostly school stories, but he later switched to comic fiction, creating several regular characters who became familiar to the public over the years.",
+    "Leave It to Psmith was originally serialized in the Saturday Evening Post in the U. S. and in Grand Magazine in the U. K. in 1923. It is the sequel to Psmith, Journalist."
+  ],
+  "year": 1923,
+  "genres": [
+    "classics",
+    "comedy",
+    "fiction"
+  ],
+  "topics": [
+    "nobility",
+    "thieves"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Psmith",
+  "part": 4,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/p-g-wodehouse/leave-it-to-psmith"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Leave It to Psmith",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: Dark Plottings at Blandings Castle - I",
+      "length": 17093,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "I: Dark Plottings at Blandings Castle - II",
+      "length": 12499,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "I: Dark Plottings at Blandings Castle - III",
+      "length": 10703,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "I: Dark Plottings at Blandings Castle - IV",
+      "length": 4727,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "I: Dark Plottings at Blandings Castle - V",
+      "length": 1280,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "II: Enter Psmith - I",
+      "length": 9420,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "II: Enter Psmith - II",
+      "length": 21838,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "III: Eve Borrows an Umbrella",
+      "length": 10305,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IV: Painful Scene at the Drones Club",
+      "length": 6012,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "V: Psmith Applies for Employment",
+      "length": 13632,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "VI: Lord Emsworth Meets a Poet - I",
+      "length": 12036,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "VI: Lord Emsworth Meets a Poet - II",
+      "length": 7052,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "VI: Lord Emsworth Meets a Poet - III",
+      "length": 4940,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "VI: Lord Emsworth Meets a Poet - IV",
+      "length": 16489,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "VI: Lord Emsworth Meets a Poet - V",
+      "length": 10465,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "VII: Baxter Suspects - I",
+      "length": 10216,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "VII: Baxter Suspects - II",
+      "length": 13103,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "VII: Baxter Suspects - III",
+      "length": 12062,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "VIII: Confidences on the Lake - I",
+      "length": 5789,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "VIII: Confidences on the Lake - II",
+      "length": 7944,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "VIII: Confidences on the Lake - III",
+      "length": 7323,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "VIII: Confidences on the Lake - IV",
+      "length": 9021,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "VIII: Confidences on the Lake - V",
+      "length": 12561,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "VIII: Confidences on the Lake - VI",
+      "length": 7012,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "IX: Psmith Engages a Valet - I",
+      "length": 9676,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "IX: Psmith Engages a Valet - II",
+      "length": 6329,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "IX: Psmith Engages a Valet - III",
+      "length": 7104,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "IX: Psmith Engages a Valet - IV",
+      "length": 12348,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "IX: Psmith Engages a Valet - V",
+      "length": 12283,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "IX: Psmith Engages a Valet - VI",
+      "length": 12453,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "X: Sensational Occurrence at a Poetry Reading - I",
+      "length": 9850,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "X: Sensational Occurrence at a Poetry Reading - II",
+      "length": 12976,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "X: Sensational Occurrence at a Poetry Reading - III",
+      "length": 10209,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "X: Sensational Occurrence at a Poetry Reading - IV",
+      "length": 17785,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "X: Sensational Occurrence at a Poetry Reading - V",
+      "length": 1931,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "X: Sensational Occurrence at a Poetry Reading - VI",
+      "length": 145,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XI: Almost Entirely About Flowerpots - I",
+      "length": 8864,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XI: Almost Entirely About Flowerpots - II",
+      "length": 11150,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XI: Almost Entirely About Flowerpots - III",
+      "length": 8050,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XI: Almost Entirely About Flowerpots - IV",
+      "length": 7620,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XI: Almost Entirely About Flowerpots - V",
+      "length": 10498,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XI: Almost Entirely About Flowerpots - VI",
+      "length": 2504,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XII: More on the Flowerpot Theme",
+      "length": 18838,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "XIII: Psmith Receives Guests - I",
+      "length": 13814,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "XIII: Psmith Receives Guests - II",
+      "length": 7096,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "XIII: Psmith Receives Guests - III",
+      "length": 9898,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "XIII: Psmith Receives Guests - IV",
+      "length": 12158,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "XIII: Psmith Receives Guests - V",
+      "length": 4381,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "XIV: Psmith Accepts Employment",
+      "length": 21888,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "Colophon",
+      "length": 1101,
+      "mode": "hide"
+    },
+    {
+      "id": "053",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1337104W",
+  "goodreadsId": "13707720",
+  "rating": 0.8539999999999999,
+  "popularity": 11445,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720966983484
+}

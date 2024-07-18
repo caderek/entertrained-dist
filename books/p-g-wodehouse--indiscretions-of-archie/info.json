@@ -1,1 +1,224 @@
-{"id":"p-g-wodehouse--indiscretions-of-archie","title":"Indiscretions of Archie","titleAlpha":"indiscretions of archie","author":"P. G. Wodehouse","language":"en","description":"When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.","longDescription":["Indiscretions of Archie is a comic novel adapted from a set of short stories serialized in the Strand magazine between March 1920 and February 1921 in the United Kingdom and between May 1920 and February 1921 in Cosmopolitan in the United States. The novel was first published in the United Kingdom on February 14, 1921 by Herbert Jenkins and in the United States on July 15, 1921 by George H. Doran.","The eponymous Archie is Archibald Moffam, a gaffe-prone but affable Englishman who has found himself living in New York City after the end of the First World War, in which he had served with distinction. After a whirlwind romance Archie marries Lucille, the daughter of wealthy hotel owner and art collector Daniel Brewster. Many of the ensuing events revolve around Archie's attempts to win favor with his new father-in-law."],"year":2022,"genres":["comedy","fiction"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie"},"series":null,"part":0,"chapters":[{"id":"001","title":"I: Distressing Scene in a Hotel","length":4981,"skip":false},{"id":"002","title":"II: A Shock for Mr. Brewster","length":7555,"skip":false},{"id":"003","title":"III: Mr. Brewster Delivers Sentence","length":9125,"skip":false},{"id":"004","title":"IV: Work Wanted","length":5724,"skip":false},{"id":"005","title":"V: Strange Experience of an Artist's Model","length":14416,"skip":false},{"id":"006","title":"VI: The Bomb","length":18318,"skip":false},{"id":"007","title":"VII: Mr. Roscoe Sherriff Has an Idea","length":16938,"skip":false},{"id":"008","title":"VIII: A Disturbed Night for Dear Old Squiffy","length":17567,"skip":false},{"id":"009","title":"IX: A Letter from Parker","length":16097,"skip":false},{"id":"010","title":"X: Doing Father a Bit of Good","length":19947,"skip":false},{"id":"011","title":"XI: Salvatore Chooses the Wrong Moment","length":10673,"skip":false},{"id":"012","title":"XII: Bright Eyes - and a Fly","length":17745,"skip":false},{"id":"013","title":"XIII: Rallying Round Percy","length":21309,"skip":false},{"id":"014","title":"XIV: The Sad Case of Looney Biddle","length":18350,"skip":false},{"id":"015","title":"XV: Summer Storms","length":22719,"skip":false},{"id":"016","title":"XVI: Archie Accepts a Situation","length":12330,"skip":false},{"id":"017","title":"XVII: Brother Bill's Romance","length":8772,"skip":false},{"id":"018","title":"XVIII: The Sausage Chappie","length":14612,"skip":false},{"id":"019","title":"XIX: Reggie Comes to Life","length":28753,"skip":false},{"id":"020","title":"XX: The Sausage Chappie Clicks","length":14273,"skip":false},{"id":"021","title":"XXI: The Growing Boy","length":21755,"skip":false},{"id":"022","title":"XXII: Washy Steps Into the Hall of Fame","length":17526,"skip":false},{"id":"023","title":"XXIII: Mother's Knee","length":17433,"skip":false},{"id":"024","title":"XXIV: The Melting of Mr. Connolly","length":16422,"skip":false},{"id":"025","title":"XXV: The Wigmore Venus","length":18736,"skip":false},{"id":"026","title":"XXVI: A Tale of a Grandfather","length":14987,"skip":false}],"createdAt":1719507167522}
+{
+  "id": "p-g-wodehouse--indiscretions-of-archie",
+  "title": "Indiscretions of Archie",
+  "titleAlpha": "indiscretions of archie",
+  "author": "P. G. Wodehouse",
+  "language": "en",
+  "description": "When Englishman Archie Moffam makes a complaint about his room to the owner of the New York hotel, his life is changed forever.",
+  "longDescription": [
+    "Indiscretions of Archie is a comic novel adapted from a set of short stories serialized in the Strand magazine between March 1920 and February 1921 in the United Kingdom and between May 1920 and February 1921 in Cosmopolitan in the United States. The novel was first published in the United Kingdom on February 14, 1921 by Herbert Jenkins and in the United States on July 15, 1921 by George H. Doran.",
+    "The eponymous Archie is Archibald Moffam, a gaffe-prone but affable Englishman who has found himself living in New York City after the end of the First World War, in which he had served with distinction. After a whirlwind romance Archie marries Lucille, the daughter of wealthy hotel owner and art collector Daniel Brewster. Many of the ensuing events revolve around Archie's attempts to win favor with his new father-in-law."
+  ],
+  "year": 1921,
+  "genres": [
+    "classics",
+    "comedy",
+    "fiction",
+    "romance"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/p-g-wodehouse/indiscretions-of-archie"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Indiscretions of Archie",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication to B. W. King-Hall",
+      "length": 612,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "I: Distressing Scene in a Hotel",
+      "length": 4981,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II: A Shock for Mr. Brewster",
+      "length": 7555,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III: Mr. Brewster Delivers Sentence",
+      "length": 9125,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "IV: Work Wanted",
+      "length": 5724,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "V: Strange Experience of an Artist's Model",
+      "length": 14416,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VI: The Bomb",
+      "length": 18318,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VII: Mr. Roscoe Sherriff Has an Idea",
+      "length": 16938,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VIII: A Disturbed Night for Dear Old Squiffy",
+      "length": 17567,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "IX: A Letter from Parker",
+      "length": 16097,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "X: Doing Father a Bit of Good",
+      "length": 19947,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XI: Salvatore Chooses the Wrong Moment",
+      "length": 10673,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XII: Bright Eyes - and a Fly",
+      "length": 17745,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIII: Rallying Round Percy",
+      "length": 21309,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIV: The Sad Case of Looney Biddle",
+      "length": 18350,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XV: Summer Storms",
+      "length": 22719,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVI: Archie Accepts a Situation",
+      "length": 12330,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVII: Brother Bill's Romance",
+      "length": 8772,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVIII: The Sausage Chappie",
+      "length": 14612,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XIX: Reggie Comes to Life",
+      "length": 28753,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XX: The Sausage Chappie Clicks",
+      "length": 14273,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXI: The Growing Boy",
+      "length": 21755,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXII: Washy Steps Into the Hall of Fame",
+      "length": 17526,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIII: Mother's Knee",
+      "length": 17433,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXIV: The Melting of Mr. Connolly",
+      "length": 16422,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXV: The Wigmore Venus",
+      "length": 18736,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVI: A Tale of a Grandfather",
+      "length": 14987,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Colophon",
+      "length": 1103,
+      "mode": "hide"
+    },
+    {
+      "id": "031",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL286526W",
+  "goodreadsId": "18098",
+  "rating": 0.778,
+  "popularity": 1491,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721172302515
+}

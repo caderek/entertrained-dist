@@ -1,1 +1,279 @@
-{"id":"george-bernard-shaw--heartbreak-house","title":"Heartbreak House","titleAlpha":"heartbreak house","author":"George Bernard Shaw","language":"en","description":"Men and women of the English leisured classes gather at a country house on the eve of war to discuss love, life, and the future.","longDescription":["Published in 1919, Heartbreak House is an examination of the failings of the European leisure classes before World War I - failings that author George Bernard Shaw blamed for the war, and that he predicted would quickly lead to another, longer war.","The play is set in an English country house, where representatives of every type of English society have gathered at the home of the seemingly-mad Captain Shotover. Hidebound aristocrats and cultured bohemians, wealthy capitalists and radical idealists, prim moralists and idle libertines, are all laid bare in one of Shaw's bleakest and yet most absurd plays."],"year":2023,"genres":["drama"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/george-bernard-shaw/heartbreak-house"},"series":null,"part":0,"chapters":[{"id":"001","title":"Heartbreak House and Horseback Hall - Where Heartbreak House Stands","length":1574,"skip":false},{"id":"002","title":"Heartbreak House and Horseback Hall - The Inhabitants","length":1805,"skip":false},{"id":"003","title":"Heartbreak House and Horseback Hall - Horseback Hall","length":1106,"skip":false},{"id":"004","title":"Heartbreak House and Horseback Hall - Revolution on the Shelf","length":2092,"skip":false},{"id":"005","title":"Heartbreak House and Horseback Hall - The Cherry Orchard","length":1461,"skip":false},{"id":"006","title":"Heartbreak House and Horseback Hall - Nature's Long Credits","length":2525,"skip":false},{"id":"007","title":"Heartbreak House and Horseback Hall - The Wicked Half Century","length":3021,"skip":false},{"id":"008","title":"Heartbreak House and Horseback Hall - Hypochondria","length":2626,"skip":false},{"id":"009","title":"Heartbreak House and Horseback Hall - Those Who Do Not Know How to Live Must Make a Merit of Dying","length":841,"skip":false},{"id":"010","title":"Heartbreak House and Horseback Hall - War Delirium","length":2767,"skip":false},{"id":"011","title":"Heartbreak House and Horseback Hall - Madness in Court","length":2730,"skip":false},{"id":"012","title":"Heartbreak House and Horseback Hall - The Long Arm of War","length":2643,"skip":false},{"id":"013","title":"Heartbreak House and Horseback Hall - The Rabid Watchdogs of Liberty","length":4273,"skip":false},{"id":"014","title":"Heartbreak House and Horseback Hall - The Sufferings of the Sane","length":3288,"skip":false},{"id":"015","title":"Heartbreak House and Horseback Hall - Evil in the Throne of Good","length":1696,"skip":false},{"id":"016","title":"Heartbreak House and Horseback Hall - Straining at the Gnat and Swallowing the Camel","length":3427,"skip":false},{"id":"017","title":"Heartbreak House and Horseback Hall - Little Minds and Big Battles","length":3206,"skip":false},{"id":"018","title":"Heartbreak House and Horseback Hall - The Dumb Capables and the Noisy Incapables","length":3017,"skip":false},{"id":"019","title":"Heartbreak House and Horseback Hall - The Practical Business Men","length":694,"skip":false},{"id":"020","title":"Heartbreak House and Horseback Hall - How the Fools Shouted the Wise Men Down","length":2285,"skip":false},{"id":"021","title":"Heartbreak House and Horseback Hall - The Mad Election","length":2102,"skip":false},{"id":"022","title":"Heartbreak House and Horseback Hall - The Yahoo and the Angry Ape","length":3732,"skip":false},{"id":"023","title":"Heartbreak House and Horseback Hall - Plague on Both Your Houses!","length":2269,"skip":false},{"id":"024","title":"Heartbreak House and Horseback Hall - How the Theatre Fared","length":1668,"skip":false},{"id":"025","title":"Heartbreak House and Horseback Hall - The Soldier at the Theatre Front","length":4261,"skip":false},{"id":"026","title":"Heartbreak House and Horseback Hall - Commerce in the Theatre","length":531,"skip":false},{"id":"027","title":"Heartbreak House and Horseback Hall - Unser Shakespeare","length":742,"skip":false},{"id":"028","title":"Heartbreak House and Horseback Hall - The Higher Drama Put Out of Action","length":3888,"skip":false},{"id":"029","title":"Heartbreak House and Horseback Hall - Church and Theatre","length":4306,"skip":false},{"id":"030","title":"Heartbreak House and Horseback Hall - The Next Phase","length":4770,"skip":false},{"id":"031","title":"Heartbreak House and Horseback Hall - The Ephemeral Thrones and the Eternal Theatre","length":794,"skip":false},{"id":"032","title":"Heartbreak House and Horseback Hall - How War Muzzles the Dramatic Poet","length":2643,"skip":false},{"id":"033","title":"Dramatis Personae","length":153,"skip":false},{"id":"034","title":"Act I","length":72406,"skip":false},{"id":"035","title":"Act II","length":79636,"skip":false},{"id":"036","title":"Act III","length":35135,"skip":false}],"createdAt":1719506928662}
+{
+  "id": "george-bernard-shaw--heartbreak-house",
+  "title": "Heartbreak House",
+  "titleAlpha": "heartbreak house",
+  "author": "George Bernard Shaw",
+  "language": "en",
+  "description": "Men and women of the English leisured classes gather at a country house on the eve of war to discuss love, life, and the future.",
+  "longDescription": [
+    "Published in 1919, Heartbreak House is an examination of the failings of the European leisure classes before World War I - failings that author George Bernard Shaw blamed for the war, and that he predicted would quickly lead to another, longer war.",
+    "The play is set in an English country house, where representatives of every type of English society have gathered at the home of the seemingly-mad Captain Shotover. Hidebound aristocrats and cultured bohemians, wealthy capitalists and radical idealists, prim moralists and idle libertines, are all laid bare in one of Shaw's bleakest and yet most absurd plays."
+  ],
+  "year": 1919,
+  "genres": [
+    "classics",
+    "drama",
+    "fiction"
+  ],
+  "topics": [
+    "war"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/george-bernard-shaw/heartbreak-house"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Heartbreak House",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Heartbreak House and Horseback Hall - Where Heartbreak House Stands",
+      "length": 1574,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Heartbreak House and Horseback Hall - The Inhabitants",
+      "length": 1805,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Heartbreak House and Horseback Hall - Horseback Hall",
+      "length": 1106,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Heartbreak House and Horseback Hall - Revolution on the Shelf",
+      "length": 2092,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Heartbreak House and Horseback Hall - The Cherry Orchard",
+      "length": 1461,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Heartbreak House and Horseback Hall - Nature's Long Credits",
+      "length": 2525,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Heartbreak House and Horseback Hall - The Wicked Half Century",
+      "length": 3021,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Heartbreak House and Horseback Hall - Hypochondria",
+      "length": 2626,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Heartbreak House and Horseback Hall - Those Who Do Not Know How to Live Must Make a Merit of Dying",
+      "length": 841,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Heartbreak House and Horseback Hall - War Delirium",
+      "length": 2767,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Heartbreak House and Horseback Hall - Madness in Court",
+      "length": 2730,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Heartbreak House and Horseback Hall - The Long Arm of War",
+      "length": 2643,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Heartbreak House and Horseback Hall - The Rabid Watchdogs of Liberty",
+      "length": 4273,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Heartbreak House and Horseback Hall - The Sufferings of the Sane",
+      "length": 3288,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Heartbreak House and Horseback Hall - Evil in the Throne of Good",
+      "length": 1696,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Heartbreak House and Horseback Hall - Straining at the Gnat and Swallowing the Camel",
+      "length": 3427,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Heartbreak House and Horseback Hall - Little Minds and Big Battles",
+      "length": 3206,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Heartbreak House and Horseback Hall - The Dumb Capables and the Noisy Incapables",
+      "length": 3017,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Heartbreak House and Horseback Hall - The Practical Business Men",
+      "length": 694,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Heartbreak House and Horseback Hall - How the Fools Shouted the Wise Men Down",
+      "length": 2285,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Heartbreak House and Horseback Hall - The Mad Election",
+      "length": 2102,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Heartbreak House and Horseback Hall - The Yahoo and the Angry Ape",
+      "length": 3732,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Heartbreak House and Horseback Hall - Plague on Both Your Houses!",
+      "length": 2269,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Heartbreak House and Horseback Hall - How the Theatre Fared",
+      "length": 1668,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Heartbreak House and Horseback Hall - The Soldier at the Theatre Front",
+      "length": 4261,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Heartbreak House and Horseback Hall - Commerce in the Theatre",
+      "length": 531,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Heartbreak House and Horseback Hall - Unser Shakespeare",
+      "length": 742,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Heartbreak House and Horseback Hall - The Higher Drama Put Out of Action",
+      "length": 3888,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Heartbreak House and Horseback Hall - Church and Theatre",
+      "length": 4306,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Heartbreak House and Horseback Hall - The Next Phase",
+      "length": 4770,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Heartbreak House and Horseback Hall - The Ephemeral Thrones and the Eternal Theatre",
+      "length": 794,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Heartbreak House and Horseback Hall - How War Muzzles the Dramatic Poet",
+      "length": 2643,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Dramatis Personae",
+      "length": 153,
+      "mode": "skip"
+    },
+    {
+      "id": "036",
+      "title": "Act I",
+      "length": 72406,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Act II",
+      "length": 79636,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Act III",
+      "length": 35135,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Colophon",
+      "length": 1050,
+      "mode": "hide"
+    },
+    {
+      "id": "040",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL15241076W",
+  "goodreadsId": "767495",
+  "rating": 0.748,
+  "popularity": 2546,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720966606785
+}

@@ -1,1 +1,108 @@
-{"id":"agatha-christie--poirot-investigates","title":"Poirot Investigates","titleAlpha":"poirot investigates","author":"Agatha Christie","language":"en","description":"Poirot and his companion Hastings investigate and solve a series of mysteries.","longDescription":["Poirot Investigates is a classic collection of Agatha Christie's short stories first published in 1924. It follows the famous Belgian detective Hercule Poirot and his companion Arthur Hastings as they solve a series of mysteries. From threatening letters to Egyptian curses to missing wills, Poirot's little grey cells never falter. While Hastings and the reader are lost in the minutiae of the case, Poirot sees it all - and with impeccable attention to detail, finds the culprit."],"year":1924,"genres":["fiction","mystery","shorts"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/agatha-christie/poirot-investigates"},"series":"Hercule Poirot","part":3,"chapters":[{"id":"001","title":"The Adventure of the Western Star","length":40030,"skip":false},{"id":"002","title":"The Tragedy at Marsdon Manor","length":24583,"skip":false},{"id":"003","title":"The Adventure of the Cheap Flat","length":26508,"skip":false},{"id":"004","title":"The Mystery of Hunter's Lodge","length":24562,"skip":false},{"id":"005","title":"The Million Dollar Bond Robbery","length":18455,"skip":false},{"id":"006","title":"The Adventure of the Egyptian Tomb","length":28327,"skip":false},{"id":"007","title":"The Jewel Robbery at the Grand Metropolitan","length":28312,"skip":false},{"id":"008","title":"The Kidnapped Prime Minister","length":35917,"skip":false},{"id":"009","title":"The Disappearance of Mr. Davenheim","length":27735,"skip":false},{"id":"010","title":"The Adventure of the Italian Nobleman","length":21005,"skip":false},{"id":"011","title":"The Case of the Missing Will","length":17661,"skip":false}],"createdAt":1719506659649}
+{
+  "id": "agatha-christie--poirot-investigates",
+  "title": "Poirot Investigates",
+  "titleAlpha": "poirot investigates",
+  "author": "Agatha Christie",
+  "language": "en",
+  "description": "Poirot and his companion Hastings investigate and solve a series of mysteries.",
+  "longDescription": [
+    "Poirot Investigates is a classic collection of Agatha Christie's short stories first published in 1924. It follows the famous Belgian detective Hercule Poirot and his companion Arthur Hastings as they solve a series of mysteries. From threatening letters to Egyptian curses to missing wills, Poirot's little grey cells never falter. While Hastings and the reader are lost in the minutiae of the case, Poirot sees it all - and with impeccable attention to detail, finds the culprit."
+  ],
+  "year": 1924,
+  "genres": [
+    "classics",
+    "fiction",
+    "mystery",
+    "shorts",
+    "crime",
+    "thriller"
+  ],
+  "topics": [
+    "detective",
+    "murder"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Hercule Poirot",
+  "part": 3,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/agatha-christie/poirot-investigates"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "The Adventure of the Western Star",
+      "length": 40030,
+      "mode": "type"
+    },
+    {
+      "id": "002",
+      "title": "The Tragedy at Marsdon Manor",
+      "length": 24583,
+      "mode": "type"
+    },
+    {
+      "id": "003",
+      "title": "The Adventure of the Cheap Flat",
+      "length": 26508,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "The Mystery of Hunter's Lodge",
+      "length": 24562,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "The Million Dollar Bond Robbery",
+      "length": 18455,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "The Adventure of the Egyptian Tomb",
+      "length": 28327,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "The Jewel Robbery at the Grand Metropolitan",
+      "length": 28312,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "The Kidnapped Prime Minister",
+      "length": 35917,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "The Disappearance of Mr. Davenheim",
+      "length": 27735,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "The Adventure of the Italian Nobleman",
+      "length": 21005,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "The Case of the Missing Will",
+      "length": 17661,
+      "mode": "type"
+    }
+  ],
+  "openlibraryId": "OL471940W",
+  "goodreadsId": "2282559",
+  "rating": 0.784,
+  "popularity": 65925,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720554851489
+}

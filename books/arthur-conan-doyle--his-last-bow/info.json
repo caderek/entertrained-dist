@@ -1,1 +1,127 @@
-{"id":"arthur-conan-doyle--his-last-bow","title":"His Last Bow","titleAlpha":"his last bow","author":"Arthur Conan Doyle","language":"en","description":"The world's first consulting detective and his faithful biographer tackle more mysterious cases.","longDescription":["His Last Bow: Some Reminiscences of Sherlock Holmes is the fourth collection of Sherlock Holmes stories published by Arthur Conan Doyles. It begins with a preface by Dr. John Watson, supposedly written in 1917, assuring the reader that Holmes is still alive but living in quiet retirement in Sussex.","This collection contains the well-known stories \"The Adventure of the Bruce-Partington Plans,\" in which Holmes has to track down stolen plans for a new kind of submarine; and \"The Adventure of the Devil's Foot\" in which a Cornish family is found one morning driven mad or dead, with expressions of horror on their faces. The titular story \"His Last Bow\" is set on the very eve of the outbreak of the First World War, and involves Holmes and Watson coming out of retirement to defeat a German spy."],"year":1908,"genres":["fiction","mystery","shorts"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/arthur-conan-doyle/his-last-bow"},"series":"Sherlock Holmes","part":8,"chapters":[{"id":"001","title":"Preface","length":830,"skip":true},{"id":"002","title":"The Adventure of Wisteria Lodge - The Singular Experience of Mr. John Scott Eccles","length":25573,"skip":false},{"id":"003","title":"The Adventure of Wisteria Lodge - The Tiger of San Pedro","length":36241,"skip":false},{"id":"004","title":"The Adventure of the Red Circle - Part I","length":21193,"skip":false},{"id":"005","title":"The Adventure of the Red Circle - Part II","length":18328,"skip":false},{"id":"006","title":"The Adventure of the Bruce-Partington Plans","length":58822,"skip":false},{"id":"007","title":"The Adventure of the Dying Detective","length":31147,"skip":false},{"id":"008","title":"The Disappearance of Lady Frances Carfax","length":41948,"skip":false},{"id":"009","title":"The Adventure of the Devil's Foot","length":55030,"skip":false},{"id":"010","title":"His Last Bow - An Epilogue of Sherlock Holmes","length":32758,"skip":false}],"createdAt":1719506733622}
+{
+  "id": "arthur-conan-doyle--his-last-bow",
+  "title": "His Last Bow",
+  "titleAlpha": "his last bow",
+  "author": "Arthur Conan Doyle",
+  "language": "en",
+  "description": "The world's first consulting detective and his faithful biographer tackle more mysterious cases.",
+  "longDescription": [
+    "His Last Bow: Some Reminiscences of Sherlock Holmes is the fourth collection of Sherlock Holmes stories published by Arthur Conan Doyles. It begins with a preface by Dr. John Watson, supposedly written in 1917, assuring the reader that Holmes is still alive but living in quiet retirement in Sussex.",
+    "This collection contains the well-known stories \"The Adventure of the Bruce-Partington Plans,\" in which Holmes has to track down stolen plans for a new kind of submarine; and \"The Adventure of the Devil's Foot\" in which a Cornish family is found one morning driven mad or dead, with expressions of horror on their faces. The titular story \"His Last Bow\" is set on the very eve of the outbreak of the First World War, and involves Holmes and Watson coming out of retirement to defeat a German spy."
+  ],
+  "year": 1917,
+  "genres": [
+    "classics",
+    "fiction",
+    "mystery",
+    "shorts",
+    "crime",
+    "adventure"
+  ],
+  "topics": [
+    "detective",
+    "murder"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Sherlock Holmes",
+  "part": 8,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/arthur-conan-doyle/his-last-bow"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - His Last Bow",
+      "length": 23,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1183,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Preface",
+      "length": 830,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "The Adventure of Wisteria Lodge - The Singular Experience of Mr. John Scott Eccles",
+      "length": 25573,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "The Adventure of Wisteria Lodge - The Tiger of San Pedro",
+      "length": 36241,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "The Adventure of the Red Circle - Part I",
+      "length": 21193,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "The Adventure of the Red Circle - Part II",
+      "length": 18328,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "The Adventure of the Bruce-Partington Plans",
+      "length": 58822,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "The Adventure of the Dying Detective",
+      "length": 31147,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "The Disappearance of Lady Frances Carfax",
+      "length": 41948,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "The Adventure of the Devil's Foot",
+      "length": 55030,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "His Last Bow - An Epilogue of Sherlock Holmes",
+      "length": 32758,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Colophon",
+      "length": 1005,
+      "mode": "hide"
+    },
+    {
+      "id": "014",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL262452W",
+  "goodreadsId": "754713",
+  "rating": 0.8480000000000001,
+  "popularity": 45742,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720966341234
+}

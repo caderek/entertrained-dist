@@ -1,1 +1,244 @@
-{"id":"william-shakespeare--henry-v","title":"Henry V","titleAlpha":"henry v","author":"William Shakespeare","language":"en","description":"Shakespeare's 1599 play chronicling the history of King Henry the Fifth and his famous victory over the French at the Battle of Agincourt.","longDescription":["Written by William Shakespeare around 1599, The Life of Henry the Fifth, more commonly known as Henry V, chronicles the later history of King Henry the Fifth of England and his efforts during Hundred Years' War to reclaim disputed territories in France. The play starts with Henry's claims to be the rightful heir to the French throne and, after his invasion of France, culminates with his famous and improbable victory at the Battle of Agincourt and the negotiation of the Treaty of Troyes.","Henry V is believed to have been first performed in 1599 and first appears in a \"bad\" quarto in 1600, so-called because it contains a shortened version, likely unauthorized and potentially just based on a performance. This quarto was republished again in 1602 by a different printer and again in 1619. The first definitive text is the version published in the 1623 First Folio.","The play is the last part of a series of four history plays written by Shakespeare, including Richard II, Henry IV, Part 1, and Henry IV, Part 2 and many of characters like Henry (who appears as a wild young Hal in the Henry IVs), Pistol, Bardolph, and Mistress Quickly would have therefore been familiar to the audience. It contains some of Shakespeare's most memorable lines and is often held up as a powerful portrayal of inspirational leadership.","This Standard Ebooks edition is based on William George Clark and William Aldis Wright's 1887 Victoria edition, which is taken from the Globe edition."],"year":2019,"genres":["drama","history"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/william-shakespeare/henry-v"},"series":null,"part":0,"chapters":[{"id":"001","title":"Dramatis Personae","length":1003,"skip":false},{"id":"002","title":"Prologue","length":1449,"skip":false},{"id":"003","title":"Act I - Scene I","length":4362,"skip":false},{"id":"004","title":"Act I - Scene II","length":13948,"skip":false},{"id":"005","title":"Act II - Prologue","length":1858,"skip":false},{"id":"006","title":"Act II - Scene I","length":5648,"skip":false},{"id":"007","title":"Act II - Scene II","length":8715,"skip":false},{"id":"008","title":"Act II - Scene III","length":2757,"skip":false},{"id":"009","title":"Act II - Scene IV","length":6690,"skip":false},{"id":"010","title":"Act III - Prologue","length":1616,"skip":false},{"id":"011","title":"Act III - Scene I","length":1658,"skip":false},{"id":"012","title":"Act III - Scene II","length":6657,"skip":false},{"id":"013","title":"Act III - Scene III","length":2690,"skip":false},{"id":"014","title":"Act III - Scene IV","length":2530,"skip":false},{"id":"015","title":"Act III - Scene V","length":3170,"skip":false},{"id":"016","title":"Act III - Scene VI","length":8101,"skip":false},{"id":"017","title":"Act III - Scene VII","length":6957,"skip":false},{"id":"018","title":"Act IV - Prologue","length":2248,"skip":false},{"id":"019","title":"Act IV - Scene I","length":14241,"skip":false},{"id":"020","title":"Act IV - Scene II","length":2977,"skip":false},{"id":"021","title":"Act IV - Scene III","length":6313,"skip":false},{"id":"022","title":"Act IV - Scene IV","length":3330,"skip":false},{"id":"023","title":"Act IV - Scene V","length":1177,"skip":false},{"id":"024","title":"Act IV - Scene VI","length":1776,"skip":false},{"id":"025","title":"Act IV - Scene VII","length":8574,"skip":false},{"id":"026","title":"Act IV - Scene VIII","length":5956,"skip":false},{"id":"027","title":"Act V - Prologue","length":1995,"skip":false},{"id":"028","title":"Act V - Scene I","length":4112,"skip":false},{"id":"029","title":"Act V - Scene II","length":17880,"skip":false},{"id":"030","title":"Epilogue","length":660,"skip":false}],"createdAt":1719507339096}
+{
+  "id": "william-shakespeare--henry-v",
+  "title": "Henry V",
+  "titleAlpha": "henry v",
+  "author": "William Shakespeare",
+  "language": "en",
+  "description": "Shakespeare's 1599 play chronicling the history of King Henry the Fifth and his famous victory over the French at the Battle of Agincourt.",
+  "longDescription": [
+    "Written by William Shakespeare around 1599, The Life of Henry the Fifth, more commonly known as Henry V, chronicles the later history of King Henry the Fifth of England and his efforts during Hundred Years' War to reclaim disputed territories in France. The play starts with Henry's claims to be the rightful heir to the French throne and, after his invasion of France, culminates with his famous and improbable victory at the Battle of Agincourt and the negotiation of the Treaty of Troyes.",
+    "Henry V is believed to have been first performed in 1599 and first appears in a \"bad\" quarto in 1600, so-called because it contains a shortened version, likely unauthorized and potentially just based on a performance. This quarto was republished again in 1602 by a different printer and again in 1619. The first definitive text is the version published in the 1623 First Folio.",
+    "The play is the last part of a series of four history plays written by Shakespeare, including Richard II, Henry IV, Part 1, and Henry IV, Part 2 and many of characters like Henry (who appears as a wild young Hal in the Henry IVs), Pistol, Bardolph, and Mistress Quickly would have therefore been familiar to the audience. It contains some of Shakespeare's most memorable lines and is often held up as a powerful portrayal of inspirational leadership.",
+    "This Standard Ebooks edition is based on William George Clark and William Aldis Wright's 1887 Victoria edition, which is taken from the Globe edition."
+  ],
+  "year": 1599,
+  "genres": [
+    "classics",
+    "drama",
+    "history",
+    "fiction"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Wars of the Roses",
+  "part": 4,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/william-shakespeare/henry-v"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Henry V",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dramatis Personae",
+      "length": 1003,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Prologue",
+      "length": 1449,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Act I - Scene I",
+      "length": 4362,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Act I - Scene II",
+      "length": 13948,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Act II - Prologue",
+      "length": 1858,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Act II - Scene I",
+      "length": 5648,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Act II - Scene II",
+      "length": 8715,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Act II - Scene III",
+      "length": 2757,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Act II - Scene IV",
+      "length": 6690,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Act III - Prologue",
+      "length": 1616,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Act III - Scene I",
+      "length": 1658,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Act III - Scene II",
+      "length": 6657,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Act III - Scene III",
+      "length": 2690,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Act III - Scene IV",
+      "length": 2530,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Act III - Scene V",
+      "length": 3170,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Act III - Scene VI",
+      "length": 8101,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Act III - Scene VII",
+      "length": 6957,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Act IV - Prologue",
+      "length": 2248,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Act IV - Scene I",
+      "length": 14241,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Act IV - Scene II",
+      "length": 2977,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Act IV - Scene III",
+      "length": 6313,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Act IV - Scene IV",
+      "length": 3330,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Act IV - Scene V",
+      "length": 1177,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Act IV - Scene VI",
+      "length": 1776,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Act IV - Scene VII",
+      "length": 8574,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Act IV - Scene VIII",
+      "length": 5956,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Act V - Prologue",
+      "length": 1995,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Act V - Scene I",
+      "length": 4112,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Act V - Scene II",
+      "length": 17880,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Epilogue",
+      "length": 660,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Colophon",
+      "length": 1042,
+      "mode": "hide"
+    },
+    {
+      "id": "034",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL361466W",
+  "goodreadsId": "37526",
+  "rating": 0.77,
+  "popularity": 50357,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721172578336
+}

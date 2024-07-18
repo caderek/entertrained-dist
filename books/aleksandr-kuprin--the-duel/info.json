@@ -1,1 +1,181 @@
-{"id":"aleksandr-kuprin--the-duel","title":"The Duel","titleAlpha":"duel","author":"Aleksandr Kuprin","language":"en","description":"A Russian officer battles disillusionment and unrequited love.","longDescription":["At the young age of twenty-two Sublieutenant Romashov has become an officer, but he's already disillusioned with army life in the middle of nowhere, and the brutish and blood-thirsty natures of his commanders and peers. The only thing keeping him from outright depression is his growing infatuation with the wife of a fellow officer; an infatuation which, half-returned, leads inevitably towards the titular subject.","The Duel is regarded as the highlight of Kuprin's bibliography and was praised by famous Russian authors of the period including Chekhov, Gorky, Bunin and Tolstoy. It was published in 1905 in the middle of the failure of the Russian army in the Russo-Japanese war and widespread social unrest. Kuprin himself had military experience as a lieutenant, which shines through in the novel's vivid depictions of the minutiae of officer life. The Duel was later adapted for both film and television in Russia. This edition is based on the 1916 translation."],"year":2019,"genres":["fiction"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/aleksandr-kuprin/the-duel/george-allen-unwin"},"series":null,"part":0,"chapters":[{"id":"001","title":"I","length":30383,"skip":false},{"id":"002","title":"II","length":17225,"skip":false},{"id":"003","title":"III","length":16301,"skip":false},{"id":"004","title":"IV","length":26652,"skip":false},{"id":"005","title":"V","length":37676,"skip":false},{"id":"006","title":"VI","length":27077,"skip":false},{"id":"007","title":"VII","length":24415,"skip":false},{"id":"008","title":"VIII","length":27579,"skip":false},{"id":"009","title":"IX","length":25781,"skip":false},{"id":"010","title":"X","length":19615,"skip":false},{"id":"011","title":"XI","length":24738,"skip":false},{"id":"012","title":"XII","length":11259,"skip":false},{"id":"013","title":"XIII","length":32984,"skip":false},{"id":"014","title":"XIV","length":46598,"skip":false},{"id":"015","title":"XV","length":31115,"skip":false},{"id":"016","title":"XVI","length":12918,"skip":false},{"id":"017","title":"XVII","length":13170,"skip":false},{"id":"018","title":"XVIII","length":27598,"skip":false},{"id":"019","title":"XIX","length":16694,"skip":false},{"id":"020","title":"XX","length":16604,"skip":false},{"id":"021","title":"XXI","length":33809,"skip":false},{"id":"022","title":"XXII","length":13736,"skip":false},{"id":"023","title":"XXIII","length":1604,"skip":false},{"id":"024","title":"Endnotes","length":1729,"skip":true}],"createdAt":1719506669126}
+{
+  "id": "aleksandr-kuprin--the-duel",
+  "title": "The Duel",
+  "titleAlpha": "duel",
+  "author": "Aleksandr Kuprin",
+  "language": "en",
+  "description": "A Russian officer battles disillusionment and unrequited love.",
+  "longDescription": [
+    "At the young age of twenty-two Sublieutenant Romashov has become an officer, but he's already disillusioned with army life in the middle of nowhere, and the brutish and blood-thirsty natures of his commanders and peers. The only thing keeping him from outright depression is his growing infatuation with the wife of a fellow officer; an infatuation which, half-returned, leads inevitably towards the titular subject.",
+    "The Duel is regarded as the highlight of Kuprin's bibliography and was praised by famous Russian authors of the period including Chekhov, Gorky, Bunin and Tolstoy. It was published in 1905 in the middle of the failure of the Russian army in the Russo-Japanese war and widespread social unrest. Kuprin himself had military experience as a lieutenant, which shines through in the novel's vivid depictions of the minutiae of officer life. The Duel was later adapted for both film and television in Russia. This edition is based on the 1916 translation."
+  ],
+  "year": 1905,
+  "genres": [
+    "classics",
+    "fiction",
+    "history"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/aleksandr-kuprin/the-duel/george-allen-unwin"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "I",
+      "length": 30383,
+      "mode": "type"
+    },
+    {
+      "id": "002",
+      "title": "II",
+      "length": 17225,
+      "mode": "type"
+    },
+    {
+      "id": "003",
+      "title": "III",
+      "length": 16301,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "IV",
+      "length": 26652,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "V",
+      "length": 37676,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "VI",
+      "length": 27077,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "VII",
+      "length": 24415,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VIII",
+      "length": 27579,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "IX",
+      "length": 25781,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "X",
+      "length": 19615,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "XI",
+      "length": 24738,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "XII",
+      "length": 11259,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XIII",
+      "length": 32984,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XIV",
+      "length": 46598,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XV",
+      "length": 31115,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XVI",
+      "length": 12918,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XVII",
+      "length": 13170,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVIII",
+      "length": 27598,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XIX",
+      "length": 16694,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XX",
+      "length": 16604,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XXI",
+      "length": 33809,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XXII",
+      "length": 13736,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXIII",
+      "length": 1604,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Endnotes",
+      "length": 1729,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL676843W",
+  "goodreadsId": "1050812",
+  "rating": 0.8039999999999999,
+  "popularity": 825,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720554864923
+}

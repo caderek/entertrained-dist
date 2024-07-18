@@ -1,1 +1,161 @@
-{"id":"william-shakespeare--othello","title":"Othello","titleAlpha":"othello","author":"William Shakespeare","language":"en","description":"Jealousy destroys the marriage between an older black man and a younger white woman in 1500s Venice.","longDescription":["Othello was written in 1603 and first performed in 1604. The underlying story is based on \"A Moorish Captain,\" one of the stories in Cinthio's Gli Hecatommithi, written in 1565.","Othello is a Moorish black general in Venice, known for his military prowess. He elopes with Desdemona, a noble Venetian lady, who is the daughter of Brabantio, a senator. When Othello promotes Cassio to be his lieutenant over Iago, his ensign, the evil Iago gets his revenge by alleging an affair between Cassio and Desdemona, sowing doubt in the mind of Othello.","This Standard Ebooks edition is based on William George Clark and William Aldis Wright's 1887 Victoria edition, which is taken from the Globe edition."],"year":2021,"genres":["drama"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/william-shakespeare/othello"},"series":null,"part":0,"chapters":[{"id":"001","title":"Dramatis Personae","length":541,"skip":false},{"id":"002","title":"Act I - Scene I","length":8501,"skip":false},{"id":"003","title":"Act I - Scene II","length":4877,"skip":false},{"id":"004","title":"Act I - Scene III","length":18408,"skip":false},{"id":"005","title":"Act II - Scene I","length":14778,"skip":false},{"id":"006","title":"Act II - Scene II","length":671,"skip":false},{"id":"007","title":"Act II - Scene III","length":17199,"skip":false},{"id":"008","title":"Act III - Scene I","length":2696,"skip":false},{"id":"009","title":"Act III - Scene II","length":358,"skip":false},{"id":"010","title":"Act III - Scene III","length":22025,"skip":false},{"id":"011","title":"Act III - Scene IV","length":9186,"skip":false},{"id":"012","title":"Act IV - Scene I","length":12898,"skip":false},{"id":"013","title":"Act IV - Scene II","length":11606,"skip":false},{"id":"014","title":"Act IV - Scene III","length":5020,"skip":false},{"id":"015","title":"Act V - Scene I","length":6327,"skip":false},{"id":"016","title":"Act V - Scene II","length":17670,"skip":false}],"createdAt":1719507343631}
+{
+  "id": "william-shakespeare--othello",
+  "title": "Othello",
+  "titleAlpha": "othello",
+  "author": "William Shakespeare",
+  "language": "en",
+  "description": "Jealousy destroys the marriage between an older black man and a younger white woman in 1500s Venice.",
+  "longDescription": [
+    "Othello was written in 1603 and first performed in 1604. The underlying story is based on \"A Moorish Captain,\" one of the stories in Cinthio's Gli Hecatommithi, written in 1565.",
+    "Othello is a Moorish black general in Venice, known for his military prowess. He elopes with Desdemona, a noble Venetian lady, who is the daughter of Brabantio, a senator. When Othello promotes Cassio to be his lieutenant over Iago, his ensign, the evil Iago gets his revenge by alleging an affair between Cassio and Desdemona, sowing doubt in the mind of Othello.",
+    "This Standard Ebooks edition is based on William George Clark and William Aldis Wright's 1887 Victoria edition, which is taken from the Globe edition."
+  ],
+  "year": 2014,
+  "genres": [
+    "classics",
+    "drama",
+    "fiction",
+    "history"
+  ],
+  "topics": [
+    "revenge"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Shakespeare Made Easy",
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/william-shakespeare/othello"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Othello",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1214,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dramatis Personae",
+      "length": 541,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Act I - Scene I",
+      "length": 8501,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Act I - Scene II",
+      "length": 4877,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Act I - Scene III",
+      "length": 18408,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Act II - Scene I",
+      "length": 14778,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Act II - Scene II",
+      "length": 671,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Act II - Scene III",
+      "length": 17199,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Act III - Scene I",
+      "length": 2696,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Act III - Scene II",
+      "length": 358,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Act III - Scene III",
+      "length": 22025,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Act III - Scene IV",
+      "length": 9186,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Act IV - Scene I",
+      "length": 12898,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Act IV - Scene II",
+      "length": 11606,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Act IV - Scene III",
+      "length": 5020,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Act V - Scene I",
+      "length": 6327,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Act V - Scene II",
+      "length": 17670,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Colophon",
+      "length": 1064,
+      "mode": "hide"
+    },
+    {
+      "id": "020",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL258850W",
+  "goodreadsId": "758624",
+  "rating": 0.776,
+  "popularity": 24,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720831909233
+}

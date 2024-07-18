@@ -1,1 +1,129 @@
-{"id":"george-bernard-shaw--major-barbara","title":"Major Barbara","titleAlpha":"major barbara","author":"George Bernard Shaw","language":"en","description":"The story of idealistic Barbara Undershaft, a Major in the Salvation Army, who does not want to be connected to her father's \"tainted\" money.","longDescription":["Major Barbara is a three-act play that premiered at the Court Theatre in 1905, and was subsequently published in 1907. It portrays idealist Barbara Undershaft, a Major in the Salvation Army, and her encounter with her long-estranged father who has made his fortune as a \"dealer of death\" in the munitions industry. Barbara doesn't wish to be associated with her father's ill-gotten wealth, but can't prevent him from donating to the Salvation Army and eventually converting her family to his capitalist views on how best to help the poor.","In the preface, Shaw addresses his critics and explicates his actual attitudes towards the Salvation Army, versus the attitudes and fates portrayed by his characters and responded to by the critics. He continues on to discuss the issues of wealth and poverty, religion and science, and how they all fit into his views of society.","Major Barbara is one of the most controversial of Shaw's work and was greeted with decidedly mixed reviews, yet it endures as one of his most famous plays."],"year":2019,"genres":["children","crime","drama"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/george-bernard-shaw/major-barbara"},"series":null,"part":0,"chapters":[{"id":"001","title":"Author's Note","length":380,"skip":false},{"id":"002","title":"Preface - First Aid to Critics","length":13602,"skip":true},{"id":"003","title":"Preface - The Gospel of St. Andrew Undershaft","length":17802,"skip":true},{"id":"004","title":"Preface - The Salvation Army","length":7428,"skip":true},{"id":"005","title":"Preface - Barbara's Return to the Colors","length":5354,"skip":true},{"id":"006","title":"Preface - Weaknesses of the Salvation Army","length":20148,"skip":true},{"id":"007","title":"Preface - Christianity and Anarchism","length":8640,"skip":true},{"id":"008","title":"Preface - Sane Conclusions","length":12281,"skip":true},{"id":"009","title":"Act I","length":42475,"skip":false},{"id":"010","title":"Act II","length":68868,"skip":false},{"id":"011","title":"Act III","length":71335,"skip":false}],"createdAt":1719506929058}
+{
+  "id": "george-bernard-shaw--major-barbara",
+  "title": "Major Barbara",
+  "titleAlpha": "major barbara",
+  "author": "George Bernard Shaw",
+  "language": "en",
+  "description": "The story of idealistic Barbara Undershaft, a Major in the Salvation Army, who does not want to be connected to her father's \"tainted\" money.",
+  "longDescription": [
+    "Major Barbara is a three-act play that premiered at the Court Theatre in 1905, and was subsequently published in 1907. It portrays idealist Barbara Undershaft, a Major in the Salvation Army, and her encounter with her long-estranged father who has made his fortune as a \"dealer of death\" in the munitions industry. Barbara doesn't wish to be associated with her father's ill-gotten wealth, but can't prevent him from donating to the Salvation Army and eventually converting her family to his capitalist views on how best to help the poor.",
+    "In the preface, Shaw addresses his critics and explicates his actual attitudes towards the Salvation Army, versus the attitudes and fates portrayed by his characters and responded to by the critics. He continues on to discuss the issues of wealth and poverty, religion and science, and how they all fit into his views of society.",
+    "Major Barbara is one of the most controversial of Shaw's work and was greeted with decidedly mixed reviews, yet it endures as one of his most famous plays."
+  ],
+  "year": 1905,
+  "genres": [
+    "classics",
+    "crime",
+    "drama",
+    "fiction"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/george-bernard-shaw/major-barbara"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Major Barbara",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1193,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Author's Note",
+      "length": 380,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Preface - First Aid to Critics",
+      "length": 13602,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Preface - The Gospel of St. Andrew Undershaft",
+      "length": 17802,
+      "mode": "skip"
+    },
+    {
+      "id": "006",
+      "title": "Preface - The Salvation Army",
+      "length": 7428,
+      "mode": "skip"
+    },
+    {
+      "id": "007",
+      "title": "Preface - Barbara's Return to the Colors",
+      "length": 5354,
+      "mode": "skip"
+    },
+    {
+      "id": "008",
+      "title": "Preface - Weaknesses of the Salvation Army",
+      "length": 20148,
+      "mode": "skip"
+    },
+    {
+      "id": "009",
+      "title": "Preface - Christianity and Anarchism",
+      "length": 8640,
+      "mode": "skip"
+    },
+    {
+      "id": "010",
+      "title": "Preface - Sane Conclusions",
+      "length": 12281,
+      "mode": "skip"
+    },
+    {
+      "id": "011",
+      "title": "Act I",
+      "length": 42475,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Act II",
+      "length": 68868,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Act III",
+      "length": 71335,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Colophon",
+      "length": 1033,
+      "mode": "hide"
+    },
+    {
+      "id": "015",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1066517W",
+  "goodreadsId": "367762",
+  "rating": 0.732,
+  "popularity": 7166,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720966607103
+}

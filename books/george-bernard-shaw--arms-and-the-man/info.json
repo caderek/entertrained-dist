@@ -1,1 +1,96 @@
-{"id":"george-bernard-shaw--arms-and-the-man","title":"Arms and the Man","titleAlpha":"arms and the man","author":"George Bernard Shaw","language":"en","description":"A humorous examination of human hypocrisy and war's stupidity in the midst of the Serbo-Bulgarian war.","longDescription":["In the middle of the 1885 Serbo-Bulgarian war, an enemy soldier escapes a cavalry charge by climbing up a drainpipe into Raina Petkoff's room. Raina is the daughter of one Major and engaged to another, but she chooses to save the soldier's life by concealing him.","Arms and the Man, named after the opening lines of Virgil's The Aeneid, is a play that humorously deals with the hypocrisy of humanity and the stupidity of war. It was among George Bernard Shaw's first commercial successes, and was included in a collection of plays he referred to as Plays Pleasant, along with Candida, You Never Can Tell, and The Man of Destiny. Having coined the term \"chocolate soldier,\" the play has been staged multiple times in London's West End and on Broadway, and has been adapted into operetta and film."],"year":2021,"genres":["comedy","drama","romance"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/george-bernard-shaw/arms-and-the-man"},"series":null,"part":0,"chapters":[{"id":"001","title":"Introduction","length":8402,"skip":false},{"id":"002","title":"Dramatis Personae","length":130,"skip":false},{"id":"003","title":"Act I","length":36053,"skip":false},{"id":"004","title":"Act II","length":41563,"skip":false},{"id":"005","title":"Act III","length":52446,"skip":false}],"createdAt":1719506927907}
+{
+  "id": "george-bernard-shaw--arms-and-the-man",
+  "title": "Arms and the Man",
+  "titleAlpha": "arms and the man",
+  "author": "George Bernard Shaw",
+  "language": "en",
+  "description": "A humorous examination of human hypocrisy and war's stupidity in the midst of the Serbo-Bulgarian war.",
+  "longDescription": [
+    "In the middle of the 1885 Serbo-Bulgarian war, an enemy soldier escapes a cavalry charge by climbing up a drainpipe into Raina Petkoff's room. Raina is the daughter of one Major and engaged to another, but she chooses to save the soldier's life by concealing him.",
+    "Arms and the Man, named after the opening lines of Virgil's The Aeneid, is a play that humorously deals with the hypocrisy of humanity and the stupidity of war. It was among George Bernard Shaw's first commercial successes, and was included in a collection of plays he referred to as Plays Pleasant, along with Candida, You Never Can Tell, and The Man of Destiny. Having coined the term \"chocolate soldier,\" the play has been staged multiple times in London's West End and on Broadway, and has been adapted into operetta and film."
+  ],
+  "year": 1898,
+  "genres": [
+    "classics",
+    "comedy",
+    "drama",
+    "romance",
+    "fiction"
+  ],
+  "topics": [
+    "war",
+    "warfare"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/george-bernard-shaw/arms-and-the-man"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Arms and the Man",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Introduction",
+      "length": 8402,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Dramatis Personae",
+      "length": 130,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Act I",
+      "length": 36053,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Act II",
+      "length": 41563,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Act III",
+      "length": 52446,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Colophon",
+      "length": 1075,
+      "mode": "hide"
+    },
+    {
+      "id": "009",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1066525W",
+  "goodreadsId": "383018",
+  "rating": 0.768,
+  "popularity": 10715,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720966606095
+}

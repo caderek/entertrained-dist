@@ -1,1 +1,139 @@
-{"id":"arthur-conan-doyle--the-sign-of-the-four","title":"The Sign of the Four","titleAlpha":"sign of the four","author":"Arthur Conan Doyle","language":"en","description":"An analytical detective is consulted by a young woman who has received a strange communication regarding her long-missing father and a mysterious treasure.","longDescription":["The Sign of the Four, initially titled just The Sign of Four, is the second of Doyle's novels to feature the analytical detective Sherlock Holmes and his faithful companion and chronicler Dr. Watson. The action takes place not long after the events in A Study in Scarlet, the first Holmes novel, and that prior case is referred to frequently at the beginning of this one.","Holmes is consulted by a young woman about a strange communication she has received. Ten years previously her father Captain Morstan went missing the night after returning from service in the Far East before his daughter could travel to meet him. He has never been seen or heard of ever since. But a few years after his disappearance, Miss Morstan was startled to receive a precious pearl in the mail, with no sender's name or address and no accompanying message. A similar pearl has arrived each subsequent year. Finally, she received an anonymous letter begging her to come to a meeting outside a London theater that very evening. She may bring two companions. Naturally, Holmes and Watson accompany the young woman to the mysterious meeting, and are subsequently involved in the unveiling of a complex story of treasure and betrayal."],"year":1890,"genres":["fiction","mystery"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/arthur-conan-doyle/the-sign-of-the-four"},"series":"Sherlock Holmes","part":2,"chapters":[{"id":"001","title":"I: The Science of Deduction","length":16464,"skip":false},{"id":"002","title":"II: The Statement of the Case","length":10241,"skip":false},{"id":"003","title":"III: In Quest of a Solution","length":9646,"skip":false},{"id":"004","title":"IV: The Story of the Bald-Headed Man","length":20648,"skip":false},{"id":"005","title":"V: The Tragedy of Pondicherry Lodge","length":14008,"skip":false},{"id":"006","title":"VI: Sherlock Holmes Gives a Demonstration","length":16841,"skip":false},{"id":"007","title":"VII: The Episode of the Barrel","length":22940,"skip":false},{"id":"008","title":"VIII: The Baker Street Irregulars","length":18310,"skip":false},{"id":"009","title":"IX: A Break in the Chain","length":19078,"skip":false},{"id":"010","title":"X: The End of the Islander","length":17867,"skip":false},{"id":"011","title":"XI: The Great Agra Treasure","length":11323,"skip":false},{"id":"012","title":"XII: The Strange Story of Jonathan Small","length":52860,"skip":false}],"createdAt":1719506738483}
+{
+  "id": "arthur-conan-doyle--the-sign-of-the-four",
+  "title": "The Sign of the Four",
+  "titleAlpha": "sign of the four",
+  "author": "Arthur Conan Doyle",
+  "language": "en",
+  "description": "An analytical detective is consulted by a young woman who has received a strange communication regarding her long-missing father and a mysterious treasure.",
+  "longDescription": [
+    "The Sign of the Four, initially titled just The Sign of Four, is the second of Doyle's novels to feature the analytical detective Sherlock Holmes and his faithful companion and chronicler Dr. Watson. The action takes place not long after the events in A Study in Scarlet, the first Holmes novel, and that prior case is referred to frequently at the beginning of this one.",
+    "Holmes is consulted by a young woman about a strange communication she has received. Ten years previously her father Captain Morstan went missing the night after returning from service in the Far East before his daughter could travel to meet him. He has never been seen or heard of ever since. But a few years after his disappearance, Miss Morstan was startled to receive a precious pearl in the mail, with no sender's name or address and no accompanying message. A similar pearl has arrived each subsequent year. Finally, she received an anonymous letter begging her to come to a meeting outside a London theater that very evening. She may bring two companions. Naturally, Holmes and Watson accompany the young woman to the mysterious meeting, and are subsequently involved in the unveiling of a complex story of treasure and betrayal."
+  ],
+  "year": 1890,
+  "genres": [
+    "classics",
+    "fiction",
+    "mystery",
+    "crime",
+    "thriller",
+    "adventure"
+  ],
+  "topics": [
+    "detective",
+    "treasure"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Sherlock Holmes",
+  "part": 2,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-sign-of-the-four"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Sign of the Four",
+      "length": 23,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1179,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: The Science of Deduction",
+      "length": 16464,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: The Statement of the Case",
+      "length": 10241,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: In Quest of a Solution",
+      "length": 9646,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: The Story of the Bald-Headed Man",
+      "length": 20648,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: The Tragedy of Pondicherry Lodge",
+      "length": 14008,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: Sherlock Holmes Gives a Demonstration",
+      "length": 16841,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: The Episode of the Barrel",
+      "length": 22940,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: The Baker Street Irregulars",
+      "length": 18310,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: A Break in the Chain",
+      "length": 19078,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: The End of the Islander",
+      "length": 17867,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: The Great Agra Treasure",
+      "length": 11323,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: The Strange Story of Jonathan Small",
+      "length": 52860,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Colophon",
+      "length": 994,
+      "mode": "hide"
+    },
+    {
+      "id": "016",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL262438W",
+  "goodreadsId": "13451099",
+  "rating": 0.78,
+  "popularity": 159493,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720966344205
+}

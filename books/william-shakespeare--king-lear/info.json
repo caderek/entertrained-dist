@@ -1,1 +1,227 @@
-{"id":"william-shakespeare--king-lear","title":"King Lear","titleAlpha":"king lear","author":"William Shakespeare","language":"en","description":"An aging king divides his kingdom between his two eldest daughters, slighting the third, and comes to bitterly regret his decision.","longDescription":["King Lear is a tragedy by Shakespeare, written about 1605 or 1606. Shakespeare based it on the legendary King Leir of the Britons, whose story is outlined in Geoffrey of Monmouth's pseudohistorical History of the Kings of Britain (written in about 1136).","The play tells the tale of the aged King Lear who is passing on the control of his kingdom to his three daughters. He asks each of them to express their love for him, and the first two, Goneril and Regan do so effusively, saying they love him above all things. But his youngest daughter, Cordelia, is compelled to be truthful and says that she must reserve some love for her future husband. Lear, enraged, cuts her off without any inheritance.","The secondary plot deals with the machinations of Edmund, the bastard son of the Earl of Gloucester, who manages to convince his father that his legitimate son Edgar is plotting against him.","After Lear steps down from power, he finds that his elder daughters have no real respect or love for him, and treat him and his followers as a nuisance. They allow the raging Lear to wander out into a storm, hoping to be rid of him, and conspire with Edmund to overthrow the Earl of Gloucester.","The play is a moving study of the perils of old age and the true meaning of filial love. It ends tragically with the deaths of both Cordelia and Lear - so tragically, in fact, that performances during the Restoration period sometimes substituted a happy ending. In modern times, though, King Lear is performed as written and generally regarded as one of Shakespeare's best plays.","This Standard Ebooks edition is based on William George Clark and William Aldis Wright's 1887 Victoria edition, which is taken from the Globe edition."],"year":2020,"genres":["drama"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/william-shakespeare/king-lear"},"series":null,"part":0,"chapters":[{"id":"001","title":"Dramatis Personae","length":486,"skip":false},{"id":"002","title":"Act I - Scene I","length":14522,"skip":false},{"id":"003","title":"Act I - Scene II","length":8701,"skip":false},{"id":"004","title":"Act I - Scene III","length":1304,"skip":false},{"id":"005","title":"Act I - Scene IV","length":15173,"skip":false},{"id":"006","title":"Act I - Scene V","length":2097,"skip":false},{"id":"007","title":"Act II - Scene I","length":6223,"skip":false},{"id":"008","title":"Act II - Scene II","length":7926,"skip":false},{"id":"009","title":"Act II - Scene III","length":942,"skip":false},{"id":"010","title":"Act II - Scene IV","length":14469,"skip":false},{"id":"011","title":"Act III - Scene I","length":2533,"skip":false},{"id":"012","title":"Act III - Scene II","length":4168,"skip":false},{"id":"013","title":"Act III - Scene III","length":1270,"skip":false},{"id":"014","title":"Act III - Scene IV","length":8586,"skip":false},{"id":"015","title":"Act III - Scene V","length":1174,"skip":false},{"id":"016","title":"Act III - Scene VI","length":5196,"skip":false},{"id":"017","title":"Act III - Scene VII","length":5566,"skip":false},{"id":"018","title":"Act IV - Scene I","length":3844,"skip":false},{"id":"019","title":"Act IV - Scene II","length":4676,"skip":false},{"id":"020","title":"Act IV - Scene III","length":2670,"skip":false},{"id":"021","title":"Act IV - Scene IV","length":1385,"skip":false},{"id":"022","title":"Act IV - Scene V","length":1861,"skip":false},{"id":"023","title":"Act IV - Scene VI","length":13552,"skip":false},{"id":"024","title":"Act IV - Scene VII","length":4681,"skip":false},{"id":"025","title":"Act V - Scene I","length":3492,"skip":false},{"id":"026","title":"Act V - Scene II","length":769,"skip":false},{"id":"027","title":"Act V - Scene III","length":16232,"skip":false}],"createdAt":1719507342006}
+{
+  "id": "william-shakespeare--king-lear",
+  "title": "King Lear",
+  "titleAlpha": "king lear",
+  "author": "William Shakespeare",
+  "language": "en",
+  "description": "An aging king divides his kingdom between his two eldest daughters, slighting the third, and comes to bitterly regret his decision.",
+  "longDescription": [
+    "King Lear is a tragedy by Shakespeare, written about 1605 or 1606. Shakespeare based it on the legendary King Leir of the Britons, whose story is outlined in Geoffrey of Monmouth's pseudohistorical History of the Kings of Britain (written in about 1136).",
+    "The play tells the tale of the aged King Lear who is passing on the control of his kingdom to his three daughters. He asks each of them to express their love for him, and the first two, Goneril and Regan do so effusively, saying they love him above all things. But his youngest daughter, Cordelia, is compelled to be truthful and says that she must reserve some love for her future husband. Lear, enraged, cuts her off without any inheritance.",
+    "The secondary plot deals with the machinations of Edmund, the bastard son of the Earl of Gloucester, who manages to convince his father that his legitimate son Edgar is plotting against him.",
+    "After Lear steps down from power, he finds that his elder daughters have no real respect or love for him, and treat him and his followers as a nuisance. They allow the raging Lear to wander out into a storm, hoping to be rid of him, and conspire with Edmund to overthrow the Earl of Gloucester.",
+    "The play is a moving study of the perils of old age and the true meaning of filial love. It ends tragically with the deaths of both Cordelia and Lear - so tragically, in fact, that performances during the Restoration period sometimes substituted a happy ending. In modern times, though, King Lear is performed as written and generally regarded as one of Shakespeare's best plays.",
+    "This Standard Ebooks edition is based on William George Clark and William Aldis Wright's 1887 Victoria edition, which is taken from the Globe edition."
+  ],
+  "year": 1605,
+  "genres": [
+    "classics",
+    "drama",
+    "fiction"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/william-shakespeare/king-lear"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - King Lear",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1218,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dramatis Personae",
+      "length": 486,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Act I - Scene I",
+      "length": 14522,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Act I - Scene II",
+      "length": 8701,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Act I - Scene III",
+      "length": 1304,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Act I - Scene IV",
+      "length": 15173,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Act I - Scene V",
+      "length": 2097,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Act II - Scene I",
+      "length": 6223,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Act II - Scene II",
+      "length": 7926,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Act II - Scene III",
+      "length": 942,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Act II - Scene IV",
+      "length": 14469,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Act III - Scene I",
+      "length": 2533,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Act III - Scene II",
+      "length": 4168,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Act III - Scene III",
+      "length": 1270,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Act III - Scene IV",
+      "length": 8586,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Act III - Scene V",
+      "length": 1174,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Act III - Scene VI",
+      "length": 5196,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Act III - Scene VII",
+      "length": 5566,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Act IV - Scene I",
+      "length": 3844,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Act IV - Scene II",
+      "length": 4676,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Act IV - Scene III",
+      "length": 2670,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Act IV - Scene IV",
+      "length": 1385,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Act IV - Scene V",
+      "length": 1861,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Act IV - Scene VI",
+      "length": 13552,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Act IV - Scene VII",
+      "length": 4681,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Act V - Scene I",
+      "length": 3492,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Act V - Scene II",
+      "length": 769,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Act V - Scene III",
+      "length": 16232,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Colophon",
+      "length": 1025,
+      "mode": "hide"
+    },
+    {
+      "id": "031",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL259026W",
+  "goodreadsId": "12938",
+  "rating": 0.782,
+  "popularity": 221467,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720831907622
+}

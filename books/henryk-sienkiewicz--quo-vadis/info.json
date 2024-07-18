@@ -1,1 +1,528 @@
-{"id":"henryk-sienkiewicz--quo-vadis","title":"Quo Vadis","titleAlpha":"quo vadis","author":"Henryk Sienkiewicz","language":"en","description":"An unlikely love story between Marcus Vinicius, a Roman patrician, and Lygia, a young Christian, blooms under the backdrop of Nero's rule in ancient Rome.","longDescription":["Quo Vadis: A Narrative of the Time of Nero was first published in Polish as Quo vadis. Powiesc z czasow Nerona. Among Henryk Sienkiewicz's inspirations was the painting Nero's Torches (Pochodnie Nerona) by fellow Pole Henryk Siemiradzki; the painting, which depicts cruel persecution of Christians, serves as the cover art for this ebook edition. Sienkiewicz incorporates extensive historical detail into the plot, and notable historical figures serve as prominent characters, including the apostles Simon Peter and Paul of Tarsus, Gaius Petronius Arbiter, Ofonius Tigellinus, and the infamous Nero himself. Sienkiewicz used the historical basis of the novel as an opportunity to describe in detail the lives of the citizenry under Nero's cruel and erratic rule.","Sienkiewicz was awarded the 1905 Nobel Prize in Literature in part for his authorship of Quo Vadis. The book was exceedingly popular both domestically and internationally: it was translated into more than 50 languages, sold 800,000 copies in the U. S. within a period of eighteenth months, and was the best selling book of 1900 in France.","The plot of Quo Vadis follows the love story of Marcus Vinicius and Lygia. He is a young, charming, up-and-coming Roman patrician; she is a high-ranking hostage, a former princess of a country conquered by Rome. Vinicius's immediate infatuation with Lygia is complicated by her devout Christianity, a faith barely tolerated in Rome of the time. As the painting that inspired the novel foreshadows, Rome burns in a great fire, and Christians receive the blame. The subsequent persecution of the Christians in Rome serves as the main obstacle between the two lovers.","Sienkiewicz portrays a pro-Christian narrative throughout the book, with the apostles Peter and Paul serving as spiritual mentors to both Vinicius and Lygia. The novel's title translates to \"Where are you going, Lord?\", a quote from the apocryphal Christian text the Acts of Peter, which depicts Peter's death. The text describes how while fleeing Rome, Peter asks a vision of Jesus the titular question, to which Jesus replies that he is returning to Rome to lead the Christians since Peter, their leader, is deserting them. Peter then realizes he must turn back and remain with his people, despite the cost. Quo Vadis depicts this exchange, along with Paul's fate and the deaths of Nero and Petronius, Vinicius's wise and worldly uncle and mentor. Sienkiewicz contrasts Petronius's and Nero's hedonism with Vinicius's and Lygia's journey to a deeper faith in their God, and with Peter and Paul's faithful martyrdom, to great effect. As such, the novel is not just a love story, but also a thoughtful reflection on how one's way of living affects how they see death."],"year":1896,"genres":["fiction","history"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/henryk-sienkiewicz/quo-vadis/jeremiah-curtin"},"series":null,"part":0,"chapters":[{"id":"001","title":"I","length":25906,"skip":false},{"id":"002","title":"II","length":38517,"skip":false},{"id":"003","title":"III","length":4692,"skip":false},{"id":"004","title":"IV","length":13972,"skip":false},{"id":"005","title":"V","length":7723,"skip":false},{"id":"006","title":"VI","length":8441,"skip":false},{"id":"007","title":"VII","length":56568,"skip":false},{"id":"008","title":"VIII","length":13152,"skip":false},{"id":"009","title":"IX","length":14257,"skip":false},{"id":"010","title":"X","length":9749,"skip":false},{"id":"011","title":"XI","length":25782,"skip":false},{"id":"012","title":"XII","length":14967,"skip":false},{"id":"013","title":"XIII","length":17429,"skip":false},{"id":"014","title":"XIV","length":22570,"skip":false},{"id":"015","title":"XV","length":10319,"skip":false},{"id":"016","title":"XVI","length":13674,"skip":false},{"id":"017","title":"XVII","length":17738,"skip":false},{"id":"018","title":"XVIII","length":9479,"skip":false},{"id":"019","title":"XIX","length":19802,"skip":false},{"id":"020","title":"XX","length":25630,"skip":false},{"id":"021","title":"XXI","length":16736,"skip":false},{"id":"022","title":"XXII","length":17009,"skip":false},{"id":"023","title":"XXIII","length":15148,"skip":false},{"id":"024","title":"XXIV","length":17554,"skip":false},{"id":"025","title":"XXV","length":15031,"skip":false},{"id":"026","title":"XXVI","length":21285,"skip":false},{"id":"027","title":"XXVII","length":18942,"skip":false},{"id":"028","title":"XXVIII","length":18870,"skip":false},{"id":"029","title":"XXIX","length":22397,"skip":false},{"id":"030","title":"XXX","length":11486,"skip":false},{"id":"031","title":"XXXI","length":12933,"skip":false},{"id":"032","title":"XXXII","length":21957,"skip":false},{"id":"033","title":"XXXIII","length":9828,"skip":false},{"id":"034","title":"XXXIV","length":7609,"skip":false},{"id":"035","title":"XXXV","length":15363,"skip":false},{"id":"036","title":"XXXVI","length":20553,"skip":false},{"id":"037","title":"XXXVII","length":6078,"skip":false},{"id":"038","title":"XXXVIII","length":4518,"skip":false},{"id":"039","title":"XXXIX","length":16844,"skip":false},{"id":"040","title":"XL","length":15523,"skip":false},{"id":"041","title":"XLI","length":13178,"skip":false},{"id":"042","title":"XLII","length":18508,"skip":false},{"id":"043","title":"XLIII","length":21895,"skip":false},{"id":"044","title":"XLIV","length":9548,"skip":false},{"id":"045","title":"XLV","length":19286,"skip":false},{"id":"046","title":"XLVI","length":20432,"skip":false},{"id":"047","title":"XLVII","length":11468,"skip":false},{"id":"048","title":"XLVIII","length":20500,"skip":false},{"id":"049","title":"XLIX","length":10793,"skip":false},{"id":"050","title":"L","length":27398,"skip":false},{"id":"051","title":"LI","length":9693,"skip":false},{"id":"052","title":"LII","length":18151,"skip":false},{"id":"053","title":"LIII","length":11439,"skip":false},{"id":"054","title":"LIV","length":7342,"skip":false},{"id":"055","title":"LV","length":47674,"skip":false},{"id":"056","title":"LVI","length":26615,"skip":false},{"id":"057","title":"LVII","length":14323,"skip":false},{"id":"058","title":"LVIII","length":6227,"skip":false},{"id":"059","title":"LIX","length":13400,"skip":false},{"id":"060","title":"LX","length":6050,"skip":false},{"id":"061","title":"LXI","length":20136,"skip":false},{"id":"062","title":"LXII","length":8153,"skip":false},{"id":"063","title":"LXIII","length":8462,"skip":false},{"id":"064","title":"LXIV","length":8045,"skip":false},{"id":"065","title":"LXV","length":20717,"skip":false},{"id":"066","title":"LXVI","length":4528,"skip":false},{"id":"067","title":"LXVII","length":5914,"skip":false},{"id":"068","title":"LXVIII","length":11998,"skip":false},{"id":"069","title":"LXIX","length":4719,"skip":false},{"id":"070","title":"LXX","length":11049,"skip":false},{"id":"071","title":"LXXI","length":2855,"skip":false},{"id":"072","title":"LXXII","length":13369,"skip":false},{"id":"073","title":"LXXIII","length":12941,"skip":false},{"id":"074","title":"Epilogue","length":12564,"skip":false}],"createdAt":1719506983348}
+{
+  "id": "henryk-sienkiewicz--quo-vadis",
+  "title": "Quo Vadis",
+  "titleAlpha": "quo vadis",
+  "author": "Henryk Sienkiewicz",
+  "language": "en",
+  "description": "An unlikely love story between Marcus Vinicius, a Roman patrician, and Lygia, a young Christian, blooms under the backdrop of Nero's rule in ancient Rome.",
+  "longDescription": [
+    "Quo Vadis: A Narrative of the Time of Nero was first published in Polish as Quo vadis. Powiesc z czasow Nerona. Among Henryk Sienkiewicz's inspirations was the painting Nero's Torches (Pochodnie Nerona) by fellow Pole Henryk Siemiradzki; the painting, which depicts cruel persecution of Christians, serves as the cover art for this ebook edition. Sienkiewicz incorporates extensive historical detail into the plot, and notable historical figures serve as prominent characters, including the apostles Simon Peter and Paul of Tarsus, Gaius Petronius Arbiter, Ofonius Tigellinus, and the infamous Nero himself. Sienkiewicz used the historical basis of the novel as an opportunity to describe in detail the lives of the citizenry under Nero's cruel and erratic rule.",
+    "Sienkiewicz was awarded the 1905 Nobel Prize in Literature in part for his authorship of Quo Vadis. The book was exceedingly popular both domestically and internationally: it was translated into more than 50 languages, sold 800,000 copies in the U. S. within a period of eighteenth months, and was the best selling book of 1900 in France.",
+    "The plot of Quo Vadis follows the love story of Marcus Vinicius and Lygia. He is a young, charming, up-and-coming Roman patrician; she is a high-ranking hostage, a former princess of a country conquered by Rome. Vinicius's immediate infatuation with Lygia is complicated by her devout Christianity, a faith barely tolerated in Rome of the time. As the painting that inspired the novel foreshadows, Rome burns in a great fire, and Christians receive the blame. The subsequent persecution of the Christians in Rome serves as the main obstacle between the two lovers.",
+    "Sienkiewicz portrays a pro-Christian narrative throughout the book, with the apostles Peter and Paul serving as spiritual mentors to both Vinicius and Lygia. The novel's title translates to \"Where are you going, Lord?\", a quote from the apocryphal Christian text the Acts of Peter, which depicts Peter's death. The text describes how while fleeing Rome, Peter asks a vision of Jesus the titular question, to which Jesus replies that he is returning to Rome to lead the Christians since Peter, their leader, is deserting them. Peter then realizes he must turn back and remain with his people, despite the cost. Quo Vadis depicts this exchange, along with Paul's fate and the deaths of Nero and Petronius, Vinicius's wise and worldly uncle and mentor. Sienkiewicz contrasts Petronius's and Nero's hedonism with Vinicius's and Lygia's journey to a deeper faith in their God, and with Peter and Paul's faithful martyrdom, to great effect. As such, the novel is not just a love story, but also a thoughtful reflection on how one's way of living affects how they see death."
+  ],
+  "year": 1896,
+  "genres": [
+    "classics",
+    "fiction",
+    "history",
+    "romance"
+  ],
+  "topics": [
+    "religion"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/henryk-sienkiewicz/quo-vadis/jeremiah-curtin"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Quo Vadis",
+      "length": 54,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 119,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Introductory",
+      "length": 1121,
+      "mode": "hide"
+    },
+    {
+      "id": "005",
+      "title": "I",
+      "length": 25906,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "II",
+      "length": 38517,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "III",
+      "length": 4692,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "IV",
+      "length": 13972,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "V",
+      "length": 7723,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VI",
+      "length": 8441,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VII",
+      "length": 56568,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VIII",
+      "length": 13152,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "IX",
+      "length": 14257,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "X",
+      "length": 9749,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XI",
+      "length": 25782,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XII",
+      "length": 14967,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIII",
+      "length": 17429,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIV",
+      "length": 22570,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XV",
+      "length": 10319,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVI",
+      "length": 13674,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVII",
+      "length": 17738,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVIII",
+      "length": 9479,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XIX",
+      "length": 19802,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XX",
+      "length": 25630,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXI",
+      "length": 16736,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXII",
+      "length": 17009,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXIII",
+      "length": 15148,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXIV",
+      "length": 17554,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXV",
+      "length": 15031,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVI",
+      "length": 21285,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVII",
+      "length": 18942,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXVIII",
+      "length": 18870,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXIX",
+      "length": 22397,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXX",
+      "length": 11486,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXI",
+      "length": 12933,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXII",
+      "length": 21957,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXIII",
+      "length": 9828,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXIV",
+      "length": 7609,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXV",
+      "length": 15363,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXVI",
+      "length": 20553,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XXXVII",
+      "length": 6078,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XXXVIII",
+      "length": 4518,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XXXIX",
+      "length": 16844,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XL",
+      "length": 15523,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XLI",
+      "length": 13178,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "XLII",
+      "length": 18508,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "XLIII",
+      "length": 21895,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "XLIV",
+      "length": 9548,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "XLV",
+      "length": 19286,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "XLVI",
+      "length": 20432,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "XLVII",
+      "length": 11468,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "XLVIII",
+      "length": 20500,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "XLIX",
+      "length": 10793,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "L",
+      "length": 27398,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "LI",
+      "length": 9693,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "LII",
+      "length": 18151,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "LIII",
+      "length": 11439,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "LIV",
+      "length": 7342,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "LV",
+      "length": 47674,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "LVI",
+      "length": 26615,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "LVII",
+      "length": 14323,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "LVIII",
+      "length": 6227,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "LIX",
+      "length": 13400,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "LX",
+      "length": 6050,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "LXI",
+      "length": 20136,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "LXII",
+      "length": 8153,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "LXIII",
+      "length": 8462,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "LXIV",
+      "length": 8045,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "LXV",
+      "length": 20717,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "LXVI",
+      "length": 4528,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "LXVII",
+      "length": 5914,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "LXVIII",
+      "length": 11998,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "LXIX",
+      "length": 4719,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "LXX",
+      "length": 11049,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "LXXI",
+      "length": 2855,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "LXXII",
+      "length": 13369,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "LXXIII",
+      "length": 12941,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "Epilogue",
+      "length": 12564,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "Endnotes",
+      "length": 1275,
+      "mode": "hide"
+    },
+    {
+      "id": "080",
+      "title": "Colophon",
+      "length": 1100,
+      "mode": "hide"
+    },
+    {
+      "id": "081",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL503494W",
+  "goodreadsId": "538845",
+  "rating": 0.8019999999999999,
+  "popularity": 38399,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721171937173
+}

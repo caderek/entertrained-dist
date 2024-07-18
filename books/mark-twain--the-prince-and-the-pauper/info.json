@@ -1,1 +1,300 @@
-{"id":"mark-twain--the-prince-and-the-pauper","title":"The Prince and the Pauper","titleAlpha":"prince and the pauper","author":"Mark Twain","language":"en","description":"The Prince of England and a pauper find their identities switched.","longDescription":["The Prince and the Pauper remains one of Twain's more popular novels, having been adapted many times for the stage, screen, and elsewhere. When Tom Canty, a young pauper in London, meets Prince Edward, the two switch clothes and assume the other's identity. Tom then learns the life of royalty, while the true prince discovers the troubles of commoners.","As usual, Twain delivers both humor and social commentary in abundance. Although aimed at children, Pauper provides moral and social criticism of topics like the justice system and inequality, and deals with themes which appeal to readers of all ages."],"year":2018,"genres":["children","fiction","history"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/mark-twain/the-prince-and-the-pauper"},"series":null,"part":0,"chapters":[{"id":"001","title":"Epigraph","length":178,"skip":true},{"id":"002","title":"Preface","length":568,"skip":true},{"id":"003","title":"I: The Birth of the Prince and the Pauper","length":1367,"skip":false},{"id":"004","title":"II: Tom's Early Life","length":8983,"skip":false},{"id":"005","title":"III: Tom's Meeting with the Prince","length":12047,"skip":false},{"id":"006","title":"IV: The Prince's Troubles Begin","length":6689,"skip":false},{"id":"007","title":"V: Tom as a Patrician","length":12948,"skip":false},{"id":"008","title":"VI: Tom Receives Instructions","length":14182,"skip":false},{"id":"009","title":"VII: Tom's First Royal Dinner","length":6744,"skip":false},{"id":"010","title":"VIII: The Question of the Seal","length":4606,"skip":false},{"id":"011","title":"IX: The River Pageant","length":5298,"skip":false},{"id":"012","title":"X: The Prince in the Toils","length":16005,"skip":false},{"id":"013","title":"XI: At Guildhall","length":8993,"skip":false},{"id":"014","title":"XII: The Prince and His Deliverer","length":21317,"skip":false},{"id":"015","title":"XIII: The Disappearance of the Prince","length":7911,"skip":false},{"id":"016","title":"XIV: \"Le Roi Est Mort - Vive le Roi\"","length":21392,"skip":false},{"id":"017","title":"XV: Tom as King","length":20197,"skip":false},{"id":"018","title":"XVI: The State Dinner","length":5450,"skip":false},{"id":"019","title":"XVII: Foo-Foo the First","length":19327,"skip":false},{"id":"020","title":"XVIII: The Prince with the Tramps","length":15407,"skip":false},{"id":"021","title":"XIX: The Prince with the Peasants","length":10749,"skip":false},{"id":"022","title":"XX: The Prince and the Hermit","length":12242,"skip":false},{"id":"023","title":"XXI: Hendon to the Rescue","length":8070,"skip":false},{"id":"024","title":"XXII: A Victim of Treachery","length":10981,"skip":false},{"id":"025","title":"XXIII: The Prince a Prisoner","length":6234,"skip":false},{"id":"026","title":"XXIV: The Escape","length":5114,"skip":false},{"id":"027","title":"XXV: Hendon Hall","length":13000,"skip":false},{"id":"028","title":"XXVI: Disowned","length":7346,"skip":false},{"id":"029","title":"XXVII: In Prison","length":18448,"skip":false},{"id":"030","title":"XXVIII: The Sacrifice","length":6937,"skip":false},{"id":"031","title":"XXIX: To London","length":4043,"skip":false},{"id":"032","title":"XXX: Tom's Progress","length":4908,"skip":false},{"id":"033","title":"XXXI: The Recognition Procession","length":11798,"skip":false},{"id":"034","title":"XXXII: Coronation Day","length":22802,"skip":false},{"id":"035","title":"XXXIII: Edward as King","length":14006,"skip":false},{"id":"036","title":"Conclusion - Justice and Retribution","length":4926,"skip":false},{"id":"037","title":"General Note","length":946,"skip":false},{"id":"038","title":"Endnotes","length":12387,"skip":true}],"createdAt":1719507130848}
+{
+  "id": "mark-twain--the-prince-and-the-pauper",
+  "title": "The Prince and the Pauper",
+  "titleAlpha": "prince and the pauper",
+  "author": "Mark Twain",
+  "language": "en",
+  "description": "The Prince of England and a pauper find their identities switched.",
+  "longDescription": [
+    "The Prince and the Pauper remains one of Twain's more popular novels, having been adapted many times for the stage, screen, and elsewhere. When Tom Canty, a young pauper in London, meets Prince Edward, the two switch clothes and assume the other's identity. Tom then learns the life of royalty, while the true prince discovers the troubles of commoners.",
+    "As usual, Twain delivers both humor and social commentary in abundance. Although aimed at children, Pauper provides moral and social criticism of topics like the justice system and inequality, and deals with themes which appeal to readers of all ages."
+  ],
+  "year": 1881,
+  "genres": [
+    "classics",
+    "fiction",
+    "history",
+    "adventure",
+    "children"
+  ],
+  "topics": [
+    "poverty",
+    "nobility"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/mark-twain/the-prince-and-the-pauper"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Prince and the Pauper",
+      "length": 15,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 125,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Epigraph",
+      "length": 178,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Preface",
+      "length": 568,
+      "mode": "skip"
+    },
+    {
+      "id": "006",
+      "title": "I: The Birth of the Prince and the Pauper",
+      "length": 1367,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "II: Tom's Early Life",
+      "length": 8983,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "III: Tom's Meeting with the Prince",
+      "length": 12047,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "IV: The Prince's Troubles Begin",
+      "length": 6689,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "V: Tom as a Patrician",
+      "length": 12948,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VI: Tom Receives Instructions",
+      "length": 14182,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VII: Tom's First Royal Dinner",
+      "length": 6744,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "VIII: The Question of the Seal",
+      "length": 4606,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "IX: The River Pageant",
+      "length": 5298,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "X: The Prince in the Toils",
+      "length": 16005,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XI: At Guildhall",
+      "length": 8993,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XII: The Prince and His Deliverer",
+      "length": 21317,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIII: The Disappearance of the Prince",
+      "length": 7911,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XIV: \"Le Roi Est Mort - Vive le Roi\"",
+      "length": 21392,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XV: Tom as King",
+      "length": 20197,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVI: The State Dinner",
+      "length": 5450,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVII: Foo-Foo the First",
+      "length": 19327,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XVIII: The Prince with the Tramps",
+      "length": 15407,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XIX: The Prince with the Peasants",
+      "length": 10749,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XX: The Prince and the Hermit",
+      "length": 12242,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXI: Hendon to the Rescue",
+      "length": 8070,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXII: A Victim of Treachery",
+      "length": 10981,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXIII: The Prince a Prisoner",
+      "length": 6234,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXIV: The Escape",
+      "length": 5114,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXV: Hendon Hall",
+      "length": 13000,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVI: Disowned",
+      "length": 7346,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXVII: In Prison",
+      "length": 18448,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXVIII: The Sacrifice",
+      "length": 6937,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXIX: To London",
+      "length": 4043,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXX: Tom's Progress",
+      "length": 4908,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXI: The Recognition Procession",
+      "length": 11798,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXII: Coronation Day",
+      "length": 22802,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXIII: Edward as King",
+      "length": 14006,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Conclusion - Justice and Retribution",
+      "length": 4926,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "General Note",
+      "length": 946,
+      "mode": "skip"
+    },
+    {
+      "id": "041",
+      "title": "Endnotes",
+      "length": 12387,
+      "mode": "hide"
+    },
+    {
+      "id": "042",
+      "title": "Colophon",
+      "length": 1049,
+      "mode": "hide"
+    },
+    {
+      "id": "043",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL53994W",
+  "goodreadsId": "62446",
+  "rating": 0.774,
+  "popularity": 120330,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721172243802
+}

@@ -1,1 +1,80 @@
-{"id":"honore-de-balzac--albert-savarus","title":"Albert Savarus","titleAlpha":"albert savarus","author":"Honoré de Balzac","language":"en","description":"A mysterious lawyer shows up in a town, opens a practice, and starts a newspaper.","longDescription":["Besancon has no use for strangers, at least until the lawyer Albert Savaron shows up. Before anyone realizes it, he's won several cases - including a prominent one for the local diocese - and started a newspaper. Suddenly his name is on everyone's lips, and much of the discussion revolves around why this mysterious lawyer has come to their small town.","After reading a novella serialized in his newspaper and intuiting that it's perhaps at least somewhat autobiographical, the daughter of the most prominent woman in Besancon determines that she must penetrate Albert's mystery. What follows is vintage Balzac, where the best-laid plans rarely work out as intended."],"year":2023,"genres":["fiction","history"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/honore-de-balzac/albert-savarus/ellen-marriage"},"series":null,"part":0,"chapters":[{"id":"001","title":"Albert Savarus","length":234235,"skip":false},{"id":"002","title":"Endnotes","length":20,"skip":true}],"createdAt":1719506994260}
+{
+  "id": "honore-de-balzac--albert-savarus",
+  "title": "Albert Savarus",
+  "titleAlpha": "albert savarus",
+  "author": "Honoré de Balzac",
+  "language": "en",
+  "description": "A mysterious lawyer shows up in a town, opens a practice, and starts a newspaper.",
+  "longDescription": [
+    "Besancon has no use for strangers, at least until the lawyer Albert Savaron shows up. Before anyone realizes it, he's won several cases - including a prominent one for the local diocese - and started a newspaper. Suddenly his name is on everyone's lips, and much of the discussion revolves around why this mysterious lawyer has come to their small town.",
+    "After reading a novella serialized in his newspaper and intuiting that it's perhaps at least somewhat autobiographical, the daughter of the most prominent woman in Besancon determines that she must penetrate Albert's mystery. What follows is vintage Balzac, where the best-laid plans rarely work out as intended."
+  ],
+  "year": 1842,
+  "genres": [
+    "classics",
+    "fiction",
+    "history",
+    "romance"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "La Comédie Humaine",
+  "part": 7,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/honore-de-balzac/albert-savarus/ellen-marriage"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Albert Savarus",
+      "length": 51,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 25,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Albert Savarus",
+      "length": 234235,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Endnotes",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "006",
+      "title": "Colophon",
+      "length": 1134,
+      "mode": "hide"
+    },
+    {
+      "id": "007",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL85201W",
+  "goodreadsId": "1248716",
+  "rating": 0.712,
+  "popularity": 265,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721171960488
+}

@@ -1,1 +1,217 @@
-{"id":"p-g-wodehouse--piccadilly-jim","title":"Piccadilly Jim","titleAlpha":"piccadilly jim","author":"P. G. Wodehouse","language":"en","description":"Jimmy Crocker gets embroiled in convoluted comedic escapades, involving impersonations, kidnapping and theft, on both sides of the Atlantic.","longDescription":["Piccadilly Jim, by P. G. Wodehouse, was first published on February 24, 1917 by Dodd, Mead and Company in New York. It was subsequently published in London in May 1918 by Herbert Jenkins. It is based on a story originally published in the Saturday Evening Post from September 16 to November 11, 1916. The book sees Jimmy Crocker, also known as \"Piccadilly Jim,\" trying to escape his increasingly bad reputation by returning to New York from London. On the way, he meets and falls in love with Ann Chester, and agrees to help her kidnap Ogden, her cousin, for his own good. Their plans go awry and become more convoluted as impersonations, explosives and a determined detective get in the way."],"year":2020,"genres":["comedy","fiction"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/p-g-wodehouse/piccadilly-jim"},"series":null,"part":0,"chapters":[{"id":"001","title":"I: A Red-Haired Girl","length":48568,"skip":false},{"id":"002","title":"II: The Exiled Fan","length":24602,"skip":false},{"id":"003","title":"III: Family Jars","length":21908,"skip":false},{"id":"004","title":"IV: Jimmy's Disturbing News","length":6040,"skip":false},{"id":"005","title":"V: The Morning After","length":15531,"skip":false},{"id":"006","title":"VI: Jimmy Abandons Piccadilly","length":28932,"skip":false},{"id":"007","title":"VII: On the Boat-Deck","length":17179,"skip":false},{"id":"008","title":"VIII: Painful Scene in a Cafe","length":29995,"skip":false},{"id":"009","title":"IX: Mrs. Pett Is Shocked","length":20356,"skip":false},{"id":"010","title":"X: Instruction in Deportment","length":6931,"skip":false},{"id":"011","title":"XI: Jimmy Decides to Be Himself","length":16015,"skip":false},{"id":"012","title":"XII: Jimmy Catches the Boss's Eye","length":14572,"skip":false},{"id":"013","title":"XIII: Slight Complications","length":13729,"skip":false},{"id":"014","title":"XIV: Lord Wisbeach","length":8678,"skip":false},{"id":"015","title":"XV: A Little Business Chat","length":14027,"skip":false},{"id":"016","title":"XVI: Mrs. Pett Takes Precautions","length":11472,"skip":false},{"id":"017","title":"XVII: Miss Trimble, Detective","length":31891,"skip":false},{"id":"018","title":"XVIII: The Voice from the Past","length":32468,"skip":false},{"id":"019","title":"XIX: Between Father and Son","length":13895,"skip":false},{"id":"020","title":"XX: Celestine Imparts Information","length":4220,"skip":false},{"id":"021","title":"XXI: Chicago Ed.","length":11123,"skip":false},{"id":"022","title":"XXII: In the Library","length":10283,"skip":false},{"id":"023","title":"XXIII: Stirring Times for the Petts","length":19983,"skip":false},{"id":"024","title":"XXIV: Sensational Turning of a Worm","length":8158,"skip":false},{"id":"025","title":"XXV: Nearly Everybody Happy","length":6169,"skip":false},{"id":"026","title":"XXVI: Everybody Happy","length":6683,"skip":false}],"createdAt":1719507170767}
+{
+  "id": "p-g-wodehouse--piccadilly-jim",
+  "title": "Piccadilly Jim",
+  "titleAlpha": "piccadilly jim",
+  "author": "P. G. Wodehouse",
+  "language": "en",
+  "description": "Jimmy Crocker gets embroiled in convoluted comedic escapades, involving impersonations, kidnapping and theft, on both sides of the Atlantic.",
+  "longDescription": [
+    "Piccadilly Jim, by P. G. Wodehouse, was first published on February 24, 1917 by Dodd, Mead and Company in New York. It was subsequently published in London in May 1918 by Herbert Jenkins. It is based on a story originally published in the Saturday Evening Post from September 16 to November 11, 1916. The book sees Jimmy Crocker, also known as \"Piccadilly Jim,\" trying to escape his increasingly bad reputation by returning to New York from London. On the way, he meets and falls in love with Ann Chester, and agrees to help her kidnap Ogden, her cousin, for his own good. Their plans go awry and become more convoluted as impersonations, explosives and a determined detective get in the way."
+  ],
+  "year": 1917,
+  "genres": [
+    "classics",
+    "comedy",
+    "fiction",
+    "romance"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/p-g-wodehouse/piccadilly-jim"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Piccadilly Jim",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: A Red-Haired Girl",
+      "length": 48568,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: The Exiled Fan",
+      "length": 24602,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: Family Jars",
+      "length": 21908,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: Jimmy's Disturbing News",
+      "length": 6040,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: The Morning After",
+      "length": 15531,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: Jimmy Abandons Piccadilly",
+      "length": 28932,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: On the Boat-Deck",
+      "length": 17179,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: Painful Scene in a Cafe",
+      "length": 29995,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: Mrs. Pett Is Shocked",
+      "length": 20356,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: Instruction in Deportment",
+      "length": 6931,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: Jimmy Decides to Be Himself",
+      "length": 16015,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: Jimmy Catches the Boss's Eye",
+      "length": 14572,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: Slight Complications",
+      "length": 13729,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: Lord Wisbeach",
+      "length": 8678,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: A Little Business Chat",
+      "length": 14027,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI: Mrs. Pett Takes Precautions",
+      "length": 11472,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII: Miss Trimble, Detective",
+      "length": 31891,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII: The Voice from the Past",
+      "length": 32468,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX: Between Father and Son",
+      "length": 13895,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX: Celestine Imparts Information",
+      "length": 4220,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI: Chicago Ed.",
+      "length": 11123,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII: In the Library",
+      "length": 10283,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII: Stirring Times for the Petts",
+      "length": 19983,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV: Sensational Turning of a Worm",
+      "length": 8158,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXV: Nearly Everybody Happy",
+      "length": 6169,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXVI: Everybody Happy",
+      "length": 6683,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Colophon",
+      "length": 1059,
+      "mode": "hide"
+    },
+    {
+      "id": "030",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1337097W",
+  "goodreadsId": "1159114",
+  "rating": 0.806,
+  "popularity": 5135,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721172305842
+}

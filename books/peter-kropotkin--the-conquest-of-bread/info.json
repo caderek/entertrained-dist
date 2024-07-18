@@ -1,1 +1,400 @@
-{"id":"peter-kropotkin--the-conquest-of-bread","title":"The Conquest of Bread","titleAlpha":"conquest of bread","author":"Peter Kropotkin","language":"en","description":"Peter Kropotkin describes the organization of an anarchist society.","longDescription":["The Conquest of Bread is a political treatise written by the anarcho-communist philosopher Peter Kropotkin. Written after a split between anarchists and Marxists at the First International (a 19th-century association of left-wing radicals), The Conquest of Bread advocates a path to a communist society distinct from Marx and Engels's Communist Manifesto, rooted in the principles of mutual aid and voluntary cooperation.","Since its original publication in 1892, The Conquest of Bread has immensely influenced both anarchist theory and anarchist praxis. As one of the first comprehensive works of anarcho-communist theory published for wide distribution, it both popularized anarchism in general and encouraged a shift in anarchist thought from individualist anarchism to social anarchism. It was also an influential text among the Spanish anarchists in the Spanish Civil War of the 1930s, and the late anarchist theorist and anthropologist David Graeber cited the book as an inspiration for the Occupy movement of the early 2010s in his 2011 book Debt: The First 5,000 Years."],"year":2021,"genres":["philosophy"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/peter-kropotkin/the-conquest-of-bread/chapman-and-hall"},"series":null,"part":0,"chapters":[{"id":"001","title":"Preface","length":14984,"skip":true},{"id":"002","title":"I: Our Riches - I","length":3648,"skip":false},{"id":"003","title":"I: Our Riches - II","length":8273,"skip":false},{"id":"004","title":"I: Our Riches - III","length":8598,"skip":false},{"id":"005","title":"II: Well-Being for All - I","length":9470,"skip":false},{"id":"006","title":"II: Well-Being for All - II","length":7899,"skip":false},{"id":"007","title":"II: Well-Being for All - III","length":3933,"skip":false},{"id":"008","title":"III: Anarchist Communism - I","length":11179,"skip":false},{"id":"009","title":"III: Anarchist Communism - II","length":9835,"skip":false},{"id":"010","title":"IV: Expropriation - I","length":5970,"skip":false},{"id":"011","title":"IV: Expropriation - II","length":8911,"skip":false},{"id":"012","title":"IV: Expropriation - III","length":9905,"skip":false},{"id":"013","title":"V: Food - I","length":6149,"skip":false},{"id":"014","title":"V: Food - II","length":6191,"skip":false},{"id":"015","title":"V: Food - III","length":8681,"skip":false},{"id":"016","title":"V: Food - IV","length":9440,"skip":false},{"id":"017","title":"V: Food - V","length":5564,"skip":false},{"id":"018","title":"V: Food - VI","length":7362,"skip":false},{"id":"019","title":"V: Food - VII","length":7358,"skip":false},{"id":"020","title":"VI: Dwellings - I","length":5684,"skip":false},{"id":"021","title":"VI: Dwellings - II","length":6323,"skip":false},{"id":"022","title":"VI: Dwellings - III","length":8142,"skip":false},{"id":"023","title":"VII: Clothing","length":5660,"skip":false},{"id":"024","title":"VIII: Ways and Means - I","length":6789,"skip":false},{"id":"025","title":"VIII: Ways and Means - II","length":7998,"skip":false},{"id":"026","title":"IX: The Need for Luxury - I","length":5301,"skip":false},{"id":"027","title":"IX: The Need for Luxury - II","length":5202,"skip":false},{"id":"028","title":"IX: The Need for Luxury - III","length":4795,"skip":false},{"id":"029","title":"IX: The Need for Luxury - IV","length":6080,"skip":false},{"id":"030","title":"IX: The Need for Luxury - V","length":7863,"skip":false},{"id":"031","title":"X: Agreeable Work - I","length":5723,"skip":false},{"id":"032","title":"X: Agreeable Work - II","length":10067,"skip":false},{"id":"033","title":"XI: Free Agreement - I","length":7378,"skip":false},{"id":"034","title":"XI: Free Agreement - II","length":6374,"skip":false},{"id":"035","title":"XI: Free Agreement - III","length":16313,"skip":false},{"id":"036","title":"XII: Objections - I","length":9939,"skip":false},{"id":"037","title":"XII: Objections - II","length":8053,"skip":false},{"id":"038","title":"XII: Objections - III","length":8691,"skip":false},{"id":"039","title":"XII: Objections - IV","length":9240,"skip":false},{"id":"040","title":"XIII: The Collectivist Wages System - I","length":4368,"skip":false},{"id":"041","title":"XIII: The Collectivist Wages System - II","length":6263,"skip":false},{"id":"042","title":"XIII: The Collectivist Wages System - III","length":7969,"skip":false},{"id":"043","title":"XIII: The Collectivist Wages System - IV","length":13358,"skip":false},{"id":"044","title":"XIV: Consumption and Production - I","length":7559,"skip":false},{"id":"045","title":"XIV: Consumption and Production - II","length":6558,"skip":false},{"id":"046","title":"XV: The Division of Labour","length":6621,"skip":false},{"id":"047","title":"XVI: The Decentralization of Industry - I","length":9502,"skip":false},{"id":"048","title":"XVI: The Decentralization of Industry - II","length":3632,"skip":false},{"id":"049","title":"XVI: The Decentralization of Industry - III","length":7432,"skip":false},{"id":"050","title":"XVII: Agriculture - I","length":7043,"skip":false},{"id":"051","title":"XVII: Agriculture - II","length":9624,"skip":false},{"id":"052","title":"XVII: Agriculture - III","length":8388,"skip":false},{"id":"053","title":"XVII: Agriculture - IV","length":4704,"skip":false},{"id":"054","title":"XVII: Agriculture - V","length":6954,"skip":false},{"id":"055","title":"XVII: Agriculture - VI","length":5765,"skip":false},{"id":"056","title":"Endnotes","length":4914,"skip":true}],"createdAt":1719507183445}
+{
+  "id": "peter-kropotkin--the-conquest-of-bread",
+  "title": "The Conquest of Bread",
+  "titleAlpha": "conquest of bread",
+  "author": "Peter Kropotkin",
+  "language": "en",
+  "description": "Peter Kropotkin describes the organization of an anarchist society.",
+  "longDescription": [
+    "The Conquest of Bread is a political treatise written by the anarcho-communist philosopher Peter Kropotkin. Written after a split between anarchists and Marxists at the First International (a 19th-century association of left-wing radicals), The Conquest of Bread advocates a path to a communist society distinct from Marx and Engels's Communist Manifesto, rooted in the principles of mutual aid and voluntary cooperation.",
+    "Since its original publication in 1892, The Conquest of Bread has immensely influenced both anarchist theory and anarchist praxis. As one of the first comprehensive works of anarcho-communist theory published for wide distribution, it both popularized anarchism in general and encouraged a shift in anarchist thought from individualist anarchism to social anarchism. It was also an influential text among the Spanish anarchists in the Spanish Civil War of the 1930s, and the late anarchist theorist and anthropologist David Graeber cited the book as an inspiration for the Occupy movement of the early 2010s in his 2011 book Debt: The First 5,000 Years."
+  ],
+  "year": 1892,
+  "genres": [
+    "classics",
+    "philosophy",
+    "nonfiction"
+  ],
+  "topics": [
+    "politics",
+    "economics"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/peter-kropotkin/the-conquest-of-bread/chapman-and-hall"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Conquest of Bread",
+      "length": 52,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Preface",
+      "length": 14984,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "I: Our Riches - I",
+      "length": 3648,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "I: Our Riches - II",
+      "length": 8273,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "I: Our Riches - III",
+      "length": 8598,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "II: Well-Being for All - I",
+      "length": 9470,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "II: Well-Being for All - II",
+      "length": 7899,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "II: Well-Being for All - III",
+      "length": 3933,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "III: Anarchist Communism - I",
+      "length": 11179,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "III: Anarchist Communism - II",
+      "length": 9835,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "IV: Expropriation - I",
+      "length": 5970,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "IV: Expropriation - II",
+      "length": 8911,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "IV: Expropriation - III",
+      "length": 9905,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "V: Food - I",
+      "length": 6149,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "V: Food - II",
+      "length": 6191,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "V: Food - III",
+      "length": 8681,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "V: Food - IV",
+      "length": 9440,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "V: Food - V",
+      "length": 5564,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "V: Food - VI",
+      "length": 7362,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "V: Food - VII",
+      "length": 7358,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "VI: Dwellings - I",
+      "length": 5684,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "VI: Dwellings - II",
+      "length": 6323,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "VI: Dwellings - III",
+      "length": 8142,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "VII: Clothing",
+      "length": 5660,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "VIII: Ways and Means - I",
+      "length": 6789,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "VIII: Ways and Means - II",
+      "length": 7998,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "IX: The Need for Luxury - I",
+      "length": 5301,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "IX: The Need for Luxury - II",
+      "length": 5202,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "IX: The Need for Luxury - III",
+      "length": 4795,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "IX: The Need for Luxury - IV",
+      "length": 6080,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "IX: The Need for Luxury - V",
+      "length": 7863,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "X: Agreeable Work - I",
+      "length": 5723,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "X: Agreeable Work - II",
+      "length": 10067,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XI: Free Agreement - I",
+      "length": 7378,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XI: Free Agreement - II",
+      "length": 6374,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XI: Free Agreement - III",
+      "length": 16313,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XII: Objections - I",
+      "length": 9939,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XII: Objections - II",
+      "length": 8053,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XII: Objections - III",
+      "length": 8691,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XII: Objections - IV",
+      "length": 9240,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XIII: The Collectivist Wages System - I",
+      "length": 4368,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XIII: The Collectivist Wages System - II",
+      "length": 6263,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XIII: The Collectivist Wages System - III",
+      "length": 7969,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XIII: The Collectivist Wages System - IV",
+      "length": 13358,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "XIV: Consumption and Production - I",
+      "length": 7559,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "XIV: Consumption and Production - II",
+      "length": 6558,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "XV: The Division of Labour",
+      "length": 6621,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "XVI: The Decentralization of Industry - I",
+      "length": 9502,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "XVI: The Decentralization of Industry - II",
+      "length": 3632,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "XVI: The Decentralization of Industry - III",
+      "length": 7432,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "XVII: Agriculture - I",
+      "length": 7043,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "XVII: Agriculture - II",
+      "length": 9624,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "XVII: Agriculture - III",
+      "length": 8388,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "XVII: Agriculture - IV",
+      "length": 4704,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "XVII: Agriculture - V",
+      "length": 6954,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "XVII: Agriculture - VI",
+      "length": 5765,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "Endnotes",
+      "length": 4914,
+      "mode": "hide"
+    },
+    {
+      "id": "059",
+      "title": "Colophon",
+      "length": 1175,
+      "mode": "hide"
+    },
+    {
+      "id": "060",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1105382W",
+  "goodreadsId": "1310307",
+  "rating": 0.8140000000000001,
+  "popularity": 8457,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721172325337
+}

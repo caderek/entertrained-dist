@@ -1,1 +1,135 @@
-{"id":"adam-mickiewicz--pan-tadeusz","title":"Pan Tadeusz","titleAlpha":"pan tadeusz","author":"Adam Mickiewicz","language":"en","description":"A young nobleman explores romance, feuding families, politics, and national identity during a period of social upheaval and Russian occupation.","longDescription":["Tadeusz Soplica is a young nobleman who returns to his family estate after completing his studies. As he reconnects with his homeland, Tadeusz becomes enamored with Zosia Horeszko, the daughter of a rival family, despite the longstanding feud between their households.","Within the framework of this romantic storyline, Mickiewicz delves into the complex political and social dynamics of the era. He depicts the tensions between the Polish nobility and the occupying Russian authorities, as well as the internal conflicts among the noble families themselves. Through vivid description and engaging dialogue, Mickiewicz showcases the customs, traditions, and aspirations of the Polish gentry, making for a rich portrayal of Polish society during this turbulent time.","Pan Tadeusz has become a cherished masterpiece of Polish literature and a symbol of national identity. It was included in UNESCO's Memory of the World Programme in 2014."],"year":2023,"genres":["fiction","poetry"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/adam-mickiewicz/pan-tadeusz/maude-ashurst-biggs"},"series":null,"part":0,"chapters":[{"id":"001","title":"Rules for Pronunciation of the Polish Words in the Text","length":1934,"skip":false},{"id":"002","title":"Introduction","length":5723,"skip":false},{"id":"003","title":"Translator's Preface","length":12469,"skip":true},{"id":"004","title":"Book I: Home-Keeping","length":49393,"skip":false},{"id":"005","title":"Book II: The Castle","length":44613,"skip":false},{"id":"006","title":"Book III: Flirting","length":41795,"skip":false},{"id":"007","title":"Book IV: Diplomacy and the Chase","length":54130,"skip":false},{"id":"008","title":"Book V: Diplomacy and the Chase","length":48816,"skip":false},{"id":"009","title":"Book VI: The Farmstead","length":33542,"skip":false},{"id":"010","title":"Book VII: Council","length":30102,"skip":false},{"id":"011","title":"Book VIII: The Foray","length":42607,"skip":false},{"id":"012","title":"Book IX: The Battle","length":41255,"skip":false},{"id":"013","title":"Book X: Emigration - Jacek","length":45632,"skip":false},{"id":"014","title":"Book XI: The Year 1812","length":35296,"skip":false},{"id":"015","title":"Book XII: Let Us Love One Another","length":44323,"skip":false},{"id":"016","title":"Endnotes","length":68119,"skip":true}],"createdAt":1719506657759}
+{
+  "id": "adam-mickiewicz--pan-tadeusz",
+  "title": "Pan Tadeusz",
+  "titleAlpha": "pan tadeusz",
+  "author": "Adam Mickiewicz",
+  "language": "en",
+  "description": "A young nobleman explores romance, feuding families, politics, and national identity during a period of social upheaval and Russian occupation.",
+  "longDescription": [
+    "Tadeusz Soplica is a young nobleman who returns to his family estate after completing his studies. As he reconnects with his homeland, Tadeusz becomes enamored with Zosia Horeszko, the daughter of a rival family, despite the longstanding feud between their households.",
+    "Within the framework of this romantic storyline, Mickiewicz delves into the complex political and social dynamics of the era. He depicts the tensions between the Polish nobility and the occupying Russian authorities, as well as the internal conflicts among the noble families themselves. Through vivid description and engaging dialogue, Mickiewicz showcases the customs, traditions, and aspirations of the Polish gentry, making for a rich portrayal of Polish society during this turbulent time.",
+    "Pan Tadeusz has become a cherished masterpiece of Polish literature and a symbol of national identity. It was included in UNESCO's Memory of the World Programme in 2014."
+  ],
+  "year": 1834,
+  "genres": [
+    "classics",
+    "fiction",
+    "poetry",
+    "history"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/adam-mickiewicz/pan-tadeusz/maude-ashurst-biggs"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Rules for Pronunciation of the Polish Words in the Text",
+      "length": 1934,
+      "mode": "skip"
+    },
+    {
+      "id": "002",
+      "title": "Introduction",
+      "length": 5723,
+      "mode": "skip"
+    },
+    {
+      "id": "003",
+      "title": "Translator's Preface",
+      "length": 12469,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Book I: Home-Keeping",
+      "length": 49393,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Book II: The Castle",
+      "length": 44613,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book III: Flirting",
+      "length": 41795,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Book IV: Diplomacy and the Chase",
+      "length": 54130,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Book V: Diplomacy and the Chase",
+      "length": 48816,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book VI: The Farmstead",
+      "length": 33542,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Book VII: Council",
+      "length": 30102,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book VIII: The Foray",
+      "length": 42607,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book IX: The Battle",
+      "length": 41255,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book X: Emigration - Jacek",
+      "length": 45632,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book XI: The Year 1812",
+      "length": 35296,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book XII: Let Us Love One Another",
+      "length": 44323,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Endnotes",
+      "length": 68119,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1118938W",
+  "goodreadsId": "881508",
+  "rating": 0.6,
+  "popularity": 17560,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720554847324
+}

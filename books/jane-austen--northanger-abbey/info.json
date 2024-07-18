@@ -1,1 +1,263 @@
-{"id":"jane-austen--northanger-abbey","title":"Northanger Abbey","titleAlpha":"northanger abbey","author":"Jane Austen","language":"en","description":"A young girl with an overactive imagination comes of age.","longDescription":["Northanger Abbey is the coming-of-age story of Catherine Morland, a seventeen-year-old girl who's entering society for the first time. Despite her naivete, she quickly gains two potential suitors. We follow Catherine as she tries to navigate the difficulties of romance, friendship, and responsibility - problems amplified by the fact that Catherine views her world through the lens of the dramatic Gothic novels she loves to read. Austen deftly satirizes both the Gothic novels popular at the time (especially Ann Radcliffe's The Mysteries of Udolpho), as well as contemporary society and women's role in it.","Completed in 1803, Northanger Abbey was the first of Jane Austen's novels to be completed, but it was only published posthumously in 1817."],"year":2022,"genres":["fiction","gothic","horror","romance","satire"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/jane-austen/northanger-abbey"},"series":null,"part":0,"chapters":[{"id":"001","title":"Advertisement - By the Authoress of Northanger Abbey","length":782,"skip":false},{"id":"002","title":"I","length":7922,"skip":false},{"id":"003","title":"II","length":12318,"skip":false},{"id":"004","title":"III","length":9330,"skip":false},{"id":"005","title":"IV","length":7499,"skip":false},{"id":"006","title":"V","length":7219,"skip":false},{"id":"007","title":"VI","length":8984,"skip":false},{"id":"008","title":"VII","length":15422,"skip":false},{"id":"009","title":"VIII","length":14920,"skip":false},{"id":"010","title":"IX","length":18132,"skip":false},{"id":"011","title":"X","length":21375,"skip":false},{"id":"012","title":"XI","length":16144,"skip":false},{"id":"013","title":"XII","length":11112,"skip":false},{"id":"014","title":"XIII","length":17166,"skip":false},{"id":"015","title":"XIV","length":18697,"skip":false},{"id":"016","title":"XV","length":17743,"skip":false},{"id":"017","title":"XVI","length":15159,"skip":false},{"id":"018","title":"XVII","length":8049,"skip":false},{"id":"019","title":"XVIII","length":11219,"skip":false},{"id":"020","title":"XIX","length":8461,"skip":false},{"id":"021","title":"XX","length":17988,"skip":false},{"id":"022","title":"XXI","length":16795,"skip":false},{"id":"023","title":"XXII","length":19003,"skip":false},{"id":"024","title":"XXIII","length":14731,"skip":false},{"id":"025","title":"XXIV","length":15868,"skip":false},{"id":"026","title":"XXV","length":16504,"skip":false},{"id":"027","title":"XXVI","length":14177,"skip":false},{"id":"028","title":"XXVII","length":6900,"skip":false},{"id":"029","title":"XXVIII","length":19480,"skip":false},{"id":"030","title":"XXIX","length":18868,"skip":false},{"id":"031","title":"XXX","length":16571,"skip":false},{"id":"032","title":"XXXI","length":7068,"skip":false},{"id":"033","title":"Endnotes","length":63,"skip":true}],"createdAt":1719507032561}
+{
+  "id": "jane-austen--northanger-abbey",
+  "title": "Northanger Abbey",
+  "titleAlpha": "northanger abbey",
+  "author": "Jane Austen",
+  "language": "en",
+  "description": "A young girl with an overactive imagination comes of age.",
+  "longDescription": [
+    "Northanger Abbey is the coming-of-age story of Catherine Morland, a seventeen-year-old girl who's entering society for the first time. Despite her naivete, she quickly gains two potential suitors. We follow Catherine as she tries to navigate the difficulties of romance, friendship, and responsibility - problems amplified by the fact that Catherine views her world through the lens of the dramatic Gothic novels she loves to read. Austen deftly satirizes both the Gothic novels popular at the time (especially Ann Radcliffe's The Mysteries of Udolpho), as well as contemporary society and women's role in it.",
+    "Completed in 1803, Northanger Abbey was the first of Jane Austen's novels to be completed, but it was only published posthumously in 1817."
+  ],
+  "year": 1817,
+  "genres": [
+    "classics",
+    "fiction",
+    "gothic",
+    "horror",
+    "romance",
+    "satire",
+    "coming-of-age"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/jane-austen/northanger-abbey"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Northanger Abbey",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Advertisement - By the Authoress of Northanger Abbey",
+      "length": 782,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "I",
+      "length": 7922,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II",
+      "length": 12318,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III",
+      "length": 9330,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "IV",
+      "length": 7499,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "V",
+      "length": 7219,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VI",
+      "length": 8984,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VII",
+      "length": 15422,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VIII",
+      "length": 14920,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "IX",
+      "length": 18132,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "X",
+      "length": 21375,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XI",
+      "length": 16144,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XII",
+      "length": 11112,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIII",
+      "length": 17166,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIV",
+      "length": 18697,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XV",
+      "length": 17743,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVI",
+      "length": 15159,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVII",
+      "length": 8049,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVIII",
+      "length": 11219,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XIX",
+      "length": 8461,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XX",
+      "length": 17988,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXI",
+      "length": 16795,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXII",
+      "length": 19003,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIII",
+      "length": 14731,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXIV",
+      "length": 15868,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXV",
+      "length": 16504,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVI",
+      "length": 14177,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVII",
+      "length": 6900,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVIII",
+      "length": 19480,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXIX",
+      "length": 18868,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXX",
+      "length": 16571,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXXI",
+      "length": 7068,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Endnotes",
+      "length": 63,
+      "mode": "hide"
+    },
+    {
+      "id": "036",
+      "title": "Colophon",
+      "length": 1045,
+      "mode": "hide"
+    },
+    {
+      "id": "037",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL66534W",
+  "goodreadsId": "104610",
+  "rating": 0.77,
+  "popularity": 406785,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720966784587
+}

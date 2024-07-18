@@ -1,1 +1,214 @@
-{"id":"felix-salten--bambi","title":"Bambi","titleAlpha":"bambi","author":"Felix Salten","language":"en","description":"A roe deer learns the rules of the forest and how to survive in a world inhabited by men as he grows to maturity.","longDescription":["Bambi follows the life of the eponymous roe deer, from birth to maturity. Through the years Bambi meets friends, learns how to survive in the forest, finds love, and learns how to survive \"He\" - the name animals give to man. The novel gives a glimpse into forest life: dangerous, yet awe-inspiring; unforgiving, yet beautiful.","Written by Felix Salten and published in 1923 in German, it was translated to English in 1928 by Whittaker Chambers. It is considered one of the first environmental novels, and in 1936 was banned by Nazi Germany for being a parable of the persecution of Jews in Europe.","Although adapted into multiple movies, ballets, and plays, Bambi is perhaps most popularly remembered as the subject of Walt Disney's famous animated feature of the same name."],"year":2024,"genres":["children","fiction"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/felix-salten/bambi/whittaker-chambers"},"series":null,"part":0,"chapters":[{"id":"001","title":"I","length":4379,"skip":false},{"id":"002","title":"II","length":18743,"skip":false},{"id":"003","title":"III","length":5433,"skip":false},{"id":"004","title":"IV","length":13023,"skip":false},{"id":"005","title":"V","length":15751,"skip":false},{"id":"006","title":"VI","length":10628,"skip":false},{"id":"007","title":"VII","length":10792,"skip":false},{"id":"008","title":"VIII","length":3556,"skip":false},{"id":"009","title":"IX","length":15813,"skip":false},{"id":"010","title":"X","length":19833,"skip":false},{"id":"011","title":"XI","length":12411,"skip":false},{"id":"012","title":"XII","length":7992,"skip":false},{"id":"013","title":"XIII","length":5452,"skip":false},{"id":"014","title":"XIV","length":8981,"skip":false},{"id":"015","title":"XV","length":7006,"skip":false},{"id":"016","title":"XVI","length":5360,"skip":false},{"id":"017","title":"XVII","length":2383,"skip":false},{"id":"018","title":"XVIII","length":5285,"skip":false},{"id":"019","title":"XIX","length":6875,"skip":false},{"id":"020","title":"XX","length":11573,"skip":false},{"id":"021","title":"XXI","length":9482,"skip":false},{"id":"022","title":"XXII","length":6949,"skip":false},{"id":"023","title":"XXIII","length":6199,"skip":false},{"id":"024","title":"XXIV","length":7031,"skip":false},{"id":"025","title":"XXV","length":3063,"skip":false}],"createdAt":1719506888902}
+{
+  "id": "felix-salten--bambi",
+  "title": "Bambi",
+  "titleAlpha": "bambi",
+  "author": "Felix Salten",
+  "language": "en",
+  "description": "A roe deer learns the rules of the forest and how to survive in a world inhabited by men as he grows to maturity.",
+  "longDescription": [
+    "Bambi follows the life of the eponymous roe deer, from birth to maturity. Through the years Bambi meets friends, learns how to survive in the forest, finds love, and learns how to survive \"He\" - the name animals give to man. The novel gives a glimpse into forest life: dangerous, yet awe-inspiring; unforgiving, yet beautiful.",
+    "Written by Felix Salten and published in 1923 in German, it was translated to English in 1928 by Whittaker Chambers. It is considered one of the first environmental novels, and in 1936 was banned by Nazi Germany for being a parable of the persecution of Jews in Europe.",
+    "Although adapted into multiple movies, ballets, and plays, Bambi is perhaps most popularly remembered as the subject of Walt Disney's famous animated feature of the same name."
+  ],
+  "year": 1923,
+  "genres": [
+    "classics",
+    "fiction",
+    "children"
+  ],
+  "topics": [
+    "animals"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Bambi",
+  "part": 1,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/felix-salten/bambi/whittaker-chambers"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Bambi",
+      "length": 51,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I",
+      "length": 4379,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II",
+      "length": 18743,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III",
+      "length": 5433,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV",
+      "length": 13023,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V",
+      "length": 15751,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI",
+      "length": 10628,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII",
+      "length": 10792,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII",
+      "length": 3556,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX",
+      "length": 15813,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X",
+      "length": 19833,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI",
+      "length": 12411,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII",
+      "length": 7992,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII",
+      "length": 5452,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV",
+      "length": 8981,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV",
+      "length": 7006,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI",
+      "length": 5360,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII",
+      "length": 2383,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII",
+      "length": 5285,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX",
+      "length": 6875,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX",
+      "length": 11573,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI",
+      "length": 9482,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII",
+      "length": 6949,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII",
+      "length": 6199,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV",
+      "length": 7031,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXV",
+      "length": 3063,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Colophon",
+      "length": 1152,
+      "mode": "hide"
+    },
+    {
+      "id": "029",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL4459213W",
+  "goodreadsId": "739840",
+  "rating": 0.8240000000000001,
+  "popularity": 36472,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721171803593
+}

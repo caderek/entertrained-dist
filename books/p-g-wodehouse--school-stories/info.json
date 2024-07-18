@@ -1,1 +1,304 @@
-{"id":"p-g-wodehouse--school-stories","title":"School Stories","titleAlpha":"school stories","author":"P. G. Wodehouse","language":"en","description":"A collection of Wodehouse's school stories about the lives and adventures of schoolboys in the early 1900s.","longDescription":["School Stories is a collection of humorous short stories by P. G. Wodehouse that feature the trials, tribulations and adventures of the denizens of the turn-of-the-century English boarding school.","First published in schoolboy magazines starting in 1901, the stories originally appeared in publications like The Captain and Public School Magazine. Some were also later collected into books. These stories, written more than a decade before he moved on to his more famous characters like Jeeves and Wooster, represent Wodehouse's first magazine sales and showcase his early career. While some of these stories are definitely of a moment, they're filled with delightful bits that would be instantly recognizable to students and teachers of any age. Indeed, the stories experienced a bit of a resurgence in the latter part of the 20th century, and remain a worthy part of Wodehouse's canon."],"year":1901,"genres":["comedy","fiction","shorts"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/p-g-wodehouse/school-stories"},"series":"Wrykyn School","part":1,"chapters":[{"id":"001","title":"Work","length":16140,"skip":false},{"id":"002","title":"Notes","length":13240,"skip":false},{"id":"003","title":"Now, Talking About Cricket","length":12987,"skip":false},{"id":"004","title":"The Tom Brown Question","length":9473,"skip":false},{"id":"005","title":"Bradshaw's Little Story","length":11840,"skip":false},{"id":"006","title":"How Pillingshot Scored","length":12784,"skip":false},{"id":"007","title":"The Odd Trick","length":12638,"skip":false},{"id":"008","title":"L'Affaire Uncle John - I","length":4874,"skip":false},{"id":"009","title":"L'Affaire Uncle John - II","length":219,"skip":false},{"id":"010","title":"L'Affaire Uncle John - III","length":897,"skip":false},{"id":"011","title":"L'Affaire Uncle John - IV","length":598,"skip":false},{"id":"012","title":"L'Affaire Uncle John - V","length":3264,"skip":false},{"id":"013","title":"L'Affaire Uncle John - VI","length":1175,"skip":false},{"id":"014","title":"L'Affaire Uncle John - VII","length":412,"skip":false},{"id":"015","title":"L'Affaire Uncle John - VIII","length":1789,"skip":false},{"id":"016","title":"L'Affaire Uncle John - IX","length":162,"skip":false},{"id":"017","title":"L'Affaire Uncle John - X","length":843,"skip":false},{"id":"018","title":"Harrison's Slight Error","length":13863,"skip":false},{"id":"019","title":"A Shocking Affair","length":19199,"skip":false},{"id":"020","title":"The Babe and the Dragon","length":11597,"skip":false},{"id":"021","title":"The Manoeuvres of Charteris - I","length":15703,"skip":false},{"id":"022","title":"The Manoeuvres of Charteris - II","length":13492,"skip":false},{"id":"023","title":"The Manoeuvres of Charteris - III","length":12701,"skip":false},{"id":"024","title":"The Manoeuvres of Charteris - IV","length":12558,"skip":false},{"id":"025","title":"The Manoeuvres of Charteris - V","length":12219,"skip":false},{"id":"026","title":"The Manoeuvres of Charteris - VI","length":16163,"skip":false},{"id":"027","title":"How Payne Bucked Up - I","length":4782,"skip":false},{"id":"028","title":"How Payne Bucked Up - II","length":6210,"skip":false},{"id":"029","title":"Author!","length":13866,"skip":false},{"id":"030","title":"\"The Tabby Terror\"","length":10988,"skip":false},{"id":"031","title":"The Prize Poem","length":13771,"skip":false},{"id":"032","title":"A Corner in Lines","length":25218,"skip":false},{"id":"033","title":"The Autograph Hunters","length":11595,"skip":false},{"id":"034","title":"An International Affair - Part I","length":11756,"skip":false},{"id":"035","title":"An International Affair - Part II","length":5062,"skip":false},{"id":"036","title":"An International Affair - Part III","length":1368,"skip":false},{"id":"037","title":"Shields' and the Cricket Cup","length":16716,"skip":false},{"id":"038","title":"The Politeness of Princes","length":14825,"skip":false},{"id":"039","title":"The Guardian","length":24311,"skip":false},{"id":"040","title":"Pillingshot, Detective","length":17596,"skip":false}],"createdAt":1719507172753}
+{
+  "id": "p-g-wodehouse--school-stories",
+  "title": "School Stories",
+  "titleAlpha": "school stories",
+  "author": "P. G. Wodehouse",
+  "language": "en",
+  "description": "A collection of Wodehouse's school stories about the lives and adventures of schoolboys in the early 1900s.",
+  "longDescription": [
+    "School Stories is a collection of humorous short stories by P. G. Wodehouse that feature the trials, tribulations and adventures of the denizens of the turn-of-the-century English boarding school.",
+    "First published in schoolboy magazines starting in 1901, the stories originally appeared in publications like The Captain and Public School Magazine. Some were also later collected into books. These stories, written more than a decade before he moved on to his more famous characters like Jeeves and Wooster, represent Wodehouse's first magazine sales and showcase his early career. While some of these stories are definitely of a moment, they're filled with delightful bits that would be instantly recognizable to students and teachers of any age. Indeed, the stories experienced a bit of a resurgence in the latter part of the 20th century, and remain a worthy part of Wodehouse's canon."
+  ],
+  "year": 1901,
+  "genres": [
+    "classics",
+    "comedy",
+    "fiction",
+    "shorts"
+  ],
+  "topics": [
+    "school"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Wrykyn School",
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - School Stories",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1183,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Work",
+      "length": 16140,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Notes",
+      "length": 13240,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Now, Talking About Cricket",
+      "length": 12987,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "The Tom Brown Question",
+      "length": 9473,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Bradshaw's Little Story",
+      "length": 11840,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "How Pillingshot Scored",
+      "length": 12784,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "The Odd Trick",
+      "length": 12638,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "L'Affaire Uncle John - I",
+      "length": 4874,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "L'Affaire Uncle John - II",
+      "length": 219,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "L'Affaire Uncle John - III",
+      "length": 897,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "L'Affaire Uncle John - IV",
+      "length": 598,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "L'Affaire Uncle John - V",
+      "length": 3264,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "L'Affaire Uncle John - VI",
+      "length": 1175,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "L'Affaire Uncle John - VII",
+      "length": 412,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "L'Affaire Uncle John - VIII",
+      "length": 1789,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "L'Affaire Uncle John - IX",
+      "length": 162,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "L'Affaire Uncle John - X",
+      "length": 843,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Harrison's Slight Error",
+      "length": 13863,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "A Shocking Affair",
+      "length": 19199,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "The Babe and the Dragon",
+      "length": 11597,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "The Manoeuvres of Charteris - I",
+      "length": 15703,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "The Manoeuvres of Charteris - II",
+      "length": 13492,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "The Manoeuvres of Charteris - III",
+      "length": 12701,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "The Manoeuvres of Charteris - IV",
+      "length": 12558,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "The Manoeuvres of Charteris - V",
+      "length": 12219,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "The Manoeuvres of Charteris - VI",
+      "length": 16163,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "How Payne Bucked Up - I",
+      "length": 4782,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "How Payne Bucked Up - II",
+      "length": 6210,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Author!",
+      "length": 13866,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "\"The Tabby Terror\"",
+      "length": 10988,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "The Prize Poem",
+      "length": 13771,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "A Corner in Lines",
+      "length": 25218,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "The Autograph Hunters",
+      "length": 11595,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "An International Affair - Part I",
+      "length": 11756,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "An International Affair - Part II",
+      "length": 5062,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "An International Affair - Part III",
+      "length": 1368,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Shields' and the Cricket Cup",
+      "length": 16716,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "The Politeness of Princes",
+      "length": 14825,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "The Guardian",
+      "length": 24311,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Pillingshot, Detective",
+      "length": 17596,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Colophon",
+      "length": 1125,
+      "mode": "hide"
+    },
+    {
+      "id": "044",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL27292271W",
+  "goodreadsId": "17609939",
+  "rating": 0.778,
+  "popularity": 46,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721172307855
+}

@@ -1,1 +1,350 @@
-{"id":"thomas-hardy--the-woodlanders","title":"The Woodlanders","titleAlpha":"woodlanders","author":"Thomas Hardy","language":"en","description":"A young woman struggles with the opposing forces of class and love.","longDescription":["Grace Melbury, daughter of a rich local wood-trader, has been raised beyond her family through years of expensive education. Coming home, she finds herself pulled between her love for her childhood friend Giles Winterborne, and the allure of the enigmatic Doctor Fitzpiers. Giles and Edgar have their own admirers too, and the backdrop of the bucolic pastures and woodlands of an impressionistic take on south-west England provides the perfect setting for their story.","The Woodlanders was commissioned by Macmillan's Magazine in 1884, and was serialized and later published as a novel in 1887. The story's themes of infidelity and less-than-blissful marriage were unusual for the time and drew ire from campaigners, but on its publication it garnered immediate critical acclaim. Thomas Hardy later regarded it as the favorite of his stories, and it's remained perennially popular as a novel and as a series of adaptations to theatre, opera and film."],"year":2018,"genres":["fiction","psychological","romance"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/thomas-hardy/the-woodlanders"},"series":null,"part":0,"chapters":[{"id":"001","title":"I","length":11141,"skip":false},{"id":"002","title":"II","length":12039,"skip":false},{"id":"003","title":"III","length":17372,"skip":false},{"id":"004","title":"IV","length":23768,"skip":false},{"id":"005","title":"V","length":15808,"skip":false},{"id":"006","title":"VI","length":20366,"skip":false},{"id":"007","title":"VII","length":14119,"skip":false},{"id":"008","title":"VIII","length":18532,"skip":false},{"id":"009","title":"IX","length":15674,"skip":false},{"id":"010","title":"X","length":11890,"skip":false},{"id":"011","title":"XI","length":10816,"skip":false},{"id":"012","title":"XII","length":11449,"skip":false},{"id":"013","title":"XIII","length":18233,"skip":false},{"id":"014","title":"XIV","length":10911,"skip":false},{"id":"015","title":"XV","length":16601,"skip":false},{"id":"016","title":"XVI","length":16260,"skip":false},{"id":"017","title":"XVII","length":13846,"skip":false},{"id":"018","title":"XVIII","length":13374,"skip":false},{"id":"019","title":"XIX","length":21923,"skip":false},{"id":"020","title":"XX","length":14468,"skip":false},{"id":"021","title":"XXI","length":5791,"skip":false},{"id":"022","title":"XXII","length":12944,"skip":false},{"id":"023","title":"XXIII","length":12950,"skip":false},{"id":"024","title":"XXIV","length":16013,"skip":false},{"id":"025","title":"XXV","length":22914,"skip":false},{"id":"026","title":"XXVI","length":14565,"skip":false},{"id":"027","title":"XXVII","length":17289,"skip":false},{"id":"028","title":"XXVIII","length":14390,"skip":false},{"id":"029","title":"XXIX","length":16340,"skip":false},{"id":"030","title":"XXX","length":16046,"skip":false},{"id":"031","title":"XXXI","length":10858,"skip":false},{"id":"032","title":"XXXII","length":11156,"skip":false},{"id":"033","title":"XXXIII","length":21396,"skip":false},{"id":"034","title":"XXXIV","length":16644,"skip":false},{"id":"035","title":"XXXV","length":20281,"skip":false},{"id":"036","title":"XXXVI","length":11550,"skip":false},{"id":"037","title":"XXXVII","length":15226,"skip":false},{"id":"038","title":"XXXVIII","length":21546,"skip":false},{"id":"039","title":"XXXIX","length":17360,"skip":false},{"id":"040","title":"XL","length":14758,"skip":false},{"id":"041","title":"XLI","length":18318,"skip":false},{"id":"042","title":"XLII","length":18015,"skip":false},{"id":"043","title":"XLIII","length":20166,"skip":false},{"id":"044","title":"XLIV","length":11151,"skip":false},{"id":"045","title":"XLV","length":19469,"skip":false},{"id":"046","title":"XLVI","length":14680,"skip":false},{"id":"047","title":"XLVII","length":19683,"skip":false},{"id":"048","title":"XLVIII","length":15856,"skip":false}],"createdAt":1719507274668}
+{
+  "id": "thomas-hardy--the-woodlanders",
+  "title": "The Woodlanders",
+  "titleAlpha": "woodlanders",
+  "author": "Thomas Hardy",
+  "language": "en",
+  "description": "A young woman struggles with the opposing forces of class and love.",
+  "longDescription": [
+    "Grace Melbury, daughter of a rich local wood-trader, has been raised beyond her family through years of expensive education. Coming home, she finds herself pulled between her love for her childhood friend Giles Winterborne, and the allure of the enigmatic Doctor Fitzpiers. Giles and Edgar have their own admirers too, and the backdrop of the bucolic pastures and woodlands of an impressionistic take on south-west England provides the perfect setting for their story.",
+    "The Woodlanders was commissioned by Macmillan's Magazine in 1884, and was serialized and later published as a novel in 1887. The story's themes of infidelity and less-than-blissful marriage were unusual for the time and drew ire from campaigners, but on its publication it garnered immediate critical acclaim. Thomas Hardy later regarded it as the favorite of his stories, and it's remained perennially popular as a novel and as a series of adaptations to theatre, opera and film."
+  ],
+  "year": 1887,
+  "genres": [
+    "classics",
+    "fiction",
+    "psychological",
+    "romance"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/thomas-hardy/the-woodlanders"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Woodlanders",
+      "length": 17,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I",
+      "length": 11141,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II",
+      "length": 12039,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III",
+      "length": 17372,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV",
+      "length": 23768,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V",
+      "length": 15808,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI",
+      "length": 20366,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII",
+      "length": 14119,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII",
+      "length": 18532,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX",
+      "length": 15674,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X",
+      "length": 11890,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI",
+      "length": 10816,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII",
+      "length": 11449,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII",
+      "length": 18233,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV",
+      "length": 10911,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV",
+      "length": 16601,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI",
+      "length": 16260,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII",
+      "length": 13846,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII",
+      "length": 13374,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX",
+      "length": 21923,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX",
+      "length": 14468,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI",
+      "length": 5791,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII",
+      "length": 12944,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII",
+      "length": 12950,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV",
+      "length": 16013,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXV",
+      "length": 22914,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXVI",
+      "length": 14565,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVII",
+      "length": 17289,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVIII",
+      "length": 14390,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXIX",
+      "length": 16340,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXX",
+      "length": 16046,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXXI",
+      "length": 10858,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXXII",
+      "length": 11156,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXIII",
+      "length": 21396,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXIV",
+      "length": 16644,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXV",
+      "length": 20281,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXVI",
+      "length": 11550,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXVII",
+      "length": 15226,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXVIII",
+      "length": 21546,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XXXIX",
+      "length": 17360,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XL",
+      "length": 14758,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XLI",
+      "length": 18318,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XLII",
+      "length": 18015,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XLIII",
+      "length": 20166,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "XLIV",
+      "length": 11151,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "XLV",
+      "length": 19469,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "XLVI",
+      "length": 14680,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "XLVII",
+      "length": 19683,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "XLVIII",
+      "length": 15856,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "Colophon",
+      "length": 1054,
+      "mode": "hide"
+    },
+    {
+      "id": "052",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL44990W",
+  "goodreadsId": "341281",
+  "rating": 0.778,
+  "popularity": 16774,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721172474584
+}

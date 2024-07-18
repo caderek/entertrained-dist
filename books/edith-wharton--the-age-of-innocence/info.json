@@ -1,1 +1,267 @@
-{"id":"edith-wharton--the-age-of-innocence","title":"The Age of Innocence","titleAlpha":"age of innocence","author":"Edith Wharton","language":"en","description":"Upper-class New York gentleman Newland Archer is set to wed May Welland in a picture-perfect union, until the bride's disgraced cousin returns from overseas and threatens to draw his love away.","longDescription":["Upper-class New York gentleman Newland Archer is set to wed May Welland in a picture-perfect union when the bride's cousin, Ellen Olenska, returns from a failed marriage overseas. As Newland endeavors to help Countess Olenska be reinstated into the family's good graces, his affections for her grow. Newland soon finds himself torn between his desire to conform to the society he knows and his new-found passion for the forbidden Countess.","The Age of Innocence was originally published in 1920 as a four-part series in Pictoral Review, then later that same year as Wharton's twelfth novel. It went on to win the 1921 Pulitzer Prize for Fiction, making Wharton the first woman to win the award."],"year":2020,"genres":["fiction","romance"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/edith-wharton/the-age-of-innocence"},"series":null,"part":0,"chapters":[{"id":"001","title":"Book I - I","length":14013,"skip":false},{"id":"002","title":"Book I - II","length":11399,"skip":false},{"id":"003","title":"Book I - III","length":12748,"skip":false},{"id":"004","title":"Book I - IV","length":9940,"skip":false},{"id":"005","title":"Book I - V","length":16487,"skip":false},{"id":"006","title":"Book I - VI","length":15084,"skip":false},{"id":"007","title":"Book I - VII","length":11325,"skip":false},{"id":"008","title":"Book I - VIII","length":13779,"skip":false},{"id":"009","title":"Book I - IX","length":22019,"skip":false},{"id":"010","title":"Book I - X","length":17242,"skip":false},{"id":"011","title":"Book I - XI","length":14390,"skip":false},{"id":"012","title":"Book I - XII","length":20455,"skip":false},{"id":"013","title":"Book I - XIII","length":12228,"skip":false},{"id":"014","title":"Book I - XIV","length":13171,"skip":false},{"id":"015","title":"Book I - XV","length":18751,"skip":false},{"id":"016","title":"Book I - XVI","length":17381,"skip":false},{"id":"017","title":"Book I - XVII","length":17617,"skip":false},{"id":"018","title":"Book I - XVIII","length":20684,"skip":false},{"id":"019","title":"Book II - XIX","length":20557,"skip":false},{"id":"020","title":"Book II - XX","length":21749,"skip":false},{"id":"021","title":"Book II - XXI","length":24845,"skip":false},{"id":"022","title":"Book II - XXII","length":15585,"skip":false},{"id":"023","title":"Book II - XXIII","length":17149,"skip":false},{"id":"024","title":"Book II - XXIV","length":9350,"skip":false},{"id":"025","title":"Book II - XXV","length":16160,"skip":false},{"id":"026","title":"Book II - XXVI","length":20214,"skip":false},{"id":"027","title":"Book II - XXVII","length":13296,"skip":false},{"id":"028","title":"Book II - XXVIII","length":12553,"skip":false},{"id":"029","title":"Book II - XXIX","length":12526,"skip":false},{"id":"030","title":"Book II - XXX","length":17306,"skip":false},{"id":"031","title":"Book II - XXXI","length":20875,"skip":false},{"id":"032","title":"Book II - XXXII","length":15986,"skip":false},{"id":"033","title":"Book II - XXXIII","length":27771,"skip":false},{"id":"034","title":"Book II - XXXIV","length":30904,"skip":false}],"createdAt":1719506849074}
+{
+  "id": "edith-wharton--the-age-of-innocence",
+  "title": "The Age of Innocence",
+  "titleAlpha": "age of innocence",
+  "author": "Edith Wharton",
+  "language": "en",
+  "description": "Upper-class New York gentleman Newland Archer is set to wed May Welland in a picture-perfect union, until the bride's disgraced cousin returns from overseas and threatens to draw his love away.",
+  "longDescription": [
+    "Upper-class New York gentleman Newland Archer is set to wed May Welland in a picture-perfect union when the bride's cousin, Ellen Olenska, returns from a failed marriage overseas. As Newland endeavors to help Countess Olenska be reinstated into the family's good graces, his affections for her grow. Newland soon finds himself torn between his desire to conform to the society he knows and his new-found passion for the forbidden Countess.",
+    "The Age of Innocence was originally published in 1920 as a four-part series in Pictoral Review, then later that same year as Wharton's twelfth novel. It went on to win the 1921 Pulitzer Prize for Fiction, making Wharton the first woman to win the award."
+  ],
+  "year": 1920,
+  "genres": [
+    "classics",
+    "fiction",
+    "romance"
+  ],
+  "topics": [
+    "nobility"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/edith-wharton/the-age-of-innocence"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Age of Innocence",
+      "length": 18,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Book I - I",
+      "length": 14013,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Book I - II",
+      "length": 11399,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Book I - III",
+      "length": 12748,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book I - IV",
+      "length": 9940,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Book I - V",
+      "length": 16487,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Book I - VI",
+      "length": 15084,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book I - VII",
+      "length": 11325,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Book I - VIII",
+      "length": 13779,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book I - IX",
+      "length": 22019,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book I - X",
+      "length": 17242,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book I - XI",
+      "length": 14390,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book I - XII",
+      "length": 20455,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book I - XIII",
+      "length": 12228,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Book I - XIV",
+      "length": 13171,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book I - XV",
+      "length": 18751,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book I - XVI",
+      "length": 17381,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Book I - XVII",
+      "length": 17617,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Book I - XVIII",
+      "length": 20684,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Book II - XIX",
+      "length": 20557,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Book II - XX",
+      "length": 21749,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Book II - XXI",
+      "length": 24845,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Book II - XXII",
+      "length": 15585,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Book II - XXIII",
+      "length": 17149,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Book II - XXIV",
+      "length": 9350,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Book II - XXV",
+      "length": 16160,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Book II - XXVI",
+      "length": 20214,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Book II - XXVII",
+      "length": 13296,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Book II - XXVIII",
+      "length": 12553,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Book II - XXIX",
+      "length": 12526,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Book II - XXX",
+      "length": 17306,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Book II - XXXI",
+      "length": 20875,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Book II - XXXII",
+      "length": 15986,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Book II - XXXIII",
+      "length": 27771,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Book II - XXXIV",
+      "length": 30904,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Colophon",
+      "length": 1026,
+      "mode": "hide"
+    },
+    {
+      "id": "038",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL98491W",
+  "goodreadsId": "53835",
+  "rating": 0.794,
+  "popularity": 177602,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720966496596
+}

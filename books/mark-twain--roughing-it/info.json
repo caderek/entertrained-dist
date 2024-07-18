@@ -1,1 +1,566 @@
-{"id":"mark-twain--roughing-it","title":"Roughing It","titleAlpha":"roughing it","author":"Mark Twain","language":"en","description":"Mark Twain's semiautobiographical account of his travel across the United States.","longDescription":["When Orion Clemens is appointed Secretary of the Nevada Territory, his brother Samuel Clemens, better known by his pen name Mark Twain, joins him on his journey west. Together with their all-important six pounds of Unabridged Dictionary they make their way to Nevada in a six-horsed mail coach and are, of course, derailed by all sorts of problems.","In Roughing It Twain combines the beautiful descriptions of the West's idyllic landscape with his now-patented sense of humor. He joins the silver and gold mining scramble, begins his career as a writer working for different newspapers and journals, visits the Mormons of Salt Lake City, and even makes his way to Hawaii, then still known as the Sandwich Islands.","Roughing It was written as a prequel to his earlier travelogue The Innocents Abroad."],"year":2020,"genres":["memoir","travel"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/mark-twain/roughing-it"},"series":null,"part":0,"chapters":[{"id":"001","title":"Prefatory","length":1326,"skip":false},{"id":"002","title":"I","length":3677,"skip":false},{"id":"003","title":"II","length":8943,"skip":false},{"id":"004","title":"III","length":12869,"skip":false},{"id":"005","title":"IV","length":18103,"skip":false},{"id":"006","title":"V","length":8172,"skip":false},{"id":"007","title":"VI","length":9562,"skip":false},{"id":"008","title":"VII","length":12930,"skip":false},{"id":"009","title":"VIII","length":7501,"skip":false},{"id":"010","title":"IX","length":8827,"skip":false},{"id":"011","title":"X","length":14077,"skip":false},{"id":"012","title":"XI","length":15280,"skip":false},{"id":"013","title":"XII","length":17849,"skip":false},{"id":"014","title":"XIII","length":7506,"skip":false},{"id":"015","title":"XIV","length":5573,"skip":false},{"id":"016","title":"XV","length":11877,"skip":false},{"id":"017","title":"XVI","length":18414,"skip":false},{"id":"018","title":"XVII","length":7849,"skip":false},{"id":"019","title":"XVIII","length":6520,"skip":false},{"id":"020","title":"XIX","length":6443,"skip":false},{"id":"021","title":"XX","length":11339,"skip":false},{"id":"022","title":"XXI","length":15931,"skip":false},{"id":"023","title":"XXII","length":8258,"skip":false},{"id":"024","title":"XXIII","length":9355,"skip":false},{"id":"025","title":"XXIV","length":10191,"skip":false},{"id":"026","title":"XXV","length":11375,"skip":false},{"id":"027","title":"XXVI","length":9409,"skip":false},{"id":"028","title":"XXVII","length":7363,"skip":false},{"id":"029","title":"XXVIII","length":8750,"skip":false},{"id":"030","title":"XXIX","length":7990,"skip":false},{"id":"031","title":"XXX","length":8797,"skip":false},{"id":"032","title":"XXXI","length":15929,"skip":false},{"id":"033","title":"XXXII","length":8488,"skip":false},{"id":"034","title":"XXXIII","length":4382,"skip":false},{"id":"035","title":"XXXIV","length":10251,"skip":false},{"id":"036","title":"XXXV","length":5629,"skip":false},{"id":"037","title":"XXXVI","length":10105,"skip":false},{"id":"038","title":"XXXVII","length":10171,"skip":false},{"id":"039","title":"XXXVIII","length":7315,"skip":false},{"id":"040","title":"XXXIX","length":10099,"skip":false},{"id":"041","title":"XL","length":11719,"skip":false},{"id":"042","title":"XLI","length":11634,"skip":false},{"id":"043","title":"XLII","length":10432,"skip":false},{"id":"044","title":"XLIII","length":10734,"skip":false},{"id":"045","title":"XLIV","length":11280,"skip":false},{"id":"046","title":"XLV","length":11473,"skip":false},{"id":"047","title":"XLVI","length":13993,"skip":false},{"id":"048","title":"XLVII","length":16409,"skip":false},{"id":"049","title":"XLVIII","length":11785,"skip":false},{"id":"050","title":"XLIX","length":10286,"skip":false},{"id":"051","title":"L","length":11115,"skip":false},{"id":"052","title":"LI","length":19285,"skip":false},{"id":"053","title":"LII","length":11426,"skip":false},{"id":"054","title":"LIII","length":10581,"skip":false},{"id":"055","title":"LIV","length":12402,"skip":false},{"id":"056","title":"LV","length":16284,"skip":false},{"id":"057","title":"LVI","length":10078,"skip":false},{"id":"058","title":"LVII","length":7260,"skip":false},{"id":"059","title":"LVIII","length":13215,"skip":false},{"id":"060","title":"LIX","length":11108,"skip":false},{"id":"061","title":"LX","length":7394,"skip":false},{"id":"062","title":"LXI","length":9005,"skip":false},{"id":"063","title":"LXII","length":18195,"skip":false},{"id":"064","title":"LXIII","length":7296,"skip":false},{"id":"065","title":"LXIV","length":11040,"skip":false},{"id":"066","title":"LXV","length":11730,"skip":false},{"id":"067","title":"LXVI","length":10638,"skip":false},{"id":"068","title":"LXVII","length":15160,"skip":false},{"id":"069","title":"LXVIII","length":16809,"skip":false},{"id":"070","title":"LXIX","length":9309,"skip":false},{"id":"071","title":"LXX","length":12766,"skip":false},{"id":"072","title":"LXXI","length":7897,"skip":false},{"id":"073","title":"LXXII","length":9701,"skip":false},{"id":"074","title":"LXXIII","length":12110,"skip":false},{"id":"075","title":"LXXIV","length":9651,"skip":false},{"id":"076","title":"LXXV","length":7185,"skip":false},{"id":"077","title":"LXXVI","length":11977,"skip":false},{"id":"078","title":"LXXVII","length":9814,"skip":false},{"id":"079","title":"LXXVIII","length":8648,"skip":false},{"id":"080","title":"LXXIX","length":9856,"skip":false},{"id":"081","title":"Appendix A - Brief Sketch of Mormon History","length":10744,"skip":false},{"id":"082","title":"Appendix B - The Mountain Meadows Massacre","length":9061,"skip":false},{"id":"083","title":"Appendix C - Concerning a Frightful Assassination That Was Never Consummated","length":34627,"skip":false},{"id":"084","title":"Endnotes","length":8010,"skip":true}],"createdAt":1719507128418}
+{
+  "id": "mark-twain--roughing-it",
+  "title": "Roughing It",
+  "titleAlpha": "roughing it",
+  "author": "Mark Twain",
+  "language": "en",
+  "description": "Mark Twain's semiautobiographical account of his travel across the United States.",
+  "longDescription": [
+    "When Orion Clemens is appointed Secretary of the Nevada Territory, his brother Samuel Clemens, better known by his pen name Mark Twain, joins him on his journey west. Together with their all-important six pounds of Unabridged Dictionary they make their way to Nevada in a six-horsed mail coach and are, of course, derailed by all sorts of problems.",
+    "In Roughing It Twain combines the beautiful descriptions of the West's idyllic landscape with his now-patented sense of humor. He joins the silver and gold mining scramble, begins his career as a writer working for different newspapers and journals, visits the Mormons of Salt Lake City, and even makes his way to Hawaii, then still known as the Sandwich Islands.",
+    "Roughing It was written as a prequel to his earlier travelogue The Innocents Abroad."
+  ],
+  "year": 1872,
+  "genres": [
+    "classics",
+    "memoir",
+    "travel"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/mark-twain/roughing-it"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Roughing It",
+      "length": 15,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Prefatory",
+      "length": 1326,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "I",
+      "length": 3677,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II",
+      "length": 8943,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III",
+      "length": 12869,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "IV",
+      "length": 18103,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "V",
+      "length": 8172,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VI",
+      "length": 9562,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VII",
+      "length": 12930,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VIII",
+      "length": 7501,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "IX",
+      "length": 8827,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "X",
+      "length": 14077,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XI",
+      "length": 15280,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XII",
+      "length": 17849,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIII",
+      "length": 7506,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIV",
+      "length": 5573,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XV",
+      "length": 11877,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVI",
+      "length": 18414,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVII",
+      "length": 7849,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVIII",
+      "length": 6520,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XIX",
+      "length": 6443,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XX",
+      "length": 11339,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXI",
+      "length": 15931,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXII",
+      "length": 8258,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIII",
+      "length": 9355,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXIV",
+      "length": 10191,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXV",
+      "length": 11375,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVI",
+      "length": 9409,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVII",
+      "length": 7363,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVIII",
+      "length": 8750,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXIX",
+      "length": 7990,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXX",
+      "length": 8797,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXXI",
+      "length": 15929,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXII",
+      "length": 8488,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXIII",
+      "length": 4382,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXIV",
+      "length": 10251,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXV",
+      "length": 5629,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXVI",
+      "length": 10105,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXVII",
+      "length": 10171,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XXXVIII",
+      "length": 7315,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XXXIX",
+      "length": 10099,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XL",
+      "length": 11719,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XLI",
+      "length": 11634,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XLII",
+      "length": 10432,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "XLIII",
+      "length": 10734,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "XLIV",
+      "length": 11280,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "XLV",
+      "length": 11473,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "XLVI",
+      "length": 13993,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "XLVII",
+      "length": 16409,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "XLVIII",
+      "length": 11785,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "XLIX",
+      "length": 10286,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "L",
+      "length": 11115,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "LI",
+      "length": 19285,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "LII",
+      "length": 11426,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "LIII",
+      "length": 10581,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "LIV",
+      "length": 12402,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "LV",
+      "length": 16284,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "LVI",
+      "length": 10078,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "LVII",
+      "length": 7260,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "LVIII",
+      "length": 13215,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "LIX",
+      "length": 11108,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "LX",
+      "length": 7394,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "LXI",
+      "length": 9005,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "LXII",
+      "length": 18195,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "LXIII",
+      "length": 7296,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "LXIV",
+      "length": 11040,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "LXV",
+      "length": 11730,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "LXVI",
+      "length": 10638,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "LXVII",
+      "length": 15160,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "LXVIII",
+      "length": 16809,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "LXIX",
+      "length": 9309,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "LXX",
+      "length": 12766,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "LXXI",
+      "length": 7897,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "LXXII",
+      "length": 9701,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "LXXIII",
+      "length": 12110,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "LXXIV",
+      "length": 9651,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "LXXV",
+      "length": 7185,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "LXXVI",
+      "length": 11977,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "LXXVII",
+      "length": 9814,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "LXXVIII",
+      "length": 8648,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "LXXIX",
+      "length": 9856,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "Appendix A - Brief Sketch of Mormon History",
+      "length": 10744,
+      "mode": "skip"
+    },
+    {
+      "id": "084",
+      "title": "Appendix B - The Mountain Meadows Massacre",
+      "length": 9061,
+      "mode": "skip"
+    },
+    {
+      "id": "085",
+      "title": "Appendix C - Concerning a Frightful Assassination That Was Never Consummated",
+      "length": 34627,
+      "mode": "skip"
+    },
+    {
+      "id": "086",
+      "title": "Endnotes",
+      "length": 8010,
+      "mode": "hide"
+    },
+    {
+      "id": "087",
+      "title": "Colophon",
+      "length": 978,
+      "mode": "hide"
+    },
+    {
+      "id": "088",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL54059W",
+  "goodreadsId": "38747",
+  "rating": 0.776,
+  "popularity": 9617,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721172241056
+}

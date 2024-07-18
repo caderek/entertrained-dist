@@ -1,1 +1,232 @@
-{"id":"p-g-wodehouse--a-damsel-in-distress","title":"A Damsel in Distress","titleAlpha":"damsel in distress","author":"P. G. Wodehouse","language":"en","description":"A composer meets a young woman and tracks her down to a country manor, where a case of mistaken identity leads to comedy.","longDescription":["An American composer, George Bevan, falls in love with a mysterious young lady who takes refuge in his taxicab one day. He tracks her down to an English country manor, where a case of mistaken identity leads to all manner of comedy and excitement.","The novel was first serialized in The Saturday Evening Post in 1919. It was later adapted into a silent film, a stage play, and a musical starring Fred Astaire."],"year":2022,"genres":["comedy","fiction"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/p-g-wodehouse/a-damsel-in-distress"},"series":null,"part":0,"chapters":[{"id":"001","title":"I","length":25261,"skip":false},{"id":"002","title":"II","length":21820,"skip":false},{"id":"003","title":"III","length":14123,"skip":false},{"id":"004","title":"IV","length":14519,"skip":false},{"id":"005","title":"V","length":10851,"skip":false},{"id":"006","title":"VI","length":28699,"skip":false},{"id":"007","title":"VII","length":17537,"skip":false},{"id":"008","title":"VIII","length":13658,"skip":false},{"id":"009","title":"IX","length":14673,"skip":false},{"id":"010","title":"X","length":11716,"skip":false},{"id":"011","title":"XI","length":13133,"skip":false},{"id":"012","title":"XII","length":8316,"skip":false},{"id":"013","title":"XIII","length":15087,"skip":false},{"id":"014","title":"XIV","length":16354,"skip":false},{"id":"015","title":"XV","length":25821,"skip":false},{"id":"016","title":"XVI","length":20850,"skip":false},{"id":"017","title":"XVII","length":9508,"skip":false},{"id":"018","title":"XVIII","length":11435,"skip":false},{"id":"019","title":"XIX","length":12503,"skip":false},{"id":"020","title":"XX","length":16194,"skip":false},{"id":"021","title":"XXI","length":24117,"skip":false},{"id":"022","title":"XXII","length":15921,"skip":false},{"id":"023","title":"XXIII","length":16610,"skip":false},{"id":"024","title":"XXIV","length":12849,"skip":false},{"id":"025","title":"XXV","length":5967,"skip":false},{"id":"026","title":"XXVI","length":20429,"skip":false},{"id":"027","title":"XXVII","length":7040,"skip":false}],"createdAt":1719507164200}
+{
+  "id": "p-g-wodehouse--a-damsel-in-distress",
+  "title": "A Damsel in Distress",
+  "titleAlpha": "damsel in distress",
+  "author": "P. G. Wodehouse",
+  "language": "en",
+  "description": "A composer meets a young woman and tracks her down to a country manor, where a case of mistaken identity leads to comedy.",
+  "longDescription": [
+    "An American composer, George Bevan, falls in love with a mysterious young lady who takes refuge in his taxicab one day. He tracks her down to an English country manor, where a case of mistaken identity leads to all manner of comedy and excitement.",
+    "The novel was first serialized in The Saturday Evening Post in 1919. It was later adapted into a silent film, a stage play, and a musical starring Fred Astaire."
+  ],
+  "year": 1919,
+  "genres": [
+    "classics",
+    "comedy",
+    "fiction",
+    "romance"
+  ],
+  "topics": [
+    "nobility"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/p-g-wodehouse/a-damsel-in-distress"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - A Damsel in Distress",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "I",
+      "length": 25261,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II",
+      "length": 21820,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III",
+      "length": 14123,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "IV",
+      "length": 14519,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "V",
+      "length": 10851,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VI",
+      "length": 28699,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VII",
+      "length": 17537,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VIII",
+      "length": 13658,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "IX",
+      "length": 14673,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "X",
+      "length": 11716,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XI",
+      "length": 13133,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XII",
+      "length": 8316,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIII",
+      "length": 15087,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIV",
+      "length": 16354,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XV",
+      "length": 25821,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVI",
+      "length": 20850,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVII",
+      "length": 9508,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVIII",
+      "length": 11435,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XIX",
+      "length": 12503,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XX",
+      "length": 16194,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXI",
+      "length": 24117,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXII",
+      "length": 15921,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIII",
+      "length": 16610,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXIV",
+      "length": 12849,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXV",
+      "length": 5967,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVI",
+      "length": 20429,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVII",
+      "length": 7040,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Colophon",
+      "length": 1009,
+      "mode": "hide"
+    },
+    {
+      "id": "032",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1337119W",
+  "goodreadsId": "392843",
+  "rating": 0.82,
+  "popularity": 6761,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721172298190
+}

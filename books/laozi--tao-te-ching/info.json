@@ -1,1 +1,587 @@
-{"id":"laozi--tao-te-ching","title":"Tao Te Ching","titleAlpha":"tao te ching","author":"Laozi","language":"en","description":"One of the fundamental texts of the Tao philosophy and religion.","longDescription":["The Tao Te Ching is a classic Chinese text written around the 6th century BC by Laozi, a Zhou-dynasty courtier. While its authorship is debated, the text remains a fundamental building block of Taoism and one of the most influential works of its time. Today it's one of the most-translated works in the world.","The work itself is a series of 81 short poetic sections, each one written in a fluid, ambiguous style, leaving them open to wide interpretation. Subjects range from advice to those in power to advice to regular people and adages for daily living. Because of its ambiguous nature the Tao Te Ching is famously difficult to translate, and many, if not all, translations are significantly influenced by the translator's state of mind. This translation is by James Legge, a famous Scottish sinologist and the first professor of Chinese at Oxford University."],"year":2014,"genres":["philosophy","spirituality"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge"},"series":null,"part":0,"chapters":[{"id":"001","title":"Preface by James Legge","length":14913,"skip":true},{"id":"002","title":"Was Taoism Older Than Laozi?","length":5276,"skip":false},{"id":"003","title":"The Texts of the Tao Te Ching and Chuang-Tzu Shu, as Regards Their Authenticity and Genuineness, and the Arrangement of Them","length":10308,"skip":false},{"id":"004","title":"What Is the Meaning of the Name Tao? And the Chief Points of the Belief in Taoism","length":41270,"skip":false},{"id":"005","title":"Accounts of Laozi and Chuang-Tzu Given by Ssu-Ma Chʽien","length":10369,"skip":false},{"id":"006","title":"Part I - I","length":661,"skip":false},{"id":"007","title":"Part I - II","length":1208,"skip":false},{"id":"008","title":"Part I - III","length":689,"skip":false},{"id":"009","title":"Part I - IV","length":514,"skip":false},{"id":"010","title":"Part I - V","length":504,"skip":false},{"id":"011","title":"Part I - VI","length":265,"skip":false},{"id":"012","title":"Part I - VII","length":493,"skip":false},{"id":"013","title":"Part I - VIII","length":703,"skip":false},{"id":"014","title":"Part I - IX","length":447,"skip":false},{"id":"015","title":"Part I - X","length":888,"skip":false},{"id":"016","title":"Part I - XI","length":471,"skip":false},{"id":"017","title":"Part I - XII","length":462,"skip":false},{"id":"018","title":"Part I - XIII","length":970,"skip":false},{"id":"019","title":"Part I - XIV","length":887,"skip":false},{"id":"020","title":"Part I - XV","length":1001,"skip":false},{"id":"021","title":"Part I - XVI","length":1118,"skip":false},{"id":"022","title":"Part I - XVII","length":564,"skip":false},{"id":"023","title":"Part I - XVIII","length":351,"skip":false},{"id":"024","title":"Part I - XIX","length":558,"skip":false},{"id":"025","title":"Part I - XX","length":1211,"skip":false},{"id":"026","title":"Part I - XXI","length":642,"skip":false},{"id":"027","title":"Part I - XXII","length":748,"skip":false},{"id":"028","title":"Part I - XXIII","length":1012,"skip":false},{"id":"029","title":"Part I - XXIV","length":520,"skip":false},{"id":"030","title":"Part I - XXV","length":857,"skip":false},{"id":"031","title":"Part I - XXVI","length":473,"skip":false},{"id":"032","title":"Part I - XXVII","length":972,"skip":false},{"id":"033","title":"Part I - XXVIII","length":941,"skip":false},{"id":"034","title":"Part I - XXIX","length":538,"skip":false},{"id":"035","title":"Part I - XXX","length":821,"skip":false},{"id":"036","title":"Part I - XXXI","length":1119,"skip":false},{"id":"037","title":"Part I - XXXII","length":752,"skip":false},{"id":"038","title":"Part I - XXXIII","length":367,"skip":false},{"id":"039","title":"Part I - XXXIV","length":700,"skip":false},{"id":"040","title":"Part I - XXXV","length":421,"skip":false},{"id":"041","title":"Part I - XXXVI","length":525,"skip":false},{"id":"042","title":"Part I - XXXVII","length":461,"skip":false},{"id":"043","title":"Part II - XXXVIII","length":1548,"skip":false},{"id":"044","title":"Part II - XXXIX","length":1330,"skip":false},{"id":"045","title":"Part II - XL","length":227,"skip":false},{"id":"046","title":"Part II - XLI","length":1074,"skip":false},{"id":"047","title":"Part II - XLII","length":705,"skip":false},{"id":"048","title":"Part II - XLIII","length":333,"skip":false},{"id":"049","title":"Part II - XLIV","length":426,"skip":false},{"id":"050","title":"Part II - XLV","length":387,"skip":false},{"id":"051","title":"Part II - XLVI","length":422,"skip":false},{"id":"052","title":"Part II - XLVII","length":393,"skip":false},{"id":"053","title":"Part II - XLVIII","length":530,"skip":false},{"id":"054","title":"Part II - XLIX","length":575,"skip":false},{"id":"055","title":"Part II - L","length":784,"skip":false},{"id":"056","title":"Part II - LI","length":855,"skip":false},{"id":"057","title":"Part II - LII","length":877,"skip":false},{"id":"058","title":"Part II - LIII","length":644,"skip":false},{"id":"059","title":"Part II - LIV","length":747,"skip":false},{"id":"060","title":"Part II - LV","length":927,"skip":false},{"id":"061","title":"Part II - LVI","length":588,"skip":false},{"id":"062","title":"Part II - LVII","length":989,"skip":false},{"id":"063","title":"Part II - LVIII","length":762,"skip":false},{"id":"064","title":"Part II - LIX","length":808,"skip":false},{"id":"065","title":"Part II - LX","length":468,"skip":false},{"id":"066","title":"Part II - LXI","length":792,"skip":false},{"id":"067","title":"Part II - LXII","length":926,"skip":false},{"id":"068","title":"Part II - LXIII","length":895,"skip":false},{"id":"069","title":"Part II - LXIV","length":1281,"skip":false},{"id":"070","title":"Part II - LXV","length":664,"skip":false},{"id":"071","title":"Part II - LXVI","length":650,"skip":false},{"id":"072","title":"Part II - LXVII","length":934,"skip":false},{"id":"073","title":"Part II - LXVIII","length":419,"skip":false},{"id":"074","title":"Part II - LXIX","length":663,"skip":false},{"id":"075","title":"Part II - LXX","length":520,"skip":false},{"id":"076","title":"Part II - LXXI","length":339,"skip":false},{"id":"077","title":"Part II - LXXII","length":526,"skip":false},{"id":"078","title":"Part II - LXXIII","length":741,"skip":false},{"id":"079","title":"Part II - LXXIV","length":529,"skip":false},{"id":"080","title":"Part II - LXXV","length":571,"skip":false},{"id":"081","title":"Part II - LXXVI","length":576,"skip":false},{"id":"082","title":"Part II - LXXVII","length":749,"skip":false},{"id":"083","title":"Part II - LXXVIII","length":593,"skip":false},{"id":"084","title":"Part II - LXXIX","length":664,"skip":false},{"id":"085","title":"Part II - LXXX","length":956,"skip":false},{"id":"086","title":"Part II - LXXXI","length":558,"skip":false},{"id":"087","title":"Endnotes","length":77644,"skip":true}],"createdAt":1719507079253}
+{
+  "id": "laozi--tao-te-ching",
+  "title": "Tao Te Ching",
+  "titleAlpha": "tao te ching",
+  "author": "Laozi",
+  "language": "en",
+  "description": "One of the fundamental texts of the Tao philosophy and religion.",
+  "longDescription": [
+    "The Tao Te Ching is a classic Chinese text written around the 6th century BC by Laozi, a Zhou-dynasty courtier. While its authorship is debated, the text remains a fundamental building block of Taoism and one of the most influential works of its time. Today it's one of the most-translated works in the world.",
+    "The work itself is a series of 81 short poetic sections, each one written in a fluid, ambiguous style, leaving them open to wide interpretation. Subjects range from advice to those in power to advice to regular people and adages for daily living. Because of its ambiguous nature the Tao Te Ching is famously difficult to translate, and many, if not all, translations are significantly influenced by the translator's state of mind. This translation is by James Legge, a famous Scottish sinologist and the first professor of Chinese at Oxford University."
+  ],
+  "year": 1842,
+  "genres": [
+    "classics",
+    "philosophy",
+    "spirituality",
+    "poetry",
+    "nonfiction"
+  ],
+  "topics": [
+    "religion"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/laozi/tao-te-ching/james-legge"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Tao Te Ching",
+      "length": 37,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Preface by James Legge",
+      "length": 14913,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Was Taoism Older Than Laozi?",
+      "length": 5276,
+      "mode": "hide"
+    },
+    {
+      "id": "005",
+      "title": "The Texts of the Tao Te Ching and Chuang-Tzu Shu, as Regards Their Authenticity and Genuineness, and the Arrangement of Them",
+      "length": 10308,
+      "mode": "hide"
+    },
+    {
+      "id": "006",
+      "title": "What Is the Meaning of the Name Tao? And the Chief Points of the Belief in Taoism",
+      "length": 41270,
+      "mode": "hide"
+    },
+    {
+      "id": "007",
+      "title": "Accounts of Laozi and Chuang-Tzu Given by Ssu-Ma Chʽien",
+      "length": 10369,
+      "mode": "hide"
+    },
+    {
+      "id": "008",
+      "title": "Part I - I",
+      "length": 661,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Part I - II",
+      "length": 1208,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Part I - III",
+      "length": 689,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Part I - IV",
+      "length": 514,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Part I - V",
+      "length": 504,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Part I - VI",
+      "length": 265,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Part I - VII",
+      "length": 493,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Part I - VIII",
+      "length": 703,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Part I - IX",
+      "length": 447,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Part I - X",
+      "length": 888,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Part I - XI",
+      "length": 471,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Part I - XII",
+      "length": 462,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Part I - XIII",
+      "length": 970,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Part I - XIV",
+      "length": 887,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Part I - XV",
+      "length": 1001,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Part I - XVI",
+      "length": 1118,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Part I - XVII",
+      "length": 564,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Part I - XVIII",
+      "length": 351,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Part I - XIX",
+      "length": 558,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Part I - XX",
+      "length": 1211,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Part I - XXI",
+      "length": 642,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Part I - XXII",
+      "length": 748,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Part I - XXIII",
+      "length": 1012,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Part I - XXIV",
+      "length": 520,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Part I - XXV",
+      "length": 857,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Part I - XXVI",
+      "length": 473,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Part I - XXVII",
+      "length": 972,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Part I - XXVIII",
+      "length": 941,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Part I - XXIX",
+      "length": 538,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Part I - XXX",
+      "length": 821,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Part I - XXXI",
+      "length": 1119,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Part I - XXXII",
+      "length": 752,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Part I - XXXIII",
+      "length": 367,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Part I - XXXIV",
+      "length": 700,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Part I - XXXV",
+      "length": 421,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Part I - XXXVI",
+      "length": 525,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Part I - XXXVII",
+      "length": 461,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Part II - XXXVIII",
+      "length": 1548,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Part II - XXXIX",
+      "length": 1330,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Part II - XL",
+      "length": 227,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Part II - XLI",
+      "length": 1074,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "Part II - XLII",
+      "length": 705,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Part II - XLIII",
+      "length": 333,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "Part II - XLIV",
+      "length": 426,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "Part II - XLV",
+      "length": 387,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "Part II - XLVI",
+      "length": 422,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "Part II - XLVII",
+      "length": 393,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "Part II - XLVIII",
+      "length": 530,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "Part II - XLIX",
+      "length": 575,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "Part II - L",
+      "length": 784,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "Part II - LI",
+      "length": 855,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "Part II - LII",
+      "length": 877,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "Part II - LIII",
+      "length": 644,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "Part II - LIV",
+      "length": 747,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "Part II - LV",
+      "length": 927,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "Part II - LVI",
+      "length": 588,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "Part II - LVII",
+      "length": 989,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "Part II - LVIII",
+      "length": 762,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "Part II - LIX",
+      "length": 808,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "Part II - LX",
+      "length": 468,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "Part II - LXI",
+      "length": 792,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "Part II - LXII",
+      "length": 926,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "Part II - LXIII",
+      "length": 895,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "Part II - LXIV",
+      "length": 1281,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "Part II - LXV",
+      "length": 664,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "Part II - LXVI",
+      "length": 650,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "Part II - LXVII",
+      "length": 934,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "Part II - LXVIII",
+      "length": 419,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "Part II - LXIX",
+      "length": 663,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "Part II - LXX",
+      "length": 520,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "Part II - LXXI",
+      "length": 339,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "Part II - LXXII",
+      "length": 526,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "Part II - LXXIII",
+      "length": 741,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "Part II - LXXIV",
+      "length": 529,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "Part II - LXXV",
+      "length": 571,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "Part II - LXXVI",
+      "length": 576,
+      "mode": "type"
+    },
+    {
+      "id": "084",
+      "title": "Part II - LXXVII",
+      "length": 749,
+      "mode": "type"
+    },
+    {
+      "id": "085",
+      "title": "Part II - LXXVIII",
+      "length": 593,
+      "mode": "type"
+    },
+    {
+      "id": "086",
+      "title": "Part II - LXXIX",
+      "length": 664,
+      "mode": "type"
+    },
+    {
+      "id": "087",
+      "title": "Part II - LXXX",
+      "length": 956,
+      "mode": "type"
+    },
+    {
+      "id": "088",
+      "title": "Part II - LXXXI",
+      "length": 558,
+      "mode": "type"
+    },
+    {
+      "id": "089",
+      "title": "Endnotes",
+      "length": 77644,
+      "mode": "hide"
+    },
+    {
+      "id": "090",
+      "title": "Colophon",
+      "length": 1149,
+      "mode": "hide"
+    },
+    {
+      "id": "091",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL45499W",
+  "goodreadsId": "495203",
+  "rating": 0.86,
+  "popularity": 160029,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720966858462
+}

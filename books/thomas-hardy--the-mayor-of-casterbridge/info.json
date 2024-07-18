@@ -1,1 +1,331 @@
-{"id":"thomas-hardy--the-mayor-of-casterbridge","title":"The Mayor of Casterbridge","titleAlpha":"mayor of casterbridge","author":"Thomas Hardy","language":"en","description":"Filled with remorse after abandoning his wife and baby daughter, Michael Henchard, an out-of-work hay-trusser, resolves to set his life on a better path.","longDescription":["Like many of Hardy's novels, The Mayor of Casterbridge is set in the fictional county of Wessex in the mid 1800s. It begins with Michael Henchard, a young hay-trusser, drunk on rum, auctioning off his wife and baby daughter at a village fair. The next day, overcome with remorse, Henchard resolves to turn his life around. When we meet Henchard eighteen years later, temperance and hard work have made him wealthy and respectable. However, he cannot escape his past. His secret guilt, his pride, and his impulsive temper all serve to sabotage his good name.","The Mayor of Casterbridge was published in 1886, first as a magazine serial and then later that year as a book. It is perhaps most noteworthy for the psychological portrait of Michael Henchard, a tragic character who remains sympathetic while simultaneously being deeply flawed. Typical of other Hardy novels, it also vividly depicts life in the rural countryside at that time."],"year":2020,"genres":["fiction","psychological"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/thomas-hardy/the-mayor-of-casterbridge"},"series":null,"part":0,"chapters":[{"id":"001","title":"I","length":25297,"skip":false},{"id":"002","title":"II","length":8595,"skip":false},{"id":"003","title":"III","length":9208,"skip":false},{"id":"004","title":"IV","length":14869,"skip":false},{"id":"005","title":"V","length":12408,"skip":false},{"id":"006","title":"VI","length":9127,"skip":false},{"id":"007","title":"VII","length":14591,"skip":false},{"id":"008","title":"VIII","length":14389,"skip":false},{"id":"009","title":"IX","length":16896,"skip":false},{"id":"010","title":"X","length":7669,"skip":false},{"id":"011","title":"XI","length":10862,"skip":false},{"id":"012","title":"XII","length":10715,"skip":false},{"id":"013","title":"XIII","length":9693,"skip":false},{"id":"014","title":"XIV","length":18209,"skip":false},{"id":"015","title":"XV","length":13566,"skip":false},{"id":"016","title":"XVI","length":13124,"skip":false},{"id":"017","title":"XVII","length":14165,"skip":false},{"id":"018","title":"XVIII","length":9441,"skip":false},{"id":"019","title":"XIX","length":15398,"skip":false},{"id":"020","title":"XX","length":19495,"skip":false},{"id":"021","title":"XXI","length":14353,"skip":false},{"id":"022","title":"XXII","length":20728,"skip":false},{"id":"023","title":"XXIII","length":15404,"skip":false},{"id":"024","title":"XXIV","length":16662,"skip":false},{"id":"025","title":"XXV","length":10463,"skip":false},{"id":"026","title":"XXVI","length":20774,"skip":false},{"id":"027","title":"XXVII","length":17444,"skip":false},{"id":"028","title":"XXVIII","length":8814,"skip":false},{"id":"029","title":"XXIX","length":16571,"skip":false},{"id":"030","title":"XXX","length":10120,"skip":false},{"id":"031","title":"XXXI","length":9314,"skip":false},{"id":"032","title":"XXXII","length":15648,"skip":false},{"id":"033","title":"XXXIII","length":15801,"skip":false},{"id":"034","title":"XXXIV","length":16528,"skip":false},{"id":"035","title":"XXXV","length":9365,"skip":false},{"id":"036","title":"XXXVI","length":19297,"skip":false},{"id":"037","title":"XXXVII","length":14067,"skip":false},{"id":"038","title":"XXXVIII","length":13992,"skip":false},{"id":"039","title":"XXXIX","length":14471,"skip":false},{"id":"040","title":"XL","length":12027,"skip":false},{"id":"041","title":"XLI","length":19571,"skip":false},{"id":"042","title":"XLII","length":15653,"skip":false},{"id":"043","title":"XLIII","length":19470,"skip":false},{"id":"044","title":"XLIV","length":21300,"skip":false},{"id":"045","title":"XLV","length":14916,"skip":false}],"createdAt":1719507273868}
+{
+  "id": "thomas-hardy--the-mayor-of-casterbridge",
+  "title": "The Mayor of Casterbridge",
+  "titleAlpha": "mayor of casterbridge",
+  "author": "Thomas Hardy",
+  "language": "en",
+  "description": "Filled with remorse after abandoning his wife and baby daughter, Michael Henchard, an out-of-work hay-trusser, resolves to set his life on a better path.",
+  "longDescription": [
+    "Like many of Hardy's novels, The Mayor of Casterbridge is set in the fictional county of Wessex in the mid 1800s. It begins with Michael Henchard, a young hay-trusser, drunk on rum, auctioning off his wife and baby daughter at a village fair. The next day, overcome with remorse, Henchard resolves to turn his life around. When we meet Henchard eighteen years later, temperance and hard work have made him wealthy and respectable. However, he cannot escape his past. His secret guilt, his pride, and his impulsive temper all serve to sabotage his good name.",
+    "The Mayor of Casterbridge was published in 1886, first as a magazine serial and then later that year as a book. It is perhaps most noteworthy for the psychological portrait of Michael Henchard, a tragic character who remains sympathetic while simultaneously being deeply flawed. Typical of other Hardy novels, it also vividly depicts life in the rural countryside at that time."
+  ],
+  "year": 1886,
+  "genres": [
+    "classics",
+    "fiction",
+    "psychological"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/thomas-hardy/the-mayor-of-casterbridge"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Mayor of Casterbridge",
+      "length": 17,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I",
+      "length": 25297,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II",
+      "length": 8595,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III",
+      "length": 9208,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV",
+      "length": 14869,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V",
+      "length": 12408,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI",
+      "length": 9127,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII",
+      "length": 14591,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII",
+      "length": 14389,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX",
+      "length": 16896,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X",
+      "length": 7669,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI",
+      "length": 10862,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII",
+      "length": 10715,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII",
+      "length": 9693,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV",
+      "length": 18209,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV",
+      "length": 13566,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI",
+      "length": 13124,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII",
+      "length": 14165,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII",
+      "length": 9441,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX",
+      "length": 15398,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX",
+      "length": 19495,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI",
+      "length": 14353,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII",
+      "length": 20728,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII",
+      "length": 15404,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV",
+      "length": 16662,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXV",
+      "length": 10463,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXVI",
+      "length": 20774,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVII",
+      "length": 17444,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVIII",
+      "length": 8814,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXIX",
+      "length": 16571,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXX",
+      "length": 10120,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXXI",
+      "length": 9314,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXXII",
+      "length": 15648,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXIII",
+      "length": 15801,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXIV",
+      "length": 16528,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXV",
+      "length": 9365,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXVI",
+      "length": 19297,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXVII",
+      "length": 14067,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXVIII",
+      "length": 13992,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XXXIX",
+      "length": 14471,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XL",
+      "length": 12027,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XLI",
+      "length": 19571,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XLII",
+      "length": 15653,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XLIII",
+      "length": 19470,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "XLIV",
+      "length": 21300,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "XLV",
+      "length": 14916,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Colophon",
+      "length": 1052,
+      "mode": "hide"
+    },
+    {
+      "id": "049",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL44997W",
+  "goodreadsId": "694681",
+  "rating": 0.772,
+  "popularity": 62919,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721172473881
+}

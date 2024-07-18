@@ -1,1 +1,179 @@
-{"id":"william-shakespeare--julius-caesar","title":"Julius Caesar","titleAlpha":"julius caesar","author":"William Shakespeare","language":"en","description":"A play portraying the assassination of Julius Caesar.","longDescription":["After defeating enemies in battle, Roman citizens celebrate in the streets as Julius Caesar and his entourage make their way through the city. As Caesar passes a soothsayer, he receives an ominous warning: \"Beware the ides of March,\" which he immediately disregards. Meanwhile, some of his closest followers are convinced their leader has become too powerful and plot his removal. Plutarch's Lives of the Noble Grecians and Romans was Shakespeare's primary source for Julius Caesar.","This Standard Ebooks edition is based on William George Clark and William Aldis Wright's 1887 Victoria edition, which is taken from the Globe edition."],"year":2020,"genres":["drama","history"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/william-shakespeare/julius-caesar"},"series":null,"part":0,"chapters":[{"id":"001","title":"Dramatis Personae","length":1284,"skip":false},{"id":"002","title":"Act I - Scene I","length":3483,"skip":false},{"id":"003","title":"Act I - Scene II","length":14360,"skip":false},{"id":"004","title":"Act I - Scene III","length":7404,"skip":false},{"id":"005","title":"Act II - Scene I","length":15016,"skip":false},{"id":"006","title":"Act II - Scene II","length":6057,"skip":false},{"id":"007","title":"Act II - Scene III","length":738,"skip":false},{"id":"008","title":"Act II - Scene IV","length":2253,"skip":false},{"id":"009","title":"Act III - Scene I","length":13828,"skip":false},{"id":"010","title":"Act III - Scene II","length":12678,"skip":false},{"id":"011","title":"Act III - Scene III","length":1697,"skip":false},{"id":"012","title":"Act IV - Scene I","length":2334,"skip":false},{"id":"013","title":"Act IV - Scene II","length":2392,"skip":false},{"id":"014","title":"Act IV - Scene III","length":14384,"skip":false},{"id":"015","title":"Act V - Scene I","length":5924,"skip":false},{"id":"016","title":"Act V - Scene II","length":346,"skip":false},{"id":"017","title":"Act V - Scene III","length":5298,"skip":false},{"id":"018","title":"Act V - Scene IV","length":1585,"skip":false},{"id":"019","title":"Act V - Scene V","length":3998,"skip":false}],"createdAt":1719507341334}
+{
+  "id": "william-shakespeare--julius-caesar",
+  "title": "Julius Caesar",
+  "titleAlpha": "julius caesar",
+  "author": "William Shakespeare",
+  "language": "en",
+  "description": "A play portraying the assassination of Julius Caesar.",
+  "longDescription": [
+    "After defeating enemies in battle, Roman citizens celebrate in the streets as Julius Caesar and his entourage make their way through the city. As Caesar passes a soothsayer, he receives an ominous warning: \"Beware the ides of March,\" which he immediately disregards. Meanwhile, some of his closest followers are convinced their leader has become too powerful and plot his removal. Plutarch's Lives of the Noble Grecians and Romans was Shakespeare's primary source for Julius Caesar.",
+    "This Standard Ebooks edition is based on William George Clark and William Aldis Wright's 1887 Victoria edition, which is taken from the Globe edition."
+  ],
+  "year": 1599,
+  "genres": [
+    "classics",
+    "drama",
+    "history"
+  ],
+  "topics": [
+    "conspiracy",
+    "murder",
+    "war"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/william-shakespeare/julius-caesar"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Julius Caesar",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1218,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dramatis Personae",
+      "length": 1284,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Act I - Scene I",
+      "length": 3483,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Act I - Scene II",
+      "length": 14360,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Act I - Scene III",
+      "length": 7404,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Act II - Scene I",
+      "length": 15016,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Act II - Scene II",
+      "length": 6057,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Act II - Scene III",
+      "length": 738,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Act II - Scene IV",
+      "length": 2253,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Act III - Scene I",
+      "length": 13828,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Act III - Scene II",
+      "length": 12678,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Act III - Scene III",
+      "length": 1697,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Act IV - Scene I",
+      "length": 2334,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Act IV - Scene II",
+      "length": 2392,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Act IV - Scene III",
+      "length": 14384,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Act V - Scene I",
+      "length": 5924,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Act V - Scene II",
+      "length": 346,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Act V - Scene III",
+      "length": 5298,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Act V - Scene IV",
+      "length": 1585,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Act V - Scene V",
+      "length": 3998,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Colophon",
+      "length": 1042,
+      "mode": "hide"
+    },
+    {
+      "id": "023",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL362702W",
+  "goodreadsId": "13006",
+  "rating": 0.74,
+  "popularity": 206439,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721172580487
+}

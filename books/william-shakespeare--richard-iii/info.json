@@ -1,1 +1,218 @@
-{"id":"william-shakespeare--richard-iii","title":"Richard III","titleAlpha":"richard iii","author":"William Shakespeare","language":"en","description":"King Edward IV's brother, Richard of Gloucester, ascends to the English throne through deadly machinations.","longDescription":["After the bloody battle at Tewksbury and the second dethroning of Henry VI, England and its citizens are finally able to enjoy peace under the reign of Edward IV. The remaining Lancastrian leaders are either killed or scattered to the four winds. Within the kingdom, not everyone is happy with their new king - and when Edward falls ill, his power-hungry brother Richard, the Duke of Gloucester, sees his chance and prepares to kill anyone who stands between him and the throne.","Richard puts into play numerous schemes to eradicate the line of succession and control the court. The first victim is King Edward's other brother, Clarence. Rumors lead to Clarence's imprisonment in the Tower of London, and Richard sends two murderers to stab him to death. This causes Edward's health to worsen, and the title of Protector falls to the remaining brother. Next on Richard's hit list is Lord Hastings, the loudest voice to object to Richard's accession, and who is promptly arrested and executed for treason. As Richard orchestrates murder after murder, the deaths start coming back to haunt him.","This Standard Ebooks edition is based on William George Clark and William Aldis Wright's 1887 Victoria edition, which is taken from the Globe edition."],"year":2021,"genres":["drama","history"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/william-shakespeare/richard-iii"},"series":null,"part":0,"chapters":[{"id":"001","title":"Dramatis Personae","length":1382,"skip":false},{"id":"002","title":"Act I - Scene I","length":7401,"skip":false},{"id":"003","title":"Act I - Scene II","length":12391,"skip":false},{"id":"004","title":"Act I - Scene III","length":17041,"skip":false},{"id":"005","title":"Act I - Scene IV","length":13095,"skip":false},{"id":"006","title":"Act II - Scene I","length":6538,"skip":false},{"id":"007","title":"Act II - Scene II","length":7241,"skip":false},{"id":"008","title":"Act II - Scene III","length":2507,"skip":false},{"id":"009","title":"Act II - Scene IV","length":3638,"skip":false},{"id":"010","title":"Act III - Scene I","length":9669,"skip":false},{"id":"011","title":"Act III - Scene II","length":5938,"skip":false},{"id":"012","title":"Act III - Scene III","length":1289,"skip":false},{"id":"013","title":"Act III - Scene IV","length":5361,"skip":false},{"id":"014","title":"Act III - Scene V","length":5092,"skip":false},{"id":"015","title":"Act III - Scene VI","length":703,"skip":false},{"id":"016","title":"Act III - Scene VII","length":11155,"skip":false},{"id":"017","title":"Act IV - Scene I","length":5164,"skip":false},{"id":"018","title":"Act IV - Scene II","length":6055,"skip":false},{"id":"019","title":"Act IV - Scene III","length":2671,"skip":false},{"id":"020","title":"Act IV - Scene IV","length":26375,"skip":false},{"id":"021","title":"Act IV - Scene V","length":933,"skip":false},{"id":"022","title":"Act V - Scene I","length":1401,"skip":false},{"id":"023","title":"Act V - Scene II","length":1228,"skip":false},{"id":"024","title":"Act V - Scene III","length":17309,"skip":false},{"id":"025","title":"Act V - Scene IV","length":740,"skip":false},{"id":"026","title":"Act V - Scene V","length":2052,"skip":false}],"createdAt":1719507346753}
+{
+  "id": "william-shakespeare--richard-iii",
+  "title": "Richard III",
+  "titleAlpha": "richard iii",
+  "author": "William Shakespeare",
+  "language": "en",
+  "description": "King Edward IV's brother, Richard of Gloucester, ascends to the English throne through deadly machinations.",
+  "longDescription": [
+    "After the bloody battle at Tewksbury and the second dethroning of Henry VI, England and its citizens are finally able to enjoy peace under the reign of Edward IV. The remaining Lancastrian leaders are either killed or scattered to the four winds. Within the kingdom, not everyone is happy with their new king - and when Edward falls ill, his power-hungry brother Richard, the Duke of Gloucester, sees his chance and prepares to kill anyone who stands between him and the throne.",
+    "Richard puts into play numerous schemes to eradicate the line of succession and control the court. The first victim is King Edward's other brother, Clarence. Rumors lead to Clarence's imprisonment in the Tower of London, and Richard sends two murderers to stab him to death. This causes Edward's health to worsen, and the title of Protector falls to the remaining brother. Next on Richard's hit list is Lord Hastings, the loudest voice to object to Richard's accession, and who is promptly arrested and executed for treason. As Richard orchestrates murder after murder, the deaths start coming back to haunt him.",
+    "This Standard Ebooks edition is based on William George Clark and William Aldis Wright's 1887 Victoria edition, which is taken from the Globe edition."
+  ],
+  "year": 1593,
+  "genres": [
+    "classics",
+    "drama",
+    "history"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Wars of the Roses",
+  "part": 8,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/william-shakespeare/richard-iii"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Richard III",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1218,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dramatis Personae",
+      "length": 1382,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Act I - Scene I",
+      "length": 7401,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Act I - Scene II",
+      "length": 12391,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Act I - Scene III",
+      "length": 17041,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Act I - Scene IV",
+      "length": 13095,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Act II - Scene I",
+      "length": 6538,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Act II - Scene II",
+      "length": 7241,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Act II - Scene III",
+      "length": 2507,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Act II - Scene IV",
+      "length": 3638,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Act III - Scene I",
+      "length": 9669,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Act III - Scene II",
+      "length": 5938,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Act III - Scene III",
+      "length": 1289,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Act III - Scene IV",
+      "length": 5361,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Act III - Scene V",
+      "length": 5092,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Act III - Scene VI",
+      "length": 703,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Act III - Scene VII",
+      "length": 11155,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Act IV - Scene I",
+      "length": 5164,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Act IV - Scene II",
+      "length": 6055,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Act IV - Scene III",
+      "length": 2671,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Act IV - Scene IV",
+      "length": 26375,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Act IV - Scene V",
+      "length": 933,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Act V - Scene I",
+      "length": 1401,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Act V - Scene II",
+      "length": 1228,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Act V - Scene III",
+      "length": 17309,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Act V - Scene IV",
+      "length": 740,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Act V - Scene V",
+      "length": 2052,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Colophon",
+      "length": 1069,
+      "mode": "hide"
+    },
+    {
+      "id": "030",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL362684W",
+  "goodreadsId": "42058",
+  "rating": 0.782,
+  "popularity": 54487,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721172584013
+}

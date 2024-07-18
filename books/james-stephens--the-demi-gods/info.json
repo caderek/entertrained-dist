@@ -1,1 +1,279 @@
-{"id":"james-stephens--the-demi-gods","title":"The Demi-Gods","titleAlpha":"demi-gods","author":"James Stephens","language":"en","description":"Three demi-gods descend among humanity in the form of angels, stumbling upon a father, his daughter, and their donkey traveling around rural Ireland.","longDescription":["Patsy Mac Cann spends his days wandering rural Ireland with his daughter Mary Mac Cann and their donkey. They set up camp for the night and are surprised by the appearance of three demi-gods. The demi-gods, strangers to humanity and in need of guidance, decide to follow the Mac Canns. The group begins their adventure on the winding Irish roads, encountering locals - each with their own story to tell.","In The Demi-Gods James Stephen takes us on a journey of storytelling, weaving in otherworldly and everyday stories about love, harmony, and materialism. Several of his stories draw inspiration from Irish folklore and mythology.","The novel was published in 1914, following the 1912 release of Stephen's most commercially-successful work, The Crock of Gold."],"year":2023,"genres":["fantasy","fiction","philosophy"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/james-stephens/the-demi-gods"},"series":null,"part":0,"chapters":[{"id":"001","title":"Book I: Patsy Mac Cann - I","length":6937,"skip":false},{"id":"002","title":"Book I: Patsy Mac Cann - II","length":3782,"skip":false},{"id":"003","title":"Book I: Patsy Mac Cann - III","length":5244,"skip":false},{"id":"004","title":"Book I: Patsy Mac Cann - IV","length":4407,"skip":false},{"id":"005","title":"Book I: Patsy Mac Cann - V","length":3936,"skip":false},{"id":"006","title":"Book I: Patsy Mac Cann - VI","length":6773,"skip":false},{"id":"007","title":"Book I: Patsy Mac Cann - VII","length":4927,"skip":false},{"id":"008","title":"Book I: Patsy Mac Cann - VIII","length":5647,"skip":false},{"id":"009","title":"Book I: Patsy Mac Cann - IX","length":6038,"skip":false},{"id":"010","title":"Book I: Patsy Mac Cann - X","length":6448,"skip":false},{"id":"011","title":"Book I: Patsy Mac Cann - XI","length":9063,"skip":false},{"id":"012","title":"Book I: Patsy Mac Cann - XII","length":5127,"skip":false},{"id":"013","title":"Book II: Eileen Ni Cooley - XIII","length":7717,"skip":false},{"id":"014","title":"Book II: Eileen Ni Cooley - XIV","length":3982,"skip":false},{"id":"015","title":"Book II: Eileen Ni Cooley - XV","length":6774,"skip":false},{"id":"016","title":"Book II: Eileen Ni Cooley - XVI","length":10012,"skip":false},{"id":"017","title":"Book II: Eileen Ni Cooley - XVII","length":1885,"skip":false},{"id":"018","title":"Book II: Eileen Ni Cooley - XVIII","length":3259,"skip":false},{"id":"019","title":"Book II: Eileen Ni Cooley - XIX","length":8460,"skip":false},{"id":"020","title":"Book III: Brien O'Brien - XX","length":9141,"skip":false},{"id":"021","title":"Book III: Brien O'Brien - XXI","length":9990,"skip":false},{"id":"022","title":"Book III: Brien O'Brien - XXII","length":3816,"skip":false},{"id":"023","title":"Book III: Brien O'Brien - XXIII","length":4283,"skip":false},{"id":"024","title":"Book III: Brien O'Brien - XXIV","length":8901,"skip":false},{"id":"025","title":"Book III: Brien O'Brien - XXV","length":16670,"skip":false},{"id":"026","title":"Book III: Brien O'Brien - XXVI","length":4042,"skip":false},{"id":"027","title":"Book III: Brien O'Brien - XXVII","length":10076,"skip":false},{"id":"028","title":"Book IV: Mary Mac Cann - XXVIII","length":8190,"skip":false},{"id":"029","title":"Book IV: Mary Mac Cann - XXIX","length":8224,"skip":false},{"id":"030","title":"Book IV: Mary Mac Cann - XXX","length":5140,"skip":false},{"id":"031","title":"Book IV: Mary Mac Cann - XXXI","length":9560,"skip":false},{"id":"032","title":"Book IV: Mary Mac Cann - XXXII","length":3224,"skip":false},{"id":"033","title":"Book IV: Mary Mac Cann - XXXIII","length":17417,"skip":false},{"id":"034","title":"Book IV: Mary Mac Cann - XXXIV","length":12344,"skip":false},{"id":"035","title":"Book IV: Mary Mac Cann - XXXV","length":8427,"skip":false}],"createdAt":1719507026939}
+{
+  "id": "james-stephens--the-demi-gods",
+  "title": "The Demi-Gods",
+  "titleAlpha": "demi-gods",
+  "author": "James Stephens",
+  "language": "en",
+  "description": "Three demi-gods descend among humanity in the form of angels, stumbling upon a father, his daughter, and their donkey traveling around rural Ireland.",
+  "longDescription": [
+    "Patsy Mac Cann spends his days wandering rural Ireland with his daughter Mary Mac Cann and their donkey. They set up camp for the night and are surprised by the appearance of three demi-gods. The demi-gods, strangers to humanity and in need of guidance, decide to follow the Mac Canns. The group begins their adventure on the winding Irish roads, encountering locals - each with their own story to tell.",
+    "In The Demi-Gods James Stephen takes us on a journey of storytelling, weaving in otherworldly and everyday stories about love, harmony, and materialism. Several of his stories draw inspiration from Irish folklore and mythology.",
+    "The novel was published in 1914, following the 1912 release of Stephen's most commercially-successful work, The Crock of Gold."
+  ],
+  "year": 1914,
+  "genres": [
+    "classics",
+    "fantasy",
+    "fiction",
+    "philosophy"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/james-stephens/the-demi-gods"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Demi-Gods",
+      "length": 19,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 17,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Book I: Patsy Mac Cann - I",
+      "length": 6937,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Book I: Patsy Mac Cann - II",
+      "length": 3782,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book I: Patsy Mac Cann - III",
+      "length": 5244,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Book I: Patsy Mac Cann - IV",
+      "length": 4407,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Book I: Patsy Mac Cann - V",
+      "length": 3936,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book I: Patsy Mac Cann - VI",
+      "length": 6773,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Book I: Patsy Mac Cann - VII",
+      "length": 4927,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book I: Patsy Mac Cann - VIII",
+      "length": 5647,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book I: Patsy Mac Cann - IX",
+      "length": 6038,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book I: Patsy Mac Cann - X",
+      "length": 6448,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book I: Patsy Mac Cann - XI",
+      "length": 9063,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book I: Patsy Mac Cann - XII",
+      "length": 5127,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Book II: Eileen Ni Cooley - XIII",
+      "length": 7717,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book II: Eileen Ni Cooley - XIV",
+      "length": 3982,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book II: Eileen Ni Cooley - XV",
+      "length": 6774,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Book II: Eileen Ni Cooley - XVI",
+      "length": 10012,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Book II: Eileen Ni Cooley - XVII",
+      "length": 1885,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Book II: Eileen Ni Cooley - XVIII",
+      "length": 3259,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Book II: Eileen Ni Cooley - XIX",
+      "length": 8460,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Book III: Brien O'Brien - XX",
+      "length": 9141,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Book III: Brien O'Brien - XXI",
+      "length": 9990,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Book III: Brien O'Brien - XXII",
+      "length": 3816,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Book III: Brien O'Brien - XXIII",
+      "length": 4283,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Book III: Brien O'Brien - XXIV",
+      "length": 8901,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Book III: Brien O'Brien - XXV",
+      "length": 16670,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Book III: Brien O'Brien - XXVI",
+      "length": 4042,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Book III: Brien O'Brien - XXVII",
+      "length": 10076,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Book IV: Mary Mac Cann - XXVIII",
+      "length": 8190,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Book IV: Mary Mac Cann - XXIX",
+      "length": 8224,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Book IV: Mary Mac Cann - XXX",
+      "length": 5140,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Book IV: Mary Mac Cann - XXXI",
+      "length": 9560,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Book IV: Mary Mac Cann - XXXII",
+      "length": 3224,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Book IV: Mary Mac Cann - XXXIII",
+      "length": 17417,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Book IV: Mary Mac Cann - XXXIV",
+      "length": 12344,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Book IV: Mary Mac Cann - XXXV",
+      "length": 8427,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Colophon",
+      "length": 1059,
+      "mode": "hide"
+    },
+    {
+      "id": "040",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL38078294W",
+  "goodreadsId": "2452313",
+  "rating": 0.8,
+  "popularity": 70,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721172079937
+}

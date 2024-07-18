@@ -1,1 +1,493 @@
-{"id":"edgar-allan-poe--short-fiction","title":"Short Fiction","titleAlpha":"short fiction","author":"Edgar Allan Poe","language":"en","description":"A collection of Edgar Allan Poe's short fiction, ordered by date of publication.","longDescription":["Edgar Allan Poe is one of the primary figures of American nineteenth-century literature. His writing was heavily influenced by Romanticism ideals of emotion and feeling, and although mostly known for his Gothic-tinged horror, his tales jump between many different genres, including science-fiction, satire, humor, mystery, and even early detective fiction.","Poe mostly wrote short stories and poems, published in magazines and periodicals like the Southern Literary Messenger and Graham's Magazine, although he also turned his hand to essays and novels (including The Narrative of Arthur Gordon Pym of Nantucket). He was one of the first American writers to pursue writing as a career, but was better received in France than in his native country. He struggled to make ends meet and resorted to work as a literary critic. His reputation suffered a further blow after his unfortunately early death in 1849 at the age of 40, when a rival not only wrote an extremely unflattering obituary, but bought the rights to his work and published a compilation with a hit piece for an introduction. This undeserved reputation took many decades to fade, but didn't hinder praise from other notable authors including Arthur Conan Doyle and H. P. Lovecraft.","Collected here are all of Poe's short fiction stories, in order of their original magazine publication. Notable stories include \"The Gold-Bug,\" \"The Black Cat,\" \"The Fall of the House of Usher,\" \"The Masque of the Red Death,\" \"The Pit and the Pendulum,\" \"The Murders in the Rue Morgue,\" and many more."],"year":2020,"genres":["adventure","comedy","fantasy","fiction","horror","mystery","satire","science-fiction","shorts"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction"},"series":null,"part":0,"chapters":[{"id":"001","title":"Edgar Allan Poe - An Appreciation","length":13240,"skip":false},{"id":"002","title":"The Life of Edgar Allan Poe","length":17385,"skip":false},{"id":"003","title":"The Death of Edgar Allan Poe","length":17992,"skip":false},{"id":"004","title":"Metzengerstein","length":19261,"skip":false},{"id":"005","title":"The Duc de l'Omelette","length":7399,"skip":false},{"id":"006","title":"A Tale of Jerusalem","length":8222,"skip":false},{"id":"007","title":"Loss of Breath","length":27180,"skip":false},{"id":"008","title":"Bon-Bon","length":34185,"skip":false},{"id":"009","title":"MS. Found in a Bottle","length":23198,"skip":false},{"id":"010","title":"The Assignation","length":25650,"skip":false},{"id":"011","title":"Berenice","length":18506,"skip":false},{"id":"012","title":"Morella","length":11846,"skip":false},{"id":"013","title":"Lionizing","length":9535,"skip":false},{"id":"014","title":"The Unparalleled Adventure of One Hans Pfaall","length":106655,"skip":false},{"id":"015","title":"King Pest - A Tale Containing an Allegory","length":27597,"skip":false},{"id":"016","title":"Shadow - A Parable","length":5584,"skip":false},{"id":"017","title":"Four Beasts in One - The Homo-Cameleopard","length":15699,"skip":false},{"id":"018","title":"Mystification","length":18665,"skip":false},{"id":"019","title":"Silence - A Fable","length":7338,"skip":false},{"id":"020","title":"Ligeia","length":35015,"skip":false},{"id":"021","title":"How to Write a Blackwood Article","length":22017,"skip":false},{"id":"022","title":"A Predicament","length":20082,"skip":false},{"id":"023","title":"The Devil in the Belfry","length":18305,"skip":false},{"id":"024","title":"The Man That Was Used Up - A Tale of the Late Bugaboo and Kickapoo Campaign","length":21210,"skip":false},{"id":"025","title":"The Fall of the House of Usher","length":41412,"skip":false},{"id":"026","title":"William Wilson","length":46168,"skip":false},{"id":"027","title":"The Conversation of Eiros and Charmion","length":11878,"skip":false},{"id":"028","title":"Why the Little Frenchman Wears His Hand in a Sling","length":12797,"skip":false},{"id":"029","title":"The Business Man","length":19801,"skip":false},{"id":"030","title":"The Man of the Crowd","length":20364,"skip":false},{"id":"031","title":"The Murders in the Rue Morgue","length":78770,"skip":false},{"id":"032","title":"A Descent Into the Maelstrom","length":38106,"skip":false},{"id":"033","title":"The Island of the Fay","length":11161,"skip":false},{"id":"034","title":"The Colloquy of Monos and Una","length":19319,"skip":false},{"id":"035","title":"Never Bet the Devil Your Head - A Tale with a Moral","length":21644,"skip":false},{"id":"036","title":"Eleonora","length":13391,"skip":false},{"id":"037","title":"Three Sundays in a Week","length":13639,"skip":false},{"id":"038","title":"The Oval Portrait","length":7141,"skip":false},{"id":"039","title":"The Masque of the Red Death","length":13707,"skip":false},{"id":"040","title":"The Landscape Garden","length":20464,"skip":false},{"id":"041","title":"The Mystery of Marie Roget - A Sequel to \"The Murders in the Rue Morgue\"","length":112052,"skip":false},{"id":"042","title":"The Pit and the Pendulum","length":33969,"skip":false},{"id":"043","title":"The Telltale Heart","length":11271,"skip":false},{"id":"044","title":"The Gold-Bug","length":75628,"skip":false},{"id":"045","title":"The Black Cat","length":21730,"skip":false},{"id":"046","title":"Diddling - Considered as One of the Exact Sciences","length":22411,"skip":false},{"id":"047","title":"The Spectacles","length":54199,"skip":false},{"id":"048","title":"A Tale of the Ragged Mountains","length":23272,"skip":false},{"id":"049","title":"The Premature Burial","length":31866,"skip":false},{"id":"050","title":"Mesmeric Revelation","length":21952,"skip":false},{"id":"051","title":"The Oblong Box","length":25574,"skip":false},{"id":"052","title":"The Angel of the Odd - An Extravaganza","length":20640,"skip":false},{"id":"053","title":"Thou Art the Man","length":33565,"skip":false},{"id":"054","title":"The Literary Life of Thingum Bob, Esq. - Late Editor of the Goosetherumfoodle - By Himself","length":43638,"skip":false},{"id":"055","title":"The Purloined Letter","length":40429,"skip":false},{"id":"056","title":"The Thousand-and-Second Tale of Scheherazade","length":31613,"skip":false},{"id":"057","title":"Some Words with a Mummy","length":36192,"skip":false},{"id":"058","title":"The Power of Words","length":8088,"skip":false},{"id":"059","title":"The Imp of the Perverse","length":13881,"skip":false},{"id":"060","title":"The System of Doctor Tarr and Professor Fether","length":38981,"skip":false},{"id":"061","title":"The Facts in the Case of M. Valdemar","length":20494,"skip":false},{"id":"062","title":"The Sphinx","length":10326,"skip":false},{"id":"063","title":"The Cask of Amontillado","length":12813,"skip":false},{"id":"064","title":"The Domain of Arnheim","length":34778,"skip":false},{"id":"065","title":"Mellonta Tauta","length":31556,"skip":false},{"id":"066","title":"Hop-Frog","length":20623,"skip":false},{"id":"067","title":"Von Kempelen and His Discovery","length":15871,"skip":false},{"id":"068","title":"X-ing a Paragrab","length":13896,"skip":false},{"id":"069","title":"Landor's Cottage - A Pendant to \"The Domain of Arnheim\"","length":27747,"skip":false},{"id":"070","title":"Endnotes","length":35494,"skip":true}],"createdAt":1719506822454}
+{
+  "id": "edgar-allan-poe--short-fiction",
+  "title": "Short Fiction",
+  "titleAlpha": "short fiction",
+  "author": "Edgar Allan Poe",
+  "language": "en",
+  "description": "A collection of Edgar Allan Poe's short fiction, ordered by date of publication.",
+  "longDescription": [
+    "Edgar Allan Poe is one of the primary figures of American nineteenth-century literature. His writing was heavily influenced by Romanticism ideals of emotion and feeling, and although mostly known for his Gothic-tinged horror, his tales jump between many different genres, including science-fiction, satire, humor, mystery, and even early detective fiction.",
+    "Poe mostly wrote short stories and poems, published in magazines and periodicals like the Southern Literary Messenger and Graham's Magazine, although he also turned his hand to essays and novels (including The Narrative of Arthur Gordon Pym of Nantucket). He was one of the first American writers to pursue writing as a career, but was better received in France than in his native country. He struggled to make ends meet and resorted to work as a literary critic. His reputation suffered a further blow after his unfortunately early death in 1849 at the age of 40, when a rival not only wrote an extremely unflattering obituary, but bought the rights to his work and published a compilation with a hit piece for an introduction. This undeserved reputation took many decades to fade, but didn't hinder praise from other notable authors including Arthur Conan Doyle and H. P. Lovecraft.",
+    "Collected here are all of Poe's short fiction stories, in order of their original magazine publication. Notable stories include \"The Gold-Bug,\" \"The Black Cat,\" \"The Fall of the House of Usher,\" \"The Masque of the Red Death,\" \"The Pit and the Pendulum,\" \"The Murders in the Rue Morgue,\" and many more."
+  ],
+  "year": 1849,
+  "genres": [
+    "adventure",
+    "classics",
+    "comedy",
+    "fantasy",
+    "fiction",
+    "horror",
+    "mystery",
+    "satire",
+    "science-fiction",
+    "shorts",
+    "gothic",
+    "thriller"
+  ],
+  "topics": [
+    "murder"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Short Fiction",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Edgar Allan Poe - An Appreciation",
+      "length": 13240,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "The Life of Edgar Allan Poe",
+      "length": 17385,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "The Death of Edgar Allan Poe",
+      "length": 17992,
+      "mode": "skip"
+    },
+    {
+      "id": "006",
+      "title": "Metzengerstein",
+      "length": 19261,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "The Duc de l'Omelette",
+      "length": 7399,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "A Tale of Jerusalem",
+      "length": 8222,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Loss of Breath",
+      "length": 27180,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Bon-Bon",
+      "length": 34185,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "MS. Found in a Bottle",
+      "length": 23198,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "The Assignation",
+      "length": 25650,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Berenice",
+      "length": 18506,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Morella",
+      "length": 11846,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Lionizing",
+      "length": 9535,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "The Unparalleled Adventure of One Hans Pfaall",
+      "length": 106655,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "King Pest - A Tale Containing an Allegory",
+      "length": 27597,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Shadow - A Parable",
+      "length": 5584,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Four Beasts in One - The Homo-Cameleopard",
+      "length": 15699,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Mystification",
+      "length": 18665,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Silence - A Fable",
+      "length": 7338,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Ligeia",
+      "length": 35015,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "How to Write a Blackwood Article",
+      "length": 22017,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "A Predicament",
+      "length": 20082,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "The Devil in the Belfry",
+      "length": 18305,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "The Man That Was Used Up - A Tale of the Late Bugaboo and Kickapoo Campaign",
+      "length": 21210,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "The Fall of the House of Usher",
+      "length": 41412,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "William Wilson",
+      "length": 46168,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "The Conversation of Eiros and Charmion",
+      "length": 11878,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Why the Little Frenchman Wears His Hand in a Sling",
+      "length": 12797,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "The Business Man",
+      "length": 19801,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "The Man of the Crowd",
+      "length": 20364,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "The Murders in the Rue Morgue",
+      "length": 78770,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "A Descent Into the Maelstrom",
+      "length": 38106,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "The Island of the Fay",
+      "length": 11161,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "The Colloquy of Monos and Una",
+      "length": 19319,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Never Bet the Devil Your Head - A Tale with a Moral",
+      "length": 21644,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Eleonora",
+      "length": 13391,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Three Sundays in a Week",
+      "length": 13639,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "The Oval Portrait",
+      "length": 7141,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "The Masque of the Red Death",
+      "length": 13707,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "The Landscape Garden",
+      "length": 20464,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "The Mystery of Marie Roget - A Sequel to \"The Murders in the Rue Morgue\"",
+      "length": 112052,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "The Pit and the Pendulum",
+      "length": 33969,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "The Telltale Heart",
+      "length": 11271,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "The Gold-Bug",
+      "length": 75628,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "The Black Cat",
+      "length": 21730,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Diddling - Considered as One of the Exact Sciences",
+      "length": 22411,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "The Spectacles",
+      "length": 54199,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "A Tale of the Ragged Mountains",
+      "length": 23272,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "The Premature Burial",
+      "length": 31866,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "Mesmeric Revelation",
+      "length": 21952,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "The Oblong Box",
+      "length": 25574,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "The Angel of the Odd - An Extravaganza",
+      "length": 20640,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "Thou Art the Man",
+      "length": 33565,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "The Literary Life of Thingum Bob, Esq. - Late Editor of the Goosetherumfoodle - By Himself",
+      "length": 43638,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "The Purloined Letter",
+      "length": 40429,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "The Thousand-and-Second Tale of Scheherazade",
+      "length": 31613,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "Some Words with a Mummy",
+      "length": 36192,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "The Power of Words",
+      "length": 8088,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "The Imp of the Perverse",
+      "length": 13881,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "The System of Doctor Tarr and Professor Fether",
+      "length": 38981,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "The Facts in the Case of M. Valdemar",
+      "length": 20494,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "The Sphinx",
+      "length": 10326,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "The Cask of Amontillado",
+      "length": 12813,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "The Domain of Arnheim",
+      "length": 34778,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "Mellonta Tauta",
+      "length": 31556,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "Hop-Frog",
+      "length": 20623,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "Von Kempelen and His Discovery",
+      "length": 15871,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "X-ing a Paragrab",
+      "length": 13896,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "Landor's Cottage - A Pendant to \"The Domain of Arnheim\"",
+      "length": 27747,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "Endnotes",
+      "length": 35494,
+      "mode": "hide"
+    },
+    {
+      "id": "073",
+      "title": "Colophon",
+      "length": 1019,
+      "mode": "hide"
+    },
+    {
+      "id": "074",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL40992W",
+  "goodreadsId": "23919",
+  "rating": 0.8779999999999999,
+  "popularity": 251603,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720831247884
+}

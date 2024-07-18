@@ -1,1 +1,135 @@
-{"id":"william-shakespeare--the-comedy-of-errors","title":"The Comedy of Errors","titleAlpha":"comedy of errors","author":"William Shakespeare","language":"en","description":"Two sets of identical twins are mistaken for their lost siblings.","longDescription":["The Comedy of Errors is one of Shakespeare's earliest and shortest plays. This comedy utilizes slapstick humor, word play, and mistaken identities to create a series of farcical accidents. Over time, the play's title has become an idiom used to describe \"an event or series of events made ridiculous by the number of errors that were made throughout.\"","In Ephesus, the law forbids entry to any merchants from Syracuse, and if they are discovered within the city, they must pay a thousand marks or be put to death. Aegeon, an old Syracusian merchant, is arrested and Solinus, the Duke of Ephesus, listens to his story of coming to the city. Long ago, Aegeon was on a sea voyage. Traveling with him was his wife, his twin sons, and their twin slaves. The family becomes separated during a tempest; Aegeon, one son, and one slave were rescued together, and the others were never to be seen again. Years later his son Antipholus and his slave Dromio left to search for their long lost siblings; after the boys didn't return, Aegeon set out to bring his son back home. Moved by this story, the duke allows Aegeon one day to get the money to pay his fine and to find his family.","This Standard Ebooks edition is based on William George Clark and William Aldis Wright's 1887 Victoria edition, which is taken from the Globe edition."],"year":2020,"genres":["drama"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/william-shakespeare/the-comedy-of-errors"},"series":null,"part":0,"chapters":[{"id":"001","title":"Dramatis Personae","length":685,"skip":false},{"id":"002","title":"Act I - Scene I","length":6690,"skip":false},{"id":"003","title":"Act I - Scene II","length":5123,"skip":false},{"id":"004","title":"Act II - Scene I","length":5545,"skip":false},{"id":"005","title":"Act II - Scene II","length":10460,"skip":false},{"id":"006","title":"Act III - Scene I","length":7482,"skip":false},{"id":"007","title":"Act III - Scene II","length":9011,"skip":false},{"id":"008","title":"Act IV - Scene I","length":5767,"skip":false},{"id":"009","title":"Act IV - Scene II","length":3596,"skip":false},{"id":"010","title":"Act IV - Scene III","length":4642,"skip":false},{"id":"011","title":"Act IV - Scene IV","length":8557,"skip":false},{"id":"012","title":"Act V - Scene I","length":20383,"skip":false}],"createdAt":1719507347489}
+{
+  "id": "william-shakespeare--the-comedy-of-errors",
+  "title": "The Comedy of Errors",
+  "titleAlpha": "comedy of errors",
+  "author": "William Shakespeare",
+  "language": "en",
+  "description": "Two sets of identical twins are mistaken for their lost siblings.",
+  "longDescription": [
+    "The Comedy of Errors is one of Shakespeare's earliest and shortest plays. This comedy utilizes slapstick humor, word play, and mistaken identities to create a series of farcical accidents. Over time, the play's title has become an idiom used to describe \"an event or series of events made ridiculous by the number of errors that were made throughout.\"",
+    "In Ephesus, the law forbids entry to any merchants from Syracuse, and if they are discovered within the city, they must pay a thousand marks or be put to death. Aegeon, an old Syracusian merchant, is arrested and Solinus, the Duke of Ephesus, listens to his story of coming to the city. Long ago, Aegeon was on a sea voyage. Traveling with him was his wife, his twin sons, and their twin slaves. The family becomes separated during a tempest; Aegeon, one son, and one slave were rescued together, and the others were never to be seen again. Years later his son Antipholus and his slave Dromio left to search for their long lost siblings; after the boys didn't return, Aegeon set out to bring his son back home. Moved by this story, the duke allows Aegeon one day to get the money to pay his fine and to find his family.",
+    "This Standard Ebooks edition is based on William George Clark and William Aldis Wright's 1887 Victoria edition, which is taken from the Globe edition."
+  ],
+  "year": 1594,
+  "genres": [
+    "classics",
+    "drama",
+    "comedy",
+    "fiction"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/william-shakespeare/the-comedy-of-errors"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Comedy of Errors",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dramatis Personae",
+      "length": 685,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Act I - Scene I",
+      "length": 6690,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Act I - Scene II",
+      "length": 5123,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Act II - Scene I",
+      "length": 5545,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Act II - Scene II",
+      "length": 10460,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Act III - Scene I",
+      "length": 7482,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Act III - Scene II",
+      "length": 9011,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Act IV - Scene I",
+      "length": 5767,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Act IV - Scene II",
+      "length": 3596,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Act IV - Scene III",
+      "length": 4642,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Act IV - Scene IV",
+      "length": 8557,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Act V - Scene I",
+      "length": 20383,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Colophon",
+      "length": 1126,
+      "mode": "hide"
+    },
+    {
+      "id": "016",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL362679W",
+  "goodreadsId": "712996",
+  "rating": 0.744,
+  "popularity": 31774,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721172584648
+}

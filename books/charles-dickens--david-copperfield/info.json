@@ -1,1 +1,464 @@
-{"id":"charles-dickens--david-copperfield","title":"David Copperfield","titleAlpha":"david copperfield","author":"Charles Dickens","language":"en","description":"The semi-autobiographical tale of a young boy who rises up to become a successful novelist.","longDescription":["Like many of Dickens' works, David Copperfield was published serially, then as a complete novel for the first time in 1850. Dickens himself thought of it as his favorite novel, writing in the preface that of all his works Copperfield was his favorite child. This isn't surprising, considering that many of the events in the novel are semi-autobiographical accounts from Dickens' own life.","In David Copperfield we follow the life of the titular character as he makes a life for himself in England. He finds himself in the care of a cold stepfather who sends him to boarding school, and from there embarks on a journey filled with characters and events that can only be called \"Dickensian\" in their colorful and just-barely-probable portrayals."],"year":2015,"genres":["autobiography","coming-of-age","fiction"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/charles-dickens/david-copperfield"},"series":null,"part":0,"chapters":[{"id":"001","title":"Preface to the 1850 Edition","length":1488,"skip":true},{"id":"002","title":"Preface to the Charles Dickens Edition","length":1556,"skip":true},{"id":"003","title":"I: I Am Born","length":25107,"skip":false},{"id":"004","title":"II: I Observe","length":32638,"skip":false},{"id":"005","title":"III: I Have a Change","length":34110,"skip":false},{"id":"006","title":"IV: I Fall Into Disgrace","length":41964,"skip":false},{"id":"007","title":"V: I Am Sent Away from Home","length":40426,"skip":false},{"id":"008","title":"VI: I Enlarge My Circle of Acquaintance","length":16149,"skip":false},{"id":"009","title":"VII: My \"First Half\" at Salem House","length":40307,"skip":false},{"id":"010","title":"VIII: My Holidays. Especially One Happy Afternoon","length":32187,"skip":false},{"id":"011","title":"IX: I Have a Memorable Birthday","length":25732,"skip":false},{"id":"012","title":"X: I Become Neglected, and Am Provided For","length":44295,"skip":false},{"id":"013","title":"XI: I Begin Life on My Own Account, and Don't Like It","length":37164,"skip":false},{"id":"014","title":"XII: Liking Life on My Own Account No Better, I Form a Great Resolution","length":21102,"skip":false},{"id":"015","title":"XIII: The Sequel of My Resolution","length":44950,"skip":false},{"id":"016","title":"XIV: My Aunt Makes Up Her Mind About Me","length":34267,"skip":false},{"id":"017","title":"XV: I Make Another Beginning","length":21286,"skip":false},{"id":"018","title":"XVI: I Am a New Boy in More Senses Than One","length":48367,"skip":false},{"id":"019","title":"XVII: Somebody Turns Up","length":39161,"skip":false},{"id":"020","title":"XVIII: A Retrospect","length":16564,"skip":false},{"id":"021","title":"XIX: I Look About Me, and Make a Discovery","length":36527,"skip":false},{"id":"022","title":"XX: Steerforth's Home","length":19479,"skip":false},{"id":"023","title":"XXI: Little Em'ly","length":43849,"skip":false},{"id":"024","title":"XXII: Some Old Scenes, and Some New People","length":49207,"skip":false},{"id":"025","title":"XXIII: I Corroborate Mr. Dick, and Choose a Profession","length":32502,"skip":false},{"id":"026","title":"XXIV: My First Dissipation","length":19075,"skip":false},{"id":"027","title":"XXV: Good and Bad Angels","length":43785,"skip":false},{"id":"028","title":"XXVI: I Fall Into Captivity","length":35119,"skip":false},{"id":"029","title":"XXVII: Tommy Traddles","length":21236,"skip":false},{"id":"030","title":"XXVIII: Mr. Micawber's Gauntlet","length":43324,"skip":false},{"id":"031","title":"XXIX: I Visit Steerforth at His Home, Again","length":16303,"skip":false},{"id":"032","title":"XXX: A Loss","length":17415,"skip":false},{"id":"033","title":"XXXI: A Greater Loss","length":19738,"skip":false},{"id":"034","title":"XXXII: The Beginning of a Long Journey","length":41445,"skip":false},{"id":"035","title":"XXXIII: Blissful","length":37641,"skip":false},{"id":"036","title":"XXXIV: My Aunt Astonishes Me","length":18834,"skip":false},{"id":"037","title":"XXXV: Depression","length":45162,"skip":false},{"id":"038","title":"XXXVI: Enthusiasm","length":38089,"skip":false},{"id":"039","title":"XXXVII: A Little Cold Water","length":17646,"skip":false},{"id":"040","title":"XXXVIII: A Dissolution of Partnership","length":37698,"skip":false},{"id":"041","title":"XXXIX: Wickfield and Heep","length":42585,"skip":false},{"id":"042","title":"XL: The Wanderer","length":18994,"skip":false},{"id":"043","title":"XLI: Dora's Aunts","length":35704,"skip":false},{"id":"044","title":"XLII: Mischief","length":44493,"skip":false},{"id":"045","title":"XLIII: Another Retrospect","length":17897,"skip":false},{"id":"046","title":"XLIV: Our Housekeeping","length":33132,"skip":false},{"id":"047","title":"XLV: Mr. Dick Fulfils My Aunt's Predictions","length":34039,"skip":false},{"id":"048","title":"XLVI: Intelligence","length":29261,"skip":false},{"id":"049","title":"XLVII: Martha","length":23926,"skip":false},{"id":"050","title":"XLVIII: Domestic","length":24924,"skip":false},{"id":"051","title":"XLIX: I Am Involved in Mystery","length":27329,"skip":false},{"id":"052","title":"L: Mr. Peggotty's Dream Comes True","length":21911,"skip":false},{"id":"053","title":"LI: The Beginning of a Longer Journey","length":38820,"skip":false},{"id":"054","title":"LII: I Assist at an Explosion","length":52421,"skip":false},{"id":"055","title":"LIII: Another Retrospect","length":10003,"skip":false},{"id":"056","title":"LIV: Mr. Micawber's Transactions","length":33207,"skip":false},{"id":"057","title":"LV: Tempest","length":26789,"skip":false},{"id":"058","title":"LVI: The New Wound, and the Old","length":12983,"skip":false},{"id":"059","title":"LVII: The Emigrants","length":23572,"skip":false},{"id":"060","title":"LVIII: Absence","length":14514,"skip":false},{"id":"061","title":"LIX: Return","length":36105,"skip":false},{"id":"062","title":"LX: Agnes","length":18433,"skip":false},{"id":"063","title":"LXI: I Am Shown Two Interesting Penitents","length":26620,"skip":false},{"id":"064","title":"LXII: A Light Shines on My Way","length":17480,"skip":false},{"id":"065","title":"LXIII: A Visitor","length":16535,"skip":false},{"id":"066","title":"LXIV: A Last Retrospect","length":8677,"skip":false}],"createdAt":1719506776142}
+{
+  "id": "charles-dickens--david-copperfield",
+  "title": "David Copperfield",
+  "titleAlpha": "david copperfield",
+  "author": "Charles Dickens",
+  "language": "en",
+  "description": "The semi-autobiographical tale of a young boy who rises up to become a successful novelist.",
+  "longDescription": [
+    "Like many of Dickens' works, David Copperfield was published serially, then as a complete novel for the first time in 1850. Dickens himself thought of it as his favorite novel, writing in the preface that of all his works Copperfield was his favorite child. This isn't surprising, considering that many of the events in the novel are semi-autobiographical accounts from Dickens' own life.",
+    "In David Copperfield we follow the life of the titular character as he makes a life for himself in England. He finds himself in the care of a cold stepfather who sends him to boarding school, and from there embarks on a journey filled with characters and events that can only be called \"Dickensian\" in their colorful and just-barely-probable portrayals."
+  ],
+  "year": 1850,
+  "genres": [
+    "autobiography",
+    "classics",
+    "coming-of-age",
+    "fiction"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/charles-dickens/david-copperfield"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - David Copperfield",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Preface to the 1850 Edition",
+      "length": 1488,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Preface to the Charles Dickens Edition",
+      "length": 1556,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Dedication",
+      "length": 99,
+      "mode": "hide"
+    },
+    {
+      "id": "006",
+      "title": "I: I Am Born",
+      "length": 25107,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "II: I Observe",
+      "length": 32638,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "III: I Have a Change",
+      "length": 34110,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "IV: I Fall Into Disgrace",
+      "length": 41964,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "V: I Am Sent Away from Home",
+      "length": 40426,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VI: I Enlarge My Circle of Acquaintance",
+      "length": 16149,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VII: My \"First Half\" at Salem House",
+      "length": 40307,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "VIII: My Holidays. Especially One Happy Afternoon",
+      "length": 32187,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "IX: I Have a Memorable Birthday",
+      "length": 25732,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "X: I Become Neglected, and Am Provided For",
+      "length": 44295,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XI: I Begin Life on My Own Account, and Don't Like It",
+      "length": 37164,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XII: Liking Life on My Own Account No Better, I Form a Great Resolution",
+      "length": 21102,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIII: The Sequel of My Resolution",
+      "length": 44950,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XIV: My Aunt Makes Up Her Mind About Me",
+      "length": 34267,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XV: I Make Another Beginning",
+      "length": 21286,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVI: I Am a New Boy in More Senses Than One",
+      "length": 48367,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVII: Somebody Turns Up",
+      "length": 39161,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XVIII: A Retrospect",
+      "length": 16564,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XIX: I Look About Me, and Make a Discovery",
+      "length": 36527,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XX: Steerforth's Home",
+      "length": 19479,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXI: Little Em'ly",
+      "length": 43849,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXII: Some Old Scenes, and Some New People",
+      "length": 49207,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXIII: I Corroborate Mr. Dick, and Choose a Profession",
+      "length": 32502,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXIV: My First Dissipation",
+      "length": 19075,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXV: Good and Bad Angels",
+      "length": 43785,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVI: I Fall Into Captivity",
+      "length": 35119,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXVII: Tommy Traddles",
+      "length": 21236,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXVIII: Mr. Micawber's Gauntlet",
+      "length": 43324,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXIX: I Visit Steerforth at His Home, Again",
+      "length": 16303,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXX: A Loss",
+      "length": 17415,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXI: A Greater Loss",
+      "length": 19738,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXII: The Beginning of a Long Journey",
+      "length": 41445,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXIII: Blissful",
+      "length": 37641,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXIV: My Aunt Astonishes Me",
+      "length": 18834,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXV: Depression",
+      "length": 45162,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XXXVI: Enthusiasm",
+      "length": 38089,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XXXVII: A Little Cold Water",
+      "length": 17646,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XXXVIII: A Dissolution of Partnership",
+      "length": 37698,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XXXIX: Wickfield and Heep",
+      "length": 42585,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XL: The Wanderer",
+      "length": 18994,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "XLI: Dora's Aunts",
+      "length": 35704,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "XLII: Mischief",
+      "length": 44493,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "XLIII: Another Retrospect",
+      "length": 17897,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "XLIV: Our Housekeeping",
+      "length": 33132,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "XLV: Mr. Dick Fulfils My Aunt's Predictions",
+      "length": 34039,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "XLVI: Intelligence",
+      "length": 29261,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "XLVII: Martha",
+      "length": 23926,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "XLVIII: Domestic",
+      "length": 24924,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "XLIX: I Am Involved in Mystery",
+      "length": 27329,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "L: Mr. Peggotty's Dream Comes True",
+      "length": 21911,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "LI: The Beginning of a Longer Journey",
+      "length": 38820,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "LII: I Assist at an Explosion",
+      "length": 52421,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "LIII: Another Retrospect",
+      "length": 10003,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "LIV: Mr. Micawber's Transactions",
+      "length": 33207,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "LV: Tempest",
+      "length": 26789,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "LVI: The New Wound, and the Old",
+      "length": 12983,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "LVII: The Emigrants",
+      "length": 23572,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "LVIII: Absence",
+      "length": 14514,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "LIX: Return",
+      "length": 36105,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "LX: Agnes",
+      "length": 18433,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "LXI: I Am Shown Two Interesting Penitents",
+      "length": 26620,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "LXII: A Light Shines on My Way",
+      "length": 17480,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "LXIII: A Visitor",
+      "length": 16535,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "LXIV: A Last Retrospect",
+      "length": 8677,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "Colophon",
+      "length": 1018,
+      "mode": "hide"
+    },
+    {
+      "id": "071",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL10322056W",
+  "goodreadsId": "58696",
+  "rating": 0.806,
+  "popularity": 241495,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721171602655
+}

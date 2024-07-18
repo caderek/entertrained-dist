@@ -1,1 +1,81 @@
-{"id":"honore-de-balzac--father-goriot","title":"Father Goriot","titleAlpha":"father goriot","author":"Honoré de Balzac","language":"en","description":"A young man tries to climb up the cutthroat Parisian social ladder during the Bourbon Restoration.","longDescription":["Father Goriot, today considered one of Balzac's most important works, is part of his novel sequence The Human Comedy. It's the first of Balzac's novels to feature recurring characters, a technique that he famously developed in his subsequent novels.","Set in Paris during the Bourbon Restoration of the early 1800s, Father Goriot follows Eugene de Rastignac, a student born to noble roots but little means, as he tries to climb the social ladder in Paris. The impoverished Goriot is staying at the same boardinghouse as Rastignac - and Rastignac sees opportunity in Goriot's richly-married and elegant daughters.","The novel has been widely praised for its realist portrayal of Parisian life of various social classes, and its deep influence on French literature is still felt today. While it had chapter breaks when it was initially serialized, Balzac removed them when compiling his definitive edition of The Human Comedy, a change that is preserved in this edition."],"year":2016,"genres":["fiction","history"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/honore-de-balzac/father-goriot/ellen-marriage"},"series":null,"part":0,"chapters":[{"id":"001","title":"Father Goriot","length":563116,"skip":false},{"id":"002","title":"Endnotes","length":33,"skip":true}],"createdAt":1719506994639}
+{
+  "id": "honore-de-balzac--father-goriot",
+  "title": "Father Goriot",
+  "titleAlpha": "father goriot",
+  "author": "Honoré de Balzac",
+  "language": "en",
+  "description": "A young man tries to climb up the cutthroat Parisian social ladder during the Bourbon Restoration.",
+  "longDescription": [
+    "Father Goriot, today considered one of Balzac's most important works, is part of his novel sequence The Human Comedy. It's the first of Balzac's novels to feature recurring characters, a technique that he famously developed in his subsequent novels.",
+    "Set in Paris during the Bourbon Restoration of the early 1800s, Father Goriot follows Eugene de Rastignac, a student born to noble roots but little means, as he tries to climb the social ladder in Paris. The impoverished Goriot is staying at the same boardinghouse as Rastignac - and Rastignac sees opportunity in Goriot's richly-married and elegant daughters.",
+    "The novel has been widely praised for its realist portrayal of Parisian life of various social classes, and its deep influence on French literature is still felt today. While it had chapter breaks when it was initially serialized, Balzac removed them when compiling his definitive edition of The Human Comedy, a change that is preserved in this edition."
+  ],
+  "year": 1835,
+  "genres": [
+    "classics",
+    "fiction",
+    "history",
+    "coming-of-age"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "La Comédie Humaine",
+  "part": 23,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/honore-de-balzac/father-goriot/ellen-marriage"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Father Goriot",
+      "length": 51,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 111,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Father Goriot",
+      "length": 563116,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Endnotes",
+      "length": 33,
+      "mode": "hide"
+    },
+    {
+      "id": "006",
+      "title": "Colophon",
+      "length": 1117,
+      "mode": "hide"
+    },
+    {
+      "id": "007",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL85047W",
+  "goodreadsId": "19009927",
+  "rating": 0.77,
+  "popularity": 60416,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721171965959
+}

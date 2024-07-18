@@ -1,1 +1,343 @@
-{"id":"harriet-beecher-stowe--uncle-toms-cabin","title":"Uncle Tom's Cabin","titleAlpha":"uncle tom's cabin","author":"Harriet Beecher Stowe","language":"en","description":"The account of several slaves who are sold to new owners after their current owner experiences financial hardship.","longDescription":["Faced with the possibility of financial ruin, slave owner Arthur Shelby decides to sell two of his slaves: Uncle Tom and a young boy named Harry. Eliza, Harry's mother, makes the decision to run away while Uncle Tom decides that his moral duty is to submit to his master and cooperate with the sale. The story follows the diverging lives of these two slaves - Eliza's flight to Canada and Uncle Tom's journey into the deep south.","Eliza is accompanied by her husband, George, who also escaped from his owner at the same time. Together they must outrun bounty hunters and somehow make their way to freedom. Uncle Tom, on the other hand, must face the uncertainty of new owners and separation from his family, while somehow remaining true to his religious faith.","Upon its release, Uncle Tom's Cabin sparked immediate criticism from slave owners and praise from abolitionists. Its influence was such that one apocryphal story claims that Abraham Lincoln, upon meeting Stowe, stated \"so this is the little lady who started this great war.\"","The book remains controversial, with critics pointing to Uncle Tom's passive nature and the extensive use of racial stereotypes. Despite this, the novel's influence is undeniable, and it helped pave the way for modern protest literature."],"year":2022,"genres":["fiction"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/harriet-beecher-stowe/uncle-toms-cabin"},"series":null,"part":0,"chapters":[{"id":"001","title":"Volume I - I: In Which the Reader Is Introduced to a Man of Humanity","length":22753,"skip":false},{"id":"002","title":"Volume I - II: The Mother","length":6959,"skip":false},{"id":"003","title":"Volume I - III: The Husband and Father","length":10923,"skip":false},{"id":"004","title":"Volume I - IV: An Evening in Uncle Tom's Cabin","length":26312,"skip":false},{"id":"005","title":"Volume I - V: Showing the Feelings of Living Property on Changing Owners","length":18984,"skip":false},{"id":"006","title":"Volume I - VI: Discovery","length":20297,"skip":false},{"id":"007","title":"Volume I - VII: The Mother's Struggle","length":29053,"skip":false},{"id":"008","title":"Volume I - VIII: Eliza's Escape","length":35069,"skip":false},{"id":"009","title":"Volume I - IX: In Which It Appears That a Senator Is but a Man","length":36835,"skip":false},{"id":"010","title":"Volume I - X: The Property Is Carried Off","length":21771,"skip":false},{"id":"011","title":"Volume I - XI: In Which Property Gets Into an Improper State of Mind","length":30585,"skip":false},{"id":"012","title":"Volume I - XII: Select Incident of Lawful Trade","length":36975,"skip":false},{"id":"013","title":"Volume I - XIII: The Quaker Settlement","length":19857,"skip":false},{"id":"014","title":"Volume I - XIV: Evangeline","length":22865,"skip":false},{"id":"015","title":"Volume I - XV: Of Tom's New Master, and Various Other Matters","length":36610,"skip":false},{"id":"016","title":"Volume I - XVI: Tom's Mistress and Her Opinions","length":41137,"skip":false},{"id":"017","title":"Volume I - XVII: The Freeman's Defense","length":37522,"skip":false},{"id":"018","title":"Volume I - XVIII: Miss Ophelia's Experiences and Opinions","length":35150,"skip":false},{"id":"019","title":"Volume II - XIX: Miss Ophelia's Experiences and Opinions Continued","length":45122,"skip":false},{"id":"020","title":"Volume II - XX: Topsy","length":32830,"skip":false},{"id":"021","title":"Volume II - XXI: Kentuck","length":10086,"skip":false},{"id":"022","title":"Volume II - XXII: \"The Grass Withereth - The Flower Fadeth\"","length":15151,"skip":false},{"id":"023","title":"Volume II - XXIII: Henrique","length":15799,"skip":false},{"id":"024","title":"Volume II - XXIV: Foreshadowings","length":13807,"skip":false},{"id":"025","title":"Volume II - XXV: The Little Evangelist","length":10218,"skip":false},{"id":"026","title":"Volume II - XXVI: Death","length":28092,"skip":false},{"id":"027","title":"Volume II - XXVII: \"This Is the Last of Earth\"","length":15921,"skip":false},{"id":"028","title":"Volume II - XXVIII: Reunion","length":31371,"skip":false},{"id":"029","title":"Volume II - XXIX: The Unprotected","length":16572,"skip":false},{"id":"030","title":"Volume II - XXX: The Slave Warehouse","length":22430,"skip":false},{"id":"031","title":"Volume II - XXXI: The Middle Passage","length":13245,"skip":false},{"id":"032","title":"Volume II - XXXII: Dark Places","length":18247,"skip":false},{"id":"033","title":"Volume II - XXXIII: Cassy","length":15822,"skip":false},{"id":"034","title":"Volume II - XXXIV: The Quadroon's Story","length":24410,"skip":false},{"id":"035","title":"Volume II - XXXV: The Tokens","length":13844,"skip":false},{"id":"036","title":"Volume II - XXXVI: Emmeline and Cassy","length":13877,"skip":false},{"id":"037","title":"Volume II - XXXVII: Liberty","length":13731,"skip":false},{"id":"038","title":"Volume II - XXXVIII: The Victory","length":22071,"skip":false},{"id":"039","title":"Volume II - XXXIX: The Stratagem","length":21602,"skip":false},{"id":"040","title":"Volume II - XL: The Martyr","length":14356,"skip":false},{"id":"041","title":"Volume II - XLI: The Young Master","length":13608,"skip":false},{"id":"042","title":"Volume II - XLII: An Authentic Ghost Story","length":14055,"skip":false},{"id":"043","title":"Volume II - XLIII: Results","length":18092,"skip":false},{"id":"044","title":"Volume II - XLIV: The Liberator","length":7735,"skip":false},{"id":"045","title":"Volume II - XLV: Concluding Remarks","length":22014,"skip":false},{"id":"046","title":"Endnotes","length":406,"skip":true}],"createdAt":1719506967716}
+{
+  "id": "harriet-beecher-stowe--uncle-toms-cabin",
+  "title": "Uncle Tom's Cabin",
+  "titleAlpha": "uncle tom's cabin",
+  "author": "Harriet Beecher Stowe",
+  "language": "en",
+  "description": "The account of several slaves who are sold to new owners after their current owner experiences financial hardship.",
+  "longDescription": [
+    "Faced with the possibility of financial ruin, slave owner Arthur Shelby decides to sell two of his slaves: Uncle Tom and a young boy named Harry. Eliza, Harry's mother, makes the decision to run away while Uncle Tom decides that his moral duty is to submit to his master and cooperate with the sale. The story follows the diverging lives of these two slaves - Eliza's flight to Canada and Uncle Tom's journey into the deep south.",
+    "Eliza is accompanied by her husband, George, who also escaped from his owner at the same time. Together they must outrun bounty hunters and somehow make their way to freedom. Uncle Tom, on the other hand, must face the uncertainty of new owners and separation from his family, while somehow remaining true to his religious faith.",
+    "Upon its release, Uncle Tom's Cabin sparked immediate criticism from slave owners and praise from abolitionists. Its influence was such that one apocryphal story claims that Abraham Lincoln, upon meeting Stowe, stated \"so this is the little lady who started this great war.\"",
+    "The book remains controversial, with critics pointing to Uncle Tom's passive nature and the extensive use of racial stereotypes. Despite this, the novel's influence is undeniable, and it helped pave the way for modern protest literature."
+  ],
+  "year": 1852,
+  "genres": [
+    "classics",
+    "fiction",
+    "history"
+  ],
+  "topics": [
+    "african-americans",
+    "politics",
+    "slavery"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/harriet-beecher-stowe/uncle-toms-cabin"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Uncle Tom's Cabin",
+      "length": 26,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Volume I - I: In Which the Reader Is Introduced to a Man of Humanity",
+      "length": 22753,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Volume I - II: The Mother",
+      "length": 6959,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Volume I - III: The Husband and Father",
+      "length": 10923,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Volume I - IV: An Evening in Uncle Tom's Cabin",
+      "length": 26312,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Volume I - V: Showing the Feelings of Living Property on Changing Owners",
+      "length": 18984,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Volume I - VI: Discovery",
+      "length": 20297,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Volume I - VII: The Mother's Struggle",
+      "length": 29053,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Volume I - VIII: Eliza's Escape",
+      "length": 35069,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Volume I - IX: In Which It Appears That a Senator Is but a Man",
+      "length": 36835,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Volume I - X: The Property Is Carried Off",
+      "length": 21771,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Volume I - XI: In Which Property Gets Into an Improper State of Mind",
+      "length": 30585,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Volume I - XII: Select Incident of Lawful Trade",
+      "length": 36975,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Volume I - XIII: The Quaker Settlement",
+      "length": 19857,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Volume I - XIV: Evangeline",
+      "length": 22865,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Volume I - XV: Of Tom's New Master, and Various Other Matters",
+      "length": 36610,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Volume I - XVI: Tom's Mistress and Her Opinions",
+      "length": 41137,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Volume I - XVII: The Freeman's Defense",
+      "length": 37522,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Volume I - XVIII: Miss Ophelia's Experiences and Opinions",
+      "length": 35150,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Volume II - XIX: Miss Ophelia's Experiences and Opinions Continued",
+      "length": 45122,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Volume II - XX: Topsy",
+      "length": 32830,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Volume II - XXI: Kentuck",
+      "length": 10086,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Volume II - XXII: \"The Grass Withereth - The Flower Fadeth\"",
+      "length": 15151,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Volume II - XXIII: Henrique",
+      "length": 15799,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Volume II - XXIV: Foreshadowings",
+      "length": 13807,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Volume II - XXV: The Little Evangelist",
+      "length": 10218,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Volume II - XXVI: Death",
+      "length": 28092,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Volume II - XXVII: \"This Is the Last of Earth\"",
+      "length": 15921,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Volume II - XXVIII: Reunion",
+      "length": 31371,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Volume II - XXIX: The Unprotected",
+      "length": 16572,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Volume II - XXX: The Slave Warehouse",
+      "length": 22430,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Volume II - XXXI: The Middle Passage",
+      "length": 13245,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Volume II - XXXII: Dark Places",
+      "length": 18247,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Volume II - XXXIII: Cassy",
+      "length": 15822,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Volume II - XXXIV: The Quadroon's Story",
+      "length": 24410,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Volume II - XXXV: The Tokens",
+      "length": 13844,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Volume II - XXXVI: Emmeline and Cassy",
+      "length": 13877,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Volume II - XXXVII: Liberty",
+      "length": 13731,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Volume II - XXXVIII: The Victory",
+      "length": 22071,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Volume II - XXXIX: The Stratagem",
+      "length": 21602,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Volume II - XL: The Martyr",
+      "length": 14356,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Volume II - XLI: The Young Master",
+      "length": 13608,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Volume II - XLII: An Authentic Ghost Story",
+      "length": 14055,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Volume II - XLIII: Results",
+      "length": 18092,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Volume II - XLIV: The Liberator",
+      "length": 7735,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Volume II - XLV: Concluding Remarks",
+      "length": 22014,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Endnotes",
+      "length": 406,
+      "mode": "hide"
+    },
+    {
+      "id": "049",
+      "title": "Colophon",
+      "length": 1110,
+      "mode": "hide"
+    },
+    {
+      "id": "050",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL152161W",
+  "goodreadsId": "46793",
+  "rating": 0.782,
+  "popularity": 229160,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720966688856
+}

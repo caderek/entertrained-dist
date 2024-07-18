@@ -1,1 +1,752 @@
-{"id":"alexandre-dumas--the-count-of-monte-cristo","title":"The Count of Monte Cristo","titleAlpha":"count of monte cristo","author":"Alexandre Dumas","language":"en","description":"A man seeks revenge for having been falsely imprisoned years earlier.","longDescription":["Edmond Dantes is a young man about to be made captain of a cargo vessel and marry his sweetheart. But he is arrested at his pre-wedding feast, having been falsely accused of being a Bonapartist. Thrown into the notorious Chateau d'If prison, he eventually meets an ancient inmate who teaches him language, science, and passes hints of a hidden fortune. When Edmond makes his way out of prison, he plots to reward those who stood by him (his old employer, for one), and to seek revenge on the men who betrayed him: one who wrote the letter that denounced him, one that married his fiancee in his absence, and one who knew Dantes was innocent but stood idly by and did nothing.","The Count of Monte Cristo is another of Alexandre Dumas' thrilling adventure stories, possibly more popular even than The Three Musketeers. Originally serialized in a French newspaper over the course of a year-and-a-half, it was enormously popular after its publication in book form, and has never been out of print since. Its timeless story of adventure, historical drama, romance, revenge, and Eastern mystery has been the source of over forty movies and TV series."],"year":2021,"genres":["adventure","fiction","history","pirates","revenge"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/alexandre-dumas/the-count-of-monte-cristo/chapman-and-hall"},"series":null,"part":0,"chapters":[{"id":"001","title":"I: Marseilles - The Arrival","length":17247,"skip":false},{"id":"002","title":"II: Father and Son","length":13546,"skip":false},{"id":"003","title":"III: The Catalans","length":21668,"skip":false},{"id":"004","title":"IV: Conspiracy","length":12458,"skip":false},{"id":"005","title":"V: The Marriage Feast","length":31510,"skip":false},{"id":"006","title":"VI: The Deputy Procureur du Roi","length":24350,"skip":false},{"id":"007","title":"VII: The Examination","length":19533,"skip":false},{"id":"008","title":"VIII: The Chateau d'If","length":17595,"skip":false},{"id":"009","title":"IX: The Evening of the Betrothal","length":10123,"skip":false},{"id":"010","title":"X: The King's Closet at the Tuileries","length":15869,"skip":false},{"id":"011","title":"XI: The Corsican Ogre","length":16479,"skip":false},{"id":"012","title":"XII: Father and Son","length":13962,"skip":false},{"id":"013","title":"XIII: The Hundred Days","length":14178,"skip":false},{"id":"014","title":"XIV: The Two Prisoners","length":17517,"skip":false},{"id":"015","title":"XV: Number 34 and Number 27","length":29597,"skip":false},{"id":"016","title":"XVI: A Learned Italian","length":23355,"skip":false},{"id":"017","title":"XVII: The Abbe's Chamber","length":43568,"skip":false},{"id":"018","title":"XVIII: The Treasure","length":25733,"skip":false},{"id":"019","title":"XIX: The Third Attack","length":21691,"skip":false},{"id":"020","title":"XX: The Cemetery of the Chateau d'If","length":10579,"skip":false},{"id":"021","title":"XXI: The Island of Tiboulen","length":20076,"skip":false},{"id":"022","title":"XXII: The Smugglers","length":16383,"skip":false},{"id":"023","title":"XXIII: The Island of Monte Cristo","length":16866,"skip":false},{"id":"024","title":"XXIV: The Secret Cave","length":17694,"skip":false},{"id":"025","title":"XXV: The Unknown","length":18127,"skip":false},{"id":"026","title":"XXVI: The Pont du Gard Inn","length":31893,"skip":false},{"id":"027","title":"XXVII: The Story","length":28140,"skip":false},{"id":"028","title":"XXVIII: The Prison Register","length":13157,"skip":false},{"id":"029","title":"XXIX: The House of Morrel & Son","length":23993,"skip":false},{"id":"030","title":"XXX: The Fifth of September","length":31325,"skip":false},{"id":"031","title":"XXXI: Italy: Sinbad the Sailor","length":48062,"skip":false},{"id":"032","title":"XXXII: The Waking","length":12437,"skip":false},{"id":"033","title":"XXXIII: Roman Bandits","length":61750,"skip":false},{"id":"034","title":"XXXIV: The Colosseum","length":61613,"skip":false},{"id":"035","title":"XXXV: La Mazzolata","length":29429,"skip":false},{"id":"036","title":"XXXVI: The Carnival at Rome","length":36351,"skip":false},{"id":"037","title":"XXXVII: The Catacombs of Saint Sebastian","length":32770,"skip":false},{"id":"038","title":"XXXVIII: The Rendezvous","length":17280,"skip":false},{"id":"039","title":"XXXIX: The Guests","length":15653,"skip":false},{"id":"040","title":"XL: The Breakfast","length":46373,"skip":false},{"id":"041","title":"XLI: The Presentation","length":28407,"skip":false},{"id":"042","title":"XLII: Monsieur Bertuccio","length":9000,"skip":false},{"id":"043","title":"XLIII: The House at Auteuil","length":13295,"skip":false},{"id":"044","title":"XLIV: The Vendetta","length":46273,"skip":false},{"id":"045","title":"XLV: The Rain of Blood","length":30007,"skip":false},{"id":"046","title":"XLVI: Unlimited Credit","length":28801,"skip":false},{"id":"047","title":"XLVII: The Dappled Grays","length":29524,"skip":false},{"id":"048","title":"XLVIII: Ideology","length":25515,"skip":false},{"id":"049","title":"XLIX: Haydee","length":10708,"skip":false},{"id":"050","title":"L: The Morrel Family","length":19409,"skip":false},{"id":"051","title":"LI: Pyramus and Thisbe","length":27550,"skip":false},{"id":"052","title":"LII: Toxicology","length":36283,"skip":false},{"id":"053","title":"LIII: Robert le Diable","length":35014,"skip":false},{"id":"054","title":"LIV: A Flurry in Stocks","length":22751,"skip":false},{"id":"055","title":"LV: Major Cavalcanti","length":20038,"skip":false},{"id":"056","title":"LVI: Andrea Cavalcanti","length":24287,"skip":false},{"id":"057","title":"LVII: In the Lucern Patch","length":24293,"skip":false},{"id":"058","title":"LVIII: M. Noirtier de Villefort","length":18682,"skip":false},{"id":"059","title":"LIX: The Will","length":17354,"skip":false},{"id":"060","title":"LX: The Telegraph","length":20437,"skip":false},{"id":"061","title":"LXI: How a Gardener May Get Rid of the Dormice That Eat His Peaches","length":17104,"skip":false},{"id":"062","title":"LXII: Ghosts","length":16748,"skip":false},{"id":"063","title":"LXIII: The Dinner","length":19456,"skip":false},{"id":"064","title":"LXIV: The Beggar","length":16788,"skip":false},{"id":"065","title":"LXV: A Conjugal Scene","length":19895,"skip":false},{"id":"066","title":"LXVI: Matrimonial Projects","length":18447,"skip":false},{"id":"067","title":"LXVII: The Office of the King's Attorney","length":23496,"skip":false},{"id":"068","title":"LXVIII: A Summer Ball","length":12360,"skip":false},{"id":"069","title":"LXIX: The Inquiry","length":17298,"skip":false},{"id":"070","title":"LXX: The Ball","length":17408,"skip":false},{"id":"071","title":"LXXI: Bread and Salt","length":7508,"skip":false},{"id":"072","title":"LXXII: Madame de Saint-Meran","length":23597,"skip":false},{"id":"073","title":"LXXIII: The Promise","length":52525,"skip":false},{"id":"074","title":"LXXIV: The Villefort Family Vault","length":18552,"skip":false},{"id":"075","title":"LXXV: A Signed Statement","length":21499,"skip":false},{"id":"076","title":"LXXVI: Progress of Cavalcanti the Younger","length":19566,"skip":false},{"id":"077","title":"LXXVII: Haydee","length":45037,"skip":false},{"id":"078","title":"LXXVIII: We Hear from Yanina","length":40192,"skip":false},{"id":"079","title":"LXXIX: The Lemonade","length":22880,"skip":false},{"id":"080","title":"LXXX: The Accusation","length":11323,"skip":false},{"id":"081","title":"LXXXI: The Room of the Retired Baker","length":31437,"skip":false},{"id":"082","title":"LXXXII: The Burglary","length":25298,"skip":false},{"id":"083","title":"LXXXIII: The Hand of God","length":11157,"skip":false},{"id":"084","title":"LXXXIV: Beauchamp","length":12199,"skip":false},{"id":"085","title":"LXXXV: The Journey","length":19143,"skip":false},{"id":"086","title":"LXXXVI: The Trial","length":26100,"skip":false},{"id":"087","title":"LXXXVII: The Challenge","length":12434,"skip":false},{"id":"088","title":"LXXXVIII: The Insult","length":18274,"skip":false},{"id":"089","title":"LXXXIX: The Night","length":16301,"skip":false},{"id":"090","title":"XC: The Meeting","length":23085,"skip":false},{"id":"091","title":"XCI: Mother and Son","length":12570,"skip":false},{"id":"092","title":"XCII: The Suicide","length":17079,"skip":false},{"id":"093","title":"XCIII: Valentine","length":14764,"skip":false},{"id":"094","title":"XCIV: Maximilian's Avowal","length":22200,"skip":false},{"id":"095","title":"XCV: Father and Daughter","length":18466,"skip":false},{"id":"096","title":"XCVI: The Contract","length":21424,"skip":false},{"id":"097","title":"XCVII: The Departure for Belgium","length":12491,"skip":false},{"id":"098","title":"XCVIII: The Bell and Bottle Tavern","length":25152,"skip":false},{"id":"099","title":"XCIX: The Law","length":19830,"skip":false},{"id":"100","title":"C: The Apparition","length":14114,"skip":false},{"id":"101","title":"CI: Locusta","length":11113,"skip":false},{"id":"102","title":"CII: Valentine","length":11536,"skip":false},{"id":"103","title":"CIII: Maximilian","length":17087,"skip":false},{"id":"104","title":"CIV: Danglars' Signature","length":20021,"skip":false},{"id":"105","title":"CV: The Cemetery of Pere-Lachaise","length":25472,"skip":false},{"id":"106","title":"CVI: Dividing the Proceeds","length":30041,"skip":false},{"id":"107","title":"CVII: The Lions' Den","length":14922,"skip":false},{"id":"108","title":"CVIII: The Judge","length":19394,"skip":false},{"id":"109","title":"CIX: The Assizes","length":11439,"skip":false},{"id":"110","title":"CX: The Indictment","length":14733,"skip":false},{"id":"111","title":"CXI: Expiation","length":17286,"skip":false},{"id":"112","title":"CXII: The Departure","length":28843,"skip":false},{"id":"113","title":"CXIII: The Past","length":23457,"skip":false},{"id":"114","title":"CXIV: Peppino","length":21319,"skip":false},{"id":"115","title":"CXV: Luigi Vampa's Bill of Fare","length":12353,"skip":false},{"id":"116","title":"CXVI: The Pardon","length":9501,"skip":false},{"id":"117","title":"CXVII: The Fifth of October","length":27405,"skip":false},{"id":"118","title":"Endnotes","length":3301,"skip":true}],"createdAt":1719506675232}
+{
+  "id": "alexandre-dumas--the-count-of-monte-cristo",
+  "title": "The Count of Monte Cristo",
+  "titleAlpha": "count of monte cristo",
+  "author": "Alexandre Dumas",
+  "language": "en",
+  "description": "A man seeks revenge for having been falsely imprisoned years earlier.",
+  "longDescription": [
+    "Edmond Dantes is a young man about to be made captain of a cargo vessel and marry his sweetheart. But he is arrested at his pre-wedding feast, having been falsely accused of being a Bonapartist. Thrown into the notorious Chateau d'If prison, he eventually meets an ancient inmate who teaches him language, science, and passes hints of a hidden fortune. When Edmond makes his way out of prison, he plots to reward those who stood by him (his old employer, for one), and to seek revenge on the men who betrayed him: one who wrote the letter that denounced him, one that married his fiancee in his absence, and one who knew Dantes was innocent but stood idly by and did nothing.",
+    "The Count of Monte Cristo is another of Alexandre Dumas' thrilling adventure stories, possibly more popular even than The Three Musketeers. Originally serialized in a French newspaper over the course of a year-and-a-half, it was enormously popular after its publication in book form, and has never been out of print since. Its timeless story of adventure, historical drama, romance, revenge, and Eastern mystery has been the source of over forty movies and TV series."
+  ],
+  "year": 1844,
+  "genres": [
+    "adventure",
+    "classics",
+    "fiction",
+    "history",
+    "action"
+  ],
+  "topics": [
+    "pirates",
+    "prison",
+    "revenge",
+    "sailing"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/alexandre-dumas/the-count-of-monte-cristo/chapman-and-hall"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "I: Marseilles - The Arrival",
+      "length": 17247,
+      "mode": "type"
+    },
+    {
+      "id": "002",
+      "title": "II: Father and Son",
+      "length": 13546,
+      "mode": "type"
+    },
+    {
+      "id": "003",
+      "title": "III: The Catalans",
+      "length": 21668,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "IV: Conspiracy",
+      "length": 12458,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "V: The Marriage Feast",
+      "length": 31510,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "VI: The Deputy Procureur du Roi",
+      "length": 24350,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "VII: The Examination",
+      "length": 19533,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VIII: The Chateau d'If",
+      "length": 17595,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "IX: The Evening of the Betrothal",
+      "length": 10123,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "X: The King's Closet at the Tuileries",
+      "length": 15869,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "XI: The Corsican Ogre",
+      "length": 16479,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "XII: Father and Son",
+      "length": 13962,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XIII: The Hundred Days",
+      "length": 14178,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XIV: The Two Prisoners",
+      "length": 17517,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XV: Number 34 and Number 27",
+      "length": 29597,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XVI: A Learned Italian",
+      "length": 23355,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XVII: The Abbe's Chamber",
+      "length": 43568,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVIII: The Treasure",
+      "length": 25733,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XIX: The Third Attack",
+      "length": 21691,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XX: The Cemetery of the Chateau d'If",
+      "length": 10579,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XXI: The Island of Tiboulen",
+      "length": 20076,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XXII: The Smugglers",
+      "length": 16383,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXIII: The Island of Monte Cristo",
+      "length": 16866,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXIV: The Secret Cave",
+      "length": 17694,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXV: The Unknown",
+      "length": 18127,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXVI: The Pont du Gard Inn",
+      "length": 31893,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXVII: The Story",
+      "length": 28140,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXVIII: The Prison Register",
+      "length": 13157,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXIX: The House of Morrel & Son",
+      "length": 23993,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXX: The Fifth of September",
+      "length": 31325,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXXI: Italy: Sinbad the Sailor",
+      "length": 48062,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXXII: The Waking",
+      "length": 12437,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXXIII: Roman Bandits",
+      "length": 61750,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXXIV: The Colosseum",
+      "length": 61613,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXV: La Mazzolata",
+      "length": 29429,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXVI: The Carnival at Rome",
+      "length": 36351,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXVII: The Catacombs of Saint Sebastian",
+      "length": 32770,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXVIII: The Rendezvous",
+      "length": 17280,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXIX: The Guests",
+      "length": 15653,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XL: The Breakfast",
+      "length": 46373,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XLI: The Presentation",
+      "length": 28407,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XLII: Monsieur Bertuccio",
+      "length": 9000,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XLIII: The House at Auteuil",
+      "length": 13295,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XLIV: The Vendetta",
+      "length": 46273,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XLV: The Rain of Blood",
+      "length": 30007,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "XLVI: Unlimited Credit",
+      "length": 28801,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "XLVII: The Dappled Grays",
+      "length": 29524,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "XLVIII: Ideology",
+      "length": 25515,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "XLIX: Haydee",
+      "length": 10708,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "L: The Morrel Family",
+      "length": 19409,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "LI: Pyramus and Thisbe",
+      "length": 27550,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "LII: Toxicology",
+      "length": 36283,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "LIII: Robert le Diable",
+      "length": 35014,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "LIV: A Flurry in Stocks",
+      "length": 22751,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "LV: Major Cavalcanti",
+      "length": 20038,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "LVI: Andrea Cavalcanti",
+      "length": 24287,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "LVII: In the Lucern Patch",
+      "length": 24293,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "LVIII: M. Noirtier de Villefort",
+      "length": 18682,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "LIX: The Will",
+      "length": 17354,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "LX: The Telegraph",
+      "length": 20437,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "LXI: How a Gardener May Get Rid of the Dormice That Eat His Peaches",
+      "length": 17104,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "LXII: Ghosts",
+      "length": 16748,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "LXIII: The Dinner",
+      "length": 19456,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "LXIV: The Beggar",
+      "length": 16788,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "LXV: A Conjugal Scene",
+      "length": 19895,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "LXVI: Matrimonial Projects",
+      "length": 18447,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "LXVII: The Office of the King's Attorney",
+      "length": 23496,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "LXVIII: A Summer Ball",
+      "length": 12360,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "LXIX: The Inquiry",
+      "length": 17298,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "LXX: The Ball",
+      "length": 17408,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "LXXI: Bread and Salt",
+      "length": 7508,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "LXXII: Madame de Saint-Meran",
+      "length": 23597,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "LXXIII: The Promise",
+      "length": 52525,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "LXXIV: The Villefort Family Vault",
+      "length": 18552,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "LXXV: A Signed Statement",
+      "length": 21499,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "LXXVI: Progress of Cavalcanti the Younger",
+      "length": 19566,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "LXXVII: Haydee",
+      "length": 45037,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "LXXVIII: We Hear from Yanina",
+      "length": 40192,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "LXXIX: The Lemonade",
+      "length": 22880,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "LXXX: The Accusation",
+      "length": 11323,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "LXXXI: The Room of the Retired Baker",
+      "length": 31437,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "LXXXII: The Burglary",
+      "length": 25298,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "LXXXIII: The Hand of God",
+      "length": 11157,
+      "mode": "type"
+    },
+    {
+      "id": "084",
+      "title": "LXXXIV: Beauchamp",
+      "length": 12199,
+      "mode": "type"
+    },
+    {
+      "id": "085",
+      "title": "LXXXV: The Journey",
+      "length": 19143,
+      "mode": "type"
+    },
+    {
+      "id": "086",
+      "title": "LXXXVI: The Trial",
+      "length": 26100,
+      "mode": "type"
+    },
+    {
+      "id": "087",
+      "title": "LXXXVII: The Challenge",
+      "length": 12434,
+      "mode": "type"
+    },
+    {
+      "id": "088",
+      "title": "LXXXVIII: The Insult",
+      "length": 18274,
+      "mode": "type"
+    },
+    {
+      "id": "089",
+      "title": "LXXXIX: The Night",
+      "length": 16301,
+      "mode": "type"
+    },
+    {
+      "id": "090",
+      "title": "XC: The Meeting",
+      "length": 23085,
+      "mode": "type"
+    },
+    {
+      "id": "091",
+      "title": "XCI: Mother and Son",
+      "length": 12570,
+      "mode": "type"
+    },
+    {
+      "id": "092",
+      "title": "XCII: The Suicide",
+      "length": 17079,
+      "mode": "type"
+    },
+    {
+      "id": "093",
+      "title": "XCIII: Valentine",
+      "length": 14764,
+      "mode": "type"
+    },
+    {
+      "id": "094",
+      "title": "XCIV: Maximilian's Avowal",
+      "length": 22200,
+      "mode": "type"
+    },
+    {
+      "id": "095",
+      "title": "XCV: Father and Daughter",
+      "length": 18466,
+      "mode": "type"
+    },
+    {
+      "id": "096",
+      "title": "XCVI: The Contract",
+      "length": 21424,
+      "mode": "type"
+    },
+    {
+      "id": "097",
+      "title": "XCVII: The Departure for Belgium",
+      "length": 12491,
+      "mode": "type"
+    },
+    {
+      "id": "098",
+      "title": "XCVIII: The Bell and Bottle Tavern",
+      "length": 25152,
+      "mode": "type"
+    },
+    {
+      "id": "099",
+      "title": "XCIX: The Law",
+      "length": 19830,
+      "mode": "type"
+    },
+    {
+      "id": "100",
+      "title": "C: The Apparition",
+      "length": 14114,
+      "mode": "type"
+    },
+    {
+      "id": "101",
+      "title": "CI: Locusta",
+      "length": 11113,
+      "mode": "type"
+    },
+    {
+      "id": "102",
+      "title": "CII: Valentine",
+      "length": 11536,
+      "mode": "type"
+    },
+    {
+      "id": "103",
+      "title": "CIII: Maximilian",
+      "length": 17087,
+      "mode": "type"
+    },
+    {
+      "id": "104",
+      "title": "CIV: Danglars' Signature",
+      "length": 20021,
+      "mode": "type"
+    },
+    {
+      "id": "105",
+      "title": "CV: The Cemetery of Pere-Lachaise",
+      "length": 25472,
+      "mode": "type"
+    },
+    {
+      "id": "106",
+      "title": "CVI: Dividing the Proceeds",
+      "length": 30041,
+      "mode": "type"
+    },
+    {
+      "id": "107",
+      "title": "CVII: The Lions' Den",
+      "length": 14922,
+      "mode": "type"
+    },
+    {
+      "id": "108",
+      "title": "CVIII: The Judge",
+      "length": 19394,
+      "mode": "type"
+    },
+    {
+      "id": "109",
+      "title": "CIX: The Assizes",
+      "length": 11439,
+      "mode": "type"
+    },
+    {
+      "id": "110",
+      "title": "CX: The Indictment",
+      "length": 14733,
+      "mode": "type"
+    },
+    {
+      "id": "111",
+      "title": "CXI: Expiation",
+      "length": 17286,
+      "mode": "type"
+    },
+    {
+      "id": "112",
+      "title": "CXII: The Departure",
+      "length": 28843,
+      "mode": "type"
+    },
+    {
+      "id": "113",
+      "title": "CXIII: The Past",
+      "length": 23457,
+      "mode": "type"
+    },
+    {
+      "id": "114",
+      "title": "CXIV: Peppino",
+      "length": 21319,
+      "mode": "type"
+    },
+    {
+      "id": "115",
+      "title": "CXV: Luigi Vampa's Bill of Fare",
+      "length": 12353,
+      "mode": "type"
+    },
+    {
+      "id": "116",
+      "title": "CXVI: The Pardon",
+      "length": 9501,
+      "mode": "type"
+    },
+    {
+      "id": "117",
+      "title": "CXVII: The Fifth of October",
+      "length": 27405,
+      "mode": "type"
+    },
+    {
+      "id": "118",
+      "title": "Endnotes",
+      "length": 3301,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL36287W",
+  "goodreadsId": "7183",
+  "rating": 0.86,
+  "popularity": 925668,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720554874837
+}

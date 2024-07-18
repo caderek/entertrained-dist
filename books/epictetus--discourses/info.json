@@ -1,1 +1,650 @@
-{"id":"epictetus--discourses","title":"Discourses","titleAlpha":"discourses","author":"Epictetus","language":"en","description":"Epictetus instructs his students how to live the life of a Stoic.","longDescription":["Raised a slave in Nero's court, Epictetus would become one of the most influential philosophers in the Stoic tradition. While exiled in Greece by an emperor who considered philosophers a threat, Epictetus founded a school of philosophy at Nicopolis. His student Arrian of Nicomedia took careful notes of his sometimes cantankerous lectures, the surviving examples of which are now known as the Discourses of Epictetus.","In these discourses, Epictetus explains how to gain peace-of-mind by only willing that which is within the domain of your will. There is no point in getting upset about things that are outside of your control; that only leads to distress. Instead, let such things be however they are, and focus your effort on the things that are in your control: your own attitudes and priorities. This way, you can never be thrown off balance, and tranquility is yours for the taking.","The lessons in the Discourses of Epictetus, along with his Enchiridion, have continued to attract new adherents to Stoic philosophy down to the present day."],"year":2020,"genres":["philosophy"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/epictetus/discourses/george-long"},"series":null,"part":0,"chapters":[{"id":"001","title":"Introduction","length":10445,"skip":false},{"id":"002","title":"Preface - Arrian to Lucius Gellius, with Wishes for His Happiness","length":1475,"skip":true},{"id":"003","title":"Book I - I: Of the Things Which Are in Our Power, and Not in Our Power","length":6253,"skip":false},{"id":"004","title":"Book I - II: How a Man on Every Occasion Can Maintain His Proper Character","length":6998,"skip":false},{"id":"005","title":"Book I - III: How a Man Should Proceed from the Principle of God Being the Father of All Men to the Rest","length":1666,"skip":false},{"id":"006","title":"Book I - IV: Of Progress or Improvement","length":6487,"skip":false},{"id":"007","title":"Book I - V: Against the Academics","length":1807,"skip":false},{"id":"008","title":"Book I - VI: Of Providence","length":8074,"skip":false},{"id":"009","title":"Book I - VII: Of the Use of Sophistical Arguments and Hypothetical and the Like","length":6825,"skip":false},{"id":"010","title":"Book I - VIII: That the Faculties Are Not Safe to the Uninstructed","length":2746,"skip":false},{"id":"011","title":"Book I - IX: How from the Fact That We Are Akin to God a Man May Proceed to the Consequences","length":7371,"skip":false},{"id":"012","title":"Book I - X: Against Those Who Eagerly Seek Preferment at Rome","length":2718,"skip":false},{"id":"013","title":"Book I - XI: Of Natural Affection","length":8433,"skip":false},{"id":"014","title":"Book I - XII: Of Contentment","length":7002,"skip":false},{"id":"015","title":"Book I - XIII: How Everything May Be Done Acceptably to the Gods","length":1175,"skip":false},{"id":"016","title":"Book I - XIV: That the Deity Oversees All Things","length":3523,"skip":false},{"id":"017","title":"Book I - XV: What Philosophy Promises","length":1533,"skip":false},{"id":"018","title":"Book I - XVI: Of Providence","length":3800,"skip":false},{"id":"019","title":"Book I - XVII: That the Logical Art Is Necessary","length":5335,"skip":false},{"id":"020","title":"Book I - XVIII: That We Ought Not to Be Angry with the Errors (Faults) of Others","length":5241,"skip":false},{"id":"021","title":"Book I - XIX: How We Should Behave to Tyrants","length":5511,"skip":false},{"id":"022","title":"Book I - XX: About Reason, How It Contemplates Itself","length":3693,"skip":false},{"id":"023","title":"Book I - XXI: Against Those Who Wish to Be Admired","length":659,"skip":false},{"id":"024","title":"Book I - XXII: On Precognitions","length":4301,"skip":false},{"id":"025","title":"Book I - XXIII: Against Epicurus","length":1657,"skip":false},{"id":"026","title":"Book I - XXIV: How We Should Struggle with Circumstances","length":3836,"skip":false},{"id":"027","title":"Book I - XXV: On the Same","length":6312,"skip":false},{"id":"028","title":"Book I - XXVI: What Is the Law of Life","length":4187,"skip":false},{"id":"029","title":"Book I - XXVII: In How Many Ways Appearances Exist, and What Aids We Should Provide Against Them","length":4398,"skip":false},{"id":"030","title":"Book I - XXVIII: That We Ought Not to Be Angry with Men; and What Are the Small and the Great Things Among Men","length":6837,"skip":false},{"id":"031","title":"Book I - XXIX: On Constancy (Or Firmness)","length":13712,"skip":false},{"id":"032","title":"Book I - XXX: What We Ought to Have Ready in Difficult Circumstances","length":1424,"skip":false},{"id":"033","title":"Book II - I: That Confidence (Courage) Is Not Inconsistent with Caution","length":9182,"skip":false},{"id":"034","title":"Book II - II: Of Tranquillity (Freedom from Perturbation)","length":4778,"skip":false},{"id":"035","title":"Book II - III: To Those Who Recommend Persons to Philosophers","length":1276,"skip":false},{"id":"036","title":"Book II - IV: Against a Person Who Had Once Been Detected in Adultery","length":2669,"skip":false},{"id":"037","title":"Book II - V: How Magnanimity Is Consistent with Care","length":6591,"skip":false},{"id":"038","title":"Book II - VI: Of Indifference","length":5374,"skip":false},{"id":"039","title":"Book II - VII: How We Ought to Use Divination","length":2903,"skip":false},{"id":"040","title":"Book II - VIII: What Is the Nature (Ἡ Οὐσία) of the Good","length":6627,"skip":false},{"id":"041","title":"Book II - IX: That When We Cannot Fulfil That Which the Character of a Man Promises, We Assume the Character of a Philosopher","length":4950,"skip":false},{"id":"042","title":"Book II - X: How We May Discover the Duties of Life from Names","length":6414,"skip":false},{"id":"043","title":"Book II - XI: What the Beginning of Philosophy Is","length":5374,"skip":false},{"id":"044","title":"Book II - XII: Of Disputation or Discussion","length":5058,"skip":false},{"id":"045","title":"Book II - XIII: On Anxiety (Solicitude)","length":6245,"skip":false},{"id":"046","title":"Book II - XIV: To Naso","length":6606,"skip":false},{"id":"047","title":"Book II - XV: To or Against Those Who Obstinately Persist in What They Have Determined","length":4028,"skip":false},{"id":"048","title":"Book II - XVI: That We Do Not Strive to Use Our Opinions About Good and Evil","length":10767,"skip":false},{"id":"049","title":"Book II - XVII: How We Must Adapt Preconceptions to Particular Cases","length":9358,"skip":false},{"id":"050","title":"Book II - XVIII: How We Should Struggle Against Appearances","length":6297,"skip":false},{"id":"051","title":"Book II - XIX: Against Those Who Embrace Philosophical Opinions Only in Words","length":8569,"skip":false},{"id":"052","title":"Book II - XX: Against the Epicureans and Academics","length":9577,"skip":false},{"id":"053","title":"Book II - XXI: Of Inconsistency","length":5552,"skip":false},{"id":"054","title":"Book II - XXII: On Friendship","length":9774,"skip":false},{"id":"055","title":"Book II - XXIII: On the Power of Speaking","length":11967,"skip":false},{"id":"056","title":"Book II - XXIV: To (Or Against) a Person Who Was One of Those Who Were Not Valued (Esteemed) by Him","length":7084,"skip":false},{"id":"057","title":"Book II - XXV: That Logic Is Necessary","length":478,"skip":false},{"id":"058","title":"Book II - XXVI: What Is the Property of Error","length":1835,"skip":false},{"id":"059","title":"Book III - I: Of Finery in Dress","length":11398,"skip":false},{"id":"060","title":"Book III - II: In What a Man Ought to Be Exercised Who Has Made Proficiency; and That We Neglect the Chief Things","length":5176,"skip":false},{"id":"061","title":"Book III - III: What Is the Matter on Which a Good Man Should Be Employed, and in What We Ought Chiefly to Practice Ourselves","length":5396,"skip":false},{"id":"062","title":"Book III - IV: Against a Person Who Showed His Partisanship in an Unseemly Way in a Theatre","length":3011,"skip":false},{"id":"063","title":"Book III - V: Against Those Who on Account of Sickness Go Away Home","length":4242,"skip":false},{"id":"064","title":"Book III - VI: Miscellaneous","length":2462,"skip":false},{"id":"065","title":"Book III - VII: To the Administrator of the Free Cities Who Was an Epicurean","length":8524,"skip":false},{"id":"066","title":"Book III - VIII: How We Must Exercise Ourselves Against Appearances (Φαντασίας)","length":1872,"skip":false},{"id":"067","title":"Book III - IX: To a Certain Rhetorician Who Was Going Up to Rome on a Suit","length":5579,"skip":false},{"id":"068","title":"Book III - X: In What Manner We Ought to Bear Sickness","length":4815,"skip":false},{"id":"069","title":"Book III - XI: Certain Miscellaneous Matters","length":839,"skip":false},{"id":"070","title":"Book III - XII: About Exercise","length":4543,"skip":false},{"id":"071","title":"Book III - XIII: What Solitude Is, and What Kind of Person a Solitary Man Is","length":5880,"skip":false},{"id":"072","title":"Book III - XIV: Certain Miscellaneous Matters","length":2245,"skip":false},{"id":"073","title":"Book III - XV: That We Ought to Proceed with Circumspection to Everything","length":3602,"skip":false},{"id":"074","title":"Book III - XVI: That We Ought with Caution to Enter Into Familiar Intercourse with Men","length":3396,"skip":false},{"id":"075","title":"Book III - XVII: On Providence","length":1730,"skip":false},{"id":"076","title":"Book III - XVIII: That We Ought Not to Be Disturbed by Any News","length":1913,"skip":false},{"id":"077","title":"Book III - XIX: What Is the Condition of a Common Kind of Man and of a Philosopher","length":1392,"skip":false},{"id":"078","title":"Book III - XX: That We Can Derive Advantage from All External Things","length":4179,"skip":false},{"id":"079","title":"Book III - XXI: Against Those Who Readily Come to the Profession of Sophists","length":5582,"skip":false},{"id":"080","title":"Book III - XXII: About Cynism","length":26823,"skip":false},{"id":"081","title":"Book III - XXIII: To Those Who Read and Discuss for the Sake of Ostentation","length":10126,"skip":false},{"id":"082","title":"Book III - XXIV: That We Ought Not to Be Moved by a Desire of Those Things Which Are Not in Our Power","length":30161,"skip":false},{"id":"083","title":"Book III - XXV: To Those Who Fall Off (Desist) from Their Purpose","length":2641,"skip":false},{"id":"084","title":"Book III - XXVI: To Those Who Fear Want","length":10248,"skip":false},{"id":"085","title":"Book IV - I: About Freedom","length":47262,"skip":false},{"id":"086","title":"Book IV - II: On Familiar Intimacy","length":2524,"skip":false},{"id":"087","title":"Book IV - III: What Things We Should Exchange for Other Things","length":2762,"skip":false},{"id":"088","title":"Book IV - IV: To Those Who Are Desirous of Passing Life in Tranquillity","length":13949,"skip":false},{"id":"089","title":"Book IV - V: Against the Quarrelsome and Ferocious","length":9919,"skip":false},{"id":"090","title":"Book IV - VI: Against Those Who Lament Over Being Pitied","length":10898,"skip":false},{"id":"091","title":"Book IV - VII: On Freedom from Fear","length":11735,"skip":false},{"id":"092","title":"Book IV - VIII: Against Those Who Hastily Rush Into the Use of the Philosophic Dress","length":11197,"skip":false},{"id":"093","title":"Book IV - IX: To a Person Who Had Been Changed to a Character of Shamelessness","length":4418,"skip":false},{"id":"094","title":"Book IV - X: What Things We Ought to Despise, and What Things We Ought to Value","length":8890,"skip":false},{"id":"095","title":"Book IV - XI: About Purity (Cleanliness)","length":9571,"skip":false},{"id":"096","title":"Book IV - XII: On Attention","length":5197,"skip":false},{"id":"097","title":"Book IV - XIII: Against or to Those Who Readily Tell Their Own Affairs","length":5686,"skip":false},{"id":"098","title":"Endnotes","length":218194,"skip":true}],"createdAt":1719506878386}
+{
+  "id": "epictetus--discourses",
+  "title": "Discourses",
+  "titleAlpha": "discourses",
+  "author": "Epictetus",
+  "language": "en",
+  "description": "Epictetus instructs his students how to live the life of a Stoic.",
+  "longDescription": [
+    "Raised a slave in Nero's court, Epictetus would become one of the most influential philosophers in the Stoic tradition. While exiled in Greece by an emperor who considered philosophers a threat, Epictetus founded a school of philosophy at Nicopolis. His student Arrian of Nicomedia took careful notes of his sometimes cantankerous lectures, the surviving examples of which are now known as the Discourses of Epictetus.",
+    "In these discourses, Epictetus explains how to gain peace-of-mind by only willing that which is within the domain of your will. There is no point in getting upset about things that are outside of your control; that only leads to distress. Instead, let such things be however they are, and focus your effort on the things that are in your control: your own attitudes and priorities. This way, you can never be thrown off balance, and tranquility is yours for the taking.",
+    "The lessons in the Discourses of Epictetus, along with his Enchiridion, have continued to attract new adherents to Stoic philosophy down to the present day."
+  ],
+  "year": 1800,
+  "genres": [
+    "classics",
+    "history",
+    "philosophy"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/epictetus/discourses/george-long"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Discourses",
+      "length": 41,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1182,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Introduction",
+      "length": 10445,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Preface - Arrian to Lucius Gellius, with Wishes for His Happiness",
+      "length": 1475,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Book I - I: Of the Things Which Are in Our Power, and Not in Our Power",
+      "length": 6253,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book I - II: How a Man on Every Occasion Can Maintain His Proper Character",
+      "length": 6998,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Book I - III: How a Man Should Proceed from the Principle of God Being the Father of All Men to the Rest",
+      "length": 1666,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Book I - IV: Of Progress or Improvement",
+      "length": 6487,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book I - V: Against the Academics",
+      "length": 1807,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Book I - VI: Of Providence",
+      "length": 8074,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book I - VII: Of the Use of Sophistical Arguments and Hypothetical and the Like",
+      "length": 6825,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book I - VIII: That the Faculties Are Not Safe to the Uninstructed",
+      "length": 2746,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book I - IX: How from the Fact That We Are Akin to God a Man May Proceed to the Consequences",
+      "length": 7371,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book I - X: Against Those Who Eagerly Seek Preferment at Rome",
+      "length": 2718,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book I - XI: Of Natural Affection",
+      "length": 8433,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Book I - XII: Of Contentment",
+      "length": 7002,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book I - XIII: How Everything May Be Done Acceptably to the Gods",
+      "length": 1175,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book I - XIV: That the Deity Oversees All Things",
+      "length": 3523,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Book I - XV: What Philosophy Promises",
+      "length": 1533,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Book I - XVI: Of Providence",
+      "length": 3800,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Book I - XVII: That the Logical Art Is Necessary",
+      "length": 5335,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Book I - XVIII: That We Ought Not to Be Angry with the Errors (Faults) of Others",
+      "length": 5241,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Book I - XIX: How We Should Behave to Tyrants",
+      "length": 5511,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Book I - XX: About Reason, How It Contemplates Itself",
+      "length": 3693,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Book I - XXI: Against Those Who Wish to Be Admired",
+      "length": 659,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Book I - XXII: On Precognitions",
+      "length": 4301,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Book I - XXIII: Against Epicurus",
+      "length": 1657,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Book I - XXIV: How We Should Struggle with Circumstances",
+      "length": 3836,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Book I - XXV: On the Same",
+      "length": 6312,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Book I - XXVI: What Is the Law of Life",
+      "length": 4187,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Book I - XXVII: In How Many Ways Appearances Exist, and What Aids We Should Provide Against Them",
+      "length": 4398,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Book I - XXVIII: That We Ought Not to Be Angry with Men; and What Are the Small and the Great Things Among Men",
+      "length": 6837,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Book I - XXIX: On Constancy (Or Firmness)",
+      "length": 13712,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Book I - XXX: What We Ought to Have Ready in Difficult Circumstances",
+      "length": 1424,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Book II - I: That Confidence (Courage) Is Not Inconsistent with Caution",
+      "length": 9182,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Book II - II: Of Tranquillity (Freedom from Perturbation)",
+      "length": 4778,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Book II - III: To Those Who Recommend Persons to Philosophers",
+      "length": 1276,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Book II - IV: Against a Person Who Had Once Been Detected in Adultery",
+      "length": 2669,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Book II - V: How Magnanimity Is Consistent with Care",
+      "length": 6591,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Book II - VI: Of Indifference",
+      "length": 5374,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Book II - VII: How We Ought to Use Divination",
+      "length": 2903,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Book II - VIII: What Is the Nature (Ἡ Οὐσία) of the Good",
+      "length": 6627,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Book II - IX: That When We Cannot Fulfil That Which the Character of a Man Promises, We Assume the Character of a Philosopher",
+      "length": 4950,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Book II - X: How We May Discover the Duties of Life from Names",
+      "length": 6414,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Book II - XI: What the Beginning of Philosophy Is",
+      "length": 5374,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Book II - XII: Of Disputation or Discussion",
+      "length": 5058,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Book II - XIII: On Anxiety (Solicitude)",
+      "length": 6245,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Book II - XIV: To Naso",
+      "length": 6606,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "Book II - XV: To or Against Those Who Obstinately Persist in What They Have Determined",
+      "length": 4028,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Book II - XVI: That We Do Not Strive to Use Our Opinions About Good and Evil",
+      "length": 10767,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "Book II - XVII: How We Must Adapt Preconceptions to Particular Cases",
+      "length": 9358,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "Book II - XVIII: How We Should Struggle Against Appearances",
+      "length": 6297,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "Book II - XIX: Against Those Who Embrace Philosophical Opinions Only in Words",
+      "length": 8569,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "Book II - XX: Against the Epicureans and Academics",
+      "length": 9577,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "Book II - XXI: Of Inconsistency",
+      "length": 5552,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "Book II - XXII: On Friendship",
+      "length": 9774,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "Book II - XXIII: On the Power of Speaking",
+      "length": 11967,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "Book II - XXIV: To (Or Against) a Person Who Was One of Those Who Were Not Valued (Esteemed) by Him",
+      "length": 7084,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "Book II - XXV: That Logic Is Necessary",
+      "length": 478,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "Book II - XXVI: What Is the Property of Error",
+      "length": 1835,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "Book III - I: Of Finery in Dress",
+      "length": 11398,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "Book III - II: In What a Man Ought to Be Exercised Who Has Made Proficiency; and That We Neglect the Chief Things",
+      "length": 5176,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "Book III - III: What Is the Matter on Which a Good Man Should Be Employed, and in What We Ought Chiefly to Practice Ourselves",
+      "length": 5396,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "Book III - IV: Against a Person Who Showed His Partisanship in an Unseemly Way in a Theatre",
+      "length": 3011,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "Book III - V: Against Those Who on Account of Sickness Go Away Home",
+      "length": 4242,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "Book III - VI: Miscellaneous",
+      "length": 2462,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "Book III - VII: To the Administrator of the Free Cities Who Was an Epicurean",
+      "length": 8524,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "Book III - VIII: How We Must Exercise Ourselves Against Appearances (Φαντασίας)",
+      "length": 1872,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "Book III - IX: To a Certain Rhetorician Who Was Going Up to Rome on a Suit",
+      "length": 5579,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "Book III - X: In What Manner We Ought to Bear Sickness",
+      "length": 4815,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "Book III - XI: Certain Miscellaneous Matters",
+      "length": 839,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "Book III - XII: About Exercise",
+      "length": 4543,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "Book III - XIII: What Solitude Is, and What Kind of Person a Solitary Man Is",
+      "length": 5880,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "Book III - XIV: Certain Miscellaneous Matters",
+      "length": 2245,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "Book III - XV: That We Ought to Proceed with Circumspection to Everything",
+      "length": 3602,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "Book III - XVI: That We Ought with Caution to Enter Into Familiar Intercourse with Men",
+      "length": 3396,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "Book III - XVII: On Providence",
+      "length": 1730,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "Book III - XVIII: That We Ought Not to Be Disturbed by Any News",
+      "length": 1913,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "Book III - XIX: What Is the Condition of a Common Kind of Man and of a Philosopher",
+      "length": 1392,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "Book III - XX: That We Can Derive Advantage from All External Things",
+      "length": 4179,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "Book III - XXI: Against Those Who Readily Come to the Profession of Sophists",
+      "length": 5582,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "Book III - XXII: About Cynism",
+      "length": 26823,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "Book III - XXIII: To Those Who Read and Discuss for the Sake of Ostentation",
+      "length": 10126,
+      "mode": "type"
+    },
+    {
+      "id": "084",
+      "title": "Book III - XXIV: That We Ought Not to Be Moved by a Desire of Those Things Which Are Not in Our Power",
+      "length": 30161,
+      "mode": "type"
+    },
+    {
+      "id": "085",
+      "title": "Book III - XXV: To Those Who Fall Off (Desist) from Their Purpose",
+      "length": 2641,
+      "mode": "type"
+    },
+    {
+      "id": "086",
+      "title": "Book III - XXVI: To Those Who Fear Want",
+      "length": 10248,
+      "mode": "type"
+    },
+    {
+      "id": "087",
+      "title": "Book IV - I: About Freedom",
+      "length": 47262,
+      "mode": "type"
+    },
+    {
+      "id": "088",
+      "title": "Book IV - II: On Familiar Intimacy",
+      "length": 2524,
+      "mode": "type"
+    },
+    {
+      "id": "089",
+      "title": "Book IV - III: What Things We Should Exchange for Other Things",
+      "length": 2762,
+      "mode": "type"
+    },
+    {
+      "id": "090",
+      "title": "Book IV - IV: To Those Who Are Desirous of Passing Life in Tranquillity",
+      "length": 13949,
+      "mode": "type"
+    },
+    {
+      "id": "091",
+      "title": "Book IV - V: Against the Quarrelsome and Ferocious",
+      "length": 9919,
+      "mode": "type"
+    },
+    {
+      "id": "092",
+      "title": "Book IV - VI: Against Those Who Lament Over Being Pitied",
+      "length": 10898,
+      "mode": "type"
+    },
+    {
+      "id": "093",
+      "title": "Book IV - VII: On Freedom from Fear",
+      "length": 11735,
+      "mode": "type"
+    },
+    {
+      "id": "094",
+      "title": "Book IV - VIII: Against Those Who Hastily Rush Into the Use of the Philosophic Dress",
+      "length": 11197,
+      "mode": "type"
+    },
+    {
+      "id": "095",
+      "title": "Book IV - IX: To a Person Who Had Been Changed to a Character of Shamelessness",
+      "length": 4418,
+      "mode": "type"
+    },
+    {
+      "id": "096",
+      "title": "Book IV - X: What Things We Ought to Despise, and What Things We Ought to Value",
+      "length": 8890,
+      "mode": "type"
+    },
+    {
+      "id": "097",
+      "title": "Book IV - XI: About Purity (Cleanliness)",
+      "length": 9571,
+      "mode": "type"
+    },
+    {
+      "id": "098",
+      "title": "Book IV - XII: On Attention",
+      "length": 5197,
+      "mode": "type"
+    },
+    {
+      "id": "099",
+      "title": "Book IV - XIII: Against or to Those Who Readily Tell Their Own Affairs",
+      "length": 5686,
+      "mode": "type"
+    },
+    {
+      "id": "100",
+      "title": "Endnotes",
+      "length": 218194,
+      "mode": "hide"
+    },
+    {
+      "id": "101",
+      "title": "Colophon",
+      "length": 1080,
+      "mode": "hide"
+    },
+    {
+      "id": "102",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL10411273W",
+  "goodreadsId": "24616",
+  "rating": 0.8539999999999999,
+  "popularity": 5318,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721171781018
+}

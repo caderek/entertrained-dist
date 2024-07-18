@@ -1,1 +1,330 @@
-{"id":"l-m-montgomery--anne-of-the-island","title":"Anne of the Island","titleAlpha":"anne of the island","author":"L. M. Montgomery","language":"en","description":"A young woman learns life lessons while away at college and during visits back home.","longDescription":["Anne Shirley leaves home to attend Redmond College and pursue a degree. Some of her classmates are going with her, including her childhood enemy turned friend Gilbert Blythe, while other childhood friends are staying in Avonlea to work, get married, and start families. She is also leaving behind her friends and family, but will stay in touch with them through letters and visits home during winter breaks and summer vacations. The story follows the adventures of Anne and her friends during their college years, focusing on the female relationships and emotional growth of the characters.","Anne of the Island is chronologically the third novel in the Anne of Green Gables series, but is the fourth one to have been published. It's written with L. M. Montgomery's signature blend of humor, literary allusions, keen observations of human nature, and enchanting descriptions of the natural world."],"year":1915,"genres":["fiction","history"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/l-m-montgomery/anne-of-the-island"},"series":"Anne Shirley","part":3,"chapters":[{"id":"001","title":"Epigraph","length":149,"skip":true},{"id":"002","title":"I: The Shadow of Change","length":14563,"skip":false},{"id":"003","title":"II: Garlands of Autumn","length":13550,"skip":false},{"id":"004","title":"III: Greeting and Farewell","length":11313,"skip":false},{"id":"005","title":"IV: April's Lady","length":23056,"skip":false},{"id":"006","title":"V: Letters from Home","length":14744,"skip":false},{"id":"007","title":"VI: In the Park","length":11482,"skip":false},{"id":"008","title":"VII: Home Again","length":14536,"skip":false},{"id":"009","title":"VIII: Anne's First Proposal","length":7934,"skip":false},{"id":"010","title":"IX: An Unwelcome Lover and a Welcome Friend","length":13991,"skip":false},{"id":"011","title":"X: Patty's Place","length":13589,"skip":false},{"id":"012","title":"XI: The Round of Life","length":15452,"skip":false},{"id":"013","title":"XII: \"Averil's Atonement\"","length":12211,"skip":false},{"id":"014","title":"XIII: The Way of Transgressors","length":16041,"skip":false},{"id":"015","title":"XIV: The Summons","length":13618,"skip":false},{"id":"016","title":"XV: A Dream Turned Upside Down","length":7780,"skip":false},{"id":"017","title":"XVI: Adjusted Relationships","length":19030,"skip":false},{"id":"018","title":"XVII: A Letter from Davy","length":5163,"skip":false},{"id":"019","title":"XVIII: Miss Josephine Remembers the Anne-Girl","length":9710,"skip":false},{"id":"020","title":"XIX: An Interlude","length":5736,"skip":false},{"id":"021","title":"XX: Gilbert Speaks","length":8354,"skip":false},{"id":"022","title":"XXI: Roses of Yesterday","length":6665,"skip":false},{"id":"023","title":"XXII: Spring and Anne Return to Green Gables","length":7105,"skip":false},{"id":"024","title":"XXIII: Paul Cannot Find the Rock People","length":6190,"skip":false},{"id":"025","title":"XXIV: Enter Jonas","length":8807,"skip":false},{"id":"026","title":"XXV: Enter Prince Charming","length":10161,"skip":false},{"id":"027","title":"XXVI: Enter Christine","length":5834,"skip":false},{"id":"028","title":"XXVII: Mutual Confidences","length":9104,"skip":false},{"id":"029","title":"XXVIII: A June Evening","length":7689,"skip":false},{"id":"030","title":"XXIX: Diana's Wedding","length":6251,"skip":false},{"id":"031","title":"XXX: Mrs. Skinner's Romance","length":6284,"skip":false},{"id":"032","title":"XXXI: Anne to Philippa","length":4620,"skip":false},{"id":"033","title":"XXXII: Tea with Mrs. Douglas","length":7995,"skip":false},{"id":"034","title":"XXXIII: \"He Just Kept Coming and Coming\"","length":5228,"skip":false},{"id":"035","title":"XXXIV: John Douglas Speaks at Last","length":7949,"skip":false},{"id":"036","title":"XXXV: The Last Redmond Year Opens","length":11268,"skip":false},{"id":"037","title":"XXXVI: The Gardners' Call","length":9367,"skip":false},{"id":"038","title":"XXXVII: Full-Fledged B. A.'s","length":9439,"skip":false},{"id":"039","title":"XXXVIII: False Dawn","length":9400,"skip":false},{"id":"040","title":"XXXIX: Deals with Weddings","length":12756,"skip":false},{"id":"041","title":"XL: A Book of Revelation","length":7483,"skip":false},{"id":"042","title":"XLI: Love Takes Up the Glass of Time","length":9428,"skip":false},{"id":"043","title":"Endnotes","length":25,"skip":true}],"createdAt":1719507077157}
+{
+  "id": "l-m-montgomery--anne-of-the-island",
+  "title": "Anne of the Island",
+  "titleAlpha": "anne of the island",
+  "author": "L. M. Montgomery",
+  "language": "en",
+  "description": "A young woman learns life lessons while away at college and during visits back home.",
+  "longDescription": [
+    "Anne Shirley leaves home to attend Redmond College and pursue a degree. Some of her classmates are going with her, including her childhood enemy turned friend Gilbert Blythe, while other childhood friends are staying in Avonlea to work, get married, and start families. She is also leaving behind her friends and family, but will stay in touch with them through letters and visits home during winter breaks and summer vacations. The story follows the adventures of Anne and her friends during their college years, focusing on the female relationships and emotional growth of the characters.",
+    "Anne of the Island is chronologically the third novel in the Anne of Green Gables series, but is the fourth one to have been published. It's written with L. M. Montgomery's signature blend of humor, literary allusions, keen observations of human nature, and enchanting descriptions of the natural world."
+  ],
+  "year": 1915,
+  "genres": [
+    "classics",
+    "fiction",
+    "romance",
+    "coming-of-age",
+    "young-adult",
+    "children"
+  ],
+  "topics": [
+    "friendship"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Anne of Green Gables",
+  "part": 3,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-the-island"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Anne of the Island",
+      "length": 21,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 70,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Epigraph",
+      "length": 149,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "I: The Shadow of Change",
+      "length": 14563,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "II: Garlands of Autumn",
+      "length": 13550,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "III: Greeting and Farewell",
+      "length": 11313,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "IV: April's Lady",
+      "length": 23056,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "V: Letters from Home",
+      "length": 14744,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VI: In the Park",
+      "length": 11482,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VII: Home Again",
+      "length": 14536,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VIII: Anne's First Proposal",
+      "length": 7934,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "IX: An Unwelcome Lover and a Welcome Friend",
+      "length": 13991,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "X: Patty's Place",
+      "length": 13589,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XI: The Round of Life",
+      "length": 15452,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XII: \"Averil's Atonement\"",
+      "length": 12211,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIII: The Way of Transgressors",
+      "length": 16041,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIV: The Summons",
+      "length": 13618,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XV: A Dream Turned Upside Down",
+      "length": 7780,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVI: Adjusted Relationships",
+      "length": 19030,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVII: A Letter from Davy",
+      "length": 5163,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVIII: Miss Josephine Remembers the Anne-Girl",
+      "length": 9710,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XIX: An Interlude",
+      "length": 5736,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XX: Gilbert Speaks",
+      "length": 8354,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXI: Roses of Yesterday",
+      "length": 6665,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXII: Spring and Anne Return to Green Gables",
+      "length": 7105,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXIII: Paul Cannot Find the Rock People",
+      "length": 6190,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXIV: Enter Jonas",
+      "length": 8807,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXV: Enter Prince Charming",
+      "length": 10161,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVI: Enter Christine",
+      "length": 5834,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVII: Mutual Confidences",
+      "length": 9104,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXVIII: A June Evening",
+      "length": 7689,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXIX: Diana's Wedding",
+      "length": 6251,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXX: Mrs. Skinner's Romance",
+      "length": 6284,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXI: Anne to Philippa",
+      "length": 4620,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXII: Tea with Mrs. Douglas",
+      "length": 7995,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXIII: \"He Just Kept Coming and Coming\"",
+      "length": 5228,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXIV: John Douglas Speaks at Last",
+      "length": 7949,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXV: The Last Redmond Year Opens",
+      "length": 11268,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXVI: The Gardners' Call",
+      "length": 9367,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XXXVII: Full-Fledged B. A.'s",
+      "length": 9439,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XXXVIII: False Dawn",
+      "length": 9400,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XXXIX: Deals with Weddings",
+      "length": 12756,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XL: A Book of Revelation",
+      "length": 7483,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XLI: Love Takes Up the Glass of Time",
+      "length": 9428,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Endnotes",
+      "length": 25,
+      "mode": "hide"
+    },
+    {
+      "id": "047",
+      "title": "Colophon",
+      "length": 1084,
+      "mode": "hide"
+    },
+    {
+      "id": "048",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL77748W",
+  "goodreadsId": "65770",
+  "rating": 0.8539999999999999,
+  "popularity": 176356,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720966854124
+}
