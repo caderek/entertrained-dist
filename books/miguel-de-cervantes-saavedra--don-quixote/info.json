@@ -34,794 +34,830 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - Don Quixote",
+      "length": 60,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "Translator's Preface - I: About This Translation",
       "length": 12361,
       "mode": "hide"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "Translator's Preface - II: About Cervantes and Don Quixote",
       "length": 79182,
       "mode": "hide"
     },
     {
-      "id": "003",
+      "id": "005",
+      "title": "Part I - Dedication",
+      "length": 1142,
+      "mode": "hide"
+    },
+    {
+      "id": "006",
       "title": "Part I - Preface",
       "length": 13938,
       "mode": "skip"
     },
     {
-      "id": "004",
+      "id": "007",
       "title": "Part I - Some Commendatory Verses",
       "length": 7794,
       "mode": "skip"
     },
     {
-      "id": "005",
+      "id": "008",
       "title": "Part I - I",
       "length": 10967,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "009",
       "title": "Part I - II",
       "length": 12804,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "010",
       "title": "Part I - III",
       "length": 13637,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "011",
       "title": "Part I - IV",
       "length": 13750,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "012",
       "title": "Part I - V",
       "length": 8989,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "013",
       "title": "Part I - VI",
       "length": 14899,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "014",
       "title": "Part I - VII",
       "length": 10765,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "015",
       "title": "Part I - VIII",
       "length": 16887,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "016",
       "title": "Part I - IX",
       "length": 11386,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "017",
       "title": "Part I - X",
       "length": 11120,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "018",
       "title": "Part I - XI",
       "length": 11982,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "019",
       "title": "Part I - XII",
       "length": 13040,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "020",
       "title": "Part I - XIII",
       "length": 19902,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "021",
       "title": "Part I - XIV",
       "length": 16325,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "022",
       "title": "Part I - XV",
       "length": 15928,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "023",
       "title": "Part I - XVI",
       "length": 16253,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "024",
       "title": "Part I - XVII",
       "length": 18231,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "025",
       "title": "Part I - XVIII",
       "length": 22281,
       "mode": "type"
     },
     {
-      "id": "023",
+      "id": "026",
       "title": "Part I - XIX",
       "length": 16072,
       "mode": "type"
     },
     {
-      "id": "024",
+      "id": "027",
       "title": "Part I - XX",
       "length": 28426,
       "mode": "type"
     },
     {
-      "id": "025",
+      "id": "028",
       "title": "Part I - XXI",
       "length": 24938,
       "mode": "type"
     },
     {
-      "id": "026",
+      "id": "029",
       "title": "Part I - XXII",
       "length": 23087,
       "mode": "type"
     },
     {
-      "id": "027",
+      "id": "030",
       "title": "Part I - XXIII",
       "length": 25146,
       "mode": "type"
     },
     {
-      "id": "028",
+      "id": "031",
       "title": "Part I - XXIV",
       "length": 19329,
       "mode": "type"
     },
     {
-      "id": "029",
+      "id": "032",
       "title": "Part I - XXV",
       "length": 35381,
       "mode": "type"
     },
     {
-      "id": "030",
+      "id": "033",
       "title": "Part I - XXVI",
       "length": 16766,
       "mode": "type"
     },
     {
-      "id": "031",
+      "id": "034",
       "title": "Part I - XXVII",
       "length": 35936,
       "mode": "type"
     },
     {
-      "id": "032",
+      "id": "035",
       "title": "Part I - XXVIII",
       "length": 31956,
       "mode": "type"
     },
     {
-      "id": "033",
+      "id": "036",
       "title": "Part I - XXIX",
       "length": 25653,
       "mode": "type"
     },
     {
-      "id": "034",
+      "id": "037",
       "title": "Part I - XXX",
       "length": 22201,
       "mode": "type"
     },
     {
-      "id": "035",
+      "id": "038",
       "title": "Part I - XXXI",
       "length": 19812,
       "mode": "type"
     },
     {
-      "id": "036",
+      "id": "039",
       "title": "Part I - XXXII",
       "length": 14407,
       "mode": "type"
     },
     {
-      "id": "037",
+      "id": "040",
       "title": "Part I - XXXIII",
       "length": 42611,
       "mode": "type"
     },
     {
-      "id": "038",
+      "id": "041",
       "title": "Part I - XXXIV",
       "length": 41714,
       "mode": "type"
     },
     {
-      "id": "039",
+      "id": "042",
       "title": "Part I - XXXV",
       "length": 19201,
       "mode": "type"
     },
     {
-      "id": "040",
+      "id": "043",
       "title": "Part I - XXXVI",
       "length": 20808,
       "mode": "type"
     },
     {
-      "id": "041",
+      "id": "044",
       "title": "Part I - XXXVII",
       "length": 22738,
       "mode": "type"
     },
     {
-      "id": "042",
+      "id": "045",
       "title": "Part I - XXXVIII",
       "length": 8827,
       "mode": "type"
     },
     {
-      "id": "043",
+      "id": "046",
       "title": "Part I - XXXIX",
       "length": 17692,
       "mode": "type"
     },
     {
-      "id": "044",
+      "id": "047",
       "title": "Part I - XL",
       "length": 26671,
       "mode": "type"
     },
     {
-      "id": "045",
+      "id": "048",
       "title": "Part I - XLI",
       "length": 43329,
       "mode": "type"
     },
     {
-      "id": "046",
+      "id": "049",
       "title": "Part I - XLII",
       "length": 15995,
       "mode": "type"
     },
     {
-      "id": "047",
+      "id": "050",
       "title": "Part I - XLIII",
       "length": 20630,
       "mode": "type"
     },
     {
-      "id": "048",
+      "id": "051",
       "title": "Part I - XLIV",
       "length": 18715,
       "mode": "type"
     },
     {
-      "id": "049",
+      "id": "052",
       "title": "Part I - XLV",
       "length": 16985,
       "mode": "type"
     },
     {
-      "id": "050",
+      "id": "053",
       "title": "Part I - XLVI",
       "length": 18133,
       "mode": "type"
     },
     {
-      "id": "051",
+      "id": "054",
       "title": "Part I - XLVII",
       "length": 21731,
       "mode": "type"
     },
     {
-      "id": "052",
+      "id": "055",
       "title": "Part I - XLVIII",
       "length": 16768,
       "mode": "type"
     },
     {
-      "id": "053",
+      "id": "056",
       "title": "Part I - XLIX",
       "length": 15119,
       "mode": "type"
     },
     {
-      "id": "054",
+      "id": "057",
       "title": "Part I - L",
       "length": 14019,
       "mode": "type"
     },
     {
-      "id": "055",
+      "id": "058",
       "title": "Part I - LI",
       "length": 11789,
       "mode": "type"
     },
     {
-      "id": "056",
+      "id": "059",
       "title": "Part I - LII",
       "length": 22983,
       "mode": "type"
     },
     {
-      "id": "057",
+      "id": "060",
+      "title": "Part II - Dedication",
+      "length": 2374,
+      "mode": "hide"
+    },
+    {
+      "id": "061",
       "title": "Part II - Preface",
       "length": 7850,
       "mode": "skip"
     },
     {
-      "id": "058",
+      "id": "062",
       "title": "Part II - I",
       "length": 23790,
       "mode": "type"
     },
     {
-      "id": "059",
+      "id": "063",
       "title": "Part II - II",
       "length": 10052,
       "mode": "type"
     },
     {
-      "id": "060",
+      "id": "064",
       "title": "Part II - III",
       "length": 16414,
       "mode": "type"
     },
     {
-      "id": "061",
+      "id": "065",
       "title": "Part II - IV",
       "length": 11057,
       "mode": "type"
     },
     {
-      "id": "062",
+      "id": "066",
       "title": "Part II - V",
       "length": 13642,
       "mode": "type"
     },
     {
-      "id": "063",
+      "id": "067",
       "title": "Part II - VI",
       "length": 12052,
       "mode": "type"
     },
     {
-      "id": "064",
+      "id": "068",
       "title": "Part II - VII",
       "length": 14866,
       "mode": "type"
     },
     {
-      "id": "065",
+      "id": "069",
       "title": "Part II - VIII",
       "length": 15652,
       "mode": "type"
     },
     {
-      "id": "066",
+      "id": "070",
       "title": "Part II - IX",
       "length": 8045,
       "mode": "type"
     },
     {
-      "id": "067",
+      "id": "071",
       "title": "Part II - X",
       "length": 18469,
       "mode": "type"
     },
     {
-      "id": "068",
+      "id": "072",
       "title": "Part II - XI",
       "length": 13264,
       "mode": "type"
     },
     {
-      "id": "069",
+      "id": "073",
       "title": "Part II - XII",
       "length": 13285,
       "mode": "type"
     },
     {
-      "id": "070",
+      "id": "074",
       "title": "Part II - XIII",
       "length": 12733,
       "mode": "type"
     },
     {
-      "id": "071",
+      "id": "075",
       "title": "Part II - XIV",
       "length": 23761,
       "mode": "type"
     },
     {
-      "id": "072",
+      "id": "076",
       "title": "Part II - XV",
       "length": 4529,
       "mode": "type"
     },
     {
-      "id": "073",
+      "id": "077",
       "title": "Part II - XVI",
       "length": 20751,
       "mode": "type"
     },
     {
-      "id": "074",
+      "id": "078",
       "title": "Part II - XVII",
       "length": 22672,
       "mode": "type"
     },
     {
-      "id": "075",
+      "id": "079",
       "title": "Part II - XVIII",
       "length": 17254,
       "mode": "type"
     },
     {
-      "id": "076",
+      "id": "080",
       "title": "Part II - XIX",
       "length": 15995,
       "mode": "type"
     },
     {
-      "id": "077",
+      "id": "081",
       "title": "Part II - XX",
       "length": 17972,
       "mode": "type"
     },
     {
-      "id": "078",
+      "id": "082",
       "title": "Part II - XXI",
       "length": 13781,
       "mode": "type"
     },
     {
-      "id": "079",
+      "id": "083",
       "title": "Part II - XXII",
       "length": 16626,
       "mode": "type"
     },
     {
-      "id": "080",
+      "id": "084",
       "title": "Part II - XXIII",
       "length": 21993,
       "mode": "type"
     },
     {
-      "id": "081",
+      "id": "085",
       "title": "Part II - XXIV",
       "length": 13606,
       "mode": "type"
     },
     {
-      "id": "082",
+      "id": "086",
       "title": "Part II - XXV",
       "length": 20133,
       "mode": "type"
     },
     {
-      "id": "083",
+      "id": "087",
       "title": "Part II - XXVI",
       "length": 17411,
       "mode": "type"
     },
     {
-      "id": "084",
+      "id": "088",
       "title": "Part II - XXVII",
       "length": 14294,
       "mode": "type"
     },
     {
-      "id": "085",
+      "id": "089",
       "title": "Part II - XXVIII",
       "length": 10973,
       "mode": "type"
     },
     {
-      "id": "086",
+      "id": "090",
       "title": "Part II - XXIX",
       "length": 13153,
       "mode": "type"
     },
     {
-      "id": "087",
+      "id": "091",
       "title": "Part II - XXX",
       "length": 10323,
       "mode": "type"
     },
     {
-      "id": "088",
+      "id": "092",
       "title": "Part II - XXXI",
       "length": 17738,
       "mode": "type"
     },
     {
-      "id": "089",
+      "id": "093",
       "title": "Part II - XXXII",
       "length": 30074,
       "mode": "type"
     },
     {
-      "id": "090",
+      "id": "094",
       "title": "Part II - XXXIII",
       "length": 15127,
       "mode": "type"
     },
     {
-      "id": "091",
+      "id": "095",
       "title": "Part II - XXXIV",
       "length": 15669,
       "mode": "type"
     },
     {
-      "id": "092",
+      "id": "096",
       "title": "Part II - XXXV",
       "length": 14547,
       "mode": "type"
     },
     {
-      "id": "093",
+      "id": "097",
       "title": "Part II - XXXVI",
       "length": 12028,
       "mode": "type"
     },
     {
-      "id": "094",
+      "id": "098",
       "title": "Part II - XXXVII",
       "length": 4249,
       "mode": "type"
     },
     {
-      "id": "095",
+      "id": "099",
       "title": "Part II - XXXVIII",
       "length": 13278,
       "mode": "type"
     },
     {
-      "id": "096",
+      "id": "100",
       "title": "Part II - XXXIX",
       "length": 5688,
       "mode": "type"
     },
     {
-      "id": "097",
+      "id": "101",
       "title": "Part II - XL",
       "length": 11666,
       "mode": "type"
     },
     {
-      "id": "098",
+      "id": "102",
       "title": "Part II - XLI",
       "length": 21785,
       "mode": "type"
     },
     {
-      "id": "099",
+      "id": "103",
       "title": "Part II - XLII",
       "length": 11061,
       "mode": "type"
     },
     {
-      "id": "100",
+      "id": "104",
       "title": "Part II - XLIII",
       "length": 12735,
       "mode": "type"
     },
     {
-      "id": "101",
+      "id": "105",
       "title": "Part II - XLIV",
       "length": 18823,
       "mode": "type"
     },
     {
-      "id": "102",
+      "id": "106",
       "title": "Part II - XLV",
       "length": 14816,
       "mode": "type"
     },
     {
-      "id": "103",
+      "id": "107",
       "title": "Part II - XLVI",
       "length": 8137,
       "mode": "type"
     },
     {
-      "id": "104",
+      "id": "108",
       "title": "Part II - XLVII",
       "length": 17714,
       "mode": "type"
     },
     {
-      "id": "105",
+      "id": "109",
       "title": "Part II - XLVIII",
       "length": 17674,
       "mode": "type"
     },
     {
-      "id": "106",
+      "id": "110",
       "title": "Part II - XLIX",
       "length": 23478,
       "mode": "type"
     },
     {
-      "id": "107",
+      "id": "111",
       "title": "Part II - L",
       "length": 18412,
       "mode": "type"
     },
     {
-      "id": "108",
+      "id": "112",
       "title": "Part II - LI",
       "length": 17824,
       "mode": "type"
     },
     {
-      "id": "109",
+      "id": "113",
       "title": "Part II - LII",
       "length": 15069,
       "mode": "type"
     },
     {
-      "id": "110",
+      "id": "114",
       "title": "Part II - LIII",
       "length": 12117,
       "mode": "type"
     },
     {
-      "id": "111",
+      "id": "115",
       "title": "Part II - LIV",
       "length": 16852,
       "mode": "type"
     },
     {
-      "id": "112",
+      "id": "116",
       "title": "Part II - LV",
       "length": 15527,
       "mode": "type"
     },
     {
-      "id": "113",
+      "id": "117",
       "title": "Part II - LVI",
       "length": 10846,
       "mode": "type"
     },
     {
-      "id": "114",
+      "id": "118",
       "title": "Part II - LVII",
       "length": 7090,
       "mode": "type"
     },
     {
-      "id": "115",
+      "id": "119",
       "title": "Part II - LVIII",
       "length": 24584,
       "mode": "type"
     },
     {
-      "id": "116",
+      "id": "120",
       "title": "Part II - LIX",
       "length": 16893,
       "mode": "type"
     },
     {
-      "id": "117",
+      "id": "121",
       "title": "Part II - LX",
       "length": 27150,
       "mode": "type"
     },
     {
-      "id": "118",
+      "id": "122",
       "title": "Part II - LXI",
       "length": 5961,
       "mode": "type"
     },
     {
-      "id": "119",
+      "id": "123",
       "title": "Part II - LXII",
       "length": 25481,
       "mode": "type"
     },
     {
-      "id": "120",
+      "id": "124",
       "title": "Part II - LXIII",
       "length": 20741,
       "mode": "type"
     },
     {
-      "id": "121",
+      "id": "125",
       "title": "Part II - LXIV",
       "length": 9346,
       "mode": "type"
     },
     {
-      "id": "122",
+      "id": "126",
       "title": "Part II - LXV",
       "length": 11468,
       "mode": "type"
     },
     {
-      "id": "123",
+      "id": "127",
       "title": "Part II - LXVI",
       "length": 10724,
       "mode": "type"
     },
     {
-      "id": "124",
+      "id": "128",
       "title": "Part II - LXVII",
       "length": 10553,
       "mode": "type"
     },
     {
-      "id": "125",
+      "id": "129",
       "title": "Part II - LXVIII",
       "length": 10413,
       "mode": "type"
     },
     {
-      "id": "126",
+      "id": "130",
       "title": "Part II - LXIX",
       "length": 10873,
       "mode": "type"
     },
     {
-      "id": "127",
+      "id": "131",
       "title": "Part II - LXX",
       "length": 15370,
       "mode": "type"
     },
     {
-      "id": "128",
+      "id": "132",
       "title": "Part II - LXXI",
       "length": 12523,
       "mode": "type"
     },
     {
-      "id": "129",
+      "id": "133",
       "title": "Part II - LXXII",
       "length": 10111,
       "mode": "type"
     },
     {
-      "id": "130",
+      "id": "134",
       "title": "Part II - LXXIII",
       "length": 10220,
       "mode": "type"
     },
     {
-      "id": "131",
+      "id": "135",
       "title": "Part II - LXXIV",
       "length": 14322,
       "mode": "type"
     },
     {
-      "id": "132",
+      "id": "136",
       "title": "Endnotes",
       "length": 155709,
+      "mode": "hide"
+    },
+    {
+      "id": "137",
+      "title": "Colophon",
+      "length": 1191,
+      "mode": "hide"
+    },
+    {
+      "id": "138",
+      "title": "Uncopyright",
+      "length": 2050,
       "mode": "hide"
     }
   ],

@@ -1,1 +1,99 @@
-{"id":"g-k-chesterton--the-club-of-queer-trades","title":"The Club of Queer Trades","titleAlpha":"club of queer trades","author":"G. K. Chesterton","language":"en","description":"Two friends, solving a perceived crime, stumble upon a club for people who have invented their own method of employment.","longDescription":["Charles Swinburne and his friend, the private detective Rupert Grant, are startled when Major Brown recounts the things that happened to him that morning. Along with Rupert's brother, the ex-judge Basil Grant, they launch headlong into their investigation only to discover that the antagonist is a member of the Club of Queer Trades. Over the course of six short stories, the secrets of the Club come to light in surprising ways.","The Club of Queer Trades was one of G. K. Chesterton's earlier works, and was originally serialized in Harper's Weekly in 1904 before being collected into a novel in 1905. In recent years it was produced as a six-part radio drama by the BBC."],"year":1905,"genres":["classics","fiction","mystery"],"topics":["detective"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/g-k-chesterton/the-club-of-queer-trades"},"openlibraryId":"OL76325W","goodreadsId":"428134","rating":0.78,"popularity":2560,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Club of Queer Trades","length":21,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I: The Tremendous Adventures of Major Brown","length":46804,"mode":"type"},{"id":"004","title":"II: The Painful Fall of a Great Reputation","length":31984,"mode":"type"},{"id":"005","title":"III: The Awful Reason of the Vicar's Visit","length":36621,"mode":"type"},{"id":"006","title":"IV: The Singular Speculation of the House-Agent","length":42780,"mode":"type"},{"id":"007","title":"V: The Noticeable Conduct of Professor Chadd","length":36586,"mode":"type"},{"id":"008","title":"VI: The Eccentric Seclusion of the Old Lady","length":49578,"mode":"type"},{"id":"009","title":"Colophon","length":1054,"mode":"hide"},{"id":"010","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721171852042}
+{
+  "id": "g-k-chesterton--the-club-of-queer-trades",
+  "title": "The Club of Queer Trades",
+  "titleAlpha": "club of queer trades",
+  "author": "G. K. Chesterton",
+  "language": "en",
+  "description": "Two friends, solving a perceived crime, stumble upon a club for people who have invented their own method of employment.",
+  "longDescription": [
+    "Charles Swinburne and his friend, the private detective Rupert Grant, are startled when Major Brown recounts the things that happened to him that morning. Along with Rupert's brother, the ex-judge Basil Grant, they launch headlong into their investigation only to discover that the antagonist is a member of the Club of Queer Trades. Over the course of six short stories, the secrets of the Club come to light in surprising ways.",
+    "The Club of Queer Trades was one of G. K. Chesterton's earlier works, and was originally serialized in Harper's Weekly in 1904 before being collected into a novel in 1905. In recent years it was produced as a six-part radio drama by the BBC."
+  ],
+  "year": 1905,
+  "genres": [
+    "classics",
+    "fiction",
+    "mystery"
+  ],
+  "topics": [
+    "detective"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/g-k-chesterton/the-club-of-queer-trades"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Club of Queer Trades",
+      "length": 21,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: The Tremendous Adventures of Major Brown",
+      "length": 46804,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: The Painful Fall of a Great Reputation",
+      "length": 31984,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: The Awful Reason of the Vicar's Visit",
+      "length": 36621,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: The Singular Speculation of the House-Agent",
+      "length": 42780,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: The Noticeable Conduct of Professor Chadd",
+      "length": 36586,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: The Eccentric Seclusion of the Old Lady",
+      "length": 49578,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Colophon",
+      "length": 1054,
+      "mode": "hide"
+    },
+    {
+      "id": "010",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL76325W",
+  "goodreadsId": "561182",
+  "rating": 0.78,
+  "popularity": 2566,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721171852042
+}

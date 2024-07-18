@@ -30,279 +30,303 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - A Tale of Two Cities",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "Preface",
       "length": 1025,
       "mode": "skip"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "Book the First: Recalled to Life - I: The Period",
       "length": 5767,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "Book the First: Recalled to Life - II: The Mail",
       "length": 11104,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "Book the First: Recalled to Life - III: The Night Shadows",
       "length": 8893,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "Book the First: Recalled to Life - IV: The Preparation",
       "length": 24308,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "Book the First: Recalled to Life - V: The Wine-Shop",
       "length": 23344,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "Book the First: Recalled to Life - VI: The Shoemaker",
       "length": 21987,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "Book the Second: The Golden Thread - I: Five Years Later",
       "length": 13624,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "Book the Second: The Golden Thread - II: A Sight",
       "length": 13190,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "Book the Second: The Golden Thread - III: A Disappointment",
       "length": 27297,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "Book the Second: The Golden Thread - IV: Congratulatory",
       "length": 12381,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "Book the Second: The Golden Thread - V: The Jackal",
       "length": 11774,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "Book the Second: The Golden Thread - VI: Hundreds of People",
       "length": 25549,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "Book the Second: The Golden Thread - VII: Monseigneur in Town",
       "length": 19105,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "017",
       "title": "Book the Second: The Golden Thread - VIII: Monseigneur in the Country",
       "length": 10452,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "018",
       "title": "Book the Second: The Golden Thread - IX: The Gorgon's Head",
       "length": 22641,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "019",
       "title": "Book the Second: The Golden Thread - X: Two Promises",
       "length": 15816,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "020",
       "title": "Book the Second: The Golden Thread - XI: A Companion Picture",
       "length": 7460,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "021",
       "title": "Book the Second: The Golden Thread - XII: The Fellow of Delicacy",
       "length": 13983,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "022",
       "title": "Book the Second: The Golden Thread - XIII: The Fellow of No Delicacy",
       "length": 9675,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "023",
       "title": "Book the Second: The Golden Thread - XIV: The Honest Tradesman",
       "length": 21876,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "024",
       "title": "Book the Second: The Golden Thread - XV: Knitting",
       "length": 23203,
       "mode": "type"
     },
     {
-      "id": "023",
+      "id": "025",
       "title": "Book the Second: The Golden Thread - XVI: Still Knitting",
       "length": 21893,
       "mode": "type"
     },
     {
-      "id": "024",
+      "id": "026",
       "title": "Book the Second: The Golden Thread - XVII: One Night",
       "length": 10174,
       "mode": "type"
     },
     {
-      "id": "025",
+      "id": "027",
       "title": "Book the Second: The Golden Thread - XVIII: Nine Days",
       "length": 13085,
       "mode": "type"
     },
     {
-      "id": "026",
+      "id": "028",
       "title": "Book the Second: The Golden Thread - XIX: An Opinion",
       "length": 15408,
       "mode": "type"
     },
     {
-      "id": "027",
+      "id": "029",
       "title": "Book the Second: The Golden Thread - XX: A Plea",
       "length": 7050,
       "mode": "type"
     },
     {
-      "id": "028",
+      "id": "030",
       "title": "Book the Second: The Golden Thread - XXI: Echoing Footsteps",
       "length": 23825,
       "mode": "type"
     },
     {
-      "id": "029",
+      "id": "031",
       "title": "Book the Second: The Golden Thread - XXII: The Sea Still Rises",
       "length": 11392,
       "mode": "type"
     },
     {
-      "id": "030",
+      "id": "032",
       "title": "Book the Second: The Golden Thread - XXIII: Fire Rises",
       "length": 14931,
       "mode": "type"
     },
     {
-      "id": "031",
+      "id": "033",
       "title": "Book the Second: The Golden Thread - XXIV: Drawn to the Loadstone Rock",
       "length": 24506,
       "mode": "type"
     },
     {
-      "id": "032",
+      "id": "034",
       "title": "Book the Third: The Track of a Storm - I: In Secret",
       "length": 23995,
       "mode": "type"
     },
     {
-      "id": "033",
+      "id": "035",
       "title": "Book the Third: The Track of a Storm - II: The Grindstone",
       "length": 13724,
       "mode": "type"
     },
     {
-      "id": "034",
+      "id": "036",
       "title": "Book the Third: The Track of a Storm - III: The Shadow",
       "length": 9617,
       "mode": "type"
     },
     {
-      "id": "035",
+      "id": "037",
       "title": "Book the Third: The Track of a Storm - IV: Calm in Storm",
       "length": 11871,
       "mode": "type"
     },
     {
-      "id": "036",
+      "id": "038",
       "title": "Book the Third: The Track of a Storm - V: The Wood-Sawyer",
       "length": 12660,
       "mode": "type"
     },
     {
-      "id": "037",
+      "id": "039",
       "title": "Book the Third: The Track of a Storm - VI: Triumph",
       "length": 14103,
       "mode": "type"
     },
     {
-      "id": "038",
+      "id": "040",
       "title": "Book the Third: The Track of a Storm - VII: A Knock at the Door",
       "length": 10315,
       "mode": "type"
     },
     {
-      "id": "039",
+      "id": "041",
       "title": "Book the Third: The Track of a Storm - VIII: A Hand at Cards",
       "length": 25884,
       "mode": "type"
     },
     {
-      "id": "040",
+      "id": "042",
       "title": "Book the Third: The Track of a Storm - IX: The Game Made",
       "length": 25440,
       "mode": "type"
     },
     {
-      "id": "041",
+      "id": "043",
       "title": "Book the Third: The Track of a Storm - X: The Substance of the Shadow",
       "length": 30889,
       "mode": "type"
     },
     {
-      "id": "042",
+      "id": "044",
       "title": "Book the Third: The Track of a Storm - XI: Dusk",
       "length": 7669,
       "mode": "type"
     },
     {
-      "id": "043",
+      "id": "045",
       "title": "Book the Third: The Track of a Storm - XII: Darkness",
       "length": 17402,
       "mode": "type"
     },
     {
-      "id": "044",
+      "id": "046",
       "title": "Book the Third: The Track of a Storm - XIII: Fifty-Two",
       "length": 24110,
       "mode": "type"
     },
     {
-      "id": "045",
+      "id": "047",
       "title": "Book the Third: The Track of a Storm - XIV: The Knitting Done",
       "length": 25585,
       "mode": "type"
     },
     {
-      "id": "046",
+      "id": "048",
       "title": "Book the Third: The Track of a Storm - XV: The Footsteps Die Out Forever",
       "length": 12000,
       "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "Colophon",
+      "length": 1046,
+      "mode": "hide"
+    },
+    {
+      "id": "050",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL8193465W",

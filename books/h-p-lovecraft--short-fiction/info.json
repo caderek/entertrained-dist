@@ -35,344 +35,368 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - Short Fiction",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1181,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "The Alchemist",
       "length": 20617,
       "mode": "type"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "A Reminiscence of Dr. Samuel Johnson",
       "length": 11560,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "Beyond the Wall of Sleep",
       "length": 24943,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "Dagon",
       "length": 12430,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "The White Ship",
       "length": 13639,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "The Statement of Randolph Carter",
       "length": 13811,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "Nyarlathotep",
       "length": 6710,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "Polaris",
       "length": 8268,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "Ex Oblivione",
       "length": 3783,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "Facts Concerning the Late Arthur Jermyn and His Family",
       "length": 21358,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "The Picture in the House",
       "length": 18873,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "The Music of Erich Zann",
       "length": 19289,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "Hypnos",
       "length": 15800,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "The Hound - I",
       "length": 8963,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "017",
       "title": "The Hound - II",
       "length": 8407,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "018",
       "title": "The Rats in the Walls",
       "length": 45589,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "019",
       "title": "Imprisoned with the Pharaohs - I",
       "length": 30141,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "020",
       "title": "Imprisoned with the Pharaohs - II",
       "length": 33186,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "021",
       "title": "The Festival",
       "length": 20300,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "022",
       "title": "The Unnamable",
       "length": 17054,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "023",
       "title": "The Temple",
       "length": 30570,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "024",
       "title": "The Tomb",
       "length": 23242,
       "mode": "type"
     },
     {
-      "id": "023",
+      "id": "025",
       "title": "The Cats of Ulthar",
       "length": 7332,
       "mode": "type"
     },
     {
-      "id": "024",
+      "id": "026",
       "title": "The Outsider",
       "length": 14650,
       "mode": "type"
     },
     {
-      "id": "025",
+      "id": "027",
       "title": "The Moon-Bog",
       "length": 18572,
       "mode": "type"
     },
     {
-      "id": "026",
+      "id": "028",
       "title": "The Terrible Old Man",
       "length": 6530,
       "mode": "type"
     },
     {
-      "id": "027",
+      "id": "029",
       "title": "He",
       "length": 24318,
       "mode": "type"
     },
     {
-      "id": "028",
+      "id": "030",
       "title": "The Horror at Red Hook - I",
       "length": 5548,
       "mode": "type"
     },
     {
-      "id": "029",
+      "id": "031",
       "title": "The Horror at Red Hook - II",
       "length": 6350,
       "mode": "type"
     },
     {
-      "id": "030",
+      "id": "032",
       "title": "The Horror at Red Hook - III",
       "length": 7395,
       "mode": "type"
     },
     {
-      "id": "031",
+      "id": "033",
       "title": "The Horror at Red Hook - IV",
       "length": 9361,
       "mode": "type"
     },
     {
-      "id": "032",
+      "id": "034",
       "title": "The Horror at Red Hook - V",
       "length": 4636,
       "mode": "type"
     },
     {
-      "id": "033",
+      "id": "035",
       "title": "The Horror at Red Hook - VI",
       "length": 9897,
       "mode": "type"
     },
     {
-      "id": "034",
+      "id": "036",
       "title": "The Horror at Red Hook - VII",
       "length": 6387,
       "mode": "type"
     },
     {
-      "id": "035",
+      "id": "037",
       "title": "The Colour Out of Space",
       "length": 68208,
       "mode": "type"
     },
     {
-      "id": "036",
+      "id": "038",
       "title": "Pickman's Model",
       "length": 30838,
       "mode": "type"
     },
     {
-      "id": "037",
+      "id": "039",
       "title": "The Call of Cthulhu - I: The Horror in Clay",
       "length": 17139,
       "mode": "type"
     },
     {
-      "id": "038",
+      "id": "040",
       "title": "The Call of Cthulhu - II: The Tale of Inspector Legrasse",
       "length": 28239,
       "mode": "type"
     },
     {
-      "id": "039",
+      "id": "041",
       "title": "The Call of Cthulhu - III: The Madness from the Sea",
       "length": 24794,
       "mode": "type"
     },
     {
-      "id": "040",
+      "id": "042",
       "title": "The Dunwich Horror - I",
       "length": 7955,
       "mode": "type"
     },
     {
-      "id": "041",
+      "id": "043",
       "title": "The Dunwich Horror - II",
       "length": 8464,
       "mode": "type"
     },
     {
-      "id": "042",
+      "id": "044",
       "title": "The Dunwich Horror - III",
       "length": 7006,
       "mode": "type"
     },
     {
-      "id": "043",
+      "id": "045",
       "title": "The Dunwich Horror - IV",
       "length": 7231,
       "mode": "type"
     },
     {
-      "id": "044",
+      "id": "046",
       "title": "The Dunwich Horror - V",
       "length": 8728,
       "mode": "type"
     },
     {
-      "id": "045",
+      "id": "047",
       "title": "The Dunwich Horror - VI",
       "length": 8377,
       "mode": "type"
     },
     {
-      "id": "046",
+      "id": "048",
       "title": "The Dunwich Horror - VII",
       "length": 14262,
       "mode": "type"
     },
     {
-      "id": "047",
+      "id": "049",
       "title": "The Dunwich Horror - VIII",
       "length": 11817,
       "mode": "type"
     },
     {
-      "id": "048",
+      "id": "050",
       "title": "The Dunwich Horror - IX",
       "length": 13695,
       "mode": "type"
     },
     {
-      "id": "049",
+      "id": "051",
       "title": "The Dunwich Horror - X",
       "length": 12177,
       "mode": "type"
     },
     {
-      "id": "050",
+      "id": "052",
       "title": "The Other Gods",
       "length": 10839,
       "mode": "type"
     },
     {
-      "id": "051",
+      "id": "053",
       "title": "From Beyond",
       "length": 17063,
       "mode": "type"
     },
     {
-      "id": "052",
+      "id": "054",
       "title": "The Shunned House - I",
       "length": 9486,
       "mode": "type"
     },
     {
-      "id": "053",
+      "id": "055",
       "title": "The Shunned House - II",
       "length": 12301,
       "mode": "type"
     },
     {
-      "id": "054",
+      "id": "056",
       "title": "The Shunned House - III",
       "length": 14320,
       "mode": "type"
     },
     {
-      "id": "055",
+      "id": "057",
       "title": "The Shunned House - IV",
       "length": 14797,
       "mode": "type"
     },
     {
-      "id": "056",
+      "id": "058",
       "title": "The Shunned House - V",
       "length": 11606,
       "mode": "type"
     },
     {
-      "id": "057",
+      "id": "059",
       "title": "Endnotes",
       "length": 246,
+      "mode": "hide"
+    },
+    {
+      "id": "060",
+      "title": "Colophon",
+      "length": 1073,
+      "mode": "hide"
+    },
+    {
+      "id": "061",
+      "title": "Uncopyright",
+      "length": 2050,
       "mode": "hide"
     }
   ],

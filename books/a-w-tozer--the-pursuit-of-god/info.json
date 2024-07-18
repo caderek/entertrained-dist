@@ -29,86 +29,110 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - The Pursuit of God",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "Epigraph",
       "length": 98,
       "mode": "skip"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "Introduction",
       "length": 2155,
       "mode": "skip"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "Preface",
       "length": 4559,
       "mode": "skip"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "I: Following Hard After God",
       "length": 13177,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "II: The Blessedness of Possessing Nothing",
       "length": 14240,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "III: Removing the Veil",
       "length": 20669,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "IV: Apprehending God",
       "length": 14216,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "V: The Universal Presence",
       "length": 15089,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "VI: The Speaking Voice",
       "length": 14090,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "VII: The Gaze of the Soul",
       "length": 18134,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "VIII: Restoring the Creator-Creature Relation",
       "length": 13475,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "IX: Meekness and Rest",
       "length": 10737,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "X: The Sacrament of Living",
       "length": 15880,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "Endnotes",
       "length": 320,
+      "mode": "hide"
+    },
+    {
+      "id": "017",
+      "title": "Colophon",
+      "length": 1070,
+      "mode": "hide"
+    },
+    {
+      "id": "018",
+      "title": "Uncopyright",
+      "length": 2050,
       "mode": "hide"
     }
   ],

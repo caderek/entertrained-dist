@@ -29,87 +29,111 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - The Jade God",
+      "length": 18,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "I: The Old House",
       "length": 50827,
       "mode": "type"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "II: Perkins",
       "length": 14988,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "III: The Man from the East",
       "length": 47035,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "IV: Jean",
       "length": 23787,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "V: The Paper-Knife",
       "length": 25105,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "VI: God - Or Devil?",
       "length": 43963,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "VII: A Mysterious Peddler",
       "length": 32902,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "VIII: The Power of the Unknown",
       "length": 49269,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "IX: The Escape",
       "length": 18638,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "X: A Night of Tragedy",
       "length": 28121,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "XI: A Strange Confession",
       "length": 24204,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "XII: \"I Love You!\"",
       "length": 15430,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "XIII: The Sacrifice",
       "length": 20361,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "XIV: A Broken Tile",
       "length": 6700,
       "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Colophon",
+      "length": 1078,
+      "mode": "hide"
+    },
+    {
+      "id": "018",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL7037492W",

@@ -34,63 +34,93 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - The Great Gatsby",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
       "title": "Epigraph",
       "length": 164,
       "mode": "skip"
     },
     {
-      "id": "002",
+      "id": "005",
       "title": "I",
       "length": 32880,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "006",
       "title": "II",
       "length": 23553,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "007",
       "title": "III",
       "length": 32458,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "008",
       "title": "IV",
       "length": 30250,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "009",
       "title": "V",
       "length": 23429,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "010",
       "title": "VI",
       "length": 22708,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "011",
       "title": "VII",
       "length": 48744,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "012",
       "title": "VIII",
       "length": 24995,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "013",
       "title": "IX",
       "length": 28091,
       "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Colophon",
+      "length": 1074,
+      "mode": "hide"
+    },
+    {
+      "id": "015",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL468431W",

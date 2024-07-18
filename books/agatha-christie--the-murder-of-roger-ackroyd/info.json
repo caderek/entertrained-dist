@@ -32,165 +32,201 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - The Murder of Roger Ackroyd",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1148,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 109,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
       "title": "I: Dr. Sheppard at the Breakfast Table",
       "length": 7903,
       "mode": "type"
     },
     {
-      "id": "002",
+      "id": "005",
       "title": "II: Who's Who in King's Abbot",
       "length": 13339,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "006",
       "title": "III: The Man Who Grew Vegetable Marrows",
       "length": 17856,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "007",
       "title": "IV: Dinner at Fernly",
       "length": 24590,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "008",
       "title": "V: Murder",
       "length": 19205,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "009",
       "title": "VI: The Tunisian Dagger",
       "length": 13103,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "010",
       "title": "VII: I Learn My Neighbour's Profession",
       "length": 20924,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "011",
       "title": "VIII: Inspector Raglan Is Confident",
       "length": 16889,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "012",
       "title": "IX: The Goldfish Pond",
       "length": 14037,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "013",
       "title": "X: The Parlour Maid",
       "length": 22209,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "014",
       "title": "XI: Poirot Pays a Call",
       "length": 11758,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "015",
       "title": "XII: Round the Table",
       "length": 14166,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "016",
       "title": "XIII: The Goose Quill",
       "length": 10624,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "017",
       "title": "XIV: Mrs. Ackroyd",
       "length": 17288,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "018",
       "title": "XV: Geoffrey Raymond",
       "length": 14196,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "019",
       "title": "XVI: An Evening at Mah Jong",
       "length": 15361,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "020",
       "title": "XVII: Parker",
       "length": 20010,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "021",
       "title": "XVIII: Charles Kent",
       "length": 9408,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "022",
       "title": "XIX: Flora Ackroyd",
       "length": 14977,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "023",
       "title": "XX: Miss Russell",
       "length": 15960,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "024",
       "title": "XXI: The Paragraph in the Paper",
       "length": 11378,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "025",
       "title": "XXII: Ursula's Story",
       "length": 12283,
       "mode": "type"
     },
     {
-      "id": "023",
+      "id": "026",
       "title": "XXIII: Poirot's Little Reunion",
       "length": 19508,
       "mode": "type"
     },
     {
-      "id": "024",
+      "id": "027",
       "title": "XXIV: Ralph Paton's Story",
       "length": 6240,
       "mode": "type"
     },
     {
-      "id": "025",
+      "id": "028",
       "title": "XXV: The Whole Truth",
       "length": 11984,
       "mode": "type"
     },
     {
-      "id": "026",
+      "id": "029",
       "title": "XXVI: And Nothing but the Truth",
       "length": 5656,
       "mode": "type"
     },
     {
-      "id": "027",
+      "id": "030",
       "title": "XXVII: Apologia",
       "length": 4545,
       "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "List of Illustrations",
+      "length": 749,
+      "mode": "hide"
+    },
+    {
+      "id": "032",
+      "title": "Colophon",
+      "length": 993,
+      "mode": "hide"
+    },
+    {
+      "id": "033",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL471932W",

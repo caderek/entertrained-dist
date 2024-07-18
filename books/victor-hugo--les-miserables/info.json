@@ -36,2198 +36,2234 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - Les Miserables",
+      "length": 49,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "Preface",
       "length": 675,
       "mode": "skip"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "Les Miserables - Volume I: Fantine - Book I: A Just Man - I: M. Myriel",
       "length": 5952,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "Les Miserables - Volume I: Fantine - Book I: A Just Man - II: M. Myriel Becomes M. Welcome",
       "length": 10184,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "Les Miserables - Volume I: Fantine - Book I: A Just Man - III: A Hard Bishopric for a Good Bishop",
       "length": 4269,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "Les Miserables - Volume I: Fantine - Book I: A Just Man - IV: Works Corresponding to Words",
       "length": 16132,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "Les Miserables - Volume I: Fantine - Book I: A Just Man - V: Monseigneur Bienvenu Made His Cassocks Last Too Long",
       "length": 5822,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "Les Miserables - Volume I: Fantine - Book I: A Just Man - VI: Who Guarded His House for Him",
       "length": 12301,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "Les Miserables - Volume I: Fantine - Book I: A Just Man - VII: Cravatte",
       "length": 7161,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "Les Miserables - Volume I: Fantine - Book I: A Just Man - VIII: Philosophy After Drinking",
       "length": 8125,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "Les Miserables - Volume I: Fantine - Book I: A Just Man - IX: The Brother as Depicted by the Sister",
       "length": 7944,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "Les Miserables - Volume I: Fantine - Book I: A Just Man - X: The Bishop in the Presence of an Unknown Light",
       "length": 25469,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "Les Miserables - Volume I: Fantine - Book I: A Just Man - XI: A Restriction",
       "length": 9510,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "Les Miserables - Volume I: Fantine - Book I: A Just Man - XII: The Solitude of Monseigneur Welcome",
       "length": 6472,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "Les Miserables - Volume I: Fantine - Book I: A Just Man - XIII: What He Believed",
       "length": 8788,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "017",
       "title": "Les Miserables - Volume I: Fantine - Book I: A Just Man - XIV: What He Thought",
       "length": 5544,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "018",
       "title": "Les Miserables - Volume I: Fantine - Book II: The Fall - I: The Evening of a Day of Walking",
       "length": 23749,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "019",
       "title": "Les Miserables - Volume I: Fantine - Book II: The Fall - II: Prudence Counselled to Wisdom",
       "length": 8298,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "020",
       "title": "Les Miserables - Volume I: Fantine - Book II: The Fall - III: The Heroism of Passive Obedience",
       "length": 10864,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "021",
       "title": "Les Miserables - Volume I: Fantine - Book II: The Fall - IV: Details Concerning the Cheese-Dairies of Pontarlier",
       "length": 7308,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "022",
       "title": "Les Miserables - Volume I: Fantine - Book II: The Fall - V: Tranquillity",
       "length": 2864,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "023",
       "title": "Les Miserables - Volume I: Fantine - Book II: The Fall - VI: Jean Valjean",
       "length": 11738,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "024",
       "title": "Les Miserables - Volume I: Fantine - Book II: The Fall - VII: The Interior of Despair",
       "length": 16864,
       "mode": "type"
     },
     {
-      "id": "023",
+      "id": "025",
       "title": "Les Miserables - Volume I: Fantine - Book II: The Fall - VIII: Billows and Shadows",
       "length": 4253,
       "mode": "type"
     },
     {
-      "id": "024",
+      "id": "026",
       "title": "Les Miserables - Volume I: Fantine - Book II: The Fall - IX: New Troubles",
       "length": 2504,
       "mode": "type"
     },
     {
-      "id": "025",
+      "id": "027",
       "title": "Les Miserables - Volume I: Fantine - Book II: The Fall - X: The Man Aroused",
       "length": 6354,
       "mode": "type"
     },
     {
-      "id": "026",
+      "id": "028",
       "title": "Les Miserables - Volume I: Fantine - Book II: The Fall - XI: What He Does",
       "length": 7953,
       "mode": "type"
     },
     {
-      "id": "027",
+      "id": "029",
       "title": "Les Miserables - Volume I: Fantine - Book II: The Fall - XII: The Bishop Works",
       "length": 6284,
       "mode": "type"
     },
     {
-      "id": "028",
+      "id": "030",
       "title": "Les Miserables - Volume I: Fantine - Book II: The Fall - XIII: Little Gervais",
       "length": 18320,
       "mode": "type"
     },
     {
-      "id": "029",
+      "id": "031",
       "title": "Les Miserables - Volume I: Fantine - Book III: In the Year 1817 - I: The Year 1817",
       "length": 13389,
       "mode": "type"
     },
     {
-      "id": "030",
+      "id": "032",
       "title": "Les Miserables - Volume I: Fantine - Book III: In the Year 1817 - II: A Double Quartette",
       "length": 8958,
       "mode": "type"
     },
     {
-      "id": "031",
+      "id": "033",
       "title": "Les Miserables - Volume I: Fantine - Book III: In the Year 1817 - III: Four and Four",
       "length": 8639,
       "mode": "type"
     },
     {
-      "id": "032",
+      "id": "034",
       "title": "Les Miserables - Volume I: Fantine - Book III: In the Year 1817 - IV: Tholomyes Is So Merry That He Sings a Spanish Ditty",
       "length": 5031,
       "mode": "type"
     },
     {
-      "id": "033",
+      "id": "035",
       "title": "Les Miserables - Volume I: Fantine - Book III: In the Year 1817 - V: At Bombarda's",
       "length": 5624,
       "mode": "type"
     },
     {
-      "id": "034",
+      "id": "036",
       "title": "Les Miserables - Volume I: Fantine - Book III: In the Year 1817 - VI: A Chapter in Which They Adore Each Other",
       "length": 2700,
       "mode": "type"
     },
     {
-      "id": "035",
+      "id": "037",
       "title": "Les Miserables - Volume I: Fantine - Book III: In the Year 1817 - VII: The Wisdom of Tholomyes",
       "length": 11842,
       "mode": "type"
     },
     {
-      "id": "036",
+      "id": "038",
       "title": "Les Miserables - Volume I: Fantine - Book III: In the Year 1817 - VIII: The Death of a Horse",
       "length": 4615,
       "mode": "type"
     },
     {
-      "id": "037",
+      "id": "039",
       "title": "Les Miserables - Volume I: Fantine - Book III: In the Year 1817 - IX: A Merry End to Mirth",
       "length": 5125,
       "mode": "type"
     },
     {
-      "id": "038",
+      "id": "040",
       "title": "Les Miserables - Volume I: Fantine - Book IV: To Confide Is Sometimes to Deliver Into a Person's Power - I: One Mother Meets Another Mother",
       "length": 18933,
       "mode": "type"
     },
     {
-      "id": "039",
+      "id": "041",
       "title": "Les Miserables - Volume I: Fantine - Book IV: To Confide Is Sometimes to Deliver Into a Person's Power - II: First Sketch of Two Unprepossessing Figures",
       "length": 4629,
       "mode": "type"
     },
     {
-      "id": "040",
+      "id": "042",
       "title": "Les Miserables - Volume I: Fantine - Book IV: To Confide Is Sometimes to Deliver Into a Person's Power - III: The Lark",
       "length": 5800,
       "mode": "type"
     },
     {
-      "id": "041",
+      "id": "043",
       "title": "Les Miserables - Volume I: Fantine - Book V: The Descent - I: The History of a Progress in Black Glass Trinkets",
       "length": 3062,
       "mode": "type"
     },
     {
-      "id": "042",
+      "id": "044",
       "title": "Les Miserables - Volume I: Fantine - Book V: The Descent - II: Madeleine",
       "length": 7675,
       "mode": "type"
     },
     {
-      "id": "043",
+      "id": "045",
       "title": "Les Miserables - Volume I: Fantine - Book V: The Descent - III: Sums Deposited with Laffitte",
       "length": 6492,
       "mode": "type"
     },
     {
-      "id": "044",
+      "id": "046",
       "title": "Les Miserables - Volume I: Fantine - Book V: The Descent - IV: M. Madeleine in Mourning",
       "length": 4785,
       "mode": "type"
     },
     {
-      "id": "045",
+      "id": "047",
       "title": "Les Miserables - Volume I: Fantine - Book V: The Descent - V: Vague Flashes on the Horizon",
       "length": 11955,
       "mode": "type"
     },
     {
-      "id": "046",
+      "id": "048",
       "title": "Les Miserables - Volume I: Fantine - Book V: The Descent - VI: Father Fauchelevent",
       "length": 5554,
       "mode": "type"
     },
     {
-      "id": "047",
+      "id": "049",
       "title": "Les Miserables - Volume I: Fantine - Book V: The Descent - VII: Fauchelevent Becomes a Gardener in Paris",
       "length": 2556,
       "mode": "type"
     },
     {
-      "id": "048",
+      "id": "050",
       "title": "Les Miserables - Volume I: Fantine - Book V: The Descent - VIII: Madame Victurnien Expends Thirty Francs on Morality",
       "length": 6008,
       "mode": "type"
     },
     {
-      "id": "049",
+      "id": "051",
       "title": "Les Miserables - Volume I: Fantine - Book V: The Descent - IX: Madame Victurnien's Success",
       "length": 5300,
       "mode": "type"
     },
     {
-      "id": "050",
+      "id": "052",
       "title": "Les Miserables - Volume I: Fantine - Book V: The Descent - X: Result of the Success",
       "length": 10290,
       "mode": "type"
     },
     {
-      "id": "051",
+      "id": "053",
       "title": "Les Miserables - Volume I: Fantine - Book V: The Descent - XI: Christus Nos Liberavit",
       "length": 1712,
       "mode": "type"
     },
     {
-      "id": "052",
+      "id": "054",
       "title": "Les Miserables - Volume I: Fantine - Book V: The Descent - XII: M. Bamatabois's Inactivity",
       "length": 5368,
       "mode": "type"
     },
     {
-      "id": "053",
+      "id": "055",
       "title": "Les Miserables - Volume I: Fantine - Book V: The Descent - XIII: The Solution of Some Questions Connected with the Municipal Police",
       "length": 20407,
       "mode": "type"
     },
     {
-      "id": "054",
+      "id": "056",
       "title": "Les Miserables - Volume I: Fantine - Book VI: Javert - I: The Beginning of Repose",
       "length": 6872,
       "mode": "type"
     },
     {
-      "id": "055",
+      "id": "057",
       "title": "Les Miserables - Volume I: Fantine - Book VI: Javert - II: How Jean May Become Champ",
       "length": 18215,
       "mode": "type"
     },
     {
-      "id": "056",
+      "id": "058",
       "title": "Les Miserables - Volume I: Fantine - Book VII: The Champmathieu Affair - I: Sister Simplice",
       "length": 6150,
       "mode": "type"
     },
     {
-      "id": "057",
+      "id": "059",
       "title": "Les Miserables - Volume I: Fantine - Book VII: The Champmathieu Affair - II: The Perspicacity of Master Scaufflaire",
       "length": 8988,
       "mode": "type"
     },
     {
-      "id": "058",
+      "id": "060",
       "title": "Les Miserables - Volume I: Fantine - Book VII: The Champmathieu Affair - III: A Tempest in a Skull",
       "length": 42666,
       "mode": "type"
     },
     {
-      "id": "059",
+      "id": "061",
       "title": "Les Miserables - Volume I: Fantine - Book VII: The Champmathieu Affair - IV: Forms Assumed by Suffering During Sleep",
       "length": 6280,
       "mode": "type"
     },
     {
-      "id": "060",
+      "id": "062",
       "title": "Les Miserables - Volume I: Fantine - Book VII: The Champmathieu Affair - V: Hindrances",
       "length": 22254,
       "mode": "type"
     },
     {
-      "id": "061",
+      "id": "063",
       "title": "Les Miserables - Volume I: Fantine - Book VII: The Champmathieu Affair - VI: Sister Simplice Put to the Proof",
       "length": 13532,
       "mode": "type"
     },
     {
-      "id": "062",
+      "id": "064",
       "title": "Les Miserables - Volume I: Fantine - Book VII: The Champmathieu Affair - VII: The Traveller on His Arrival Takes Precautions for Departure",
       "length": 9075,
       "mode": "type"
     },
     {
-      "id": "063",
+      "id": "065",
       "title": "Les Miserables - Volume I: Fantine - Book VII: The Champmathieu Affair - VIII: An Entrance by Favor",
       "length": 7019,
       "mode": "type"
     },
     {
-      "id": "064",
+      "id": "066",
       "title": "Les Miserables - Volume I: Fantine - Book VII: The Champmathieu Affair - IX: A Place Where Convictions Are in Process of Formation",
       "length": 15342,
       "mode": "type"
     },
     {
-      "id": "065",
+      "id": "067",
       "title": "Les Miserables - Volume I: Fantine - Book VII: The Champmathieu Affair - X: The System of Denials",
       "length": 15503,
       "mode": "type"
     },
     {
-      "id": "066",
+      "id": "068",
       "title": "Les Miserables - Volume I: Fantine - Book VII: The Champmathieu Affair - XI: Champmathieu More and More Astonished",
       "length": 9056,
       "mode": "type"
     },
     {
-      "id": "067",
+      "id": "069",
       "title": "Les Miserables - Volume I: Fantine - Book VIII: A Counterblow - I: In What Mirror M. Madeleine Contemplates His Hair",
       "length": 5069,
       "mode": "type"
     },
     {
-      "id": "068",
+      "id": "070",
       "title": "Les Miserables - Volume I: Fantine - Book VIII: A Counterblow - II: Fantine Happy",
       "length": 7916,
       "mode": "type"
     },
     {
-      "id": "069",
+      "id": "071",
       "title": "Les Miserables - Volume I: Fantine - Book VIII: A Counterblow - III: Javert Satisfied",
       "length": 7996,
       "mode": "type"
     },
     {
-      "id": "070",
+      "id": "072",
       "title": "Les Miserables - Volume I: Fantine - Book VIII: A Counterblow - IV: Authority Reasserts Its Rights",
       "length": 7870,
       "mode": "type"
     },
     {
-      "id": "071",
+      "id": "073",
       "title": "Les Miserables - Volume I: Fantine - Book VIII: A Counterblow - V: A Suitable Tomb",
       "length": 11229,
       "mode": "type"
     },
     {
-      "id": "072",
+      "id": "074",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - I: What Is Met with on the Way from Nivelles",
       "length": 3609,
       "mode": "type"
     },
     {
-      "id": "073",
+      "id": "075",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - II: Hougomont",
       "length": 15134,
       "mode": "type"
     },
     {
-      "id": "074",
+      "id": "076",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - III: The Eighteenth of June, 1815",
       "length": 5408,
       "mode": "type"
     },
     {
-      "id": "075",
+      "id": "077",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - IV: A",
       "length": 4212,
       "mode": "type"
     },
     {
-      "id": "076",
+      "id": "078",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - V: The Quid Obscurum of Battles",
       "length": 6641,
       "mode": "type"
     },
     {
-      "id": "077",
+      "id": "079",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - VI: Four O'Clock in the Afternoon",
       "length": 6179,
       "mode": "type"
     },
     {
-      "id": "078",
+      "id": "080",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - VII: Napoleon in a Good Humor",
       "length": 12405,
       "mode": "type"
     },
     {
-      "id": "079",
+      "id": "081",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - VIII: The Emperor Puts a Question to the Guide Lacoste",
       "length": 5471,
       "mode": "type"
     },
     {
-      "id": "080",
+      "id": "082",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - IX: The Unexpected",
       "length": 8098,
       "mode": "type"
     },
     {
-      "id": "081",
+      "id": "083",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - X: The Plateau of Mont-Saint-Jean",
       "length": 10683,
       "mode": "type"
     },
     {
-      "id": "082",
+      "id": "084",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - XI: A Bad Guide to Napoleon; A Good Guide to Bulow",
       "length": 3086,
       "mode": "type"
     },
     {
-      "id": "083",
+      "id": "085",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - XII: The Guard",
       "length": 3381,
       "mode": "type"
     },
     {
-      "id": "084",
+      "id": "086",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - XIII: The Catastrophe",
       "length": 5388,
       "mode": "type"
     },
     {
-      "id": "085",
+      "id": "087",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - XIV: The Last Square",
       "length": 2577,
       "mode": "type"
     },
     {
-      "id": "086",
+      "id": "088",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - XV: Cambronne",
       "length": 4942,
       "mode": "type"
     },
     {
-      "id": "087",
+      "id": "089",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - XVI: Quot Libras in Duce?",
       "length": 10823,
       "mode": "type"
     },
     {
-      "id": "088",
+      "id": "090",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - XVII: Is Waterloo to Be Considered Good?",
       "length": 3881,
       "mode": "type"
     },
     {
-      "id": "089",
+      "id": "091",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - XVIII: A Recrudescence of Divine Right",
       "length": 5715,
       "mode": "type"
     },
     {
-      "id": "090",
+      "id": "092",
       "title": "Les Miserables - Volume II: Cosette - Book I: Waterloo - XIX: The Battlefield at Night",
       "length": 13382,
       "mode": "type"
     },
     {
-      "id": "091",
+      "id": "093",
       "title": "Les Miserables - Volume II: Cosette - Book II: The Ship Orion - I: Number 24,601 Becomes Number 9,430",
       "length": 6262,
       "mode": "type"
     },
     {
-      "id": "092",
+      "id": "094",
       "title": "Les Miserables - Volume II: Cosette - Book II: The Ship Orion - II: In Which the Reader Will Peruse Two Verses, Which Are of the Devil's Composition, Possibly",
       "length": 10208,
       "mode": "type"
     },
     {
-      "id": "093",
+      "id": "095",
       "title": "Les Miserables - Volume II: Cosette - Book II: The Ship Orion - III: The Ankle-Chain Must Have Undergone a Certain Preparatory Manipulation to Be Thus Broken with a Blow from a Hammer",
       "length": 17363,
       "mode": "type"
     },
     {
-      "id": "094",
+      "id": "096",
       "title": "Les Miserables - Volume II: Cosette - Book III: Accomplishment of the Promise Made to the Dead Woman - I: The Water Question at Montfermeil",
       "length": 7527,
       "mode": "type"
     },
     {
-      "id": "095",
+      "id": "097",
       "title": "Les Miserables - Volume II: Cosette - Book III: Accomplishment of the Promise Made to the Dead Woman - II: Two Complete Portraits",
       "length": 11513,
       "mode": "type"
     },
     {
-      "id": "096",
+      "id": "098",
       "title": "Les Miserables - Volume II: Cosette - Book III: Accomplishment of the Promise Made to the Dead Woman - III: Men Must Have Wine, and Horses Must Have Water",
       "length": 4449,
       "mode": "type"
     },
     {
-      "id": "097",
+      "id": "099",
       "title": "Les Miserables - Volume II: Cosette - Book III: Accomplishment of the Promise Made to the Dead Woman - IV: Entrance on the Scene of a Doll",
       "length": 2897,
       "mode": "type"
     },
     {
-      "id": "098",
+      "id": "100",
       "title": "Les Miserables - Volume II: Cosette - Book III: Accomplishment of the Promise Made to the Dead Woman - V: The Little One All Alone",
       "length": 11830,
       "mode": "type"
     },
     {
-      "id": "099",
+      "id": "101",
       "title": "Les Miserables - Volume II: Cosette - Book III: Accomplishment of the Promise Made to the Dead Woman - VI: Which Possibly Proves Boulatruelle's Intelligence",
       "length": 10538,
       "mode": "type"
     },
     {
-      "id": "100",
+      "id": "102",
       "title": "Les Miserables - Volume II: Cosette - Book III: Accomplishment of the Promise Made to the Dead Woman - VII: Cosette Side by Side with the Stranger in the Dark",
       "length": 4442,
       "mode": "type"
     },
     {
-      "id": "101",
+      "id": "103",
       "title": "Les Miserables - Volume II: Cosette - Book III: Accomplishment of the Promise Made to the Dead Woman - VIII: The Unpleasantness of Receiving Into One's House a Poor Man Who May Be a Rich Man",
       "length": 35217,
       "mode": "type"
     },
     {
-      "id": "102",
+      "id": "104",
       "title": "Les Miserables - Volume II: Cosette - Book III: Accomplishment of the Promise Made to the Dead Woman - IX: Thenardier and His Manouvres",
       "length": 15337,
       "mode": "type"
     },
     {
-      "id": "103",
+      "id": "105",
       "title": "Les Miserables - Volume II: Cosette - Book III: Accomplishment of the Promise Made to the Dead Woman - X: He Who Seeks to Better Himself May Render His Situation Worse",
       "length": 10041,
       "mode": "type"
     },
     {
-      "id": "104",
+      "id": "106",
       "title": "Les Miserables - Volume II: Cosette - Book III: Accomplishment of the Promise Made to the Dead Woman - XI: Number 9,430 Reappears, and Cosette Wins It in the Lottery",
       "length": 2914,
       "mode": "type"
     },
     {
-      "id": "105",
+      "id": "107",
       "title": "Les Miserables - Volume II: Cosette - Book IV: The Gorbeau Hovel - I: Master Gorbeau",
       "length": 13608,
       "mode": "type"
     },
     {
-      "id": "106",
+      "id": "108",
       "title": "Les Miserables - Volume II: Cosette - Book IV: The Gorbeau Hovel - II: A Nest for Owl and a Warbler",
       "length": 3017,
       "mode": "type"
     },
     {
-      "id": "107",
+      "id": "109",
       "title": "Les Miserables - Volume II: Cosette - Book IV: The Gorbeau Hovel - III: Two Misfortunes Make One Piece of Good Fortune",
       "length": 8552,
       "mode": "type"
     },
     {
-      "id": "108",
+      "id": "110",
       "title": "Les Miserables - Volume II: Cosette - Book IV: The Gorbeau Hovel - IV: The Remarks of the Principal Tenant",
       "length": 4487,
       "mode": "type"
     },
     {
-      "id": "109",
+      "id": "111",
       "title": "Les Miserables - Volume II: Cosette - Book IV: The Gorbeau Hovel - V: A Five-Franc Piece Falls on the Ground and Produces a Tumult",
       "length": 7045,
       "mode": "type"
     },
     {
-      "id": "110",
+      "id": "112",
       "title": "Les Miserables - Volume II: Cosette - Book V: For a Black Hunt, a Mute Pack - I: The Zigzags of Strategy",
       "length": 7776,
       "mode": "type"
     },
     {
-      "id": "111",
+      "id": "113",
       "title": "Les Miserables - Volume II: Cosette - Book V: For a Black Hunt, a Mute Pack - II: It Is Lucky That the Pont d'Austerlitz Bears Carriages",
       "length": 3225,
       "mode": "type"
     },
     {
-      "id": "112",
+      "id": "114",
       "title": "Les Miserables - Volume II: Cosette - Book V: For a Black Hunt, a Mute Pack - III: To Wit, the Plan of Paris in 1727",
       "length": 6699,
       "mode": "type"
     },
     {
-      "id": "113",
+      "id": "115",
       "title": "Les Miserables - Volume II: Cosette - Book V: For a Black Hunt, a Mute Pack - IV: The Gropings of Flight",
       "length": 5353,
       "mode": "type"
     },
     {
-      "id": "114",
+      "id": "116",
       "title": "Les Miserables - Volume II: Cosette - Book V: For a Black Hunt, a Mute Pack - V: Which Would Be Impossible with Gas Lanterns",
       "length": 7657,
       "mode": "type"
     },
     {
-      "id": "115",
+      "id": "117",
       "title": "Les Miserables - Volume II: Cosette - Book V: For a Black Hunt, a Mute Pack - VI: The Beginning of an Enigma",
       "length": 4947,
       "mode": "type"
     },
     {
-      "id": "116",
+      "id": "118",
       "title": "Les Miserables - Volume II: Cosette - Book V: For a Black Hunt, a Mute Pack - VII: Continuation of the Enigma",
       "length": 3967,
       "mode": "type"
     },
     {
-      "id": "117",
+      "id": "119",
       "title": "Les Miserables - Volume II: Cosette - Book V: For a Black Hunt, a Mute Pack - VIII: The Enigma Becomes Doubly Mysterious",
       "length": 3668,
       "mode": "type"
     },
     {
-      "id": "118",
+      "id": "120",
       "title": "Les Miserables - Volume II: Cosette - Book V: For a Black Hunt, a Mute Pack - IX: The Man with the Bell",
       "length": 7091,
       "mode": "type"
     },
     {
-      "id": "119",
+      "id": "121",
       "title": "Les Miserables - Volume II: Cosette - Book V: For a Black Hunt, a Mute Pack - X: Which Explains How Javert Got on the Scent",
       "length": 19316,
       "mode": "type"
     },
     {
-      "id": "120",
+      "id": "122",
       "title": "Les Miserables - Volume II: Cosette - Book VI: Le Petit-Picpus - I: Number 62 Rue Petit-Picpus",
       "length": 7780,
       "mode": "type"
     },
     {
-      "id": "121",
+      "id": "123",
       "title": "Les Miserables - Volume II: Cosette - Book VI: Le Petit-Picpus - II: The Obedience of Martin Verga",
       "length": 14792,
       "mode": "type"
     },
     {
-      "id": "122",
+      "id": "124",
       "title": "Les Miserables - Volume II: Cosette - Book VI: Le Petit-Picpus - III: Austerities",
       "length": 3355,
       "mode": "type"
     },
     {
-      "id": "123",
+      "id": "125",
       "title": "Les Miserables - Volume II: Cosette - Book VI: Le Petit-Picpus - IV: Gayeties",
       "length": 6922,
       "mode": "type"
     },
     {
-      "id": "124",
+      "id": "126",
       "title": "Les Miserables - Volume II: Cosette - Book VI: Le Petit-Picpus - V: Distractions",
       "length": 11457,
       "mode": "type"
     },
     {
-      "id": "125",
+      "id": "127",
       "title": "Les Miserables - Volume II: Cosette - Book VI: Le Petit-Picpus - VI: The Little Convent",
       "length": 5348,
       "mode": "type"
     },
     {
-      "id": "126",
+      "id": "128",
       "title": "Les Miserables - Volume II: Cosette - Book VI: Le Petit-Picpus - VII: Some Silhouettes of This Darkness",
       "length": 4782,
       "mode": "type"
     },
     {
-      "id": "127",
+      "id": "129",
       "title": "Les Miserables - Volume II: Cosette - Book VI: Le Petit-Picpus - VIII: Post Corda Lapides",
       "length": 3599,
       "mode": "type"
     },
     {
-      "id": "128",
+      "id": "130",
       "title": "Les Miserables - Volume II: Cosette - Book VI: Le Petit-Picpus - IX: A Century Under a Guimpe",
       "length": 4166,
       "mode": "type"
     },
     {
-      "id": "129",
+      "id": "131",
       "title": "Les Miserables - Volume II: Cosette - Book VI: Le Petit-Picpus - X: Origin of the Perpetual Adoration",
       "length": 3483,
       "mode": "type"
     },
     {
-      "id": "130",
+      "id": "132",
       "title": "Les Miserables - Volume II: Cosette - Book VI: Le Petit-Picpus - XI: End of the Petit-Picpus",
       "length": 3774,
       "mode": "type"
     },
     {
-      "id": "131",
+      "id": "133",
       "title": "Les Miserables - Volume II: Cosette - Book VII: Parenthesis - I: The Convent as an Abstract Idea",
       "length": 1023,
       "mode": "type"
     },
     {
-      "id": "132",
+      "id": "134",
       "title": "Les Miserables - Volume II: Cosette - Book VII: Parenthesis - II: The Convent as an Historical Fact",
       "length": 6349,
       "mode": "type"
     },
     {
-      "id": "133",
+      "id": "135",
       "title": "Les Miserables - Volume II: Cosette - Book VII: Parenthesis - III: On What Conditions One Can Respect the Past",
       "length": 4933,
       "mode": "type"
     },
     {
-      "id": "134",
+      "id": "136",
       "title": "Les Miserables - Volume II: Cosette - Book VII: Parenthesis - IV: The Convent from the Point of View of Principles",
       "length": 2847,
       "mode": "type"
     },
     {
-      "id": "135",
+      "id": "137",
       "title": "Les Miserables - Volume II: Cosette - Book VII: Parenthesis - V: Prayer",
       "length": 2425,
       "mode": "type"
     },
     {
-      "id": "136",
+      "id": "138",
       "title": "Les Miserables - Volume II: Cosette - Book VII: Parenthesis - VI: The Absolute Goodness of Prayer",
       "length": 4398,
       "mode": "type"
     },
     {
-      "id": "137",
+      "id": "139",
       "title": "Les Miserables - Volume II: Cosette - Book VII: Parenthesis - VII: Precautions to Be Observed in Blame",
       "length": 1361,
       "mode": "type"
     },
     {
-      "id": "138",
+      "id": "140",
       "title": "Les Miserables - Volume II: Cosette - Book VII: Parenthesis - VIII: Faith, Law",
       "length": 4230,
       "mode": "type"
     },
     {
-      "id": "139",
+      "id": "141",
       "title": "Les Miserables - Volume II: Cosette - Book VIII: Cemeteries Take That Which Is Committed Them - I: Which Treats of the Manner of Entering a Convent",
       "length": 16378,
       "mode": "type"
     },
     {
-      "id": "140",
+      "id": "142",
       "title": "Les Miserables - Volume II: Cosette - Book VIII: Cemeteries Take That Which Is Committed Them - II: Fauchelevent in the Presence of a Difficulty",
       "length": 4657,
       "mode": "type"
     },
     {
-      "id": "141",
+      "id": "143",
       "title": "Les Miserables - Volume II: Cosette - Book VIII: Cemeteries Take That Which Is Committed Them - III: Mother Innocente",
       "length": 18771,
       "mode": "type"
     },
     {
-      "id": "142",
+      "id": "144",
       "title": "Les Miserables - Volume II: Cosette - Book VIII: Cemeteries Take That Which Is Committed Them - IV: In Which Jean Valjean Has Quite the Air of Having Read Austin Castillejo",
       "length": 11162,
       "mode": "type"
     },
     {
-      "id": "143",
+      "id": "145",
       "title": "Les Miserables - Volume II: Cosette - Book VIII: Cemeteries Take That Which Is Committed Them - V: It Is Not Necessary to Be Drunk in Order to Be Immortal",
       "length": 12074,
       "mode": "type"
     },
     {
-      "id": "144",
+      "id": "146",
       "title": "Les Miserables - Volume II: Cosette - Book VIII: Cemeteries Take That Which Is Committed Them - VI: Between Four Planks",
       "length": 3232,
       "mode": "type"
     },
     {
-      "id": "145",
+      "id": "147",
       "title": "Les Miserables - Volume II: Cosette - Book VIII: Cemeteries Take That Which Is Committed Them - VII: In Which Will Be Found the Origin of the Saying: Don't Lose the Card",
       "length": 14202,
       "mode": "type"
     },
     {
-      "id": "146",
+      "id": "148",
       "title": "Les Miserables - Volume II: Cosette - Book VIII: Cemeteries Take That Which Is Committed Them - VIII: A Successful Interrogatory",
       "length": 6450,
       "mode": "type"
     },
     {
-      "id": "147",
+      "id": "149",
       "title": "Les Miserables - Volume II: Cosette - Book VIII: Cemeteries Take That Which Is Committed Them - IX: Cloistered",
       "length": 15116,
       "mode": "type"
     },
     {
-      "id": "148",
+      "id": "150",
       "title": "Les Miserables - Volume III: Marius - Book I: Paris Studied in Its Atom - I: Parvulus",
       "length": 1336,
       "mode": "type"
     },
     {
-      "id": "149",
+      "id": "151",
       "title": "Les Miserables - Volume III: Marius - Book I: Paris Studied in Its Atom - II: Some of His Particular Characteristics",
       "length": 2870,
       "mode": "type"
     },
     {
-      "id": "150",
+      "id": "152",
       "title": "Les Miserables - Volume III: Marius - Book I: Paris Studied in Its Atom - III: He Is Agreeable",
       "length": 2388,
       "mode": "type"
     },
     {
-      "id": "151",
+      "id": "153",
       "title": "Les Miserables - Volume III: Marius - Book I: Paris Studied in Its Atom - IV: He May Be of Use",
       "length": 1449,
       "mode": "type"
     },
     {
-      "id": "152",
+      "id": "154",
       "title": "Les Miserables - Volume III: Marius - Book I: Paris Studied in Its Atom - V: His Frontiers",
       "length": 5047,
       "mode": "type"
     },
     {
-      "id": "153",
+      "id": "155",
       "title": "Les Miserables - Volume III: Marius - Book I: Paris Studied in Its Atom - VI: A Bit of History",
       "length": 4200,
       "mode": "type"
     },
     {
-      "id": "154",
+      "id": "156",
       "title": "Les Miserables - Volume III: Marius - Book I: Paris Studied in Its Atom - VII: The Gamin Should Have His Place in the Classifications of India",
       "length": 4088,
       "mode": "type"
     },
     {
-      "id": "155",
+      "id": "157",
       "title": "Les Miserables - Volume III: Marius - Book I: Paris Studied in Its Atom - VIII: In Which the Reader Will Find a Charming Saying of the Last King",
       "length": 3113,
       "mode": "type"
     },
     {
-      "id": "156",
+      "id": "158",
       "title": "Les Miserables - Volume III: Marius - Book I: Paris Studied in Its Atom - IX: The Old Soul of Gaul",
       "length": 1620,
       "mode": "type"
     },
     {
-      "id": "157",
+      "id": "159",
       "title": "Les Miserables - Volume III: Marius - Book I: Paris Studied in Its Atom - X: Ecce Paris, Ecce Homo",
       "length": 6534,
       "mode": "type"
     },
     {
-      "id": "158",
+      "id": "160",
       "title": "Les Miserables - Volume III: Marius - Book I: Paris Studied in Its Atom - XI: To Scoff, to Reign",
       "length": 4763,
       "mode": "type"
     },
     {
-      "id": "159",
+      "id": "161",
       "title": "Les Miserables - Volume III: Marius - Book I: Paris Studied in Its Atom - XII: The Future Latent in the People",
       "length": 2048,
       "mode": "type"
     },
     {
-      "id": "160",
+      "id": "162",
       "title": "Les Miserables - Volume III: Marius - Book I: Paris Studied in Its Atom - XIII: Little Gavroche",
       "length": 4979,
       "mode": "type"
     },
     {
-      "id": "161",
+      "id": "163",
       "title": "Les Miserables - Volume III: Marius - Book II: The Great Bourgeois - I: Ninety Years and Thirty-Two Teeth",
       "length": 3888,
       "mode": "type"
     },
     {
-      "id": "162",
+      "id": "164",
       "title": "Les Miserables - Volume III: Marius - Book II: The Great Bourgeois - II: Like Master, Like House",
       "length": 2447,
       "mode": "type"
     },
     {
-      "id": "163",
+      "id": "165",
       "title": "Les Miserables - Volume III: Marius - Book II: The Great Bourgeois - III: Luc-Esprit",
       "length": 1989,
       "mode": "type"
     },
     {
-      "id": "164",
+      "id": "166",
       "title": "Les Miserables - Volume III: Marius - Book II: The Great Bourgeois - IV: A Centenarian Aspirant",
       "length": 1795,
       "mode": "type"
     },
     {
-      "id": "165",
+      "id": "167",
       "title": "Les Miserables - Volume III: Marius - Book II: The Great Bourgeois - V: Basque and Nicolette",
       "length": 2726,
       "mode": "type"
     },
     {
-      "id": "166",
+      "id": "168",
       "title": "Les Miserables - Volume III: Marius - Book II: The Great Bourgeois - VI: In Which Magnon and Her Two Children Are Seen",
       "length": 4162,
       "mode": "type"
     },
     {
-      "id": "167",
+      "id": "169",
       "title": "Les Miserables - Volume III: Marius - Book II: The Great Bourgeois - VII: Rule: Receive No One Except in the Evening",
       "length": 1204,
       "mode": "type"
     },
     {
-      "id": "168",
+      "id": "170",
       "title": "Les Miserables - Volume III: Marius - Book II: The Great Bourgeois - VIII: Two Do Not Make a Pair",
       "length": 4797,
       "mode": "type"
     },
     {
-      "id": "169",
+      "id": "171",
       "title": "Les Miserables - Volume III: Marius - Book III: The Grandfather and the Grandson - I: An Ancient Salon",
       "length": 7160,
       "mode": "type"
     },
     {
-      "id": "170",
+      "id": "172",
       "title": "Les Miserables - Volume III: Marius - Book III: The Grandfather and the Grandson - II: One of the Red Spectres of That Epoch",
       "length": 14737,
       "mode": "type"
     },
     {
-      "id": "171",
+      "id": "173",
       "title": "Les Miserables - Volume III: Marius - Book III: The Grandfather and the Grandson - III: Requiescant",
       "length": 17243,
       "mode": "type"
     },
     {
-      "id": "172",
+      "id": "174",
       "title": "Les Miserables - Volume III: Marius - Book III: The Grandfather and the Grandson - IV: End of the Brigand",
       "length": 6988,
       "mode": "type"
     },
     {
-      "id": "173",
+      "id": "175",
       "title": "Les Miserables - Volume III: Marius - Book III: The Grandfather and the Grandson - V: The Utility of Going to Mass, in Order to Become a Revolutionist",
       "length": 3398,
       "mode": "type"
     },
     {
-      "id": "174",
+      "id": "176",
       "title": "Les Miserables - Volume III: Marius - Book III: The Grandfather and the Grandson - VI: The Consequences of Having Met a Warden",
       "length": 14358,
       "mode": "type"
     },
     {
-      "id": "175",
+      "id": "177",
       "title": "Les Miserables - Volume III: Marius - Book III: The Grandfather and the Grandson - VII: Some Petticoat",
       "length": 9443,
       "mode": "type"
     },
     {
-      "id": "176",
+      "id": "178",
       "title": "Les Miserables - Volume III: Marius - Book III: The Grandfather and the Grandson - VIII: Marble Against Granite",
       "length": 10843,
       "mode": "type"
     },
     {
-      "id": "177",
+      "id": "179",
       "title": "Les Miserables - Volume III: Marius - Book IV: The Friends of the A. B. C. - I: A Group Which Barely Missed Becoming Historic",
       "length": 30865,
       "mode": "type"
     },
     {
-      "id": "178",
+      "id": "180",
       "title": "Les Miserables - Volume III: Marius - Book IV: The Friends of the A. B. C. - II: Blondeau's Funeral Oration by Bossuet",
       "length": 7042,
       "mode": "type"
     },
     {
-      "id": "179",
+      "id": "181",
       "title": "Les Miserables - Volume III: Marius - Book IV: The Friends of the A. B. C. - III: Marius' Astonishments",
       "length": 4164,
       "mode": "type"
     },
     {
-      "id": "180",
+      "id": "182",
       "title": "Les Miserables - Volume III: Marius - Book IV: The Friends of the A. B. C. - IV: The Back Room of the Cafe Musain",
       "length": 15985,
       "mode": "type"
     },
     {
-      "id": "181",
+      "id": "183",
       "title": "Les Miserables - Volume III: Marius - Book IV: The Friends of the A. B. C. - V: Enlargement of Horizon",
       "length": 8018,
       "mode": "type"
     },
     {
-      "id": "182",
+      "id": "184",
       "title": "Les Miserables - Volume III: Marius - Book IV: The Friends of the A. B. C. - VI: Res Angusta",
       "length": 4841,
       "mode": "type"
     },
     {
-      "id": "183",
+      "id": "185",
       "title": "Les Miserables - Volume III: Marius - Book V: The Excellence of Misfortune - I: Marius Indigent",
       "length": 4814,
       "mode": "type"
     },
     {
-      "id": "184",
+      "id": "186",
       "title": "Les Miserables - Volume III: Marius - Book V: The Excellence of Misfortune - II: Marius Poor",
       "length": 6960,
       "mode": "type"
     },
     {
-      "id": "185",
+      "id": "187",
       "title": "Les Miserables - Volume III: Marius - Book V: The Excellence of Misfortune - III: Marius Grown Up",
       "length": 10784,
       "mode": "type"
     },
     {
-      "id": "186",
+      "id": "188",
       "title": "Les Miserables - Volume III: Marius - Book V: The Excellence of Misfortune - IV: M. Mabeuf",
       "length": 9649,
       "mode": "type"
     },
     {
-      "id": "187",
+      "id": "189",
       "title": "Les Miserables - Volume III: Marius - Book V: The Excellence of Misfortune - V: Poverty a Good Neighbor for Misery",
       "length": 4774,
       "mode": "type"
     },
     {
-      "id": "188",
+      "id": "190",
       "title": "Les Miserables - Volume III: Marius - Book V: The Excellence of Misfortune - VI: The Substitute",
       "length": 9825,
       "mode": "type"
     },
     {
-      "id": "189",
+      "id": "191",
       "title": "Les Miserables - Volume III: Marius - Book VI: The Conjunction of Two Stars - I: The Sobriquet: Mode of Formation of Family Names",
       "length": 6810,
       "mode": "type"
     },
     {
-      "id": "190",
+      "id": "192",
       "title": "Les Miserables - Volume III: Marius - Book VI: The Conjunction of Two Stars - II: Lux Facta Est",
       "length": 4863,
       "mode": "type"
     },
     {
-      "id": "191",
+      "id": "193",
       "title": "Les Miserables - Volume III: Marius - Book VI: The Conjunction of Two Stars - III: Effect of the Spring",
       "length": 2342,
       "mode": "type"
     },
     {
-      "id": "192",
+      "id": "194",
       "title": "Les Miserables - Volume III: Marius - Book VI: The Conjunction of Two Stars - IV: Beginning of a Great Malady",
       "length": 6074,
       "mode": "type"
     },
     {
-      "id": "193",
+      "id": "195",
       "title": "Les Miserables - Volume III: Marius - Book VI: The Conjunction of Two Stars - V: Divers Claps of Thunder Fall on Ma'am Bougon",
       "length": 2539,
       "mode": "type"
     },
     {
-      "id": "194",
+      "id": "196",
       "title": "Les Miserables - Volume III: Marius - Book VI: The Conjunction of Two Stars - VI: Taken Prisoner",
       "length": 5586,
       "mode": "type"
     },
     {
-      "id": "195",
+      "id": "197",
       "title": "Les Miserables - Volume III: Marius - Book VI: The Conjunction of Two Stars - VII: Adventures of the Letter U Delivered Over to Conjectures",
       "length": 3989,
       "mode": "type"
     },
     {
-      "id": "196",
+      "id": "198",
       "title": "Les Miserables - Volume III: Marius - Book VI: The Conjunction of Two Stars - VIII: The Veterans Themselves Can Be Happy",
       "length": 3680,
       "mode": "type"
     },
     {
-      "id": "197",
+      "id": "199",
       "title": "Les Miserables - Volume III: Marius - Book VI: The Conjunction of Two Stars - IX: Eclipse",
       "length": 4275,
       "mode": "type"
     },
     {
-      "id": "198",
+      "id": "200",
       "title": "Les Miserables - Volume III: Marius - Book VII: Patron Minette - I: Mines and Miners",
       "length": 5193,
       "mode": "type"
     },
     {
-      "id": "199",
+      "id": "201",
       "title": "Les Miserables - Volume III: Marius - Book VII: Patron Minette - II: The Lowest Depths",
       "length": 3507,
       "mode": "type"
     },
     {
-      "id": "200",
+      "id": "202",
       "title": "Les Miserables - Volume III: Marius - Book VII: Patron Minette - III: Babet, Gueulemer, Claquesous, and Montparnasse",
       "length": 5236,
       "mode": "type"
     },
     {
-      "id": "201",
+      "id": "203",
       "title": "Les Miserables - Volume III: Marius - Book VII: Patron Minette - IV: Composition of the Troupe",
       "length": 5736,
       "mode": "type"
     },
     {
-      "id": "202",
+      "id": "204",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - I: Marius, While Seeking a Girl in a Bonnet, Encounters a Man in a Cap",
       "length": 3890,
       "mode": "type"
     },
     {
-      "id": "203",
+      "id": "205",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - II: Treasure Trove",
       "length": 3621,
       "mode": "type"
     },
     {
-      "id": "204",
+      "id": "206",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - III: Quadrifrons",
       "length": 8558,
       "mode": "type"
     },
     {
-      "id": "205",
+      "id": "207",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - IV: A Rose in Misery",
       "length": 13925,
       "mode": "type"
     },
     {
-      "id": "206",
+      "id": "208",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - V: A Providential Peephole",
       "length": 5181,
       "mode": "type"
     },
     {
-      "id": "207",
+      "id": "209",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - VI: The Wild Man in His Lair",
       "length": 8821,
       "mode": "type"
     },
     {
-      "id": "208",
+      "id": "210",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - VII: Strategy and Tactics",
       "length": 6679,
       "mode": "type"
     },
     {
-      "id": "209",
+      "id": "211",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - VIII: The Ray of Light in the Hovel",
       "length": 4287,
       "mode": "type"
     },
     {
-      "id": "210",
+      "id": "212",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - IX: Jondrette Comes Near Weeping",
       "length": 7535,
       "mode": "type"
     },
     {
-      "id": "211",
+      "id": "213",
+      "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - X: Tariff of Licensed Cabs: Two Francs an Hour",
+      "length": 7006,
+      "mode": "hide"
+    },
+    {
+      "id": "214",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - XI: Offers of Service from Misery to Wretchedness",
       "length": 5003,
       "mode": "type"
     },
     {
-      "id": "212",
+      "id": "215",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - XII: The Use Made of M. Leblanc's Five-Franc Piece",
       "length": 9290,
       "mode": "type"
     },
     {
-      "id": "213",
+      "id": "216",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - XIII: Solus Cum Solo, in Loco Remoto, Non Cogitabuntur Orare Pater Noster",
       "length": 5322,
       "mode": "type"
     },
     {
-      "id": "214",
+      "id": "217",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - XIV: In Which a Police Agent Bestows Two Fistfuls on a Lawyer",
       "length": 6702,
       "mode": "type"
     },
     {
-      "id": "215",
+      "id": "218",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - XV: Jondrette Makes His Purchases",
       "length": 4713,
       "mode": "type"
     },
     {
-      "id": "216",
+      "id": "219",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - XVI: In Which Will Be Found the Words to an English Air Which Was in Fashion in 1832",
       "length": 6624,
       "mode": "type"
     },
     {
-      "id": "217",
+      "id": "220",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - XVII: The Use Made of Marius' Five-Franc Piece",
       "length": 8098,
       "mode": "type"
     },
     {
-      "id": "218",
+      "id": "221",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - XVIII: Marius' Two Chairs Form a Vis-a-Vis",
       "length": 2987,
       "mode": "type"
     },
     {
-      "id": "219",
+      "id": "222",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - XIX: Occupying One's Self with Obscure Depths",
       "length": 8854,
       "mode": "type"
     },
     {
-      "id": "220",
+      "id": "223",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - XX: The Trap",
       "length": 51558,
       "mode": "type"
     },
     {
-      "id": "221",
+      "id": "224",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - XXI: One Should Always Begin by Arresting the Victims",
       "length": 7092,
       "mode": "type"
     },
     {
-      "id": "222",
+      "id": "225",
       "title": "Les Miserables - Volume III: Marius - Book VIII: The Wicked Poor Man - XXII: The Little One Who Was Crying in Volume Two",
       "length": 3355,
       "mode": "type"
     },
     {
-      "id": "223",
+      "id": "226",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book I: A Few Pages of History - I: Well Cut",
       "length": 12228,
       "mode": "type"
     },
     {
-      "id": "224",
+      "id": "227",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book I: A Few Pages of History - II: Badly Sewed",
       "length": 6807,
       "mode": "type"
     },
     {
-      "id": "225",
+      "id": "228",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book I: A Few Pages of History - III: Louis Philippe",
       "length": 16176,
       "mode": "type"
     },
     {
-      "id": "226",
+      "id": "229",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book I: A Few Pages of History - IV: Cracks Beneath the Foundation",
       "length": 15654,
       "mode": "type"
     },
     {
-      "id": "227",
+      "id": "230",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book I: A Few Pages of History - V: Facts Whence History Springs and Which History Ignores",
       "length": 23401,
       "mode": "type"
     },
     {
-      "id": "228",
+      "id": "231",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book I: A Few Pages of History - VI: Enjolras and His Lieutenants",
       "length": 8111,
       "mode": "type"
     },
     {
-      "id": "229",
+      "id": "232",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book II: Eponine - I: The Lark's Meadow",
       "length": 12394,
       "mode": "type"
     },
     {
-      "id": "230",
+      "id": "233",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book II: Eponine - II: Embryonic Formation of Crimes in the Incubation of Prisons",
       "length": 10061,
       "mode": "type"
     },
     {
-      "id": "231",
+      "id": "234",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book II: Eponine - III: Apparition to Father Mabeuf",
       "length": 8098,
       "mode": "type"
     },
     {
-      "id": "232",
+      "id": "235",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book II: Eponine - IV: An Apparition to Marius",
       "length": 8662,
       "mode": "type"
     },
     {
-      "id": "233",
+      "id": "236",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book III: The House in the Rue Plumet - I: The House with a Secret",
       "length": 10100,
       "mode": "type"
     },
     {
-      "id": "234",
+      "id": "237",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book III: The House in the Rue Plumet - II: Jean Valjean as a National Guard",
       "length": 5485,
       "mode": "type"
     },
     {
-      "id": "235",
+      "id": "238",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book III: The House in the Rue Plumet - III: Foliis Ac Frondibus",
       "length": 8286,
       "mode": "type"
     },
     {
-      "id": "236",
+      "id": "239",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book III: The House in the Rue Plumet - IV: Change of Gate",
       "length": 10548,
       "mode": "type"
     },
     {
-      "id": "237",
+      "id": "240",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book III: The House in the Rue Plumet - V: The Rose Perceives That It Is an Engine of War",
       "length": 9676,
       "mode": "type"
     },
     {
-      "id": "238",
+      "id": "241",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book III: The House in the Rue Plumet - VI: The Battle Begun",
       "length": 7114,
       "mode": "type"
     },
     {
-      "id": "239",
+      "id": "242",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book III: The House in the Rue Plumet - VII: To One Sadness Oppose a Sadness and a Half",
       "length": 11297,
       "mode": "type"
     },
     {
-      "id": "240",
+      "id": "243",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book III: The House in the Rue Plumet - VIII: The Chain-Gang",
       "length": 22230,
       "mode": "type"
     },
     {
-      "id": "241",
+      "id": "244",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book IV: Succor from Below May Turn Out to Be Succor from on High - I: A Wound Without, Healing Within",
       "length": 4898,
       "mode": "type"
     },
     {
-      "id": "242",
+      "id": "245",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book IV: Succor from Below May Turn Out to Be Succor from on High - II: Mother Plutarque Finds No Difficulty in Explaining a Phenomenon",
       "length": 16814,
       "mode": "type"
     },
     {
-      "id": "243",
+      "id": "246",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book V: The End of Which Does Not Resemble the Beginning - I: Solitude and the Barracks Combined",
       "length": 3520,
       "mode": "type"
     },
     {
-      "id": "244",
+      "id": "247",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book V: The End of Which Does Not Resemble the Beginning - II: Cosette's Apprehensions",
       "length": 6869,
       "mode": "type"
     },
     {
-      "id": "245",
+      "id": "248",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book V: The End of Which Does Not Resemble the Beginning - III: Enriched with Commentaries by Toussaint",
       "length": 5973,
       "mode": "type"
     },
     {
-      "id": "246",
+      "id": "249",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book V: The End of Which Does Not Resemble the Beginning - IV: A Heart Beneath a Stone",
       "length": 6977,
       "mode": "type"
     },
     {
-      "id": "247",
+      "id": "250",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book V: The End of Which Does Not Resemble the Beginning - V: Cosette After the Letter",
       "length": 5149,
       "mode": "type"
     },
     {
-      "id": "248",
+      "id": "251",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book V: The End of Which Does Not Resemble the Beginning - VI: Old People Are Made to Go Out Opportunely",
       "length": 6774,
       "mode": "type"
     },
     {
-      "id": "249",
+      "id": "252",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book VI: Little Gavroche - I: The Malicious Playfulness of the Wind",
       "length": 7605,
       "mode": "type"
     },
     {
-      "id": "250",
+      "id": "253",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book VI: Little Gavroche - II: In Which Little Gavroche Extracts Profit from Napoleon the Great",
       "length": 45398,
       "mode": "type"
     },
     {
-      "id": "251",
+      "id": "254",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book VI: Little Gavroche - III: The Vicissitudes of Flight",
       "length": 27566,
       "mode": "type"
     },
     {
-      "id": "252",
+      "id": "255",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book VII: Slang - I: Origin",
       "length": 16347,
       "mode": "type"
     },
     {
-      "id": "253",
+      "id": "256",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book VII: Slang - II: Roots",
       "length": 18769,
       "mode": "type"
     },
     {
-      "id": "254",
+      "id": "257",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book VII: Slang - III: Slang Which Weeps and Slang Which Laughs",
       "length": 9682,
       "mode": "type"
     },
     {
-      "id": "255",
+      "id": "258",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book VII: Slang - IV: The Two Duties: To Watch and to Hope",
       "length": 8914,
       "mode": "type"
     },
     {
-      "id": "256",
+      "id": "259",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book VIII: Enchantments and Desolations - I: Full Light",
       "length": 12079,
       "mode": "type"
     },
     {
-      "id": "257",
+      "id": "260",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book VIII: Enchantments and Desolations - II: The Bewilderment of Perfect Happiness",
       "length": 4507,
       "mode": "type"
     },
     {
-      "id": "258",
+      "id": "261",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book VIII: Enchantments and Desolations - III: The Beginning of Shadow",
       "length": 6534,
       "mode": "type"
     },
     {
-      "id": "259",
+      "id": "262",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book VIII: Enchantments and Desolations - IV: A Cab Runs in English and Barks in Slang",
       "length": 13491,
       "mode": "type"
     },
     {
-      "id": "260",
+      "id": "263",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book VIII: Enchantments and Desolations - V: Things of the Night",
       "length": 1513,
       "mode": "type"
     },
     {
-      "id": "261",
+      "id": "264",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book VIII: Enchantments and Desolations - VI: Marius Becomes Practical Once More to the Extent of Giving Cosette His Address",
       "length": 11112,
       "mode": "type"
     },
     {
-      "id": "262",
+      "id": "265",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book VIII: Enchantments and Desolations - VII: The Old Heart and the Young Heart in the Presence of Each Other",
       "length": 25732,
       "mode": "type"
     },
     {
-      "id": "263",
+      "id": "266",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book IX: Whither Are They Going? - I: Jean Valjean",
       "length": 3545,
       "mode": "type"
     },
     {
-      "id": "264",
+      "id": "267",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book IX: Whither Are They Going? - II: Marius",
       "length": 5259,
       "mode": "type"
     },
     {
-      "id": "265",
+      "id": "268",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book IX: Whither Are They Going? - III: M. Mabeuf",
       "length": 7960,
       "mode": "type"
     },
     {
-      "id": "266",
+      "id": "269",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book X: The 5th of June, 1832 - I: The Surface of the Question",
       "length": 7666,
       "mode": "type"
     },
     {
-      "id": "267",
+      "id": "270",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book X: The 5th of June, 1832 - II: The Root of the Matter",
       "length": 13636,
       "mode": "type"
     },
     {
-      "id": "268",
+      "id": "271",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book X: The 5th of June, 1832 - III: A Burial; An Occasion to Be Born Again",
       "length": 12307,
       "mode": "type"
     },
     {
-      "id": "269",
+      "id": "272",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book X: The 5th of June, 1832 - IV: The Ebullitions of Former Days",
       "length": 11553,
       "mode": "type"
     },
     {
-      "id": "270",
+      "id": "273",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book X: The 5th of June, 1832 - V: Originality of Paris",
       "length": 6032,
       "mode": "type"
     },
     {
-      "id": "271",
+      "id": "274",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XI: The Atom Fraternizes with the Hurricane - I: Some Explanations with Regard to the Origin of Gavroche's Poetry",
       "length": 4889,
       "mode": "type"
     },
     {
-      "id": "272",
+      "id": "275",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XI: The Atom Fraternizes with the Hurricane - II: Gavroche on the March",
       "length": 6701,
       "mode": "type"
     },
     {
-      "id": "273",
+      "id": "276",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XI: The Atom Fraternizes with the Hurricane - III: Just Indignation of a Hairdresser",
       "length": 3209,
       "mode": "type"
     },
     {
-      "id": "274",
+      "id": "277",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XI: The Atom Fraternizes with the Hurricane - IV: The Child Is Amazed at the Old Man",
       "length": 3377,
       "mode": "type"
     },
     {
-      "id": "275",
+      "id": "278",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XI: The Atom Fraternizes with the Hurricane - V: The Old Man",
       "length": 2844,
       "mode": "type"
     },
     {
-      "id": "276",
+      "id": "279",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XI: The Atom Fraternizes with the Hurricane - VI: Recruits",
       "length": 2693,
       "mode": "type"
     },
     {
-      "id": "277",
+      "id": "280",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XII: Corinthe - I: History of Corinthe from Its Foundation",
       "length": 11402,
       "mode": "type"
     },
     {
-      "id": "278",
+      "id": "281",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XII: Corinthe - II: Preliminary Gayeties",
       "length": 19936,
       "mode": "type"
     },
     {
-      "id": "279",
+      "id": "282",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XII: Corinthe - III: Night Begins to Descend Upon Grantaire",
       "length": 6699,
       "mode": "type"
     },
     {
-      "id": "280",
+      "id": "283",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XII: Corinthe - IV: An Attempt to Console the Widow Hucheloup",
       "length": 7789,
       "mode": "type"
     },
     {
-      "id": "281",
+      "id": "284",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XII: Corinthe - V: Preparations",
       "length": 4256,
       "mode": "type"
     },
     {
-      "id": "282",
+      "id": "285",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XII: Corinthe - VI: Waiting",
       "length": 4690,
       "mode": "type"
     },
     {
-      "id": "283",
+      "id": "286",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XII: Corinthe - VII: The Man Recruited in the Rue des Billettes",
       "length": 7061,
       "mode": "type"
     },
     {
-      "id": "284",
+      "id": "287",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XII: Corinthe - VIII: Many Interrogation Points with Regard to a Certain le Cabuc",
       "length": 8947,
       "mode": "type"
     },
     {
-      "id": "285",
+      "id": "288",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XIII: Marius Enters the Shadow - I: From the Rue Plumet to the Quartier Saint-Denis",
       "length": 6151,
       "mode": "type"
     },
     {
-      "id": "286",
+      "id": "289",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XIII: Marius Enters the Shadow - II: An Owl's View of Paris",
       "length": 6058,
       "mode": "type"
     },
     {
-      "id": "287",
+      "id": "290",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XIII: Marius Enters the Shadow - III: The Extreme Edge",
       "length": 13576,
       "mode": "type"
     },
     {
-      "id": "288",
+      "id": "291",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XIV: The Grandeurs of Despair - I: The Flag: Act First",
       "length": 5428,
       "mode": "type"
     },
     {
-      "id": "289",
+      "id": "292",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XIV: The Grandeurs of Despair - II: The Flag: Act Second",
       "length": 5478,
       "mode": "type"
     },
     {
-      "id": "290",
+      "id": "293",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XIV: The Grandeurs of Despair - III: Gavroche Would Have Done Better to Accept Enjolras' Carbine",
       "length": 2279,
       "mode": "type"
     },
     {
-      "id": "291",
+      "id": "294",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XIV: The Grandeurs of Despair - IV: The Barrel of Powder",
       "length": 5326,
       "mode": "type"
     },
     {
-      "id": "292",
+      "id": "295",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XIV: The Grandeurs of Despair - V: End of the Verses of Jean Prouvaire",
       "length": 3654,
       "mode": "type"
     },
     {
-      "id": "293",
+      "id": "296",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XIV: The Grandeurs of Despair - VI: The Agony of Death After the Agony of Life",
       "length": 7637,
       "mode": "type"
     },
     {
-      "id": "294",
+      "id": "297",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XIV: The Grandeurs of Despair - VII: Gavroche as a Profound Calculator of Distances",
       "length": 7361,
       "mode": "type"
     },
     {
-      "id": "295",
+      "id": "298",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XV: The Rue de l'Homme Arme - I: A Drinker Is a Babbler",
       "length": 19244,
       "mode": "type"
     },
     {
-      "id": "296",
+      "id": "299",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XV: The Rue de l'Homme Arme - II: The Street Urchin an Enemy of Light",
       "length": 7847,
       "mode": "type"
     },
     {
-      "id": "297",
+      "id": "300",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XV: The Rue de l'Homme Arme - III: While Cosette and Toussaint Are Asleep",
       "length": 3100,
       "mode": "type"
     },
     {
-      "id": "298",
+      "id": "301",
       "title": "Les Miserables - Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis - Book XV: The Rue de l'Homme Arme - IV: Gavroche's Excess of Zeal",
       "length": 8919,
       "mode": "type"
     },
     {
-      "id": "299",
+      "id": "302",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - I: The Charybdis of the Faubourg Saint Antoine and the Scylla",
       "length": 16657,
       "mode": "type"
     },
     {
-      "id": "300",
+      "id": "303",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - II: What Is to Be Done in the Abyss if One Does Not Converse",
       "length": 8389,
       "mode": "type"
     },
     {
-      "id": "301",
+      "id": "304",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - III: Light and Shadow",
       "length": 3475,
       "mode": "type"
     },
     {
-      "id": "302",
+      "id": "305",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - IV: Minus Five, Plus One",
       "length": 13520,
       "mode": "type"
     },
     {
-      "id": "303",
+      "id": "306",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - V: The Horizon Which One Beholds from the Summit of a Barricade",
       "length": 8938,
       "mode": "type"
     },
     {
-      "id": "304",
+      "id": "307",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - VI: Marius Haggard, Javert Laconic",
       "length": 3857,
       "mode": "type"
     },
     {
-      "id": "305",
+      "id": "308",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - VII: The Situation Becomes Aggravated",
       "length": 8750,
       "mode": "type"
     },
     {
-      "id": "306",
+      "id": "309",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - VIII: The Artillerymen Compel People to Take Them Seriously",
       "length": 5816,
       "mode": "type"
     },
     {
-      "id": "307",
+      "id": "310",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - IX: Employment of the Old Talents of a Poacher and That Infallible Marksmanship Which Influenced the Condemnation of 1796",
       "length": 3291,
       "mode": "type"
     },
     {
-      "id": "308",
+      "id": "311",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - X: Dawn",
       "length": 8157,
       "mode": "type"
     },
     {
-      "id": "309",
+      "id": "312",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - XI: The Shot Which Misses Nothing and Kills No One",
       "length": 2426,
       "mode": "type"
     },
     {
-      "id": "310",
+      "id": "313",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - XII: Disorder a Partisan of Order",
       "length": 6916,
       "mode": "type"
     },
     {
-      "id": "311",
+      "id": "314",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - XIII: Passing Gleams",
       "length": 4161,
       "mode": "type"
     },
     {
-      "id": "312",
+      "id": "315",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - XIV: Wherein Will Appear the Name of Enjolras' Mistress",
       "length": 4304,
       "mode": "type"
     },
     {
-      "id": "313",
+      "id": "316",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - XV: Gavroche Outside",
       "length": 5639,
       "mode": "type"
     },
     {
-      "id": "314",
+      "id": "317",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - XVI: How from a Brother One Becomes a Father",
       "length": 18475,
       "mode": "type"
     },
     {
-      "id": "315",
+      "id": "318",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - XVII: Mortuus Pater Filium Moriturum Expectat",
       "length": 3422,
       "mode": "type"
     },
     {
-      "id": "316",
+      "id": "319",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - XVIII: The Vulture Become Prey",
       "length": 7477,
       "mode": "type"
     },
     {
-      "id": "317",
+      "id": "320",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - XIX: Jean Valjean Takes His Revenge",
       "length": 4831,
       "mode": "type"
     },
     {
-      "id": "318",
+      "id": "321",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - XX: The Dead Are in the Right and the Living Are Not in the Wrong",
       "length": 19952,
       "mode": "type"
     },
     {
-      "id": "319",
+      "id": "322",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - XXI: The Heroes",
       "length": 9640,
       "mode": "type"
     },
     {
-      "id": "320",
+      "id": "323",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - XXII: Foot to Foot",
       "length": 7795,
       "mode": "type"
     },
     {
-      "id": "321",
+      "id": "324",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - XXIII: Orestes Fasting and Pylades Drunk",
       "length": 6804,
       "mode": "type"
     },
     {
-      "id": "322",
+      "id": "325",
       "title": "Les Miserables - Volume V: Jean Valjean - Book I: The War Between Four Walls - XXIV: Prisoner",
       "length": 5743,
       "mode": "type"
     },
     {
-      "id": "323",
+      "id": "326",
       "title": "Les Miserables - Volume V: Jean Valjean - Book II: The Intestine of the Leviathan - I: The Land Impoverished by the Sea",
       "length": 8630,
       "mode": "type"
     },
     {
-      "id": "324",
+      "id": "327",
       "title": "Les Miserables - Volume V: Jean Valjean - Book II: The Intestine of the Leviathan - II: Ancient History of the Sewer",
       "length": 7598,
       "mode": "type"
     },
     {
-      "id": "325",
+      "id": "328",
       "title": "Les Miserables - Volume V: Jean Valjean - Book II: The Intestine of the Leviathan - III: Bruneseau",
       "length": 6513,
       "mode": "type"
     },
     {
-      "id": "326",
+      "id": "329",
       "title": "Les Miserables - Volume V: Jean Valjean - Book II: The Intestine of the Leviathan - IV",
       "length": 8133,
       "mode": "type"
     },
     {
-      "id": "327",
+      "id": "330",
       "title": "Les Miserables - Volume V: Jean Valjean - Book II: The Intestine of the Leviathan - V: Present Progress",
       "length": 2834,
       "mode": "type"
     },
     {
-      "id": "328",
+      "id": "331",
       "title": "Les Miserables - Volume V: Jean Valjean - Book II: The Intestine of the Leviathan - VI: Future Progress",
       "length": 10863,
       "mode": "type"
     },
     {
-      "id": "329",
+      "id": "332",
       "title": "Les Miserables - Volume V: Jean Valjean - Book III: Mud but the Soul - I: The Sewer and Its Surprises",
       "length": 14096,
       "mode": "type"
     },
     {
-      "id": "330",
+      "id": "333",
       "title": "Les Miserables - Volume V: Jean Valjean - Book III: Mud but the Soul - II: Explanation",
       "length": 4712,
       "mode": "type"
     },
     {
-      "id": "331",
+      "id": "334",
       "title": "Les Miserables - Volume V: Jean Valjean - Book III: Mud but the Soul - III: The \"Spun\" Man",
       "length": 9306,
       "mode": "type"
     },
     {
-      "id": "332",
+      "id": "335",
       "title": "Les Miserables - Volume V: Jean Valjean - Book III: Mud but the Soul - IV: He Also Bears His Cross",
       "length": 8080,
       "mode": "type"
     },
     {
-      "id": "333",
+      "id": "336",
       "title": "Les Miserables - Volume V: Jean Valjean - Book III: Mud but the Soul - V: In the Case of Sand as in That of Woman, There Is a Fineness Which Is Treacherous",
       "length": 10524,
       "mode": "type"
     },
     {
-      "id": "334",
+      "id": "337",
       "title": "Les Miserables - Volume V: Jean Valjean - Book III: Mud but the Soul - VI: The Fontis",
       "length": 4571,
       "mode": "type"
     },
     {
-      "id": "335",
+      "id": "338",
       "title": "Les Miserables - Volume V: Jean Valjean - Book III: Mud but the Soul - VII: One Sometimes Runs Aground When One Fancies That One Is Disembarking",
       "length": 4973,
       "mode": "type"
     },
     {
-      "id": "336",
+      "id": "339",
       "title": "Les Miserables - Volume V: Jean Valjean - Book III: Mud but the Soul - VIII: The Torn Coattail",
       "length": 10117,
       "mode": "type"
     },
     {
-      "id": "337",
+      "id": "340",
       "title": "Les Miserables - Volume V: Jean Valjean - Book III: Mud but the Soul - IX: Marius Produces on Some One Who Is a Judge of the Matter, the Effect of Being Dead",
       "length": 8884,
       "mode": "type"
     },
     {
-      "id": "338",
+      "id": "341",
       "title": "Les Miserables - Volume V: Jean Valjean - Book III: Mud but the Soul - X: Return of the Son Who Was Prodigal of His Life",
       "length": 3675,
       "mode": "type"
     },
     {
-      "id": "339",
+      "id": "342",
       "title": "Les Miserables - Volume V: Jean Valjean - Book III: Mud but the Soul - XI: Concussion in the Absolute",
       "length": 3564,
       "mode": "type"
     },
     {
-      "id": "340",
+      "id": "343",
       "title": "Les Miserables - Volume V: Jean Valjean - Book III: Mud but the Soul - XII: The Grandfather",
       "length": 12457,
       "mode": "type"
     },
     {
-      "id": "341",
+      "id": "344",
       "title": "Les Miserables - Volume V: Jean Valjean - Book IV: Javert Derailed - I",
       "length": 27180,
       "mode": "type"
     },
     {
-      "id": "342",
+      "id": "345",
       "title": "Les Miserables - Volume V: Jean Valjean - Book V: Grandson and Grandfather - I: In Which the Tree with the Zinc Plaster Appears Again",
       "length": 7154,
       "mode": "type"
     },
     {
-      "id": "343",
+      "id": "346",
       "title": "Les Miserables - Volume V: Jean Valjean - Book V: Grandson and Grandfather - II: Marius, Emerging from Civil War, Makes Ready for Domestic War",
       "length": 10366,
       "mode": "type"
     },
     {
-      "id": "344",
+      "id": "347",
       "title": "Les Miserables - Volume V: Jean Valjean - Book V: Grandson and Grandfather - III: Marius Attacked",
       "length": 6180,
       "mode": "type"
     },
     {
-      "id": "345",
+      "id": "348",
       "title": "Les Miserables - Volume V: Jean Valjean - Book V: Grandson and Grandfather - IV: Mademoiselle Gillenormand Ends by No Longer Thinking It a Bad Thing That M. Fauchelevent Should Have Entered with Something Under His Arm",
       "length": 10636,
       "mode": "type"
     },
     {
-      "id": "346",
+      "id": "349",
       "title": "Les Miserables - Volume V: Jean Valjean - Book V: Grandson and Grandfather - V: Deposit Your Money in a Forest Rather Than with a Notary",
       "length": 2667,
       "mode": "type"
     },
     {
-      "id": "347",
+      "id": "350",
       "title": "Les Miserables - Volume V: Jean Valjean - Book V: Grandson and Grandfather - VI: The Two Old Men Do Everything, Each One After His Own Fashion, to Render Cosette Happy",
       "length": 18563,
       "mode": "type"
     },
     {
-      "id": "348",
+      "id": "351",
       "title": "Les Miserables - Volume V: Jean Valjean - Book V: Grandson and Grandfather - VII: The Effects of Dreams Mingled with Happiness",
       "length": 5173,
       "mode": "type"
     },
     {
-      "id": "349",
+      "id": "352",
       "title": "Les Miserables - Volume V: Jean Valjean - Book V: Grandson and Grandfather - VIII: Two Men Impossible to Find",
       "length": 9052,
       "mode": "type"
     },
     {
-      "id": "350",
+      "id": "353",
       "title": "Les Miserables - Volume V: Jean Valjean - Book VI: The Sleepless Night - I: The 16th of February, 1833",
       "length": 18613,
       "mode": "type"
     },
     {
-      "id": "351",
+      "id": "354",
       "title": "Les Miserables - Volume V: Jean Valjean - Book VI: The Sleepless Night - II: Jean Valjean Still Wears His Arm in a Sling",
       "length": 20600,
       "mode": "type"
     },
     {
-      "id": "352",
+      "id": "355",
       "title": "Les Miserables - Volume V: Jean Valjean - Book VI: The Sleepless Night - III: The Inseparable",
       "length": 5183,
       "mode": "type"
     },
     {
-      "id": "353",
+      "id": "356",
       "title": "Les Miserables - Volume V: Jean Valjean - Book VI: The Sleepless Night - IV: The Immortal Liver",
       "length": 9869,
       "mode": "type"
     },
     {
-      "id": "354",
+      "id": "357",
       "title": "Les Miserables - Volume V: Jean Valjean - Book VII: The Last Draught from the Cup - I: The Seventh Circle and the Eighth Heaven",
       "length": 36767,
       "mode": "type"
     },
     {
-      "id": "355",
+      "id": "358",
       "title": "Les Miserables - Volume V: Jean Valjean - Book VII: The Last Draught from the Cup - II: The Obscurities Which a Revelation Can Contain",
       "length": 18342,
       "mode": "type"
     },
     {
-      "id": "356",
+      "id": "359",
       "title": "Les Miserables - Volume V: Jean Valjean - Book VIII: Fading Away of the Twilight - I: The Lower Chamber",
       "length": 9013,
       "mode": "type"
     },
     {
-      "id": "357",
+      "id": "360",
       "title": "Les Miserables - Volume V: Jean Valjean - Book VIII: Fading Away of the Twilight - II: Another Step Backwards",
       "length": 5700,
       "mode": "type"
     },
     {
-      "id": "358",
+      "id": "361",
       "title": "Les Miserables - Volume V: Jean Valjean - Book VIII: Fading Away of the Twilight - III: They Recall the Garden of the Rue Plumet",
       "length": 9122,
       "mode": "type"
     },
     {
-      "id": "359",
+      "id": "362",
       "title": "Les Miserables - Volume V: Jean Valjean - Book VIII: Fading Away of the Twilight - IV: Attraction and Extinction",
       "length": 3897,
       "mode": "type"
     },
     {
-      "id": "360",
+      "id": "363",
       "title": "Les Miserables - Volume V: Jean Valjean - Book IX: Supreme Shadow, Supreme Dawn - I: Pity for the Unhappy, but Indulgence for the Happy",
       "length": 4755,
       "mode": "type"
     },
     {
-      "id": "361",
+      "id": "364",
       "title": "Les Miserables - Volume V: Jean Valjean - Book IX: Supreme Shadow, Supreme Dawn - II: Last Flickerings of a Lamp Without Oil",
       "length": 3241,
       "mode": "type"
     },
     {
-      "id": "362",
+      "id": "365",
       "title": "Les Miserables - Volume V: Jean Valjean - Book IX: Supreme Shadow, Supreme Dawn - III: A Pen Is Heavy to the Man Who Lifted the Fauchelevent's Cart",
       "length": 5891,
       "mode": "type"
     },
     {
-      "id": "363",
+      "id": "366",
       "title": "Les Miserables - Volume V: Jean Valjean - Book IX: Supreme Shadow, Supreme Dawn - IV: A Bottle of Ink Which Only Succeeded in Whitening",
       "length": 39074,
       "mode": "type"
     },
     {
-      "id": "364",
+      "id": "367",
       "title": "Les Miserables - Volume V: Jean Valjean - Book IX: Supreme Shadow, Supreme Dawn - V: A Night Behind Which There Is Day",
       "length": 20681,
       "mode": "type"
     },
     {
-      "id": "365",
+      "id": "368",
       "title": "Les Miserables - Volume V: Jean Valjean - Book IX: Supreme Shadow, Supreme Dawn - VI: The Grass Covers and the Rain Effaces",
       "length": 1450,
       "mode": "type"
     },
     {
-      "id": "366",
+      "id": "369",
       "title": "Endnotes",
       "length": 12379,
+      "mode": "hide"
+    },
+    {
+      "id": "370",
+      "title": "List of Illustrations",
+      "length": 41,
+      "mode": "hide"
+    },
+    {
+      "id": "371",
+      "title": "Colophon",
+      "length": 1112,
+      "mode": "hide"
+    },
+    {
+      "id": "372",
+      "title": "Uncopyright",
+      "length": 2050,
       "mode": "hide"
     }
   ],

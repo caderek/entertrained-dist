@@ -32,248 +32,272 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - Jane Eyre",
+      "length": 21,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1179,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "Preface",
       "length": 4563,
       "mode": "hide"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "Note to the Third Edition",
       "length": 524,
       "mode": "hide"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "I",
       "length": 10816,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "II",
       "length": 15325,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "III",
       "length": 17486,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "IV",
       "length": 31841,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "V",
       "length": 27676,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "VI",
       "length": 15968,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "VII",
       "length": 20078,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "VIII",
       "length": 16473,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "IX",
       "length": 17723,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "X",
       "length": 23909,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "XI",
       "length": 35267,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "XII",
       "length": 22885,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "017",
       "title": "XIII",
       "length": 22167,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "018",
       "title": "XIV",
       "length": 27209,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "019",
       "title": "XV",
       "length": 27421,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "020",
       "title": "XVI",
       "length": 21144,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "021",
       "title": "XVII",
       "length": 45070,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "022",
       "title": "XVIII",
       "length": 33539,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "023",
       "title": "XIX",
       "length": 20387,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "024",
       "title": "XX",
       "length": 31967,
       "mode": "type"
     },
     {
-      "id": "023",
+      "id": "025",
       "title": "XXI",
       "length": 47563,
       "mode": "type"
     },
     {
-      "id": "024",
+      "id": "026",
       "title": "XXII",
       "length": 15367,
       "mode": "type"
     },
     {
-      "id": "025",
+      "id": "027",
       "title": "XXIII",
       "length": 21179,
       "mode": "type"
     },
     {
-      "id": "026",
+      "id": "028",
       "title": "XXIV",
       "length": 38302,
       "mode": "type"
     },
     {
-      "id": "027",
+      "id": "029",
       "title": "XXV",
       "length": 26990,
       "mode": "type"
     },
     {
-      "id": "028",
+      "id": "030",
       "title": "XXVI",
       "length": 23625,
       "mode": "type"
     },
     {
-      "id": "029",
+      "id": "031",
       "title": "XXVII",
       "length": 59889,
       "mode": "type"
     },
     {
-      "id": "030",
+      "id": "032",
       "title": "XXVIII",
       "length": 36856,
       "mode": "type"
     },
     {
-      "id": "031",
+      "id": "033",
       "title": "XXIX",
       "length": 24558,
       "mode": "type"
     },
     {
-      "id": "032",
+      "id": "034",
       "title": "XXX",
       "length": 21013,
       "mode": "type"
     },
     {
-      "id": "033",
+      "id": "035",
       "title": "XXXI",
       "length": 16976,
       "mode": "type"
     },
     {
-      "id": "034",
+      "id": "036",
       "title": "XXXII",
       "length": 25886,
       "mode": "type"
     },
     {
-      "id": "035",
+      "id": "037",
       "title": "XXXIII",
       "length": 26586,
       "mode": "type"
     },
     {
-      "id": "036",
+      "id": "038",
       "title": "XXXIV",
       "length": 50865,
       "mode": "type"
     },
     {
-      "id": "037",
+      "id": "039",
       "title": "XXXV",
       "length": 23387,
       "mode": "type"
     },
     {
-      "id": "038",
+      "id": "040",
       "title": "XXXVI",
       "length": 21114,
       "mode": "type"
     },
     {
-      "id": "039",
+      "id": "041",
       "title": "XXXVII",
       "length": 40090,
       "mode": "type"
     },
     {
-      "id": "040",
+      "id": "042",
       "title": "XXXVIII: Conclusion",
       "length": 9724,
       "mode": "type"
     },
     {
-      "id": "041",
+      "id": "043",
       "title": "Endnotes",
       "length": 2243,
+      "mode": "hide"
+    },
+    {
+      "id": "044",
+      "title": "Colophon",
+      "length": 1053,
+      "mode": "hide"
+    },
+    {
+      "id": "045",
+      "title": "Uncopyright",
+      "length": 2050,
       "mode": "hide"
     }
   ],

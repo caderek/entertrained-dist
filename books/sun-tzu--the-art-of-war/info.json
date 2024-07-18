@@ -31,122 +31,158 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - The Art of War",
+      "length": 40,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1179,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 199,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
       "title": "Preface by Lionel Giles",
       "length": 5790,
       "mode": "hide"
     },
     {
-      "id": "002",
+      "id": "005",
       "title": "Sun Wu and His Book",
       "length": 30386,
       "mode": "skip"
     },
     {
-      "id": "003",
+      "id": "006",
       "title": "The Text of Sun Tzu",
       "length": 6125,
       "mode": "hide"
     },
     {
-      "id": "004",
+      "id": "007",
       "title": "The Commentators",
       "length": 11399,
       "mode": "hide"
     },
     {
-      "id": "005",
+      "id": "008",
       "title": "Appreciations of Sun Tzu",
       "length": 1997,
       "mode": "skip"
     },
     {
-      "id": "006",
+      "id": "009",
       "title": "Apologies for War",
       "length": 10123,
       "mode": "skip"
     },
     {
-      "id": "007",
+      "id": "010",
+      "title": "Bibliography",
+      "length": 4774,
+      "mode": "hide"
+    },
+    {
+      "id": "011",
       "title": "I: Laying Plans",
       "length": 3426,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "012",
       "title": "II: Waging War",
       "length": 3329,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "013",
       "title": "III: Attack by Stratagem",
       "length": 3689,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "014",
       "title": "IV: Tactical Dispositions",
       "length": 2700,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "015",
       "title": "V: Energy",
       "length": 3544,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "016",
       "title": "VI: Weak Points and Strong",
       "length": 5595,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "017",
       "title": "VII: Manoeuvring",
       "length": 4905,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "018",
       "title": "VIII: Variation of Tactics",
       "length": 2373,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "019",
       "title": "IX: The Army on the March",
       "length": 6560,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "020",
       "title": "X: Terrain",
       "length": 5493,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "021",
       "title": "XI: The Nine Situations",
       "length": 10421,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "022",
       "title": "XII: The Attack by Fire",
       "length": 2789,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "023",
       "title": "XIII: The Use of Spies",
       "length": 4099,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "024",
       "title": "Endnotes",
       "length": 284959,
+      "mode": "hide"
+    },
+    {
+      "id": "025",
+      "title": "Colophon",
+      "length": 1154,
+      "mode": "hide"
+    },
+    {
+      "id": "026",
+      "title": "Uncopyright",
+      "length": 2050,
       "mode": "hide"
     }
   ],

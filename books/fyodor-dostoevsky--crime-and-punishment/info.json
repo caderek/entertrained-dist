@@ -31,260 +31,284 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - Crime and Punishment",
+      "length": 55,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "Translator's Preface",
       "length": 4432,
       "mode": "hide"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "Part I - I",
       "length": 18214,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "Part I - II",
       "length": 39890,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "Part I - III",
       "length": 29698,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "Part I - IV",
       "length": 27721,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "Part I - V",
       "length": 22911,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "Part I - VI",
       "length": 27433,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "Part I - VII",
       "length": 26145,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "Part II - I",
       "length": 37251,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "Part II - II",
       "length": 22843,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "Part II - III",
       "length": 29081,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "Part II - IV",
       "length": 22372,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "Part II - V",
       "length": 23325,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "Part II - VI",
       "length": 41677,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "017",
       "title": "Part II - VII",
       "length": 38921,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "018",
       "title": "Part III - I",
       "length": 29068,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "019",
       "title": "Part III - II",
       "length": 25188,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "020",
       "title": "Part III - III",
       "length": 28462,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "021",
       "title": "Part III - IV",
       "length": 23738,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "022",
       "title": "Part III - V",
       "length": 40172,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "023",
       "title": "Part III - VI",
       "length": 23624,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "024",
       "title": "Part IV - I",
       "length": 27098,
       "mode": "type"
     },
     {
-      "id": "023",
+      "id": "025",
       "title": "Part IV - II",
       "length": 25985,
       "mode": "type"
     },
     {
-      "id": "024",
+      "id": "026",
       "title": "Part IV - III",
       "length": 16861,
       "mode": "type"
     },
     {
-      "id": "025",
+      "id": "027",
       "title": "Part IV - IV",
       "length": 33671,
       "mode": "type"
     },
     {
-      "id": "026",
+      "id": "028",
       "title": "Part IV - V",
       "length": 39196,
       "mode": "type"
     },
     {
-      "id": "027",
+      "id": "029",
       "title": "Part IV - VI",
       "length": 15362,
       "mode": "type"
     },
     {
-      "id": "028",
+      "id": "030",
       "title": "Part V - I",
       "length": 35254,
       "mode": "type"
     },
     {
-      "id": "029",
+      "id": "031",
       "title": "Part V - II",
       "length": 28526,
       "mode": "type"
     },
     {
-      "id": "030",
+      "id": "032",
       "title": "Part V - III",
       "length": 31405,
       "mode": "type"
     },
     {
-      "id": "031",
+      "id": "033",
       "title": "Part V - IV",
       "length": 35393,
       "mode": "type"
     },
     {
-      "id": "032",
+      "id": "034",
       "title": "Part V - V",
       "length": 28561,
       "mode": "type"
     },
     {
-      "id": "033",
+      "id": "035",
       "title": "Part VI - I",
       "length": 21031,
       "mode": "type"
     },
     {
-      "id": "034",
+      "id": "036",
       "title": "Part VI - II",
       "length": 30169,
       "mode": "type"
     },
     {
-      "id": "035",
+      "id": "037",
       "title": "Part VI - III",
       "length": 20840,
       "mode": "type"
     },
     {
-      "id": "036",
+      "id": "038",
       "title": "Part VI - IV",
       "length": 24370,
       "mode": "type"
     },
     {
-      "id": "037",
+      "id": "039",
       "title": "Part VI - V",
       "length": 30048,
       "mode": "type"
     },
     {
-      "id": "038",
+      "id": "040",
       "title": "Part VI - VI",
       "length": 29949,
       "mode": "type"
     },
     {
-      "id": "039",
+      "id": "041",
       "title": "Part VI - VII",
       "length": 19137,
       "mode": "type"
     },
     {
-      "id": "040",
+      "id": "042",
       "title": "Part VI - VIII",
       "length": 21246,
       "mode": "type"
     },
     {
-      "id": "041",
+      "id": "043",
       "title": "Epilogue - I",
       "length": 17359,
       "mode": "type"
     },
     {
-      "id": "042",
+      "id": "044",
       "title": "Epilogue - II",
       "length": 17901,
       "mode": "type"
     },
     {
-      "id": "043",
+      "id": "045",
       "title": "Endnotes",
       "length": 258,
+      "mode": "hide"
+    },
+    {
+      "id": "046",
+      "title": "Colophon",
+      "length": 1131,
+      "mode": "hide"
+    },
+    {
+      "id": "047",
+      "title": "Uncopyright",
+      "length": 2050,
       "mode": "hide"
     }
   ],

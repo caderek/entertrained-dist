@@ -30,57 +30,81 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - Children's Stories",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1183,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "The Happy Prince",
       "length": 18223,
       "mode": "type"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "The Nightingale and the Rose",
       "length": 12052,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "The Selfish Giant",
       "length": 8556,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "The Devoted Friend",
       "length": 22643,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "The Remarkable Rocket",
       "length": 23565,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "The Young King",
       "length": 28240,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "The Birthday of the Infanta",
       "length": 40734,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "The Fisherman and His Soul",
       "length": 71063,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "The Star-Child",
       "length": 32313,
       "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Colophon",
+      "length": 1073,
+      "mode": "hide"
+    },
+    {
+      "id": "013",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL8193416W",

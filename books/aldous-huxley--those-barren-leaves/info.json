@@ -32,255 +32,279 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - Those Barren Leaves",
+      "length": 18,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "Part I: An Evening at Mrs. Aldwinkle's - I",
       "length": 21525,
       "mode": "type"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "Part I: An Evening at Mrs. Aldwinkle's - II",
       "length": 16201,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "Part I: An Evening at Mrs. Aldwinkle's - III",
       "length": 38088,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "Part I: An Evening at Mrs. Aldwinkle's - IV",
       "length": 18660,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "Part I: An Evening at Mrs. Aldwinkle's - V",
       "length": 11871,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "Part I: An Evening at Mrs. Aldwinkle's - VI",
       "length": 10727,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "Part I: An Evening at Mrs. Aldwinkle's - VII",
       "length": 18514,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "Part I: An Evening at Mrs. Aldwinkle's - VIII",
       "length": 12169,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "Part I: An Evening at Mrs. Aldwinkle's - IX",
       "length": 4886,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "Part II: Fragments from the Autobiography of Francis Chelifer - I",
       "length": 28477,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "Part II: Fragments from the Autobiography of Francis Chelifer - II",
       "length": 15448,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "Part II: Fragments from the Autobiography of Francis Chelifer - III",
       "length": 26502,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "Part II: Fragments from the Autobiography of Francis Chelifer - IV",
       "length": 5679,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "Part II: Fragments from the Autobiography of Francis Chelifer - V",
       "length": 54919,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "017",
       "title": "Part II: Fragments from the Autobiography of Francis Chelifer - VI",
       "length": 22312,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "018",
       "title": "Part II: Fragments from the Autobiography of Francis Chelifer - VII",
       "length": 18951,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "019",
       "title": "Part III: The Loves of the Parallels - I",
       "length": 22629,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "020",
       "title": "Part III: The Loves of the Parallels - II",
       "length": 5258,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "021",
       "title": "Part III: The Loves of the Parallels - III",
       "length": 14396,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "022",
       "title": "Part III: The Loves of the Parallels - IV",
       "length": 7265,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "023",
       "title": "Part III: The Loves of the Parallels - V",
       "length": 25110,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "024",
       "title": "Part III: The Loves of the Parallels - VI",
       "length": 15482,
       "mode": "type"
     },
     {
-      "id": "023",
+      "id": "025",
       "title": "Part III: The Loves of the Parallels - VII",
       "length": 29803,
       "mode": "type"
     },
     {
-      "id": "024",
+      "id": "026",
       "title": "Part III: The Loves of the Parallels - VIII",
       "length": 17238,
       "mode": "type"
     },
     {
-      "id": "025",
+      "id": "027",
       "title": "Part III: The Loves of the Parallels - IX",
       "length": 6237,
       "mode": "type"
     },
     {
-      "id": "026",
+      "id": "028",
       "title": "Part III: The Loves of the Parallels - X",
       "length": 9889,
       "mode": "type"
     },
     {
-      "id": "027",
+      "id": "029",
       "title": "Part III: The Loves of the Parallels - XI",
       "length": 7877,
       "mode": "type"
     },
     {
-      "id": "028",
+      "id": "030",
       "title": "Part III: The Loves of the Parallels - XII",
       "length": 9456,
       "mode": "type"
     },
     {
-      "id": "029",
+      "id": "031",
       "title": "Part III: The Loves of the Parallels - XIII",
       "length": 8179,
       "mode": "type"
     },
     {
-      "id": "030",
+      "id": "032",
       "title": "Part IV: The Journey - I",
       "length": 24302,
       "mode": "type"
     },
     {
-      "id": "031",
+      "id": "033",
       "title": "Part IV: The Journey - II",
       "length": 9333,
       "mode": "type"
     },
     {
-      "id": "032",
+      "id": "034",
       "title": "Part IV: The Journey - III",
       "length": 10474,
       "mode": "type"
     },
     {
-      "id": "033",
+      "id": "035",
       "title": "Part IV: The Journey - IV",
       "length": 11215,
       "mode": "type"
     },
     {
-      "id": "034",
+      "id": "036",
       "title": "Part IV: The Journey - V",
       "length": 21729,
       "mode": "type"
     },
     {
-      "id": "035",
+      "id": "037",
       "title": "Part IV: The Journey - VI",
       "length": 8772,
       "mode": "type"
     },
     {
-      "id": "036",
+      "id": "038",
       "title": "Part IV: The Journey - VII",
       "length": 20992,
       "mode": "type"
     },
     {
-      "id": "037",
+      "id": "039",
       "title": "Part IV: The Journey - VIII",
       "length": 5691,
       "mode": "type"
     },
     {
-      "id": "038",
+      "id": "040",
       "title": "Part IV: The Journey - IX",
       "length": 9989,
       "mode": "type"
     },
     {
-      "id": "039",
+      "id": "041",
       "title": "Part V: Conclusions - I",
       "length": 18767,
       "mode": "type"
     },
     {
-      "id": "040",
+      "id": "042",
       "title": "Part V: Conclusions - II",
       "length": 12529,
       "mode": "type"
     },
     {
-      "id": "041",
+      "id": "043",
       "title": "Part V: Conclusions - III",
       "length": 11498,
       "mode": "type"
     },
     {
-      "id": "042",
+      "id": "044",
       "title": "Part V: Conclusions - IV",
       "length": 34988,
       "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Colophon",
+      "length": 1083,
+      "mode": "hide"
+    },
+    {
+      "id": "046",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL64391W",

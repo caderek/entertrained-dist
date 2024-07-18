@@ -34,278 +34,302 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - The Bolshevik Myth",
+      "length": 22,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1198,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "Preface",
       "length": 3644,
       "mode": "skip"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "I: The Log of the Transport Buford",
       "length": 25491,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "II: On Soviet Soil",
       "length": 5799,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "III: In Petrograd",
       "length": 16569,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "IV: Moscow",
       "length": 6299,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "V: The Guest House",
       "length": 7181,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "VI: Chicherin and Karakhan",
       "length": 8749,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "VII: The Market",
       "length": 9238,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "VIII: In the Moskkommune",
       "length": 6717,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "IX: The Club on the Tverskaya",
       "length": 11110,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "X: A Visit to Peter Kropotkin",
       "length": 7270,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "XI: Bolshevik Activities",
       "length": 9579,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "XII: Sights and Views",
       "length": 10526,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "XIII: Lenin",
       "length": 7233,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "017",
       "title": "XIV: On the Latvian Border - I",
       "length": 10528,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "018",
       "title": "XIV: On the Latvian Border - II",
       "length": 7730,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "019",
       "title": "XIV: On the Latvian Border - III",
       "length": 10704,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "020",
       "title": "XIV: On the Latvian Border - IV",
       "length": 7265,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "021",
       "title": "XV: Back in Petrograd",
       "length": 17941,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "022",
       "title": "XVI: Rest Homes for Workers",
       "length": 6173,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "023",
       "title": "XVII: The First of May",
       "length": 5862,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "024",
       "title": "XVIII: The British Labor Mission",
       "length": 15060,
       "mode": "type"
     },
     {
-      "id": "023",
+      "id": "025",
       "title": "XIX: The Spirit of Fanaticism",
       "length": 15604,
       "mode": "type"
     },
     {
-      "id": "024",
+      "id": "026",
       "title": "XX: Other People",
       "length": 9566,
       "mode": "type"
     },
     {
-      "id": "025",
+      "id": "027",
       "title": "XXI: En Route to the Ukraine",
       "length": 8296,
       "mode": "type"
     },
     {
-      "id": "026",
+      "id": "028",
       "title": "XXII: First Days in Kharkov",
       "length": 18283,
       "mode": "type"
     },
     {
-      "id": "027",
+      "id": "029",
       "title": "XXIII: In Soviet Institutions",
       "length": 13016,
       "mode": "type"
     },
     {
-      "id": "028",
+      "id": "030",
       "title": "XXIV: Yossif the Emigrant",
       "length": 13647,
       "mode": "type"
     },
     {
-      "id": "029",
+      "id": "031",
       "title": "XXV: Nestor Makhno",
       "length": 11677,
       "mode": "type"
     },
     {
-      "id": "030",
+      "id": "032",
       "title": "XXVI: Prison and Concentration Camp",
       "length": 11375,
       "mode": "type"
     },
     {
-      "id": "031",
+      "id": "033",
       "title": "XXVII: Further South",
       "length": 4560,
       "mode": "type"
     },
     {
-      "id": "032",
+      "id": "034",
       "title": "XXVIII: Fastov the Pogromed",
       "length": 18674,
       "mode": "type"
     },
     {
-      "id": "033",
+      "id": "035",
       "title": "XXIX: Kiev",
       "length": 11354,
       "mode": "type"
     },
     {
-      "id": "034",
+      "id": "036",
       "title": "XXX: In Various Walks",
       "length": 26436,
       "mode": "type"
     },
     {
-      "id": "035",
+      "id": "037",
       "title": "XXXI: The Cheka",
       "length": 7392,
       "mode": "type"
     },
     {
-      "id": "036",
+      "id": "038",
       "title": "XXXII: Odessa: Life and Vision",
       "length": 26500,
       "mode": "type"
     },
     {
-      "id": "037",
+      "id": "039",
       "title": "XXXIII: Dark People",
       "length": 14193,
       "mode": "type"
     },
     {
-      "id": "038",
+      "id": "040",
       "title": "XXXIV: A Bolshevik Trial",
       "length": 6800,
       "mode": "type"
     },
     {
-      "id": "039",
+      "id": "041",
       "title": "XXXV: Returning to Petrograd",
       "length": 14708,
       "mode": "type"
     },
     {
-      "id": "040",
+      "id": "042",
       "title": "XXXVI: In the Far North",
       "length": 7092,
       "mode": "type"
     },
     {
-      "id": "041",
+      "id": "043",
       "title": "XXXVII: Early Days of 1921",
       "length": 8504,
       "mode": "type"
     },
     {
-      "id": "042",
+      "id": "044",
       "title": "XXXVIII: Kronstadt",
       "length": 22993,
       "mode": "type"
     },
     {
-      "id": "043",
+      "id": "045",
       "title": "XXXIX: Last Links in the Chain",
       "length": 25805,
       "mode": "type"
     },
     {
-      "id": "044",
+      "id": "046",
       "title": "XL: The Lessons of the \"Bolshevik Myth\" - I: My Personal Attitude and Reactions",
       "length": 9730,
       "mode": "type"
     },
     {
-      "id": "045",
+      "id": "047",
       "title": "XL: The Lessons of the \"Bolshevik Myth\" - II: The Communist Dictatorship and the Russian Revolution",
       "length": 20386,
       "mode": "type"
     },
     {
-      "id": "046",
+      "id": "048",
       "title": "Endnotes",
       "length": 3133,
+      "mode": "hide"
+    },
+    {
+      "id": "049",
+      "title": "Colophon",
+      "length": 1039,
+      "mode": "hide"
+    },
+    {
+      "id": "050",
+      "title": "Uncopyright",
+      "length": 2050,
       "mode": "hide"
     }
   ],

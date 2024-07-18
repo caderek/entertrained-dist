@@ -31,75 +31,99 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - Winnie-the-Pooh",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "To Her",
       "length": 187,
       "mode": "skip"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "Introduction",
       "length": 2523,
       "mode": "skip"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "I: In Which We Are Introduced to Winnie-the-Pooh and Some Bees, and the Stories Begin",
       "length": 11541,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "II: In Which Pooh Goes Visiting and Gets Into a Tight Place",
       "length": 7979,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "III: In Which Pooh and Piglet Go Hunting and Nearly Catch a Woozle",
       "length": 6803,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "IV: In Which Eeyore Loses a Tail and Pooh Finds One",
       "length": 7732,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "V: In Which Piglet Meets a Heffalump",
       "length": 13995,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "VI: In Which Eeyore Has a Birthday and Gets Two Presents",
       "length": 14271,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "VII: In Which Kanga and Baby Roo Come to the Forest, and Piglet Has a Bath",
       "length": 15529,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "VIII: In Which Christopher Robin Leads an Expotition to the North Pole",
       "length": 16407,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "IX: In Which Piglet Is Entirely Surrounded by Water",
       "length": 14045,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "X: In Which Christopher Robin Gives Pooh a Party, and We Say Goodbye",
       "length": 10291,
       "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Colophon",
+      "length": 1064,
+      "mode": "hide"
+    },
+    {
+      "id": "016",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL476641W",

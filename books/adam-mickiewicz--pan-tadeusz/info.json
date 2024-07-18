@@ -29,98 +29,122 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - Pan Tadeusz",
+      "length": 55,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1134,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "Rules for Pronunciation of the Polish Words in the Text",
       "length": 1934,
       "mode": "skip"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "Introduction",
       "length": 5723,
       "mode": "skip"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "Translator's Preface",
       "length": 12469,
       "mode": "skip"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "Book I: Home-Keeping",
       "length": 49393,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "Book II: The Castle",
       "length": 44613,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "Book III: Flirting",
       "length": 41795,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "Book IV: Diplomacy and the Chase",
       "length": 54130,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "Book V: Diplomacy and the Chase",
       "length": 48816,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "Book VI: The Farmstead",
       "length": 33542,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "Book VII: Council",
       "length": 30102,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "Book VIII: The Foray",
       "length": 42607,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "Book IX: The Battle",
       "length": 41255,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "Book X: Emigration - Jacek",
       "length": 45632,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "Book XI: The Year 1812",
       "length": 35296,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "017",
       "title": "Book XII: Let Us Love One Another",
       "length": 44323,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "018",
       "title": "Endnotes",
       "length": 68119,
+      "mode": "hide"
+    },
+    {
+      "id": "019",
+      "title": "Colophon",
+      "length": 1011,
+      "mode": "hide"
+    },
+    {
+      "id": "020",
+      "title": "Uncopyright",
+      "length": 2050,
       "mode": "hide"
     }
   ],

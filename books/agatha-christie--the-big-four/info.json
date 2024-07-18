@@ -35,111 +35,135 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - The Big Four",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1138,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "I: The Unexpected Guest",
       "length": 14991,
       "mode": "type"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "II: The Man from the Asylum",
       "length": 8035,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "III: We Hear More About Li Chang Yen",
       "length": 18508,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "IV: The Importance of a Leg of Mutton",
       "length": 12602,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "V: Disappearance of a Scientist",
       "length": 11873,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "VI: The Woman on the Stairs",
       "length": 13905,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "VII: The Radium Thieves",
       "length": 20002,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "VIII: In the House of the Enemy",
       "length": 21465,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "IX: The Yellow Jasmine Mystery",
       "length": 12253,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "X: We Investigate at Croftlands",
       "length": 14103,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "XI: A Chess Problem",
       "length": 25486,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "XII: The Baited Trap",
       "length": 14409,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "XIII: The Mouse Walks In",
       "length": 13792,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "XIV: The Peroxide Blonde",
       "length": 24417,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "017",
       "title": "XV: The Terrible Catastrophe",
       "length": 22360,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "018",
       "title": "XVI: The Dying Chinaman",
       "length": 22577,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "019",
       "title": "XVII: Number Four Wins a Trick",
       "length": 17451,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "020",
       "title": "XVIII: In the Felsenlabyrynth",
       "length": 16501,
       "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Colophon",
+      "length": 938,
+      "mode": "hide"
+    },
+    {
+      "id": "022",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL471947W",

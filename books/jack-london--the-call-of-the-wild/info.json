@@ -29,51 +29,75 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - The Call of the Wild",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "Epigraph",
       "length": 110,
       "mode": "skip"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "I: Into the Primitive",
       "length": 20421,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "II: The Law of Club and Fang",
       "length": 18277,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "III: The Dominant Primordial Beast",
       "length": 28302,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "IV: Who Has Won to Mastership",
       "length": 17456,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "V: The Toil of Trace and Trail",
       "length": 29528,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "VI: For the Love of a Man",
       "length": 26331,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "VII: The Sounding of the Call",
       "length": 34249,
       "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Colophon",
+      "length": 1066,
+      "mode": "hide"
+    },
+    {
+      "id": "012",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL14942956W",

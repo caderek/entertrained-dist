@@ -1,1 +1,166 @@
-{"id":"g-k-chesterton--the-napoleon-of-notting-hill","title":"The Napoleon of Notting Hill","titleAlpha":"napoleon of notting hill","author":"G. K. Chesterton","language":"en","description":"A satire set in far-future London where the king, who was chosen at random, only cares about a good joke.","longDescription":["The Napoleon of Notting Hill, like so many Chesterton novels, deftly straddles the fence between humor and philosophy. The place is London, in the far-future year of 1984. Inexplicably, not too much has changed since the turn of the century - except that the king is chosen at random. Things quickly take a turn for the worse when the people randomly select an imbecile who only cares about a good joke.","With the new prankster king in place, the novel continues on with surprisingly action-packed breeziness, exploring themes of identity, patriotism, politics, and government."],"year":1904,"genres":["classics","fantasy","fiction"],"topics":["politics"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/g-k-chesterton/the-napoleon-of-notting-hill"},"openlibraryId":"OL76473W","goodreadsId":"1004480","rating":0.768,"popularity":3591,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Napoleon of Notting Hill","length":21,"mode":"hide"},{"id":"002","title":"Imprint","length":1176,"mode":"hide"},{"id":"003","title":"Dedication","length":1426,"mode":"hide"},{"id":"004","title":"Book I - I: Introductory Remarks on the Art of Prophecy","length":9450,"mode":"type"},{"id":"005","title":"Book I - II: The Man in Green","length":31573,"mode":"type"},{"id":"006","title":"Book I - III: The Hill of Humour","length":13217,"mode":"type"},{"id":"007","title":"Book II - I: The Charter of the Cities","length":18691,"mode":"type"},{"id":"008","title":"Book II - II: The Council of the Provosts","length":21204,"mode":"type"},{"id":"009","title":"Book II - III: Enter a Lunatic","length":20893,"mode":"type"},{"id":"010","title":"Book III - I: The Mental Condition of Adam Wayne","length":24630,"mode":"type"},{"id":"011","title":"Book III - II: The Remarkable Mr. Turnbull","length":17179,"mode":"type"},{"id":"012","title":"Book III - III: The Experiment of Mr. Buck","length":25140,"mode":"type"},{"id":"013","title":"Book IV - I: The Battle of the Lamps","length":21228,"mode":"type"},{"id":"014","title":"Book IV - II: The Correspondent of the Court Journal","length":16616,"mode":"type"},{"id":"015","title":"Book IV - III: The Great Army of South Kensington","length":36069,"mode":"type"},{"id":"016","title":"Book V - I: The Empire of Notting Hill","length":22790,"mode":"type"},{"id":"017","title":"Book V - II: The Last Battle","length":12540,"mode":"type"},{"id":"018","title":"Book V - III: Two Voices","length":11795,"mode":"type"},{"id":"019","title":"Endnotes","length":117,"mode":"hide"},{"id":"020","title":"Colophon","length":1077,"mode":"hide"},{"id":"021","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721171854120}
+{
+  "id": "g-k-chesterton--the-napoleon-of-notting-hill",
+  "title": "The Napoleon of Notting Hill",
+  "titleAlpha": "napoleon of notting hill",
+  "author": "G. K. Chesterton",
+  "language": "en",
+  "description": "A satire set in far-future London where the king, who was chosen at random, only cares about a good joke.",
+  "longDescription": [
+    "The Napoleon of Notting Hill, like so many Chesterton novels, deftly straddles the fence between humor and philosophy. The place is London, in the far-future year of 1984. Inexplicably, not too much has changed since the turn of the century - except that the king is chosen at random. Things quickly take a turn for the worse when the people randomly select an imbecile who only cares about a good joke.",
+    "With the new prankster king in place, the novel continues on with surprisingly action-packed breeziness, exploring themes of identity, patriotism, politics, and government."
+  ],
+  "year": 1904,
+  "genres": [
+    "classics",
+    "fiction",
+    "action",
+    "comedy"
+  ],
+  "topics": [
+    "politics"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/g-k-chesterton/the-napoleon-of-notting-hill"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Napoleon of Notting Hill",
+      "length": 21,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 1426,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Book I - I: Introductory Remarks on the Art of Prophecy",
+      "length": 9450,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Book I - II: The Man in Green",
+      "length": 31573,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book I - III: The Hill of Humour",
+      "length": 13217,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Book II - I: The Charter of the Cities",
+      "length": 18691,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Book II - II: The Council of the Provosts",
+      "length": 21204,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book II - III: Enter a Lunatic",
+      "length": 20893,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Book III - I: The Mental Condition of Adam Wayne",
+      "length": 24630,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book III - II: The Remarkable Mr. Turnbull",
+      "length": 17179,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book III - III: The Experiment of Mr. Buck",
+      "length": 25140,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book IV - I: The Battle of the Lamps",
+      "length": 21228,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book IV - II: The Correspondent of the Court Journal",
+      "length": 16616,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book IV - III: The Great Army of South Kensington",
+      "length": 36069,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Book V - I: The Empire of Notting Hill",
+      "length": 22790,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book V - II: The Last Battle",
+      "length": 12540,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book V - III: Two Voices",
+      "length": 11795,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Endnotes",
+      "length": 117,
+      "mode": "hide"
+    },
+    {
+      "id": "020",
+      "title": "Colophon",
+      "length": 1077,
+      "mode": "hide"
+    },
+    {
+      "id": "021",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL76473W",
+  "goodreadsId": "1004480",
+  "rating": 0.768,
+  "popularity": 3591,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721171854120
+}

@@ -32,81 +32,111 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - Alice's Adventures in Wonderland",
+      "length": 47,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "All in the Golden Afternoon",
       "length": 1248,
       "mode": "skip"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "I: Down the Rabbit-Hole",
       "length": 11198,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "II: The Pool of Tears",
       "length": 10872,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "III: A Caucus-Race and a Long Tale",
       "length": 9098,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "IV: The Rabbit Sends in a Little Bill",
       "length": 13827,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "V: Advice from a Caterpillar",
       "length": 11670,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "VI: Pig and Pepper",
       "length": 13701,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "VII: A Mad Tea-Party",
       "length": 12545,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "VIII: The Queen's Croquet-Ground",
       "length": 13562,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "IX: The Mock Turtle's Story",
       "length": 12527,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "X: The Lobster Quadrille",
       "length": 11203,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "XI: Who Stole the Tarts?",
       "length": 10267,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "XII: Alice's Evidence",
       "length": 11494,
       "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "List of Illustrations",
+      "length": 3562,
+      "mode": "hide"
+    },
+    {
+      "id": "017",
+      "title": "Colophon",
+      "length": 1053,
+      "mode": "hide"
+    },
+    {
+      "id": "018",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL138052W",

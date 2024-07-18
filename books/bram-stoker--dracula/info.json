@@ -34,177 +34,207 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - Dracula",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 28,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
       "title": "Preface",
       "length": 455,
       "mode": "skip"
     },
     {
-      "id": "002",
+      "id": "005",
       "title": "I",
       "length": 30620,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "006",
       "title": "II",
       "length": 28486,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "007",
       "title": "III",
       "length": 29793,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "008",
       "title": "IV",
       "length": 30199,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "009",
       "title": "V",
       "length": 18030,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "010",
       "title": "VI",
       "length": 29182,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "011",
       "title": "VII",
       "length": 29946,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "012",
       "title": "VIII",
       "length": 32619,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "013",
       "title": "IX",
       "length": 30174,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "014",
       "title": "X",
       "length": 30734,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "015",
       "title": "XI",
       "length": 26931,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "016",
       "title": "XII",
       "length": 37869,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "017",
       "title": "XIII",
       "length": 34159,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "018",
       "title": "XIV",
       "length": 32599,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "019",
       "title": "XV",
       "length": 29718,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "020",
       "title": "XVI",
       "length": 23886,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "021",
       "title": "XVII",
       "length": 29047,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "022",
       "title": "XVIII",
       "length": 35923,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "023",
       "title": "XIX",
       "length": 29429,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "024",
       "title": "XX",
       "length": 31168,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "025",
       "title": "XXI",
       "length": 32162,
       "mode": "type"
     },
     {
-      "id": "023",
+      "id": "026",
       "title": "XXII",
       "length": 28098,
       "mode": "type"
     },
     {
-      "id": "024",
+      "id": "027",
       "title": "XXIII",
       "length": 29507,
       "mode": "type"
     },
     {
-      "id": "025",
+      "id": "028",
       "title": "XXIV",
       "length": 32050,
       "mode": "type"
     },
     {
-      "id": "026",
+      "id": "029",
       "title": "XXV",
       "length": 32529,
       "mode": "type"
     },
     {
-      "id": "027",
+      "id": "030",
       "title": "XXVI",
       "length": 37006,
       "mode": "type"
     },
     {
-      "id": "028",
+      "id": "031",
       "title": "XXVII",
       "length": 38856,
       "mode": "type"
     },
     {
-      "id": "029",
+      "id": "032",
       "title": "Note",
       "length": 1794,
       "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Colophon",
+      "length": 1054,
+      "mode": "hide"
+    },
+    {
+      "id": "034",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL85892W",

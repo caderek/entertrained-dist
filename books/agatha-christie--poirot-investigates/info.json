@@ -32,69 +32,99 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - Poirot Investigates",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "The Adventure of the Western Star",
       "length": 40030,
       "mode": "type"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "The Tragedy at Marsdon Manor",
       "length": 24583,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "The Adventure of the Cheap Flat",
       "length": 26508,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "The Mystery of Hunter's Lodge",
       "length": 24562,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "The Million Dollar Bond Robbery",
       "length": 18455,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "The Adventure of the Egyptian Tomb",
       "length": 28327,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "The Jewel Robbery at the Grand Metropolitan",
       "length": 28312,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "The Kidnapped Prime Minister",
       "length": 35917,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "The Disappearance of Mr. Davenheim",
       "length": 27735,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "The Adventure of the Italian Nobleman",
       "length": 21005,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "The Case of the Missing Will",
       "length": 17661,
       "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "List of Illustrations",
+      "length": 62,
+      "mode": "hide"
+    },
+    {
+      "id": "015",
+      "title": "Colophon",
+      "length": 1019,
+      "mode": "hide"
+    },
+    {
+      "id": "016",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL471940W",

@@ -33,614 +33,644 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - The Divine Comedy",
+      "length": 62,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "Epigraph",
       "length": 1262,
       "mode": "skip"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "Inferno - Canto I",
       "length": 5876,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "Inferno - Canto II",
       "length": 6095,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "Inferno - Canto III",
       "length": 5852,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "Inferno - Canto IV",
       "length": 6344,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "Inferno - Canto V",
       "length": 6131,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "Inferno - Canto VI",
       "length": 4992,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "Inferno - Canto VII",
       "length": 5767,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "Inferno - Canto VIII",
       "length": 5625,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "Inferno - Canto IX",
       "length": 5808,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "Inferno - Canto X",
       "length": 5856,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "Inferno - Canto XI",
       "length": 4979,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "Inferno - Canto XII",
       "length": 6075,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "Inferno - Canto XIII",
       "length": 6657,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "017",
       "title": "Inferno - Canto XIV",
       "length": 6253,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "018",
       "title": "Inferno - Canto XV",
       "length": 5274,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "019",
       "title": "Inferno - Canto XVI",
       "length": 5868,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "020",
       "title": "Inferno - Canto XVII",
       "length": 5914,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "021",
       "title": "Inferno - Canto XVIII",
       "length": 6007,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "022",
       "title": "Inferno - Canto XIX",
       "length": 5778,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "023",
       "title": "Inferno - Canto XX",
       "length": 5597,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "024",
       "title": "Inferno - Canto XXI",
       "length": 6074,
       "mode": "type"
     },
     {
-      "id": "023",
+      "id": "025",
       "title": "Inferno - Canto XXII",
       "length": 6472,
       "mode": "type"
     },
     {
-      "id": "024",
+      "id": "026",
       "title": "Inferno - Canto XXIII",
       "length": 6358,
       "mode": "type"
     },
     {
-      "id": "025",
+      "id": "027",
       "title": "Inferno - Canto XXIV",
       "length": 6488,
       "mode": "type"
     },
     {
-      "id": "026",
+      "id": "028",
       "title": "Inferno - Canto XXV",
       "length": 6553,
       "mode": "type"
     },
     {
-      "id": "027",
+      "id": "029",
       "title": "Inferno - Canto XXVI",
       "length": 6077,
       "mode": "type"
     },
     {
-      "id": "028",
+      "id": "030",
       "title": "Inferno - Canto XXVII",
       "length": 5766,
       "mode": "type"
     },
     {
-      "id": "029",
+      "id": "031",
       "title": "Inferno - Canto XXVIII",
       "length": 6037,
       "mode": "type"
     },
     {
-      "id": "030",
+      "id": "032",
       "title": "Inferno - Canto XXIX",
       "length": 5890,
       "mode": "type"
     },
     {
-      "id": "031",
+      "id": "033",
       "title": "Inferno - Canto XXX",
       "length": 6366,
       "mode": "type"
     },
     {
-      "id": "032",
+      "id": "034",
       "title": "Inferno - Canto XXXI",
       "length": 6213,
       "mode": "type"
     },
     {
-      "id": "033",
+      "id": "035",
       "title": "Inferno - Canto XXXII",
       "length": 6254,
       "mode": "type"
     },
     {
-      "id": "034",
+      "id": "036",
       "title": "Inferno - Canto XXXIII",
       "length": 6840,
       "mode": "type"
     },
     {
-      "id": "035",
+      "id": "037",
       "title": "Inferno - Canto XXXIV",
       "length": 7313,
       "mode": "type"
     },
     {
-      "id": "036",
+      "id": "038",
       "title": "Purgatorio - Canto I",
       "length": 5757,
       "mode": "type"
     },
     {
-      "id": "037",
+      "id": "039",
       "title": "Purgatorio - Canto II",
       "length": 5669,
       "mode": "type"
     },
     {
-      "id": "038",
+      "id": "040",
       "title": "Purgatorio - Canto III",
       "length": 6238,
       "mode": "type"
     },
     {
-      "id": "039",
+      "id": "041",
       "title": "Purgatorio - Canto IV",
       "length": 6035,
       "mode": "type"
     },
     {
-      "id": "040",
+      "id": "042",
       "title": "Purgatorio - Canto V",
       "length": 5873,
       "mode": "type"
     },
     {
-      "id": "041",
+      "id": "043",
       "title": "Purgatorio - Canto VI",
       "length": 6364,
       "mode": "type"
     },
     {
-      "id": "042",
+      "id": "044",
       "title": "Purgatorio - Canto VII",
       "length": 5869,
       "mode": "type"
     },
     {
-      "id": "043",
+      "id": "045",
       "title": "Purgatorio - Canto VIII",
       "length": 6045,
       "mode": "type"
     },
     {
-      "id": "044",
+      "id": "046",
       "title": "Purgatorio - Canto IX",
       "length": 6180,
       "mode": "type"
     },
     {
-      "id": "045",
+      "id": "047",
       "title": "Purgatorio - Canto X",
       "length": 5947,
       "mode": "type"
     },
     {
-      "id": "046",
+      "id": "048",
       "title": "Purgatorio - Canto XI",
       "length": 6108,
       "mode": "type"
     },
     {
-      "id": "047",
+      "id": "049",
       "title": "Purgatorio - Canto XII",
       "length": 5800,
       "mode": "type"
     },
     {
-      "id": "048",
+      "id": "050",
       "title": "Purgatorio - Canto XIII",
       "length": 6608,
       "mode": "type"
     },
     {
-      "id": "049",
+      "id": "051",
       "title": "Purgatorio - Canto XIV",
       "length": 6440,
       "mode": "type"
     },
     {
-      "id": "050",
+      "id": "052",
       "title": "Purgatorio - Canto XV",
       "length": 6195,
       "mode": "type"
     },
     {
-      "id": "051",
+      "id": "053",
       "title": "Purgatorio - Canto XVI",
       "length": 6264,
       "mode": "type"
     },
     {
-      "id": "052",
+      "id": "054",
       "title": "Purgatorio - Canto XVII",
       "length": 5892,
       "mode": "type"
     },
     {
-      "id": "053",
+      "id": "055",
       "title": "Purgatorio - Canto XVIII",
       "length": 6116,
       "mode": "type"
     },
     {
-      "id": "054",
+      "id": "056",
       "title": "Purgatorio - Canto XIX",
       "length": 6314,
       "mode": "type"
     },
     {
-      "id": "055",
+      "id": "057",
       "title": "Purgatorio - Canto XX",
       "length": 6375,
       "mode": "type"
     },
     {
-      "id": "056",
+      "id": "058",
       "title": "Purgatorio - Canto XXI",
       "length": 5912,
       "mode": "type"
     },
     {
-      "id": "057",
+      "id": "059",
       "title": "Purgatorio - Canto XXII",
       "length": 6483,
       "mode": "type"
     },
     {
-      "id": "058",
+      "id": "060",
       "title": "Purgatorio - Canto XXIII",
       "length": 5595,
       "mode": "type"
     },
     {
-      "id": "059",
+      "id": "061",
       "title": "Purgatorio - Canto XXIV",
       "length": 6605,
       "mode": "type"
     },
     {
-      "id": "060",
+      "id": "062",
       "title": "Purgatorio - Canto XXV",
       "length": 6030,
       "mode": "type"
     },
     {
-      "id": "061",
+      "id": "063",
       "title": "Purgatorio - Canto XXVI",
       "length": 6303,
       "mode": "type"
     },
     {
-      "id": "062",
+      "id": "064",
       "title": "Purgatorio - Canto XXVII",
       "length": 6113,
       "mode": "type"
     },
     {
-      "id": "063",
+      "id": "065",
       "title": "Purgatorio - Canto XXVIII",
       "length": 6321,
       "mode": "type"
     },
     {
-      "id": "064",
+      "id": "066",
       "title": "Purgatorio - Canto XXIX",
       "length": 6462,
       "mode": "type"
     },
     {
-      "id": "065",
+      "id": "067",
       "title": "Purgatorio - Canto XXX",
       "length": 6073,
       "mode": "type"
     },
     {
-      "id": "066",
+      "id": "068",
       "title": "Purgatorio - Canto XXXI",
       "length": 6355,
       "mode": "type"
     },
     {
-      "id": "067",
+      "id": "069",
       "title": "Purgatorio - Canto XXXII",
       "length": 6850,
       "mode": "type"
     },
     {
-      "id": "068",
+      "id": "070",
       "title": "Purgatorio - Canto XXXIII",
       "length": 7281,
       "mode": "type"
     },
     {
-      "id": "069",
+      "id": "071",
       "title": "Paradiso - Canto I",
       "length": 5915,
       "mode": "type"
     },
     {
-      "id": "070",
+      "id": "072",
       "title": "Paradiso - Canto II",
       "length": 6362,
       "mode": "type"
     },
     {
-      "id": "071",
+      "id": "073",
       "title": "Paradiso - Canto III",
       "length": 5552,
       "mode": "type"
     },
     {
-      "id": "072",
+      "id": "074",
       "title": "Paradiso - Canto IV",
       "length": 5970,
       "mode": "type"
     },
     {
-      "id": "073",
+      "id": "075",
       "title": "Paradiso - Canto V",
       "length": 6056,
       "mode": "type"
     },
     {
-      "id": "074",
+      "id": "076",
       "title": "Paradiso - Canto VI",
       "length": 6065,
       "mode": "type"
     },
     {
-      "id": "075",
+      "id": "077",
       "title": "Paradiso - Canto VII",
       "length": 6216,
       "mode": "type"
     },
     {
-      "id": "076",
+      "id": "078",
       "title": "Paradiso - Canto VIII",
       "length": 6305,
       "mode": "type"
     },
     {
-      "id": "077",
+      "id": "079",
       "title": "Paradiso - Canto IX",
       "length": 5990,
       "mode": "type"
     },
     {
-      "id": "078",
+      "id": "080",
       "title": "Paradiso - Canto X",
       "length": 6409,
       "mode": "type"
     },
     {
-      "id": "079",
+      "id": "081",
       "title": "Paradiso - Canto XI",
       "length": 5831,
       "mode": "type"
     },
     {
-      "id": "080",
+      "id": "082",
       "title": "Paradiso - Canto XII",
       "length": 6089,
       "mode": "type"
     },
     {
-      "id": "081",
+      "id": "083",
       "title": "Paradiso - Canto XIII",
       "length": 6019,
       "mode": "type"
     },
     {
-      "id": "082",
+      "id": "084",
       "title": "Paradiso - Canto XIV",
       "length": 5925,
       "mode": "type"
     },
     {
-      "id": "083",
+      "id": "085",
       "title": "Paradiso - Canto XV",
       "length": 6185,
       "mode": "type"
     },
     {
-      "id": "084",
+      "id": "086",
       "title": "Paradiso - Canto XVI",
       "length": 6383,
       "mode": "type"
     },
     {
-      "id": "085",
+      "id": "087",
       "title": "Paradiso - Canto XVII",
       "length": 6122,
       "mode": "type"
     },
     {
-      "id": "086",
+      "id": "088",
       "title": "Paradiso - Canto XVIII",
       "length": 5789,
       "mode": "type"
     },
     {
-      "id": "087",
+      "id": "089",
       "title": "Paradiso - Canto XIX",
       "length": 6187,
       "mode": "type"
     },
     {
-      "id": "088",
+      "id": "090",
       "title": "Paradiso - Canto XX",
       "length": 6260,
       "mode": "type"
     },
     {
-      "id": "089",
+      "id": "091",
       "title": "Paradiso - Canto XXI",
       "length": 6173,
       "mode": "type"
     },
     {
-      "id": "090",
+      "id": "092",
       "title": "Paradiso - Canto XXII",
       "length": 6621,
       "mode": "type"
     },
     {
-      "id": "091",
+      "id": "093",
       "title": "Paradiso - Canto XXIII",
       "length": 5898,
       "mode": "type"
     },
     {
-      "id": "092",
+      "id": "094",
       "title": "Paradiso - Canto XXIV",
       "length": 6646,
       "mode": "type"
     },
     {
-      "id": "093",
+      "id": "095",
       "title": "Paradiso - Canto XXV",
       "length": 5925,
       "mode": "type"
     },
     {
-      "id": "094",
+      "id": "096",
       "title": "Paradiso - Canto XXVI",
       "length": 6030,
       "mode": "type"
     },
     {
-      "id": "095",
+      "id": "097",
       "title": "Paradiso - Canto XXVII",
       "length": 6321,
       "mode": "type"
     },
     {
-      "id": "096",
+      "id": "098",
       "title": "Paradiso - Canto XXVIII",
       "length": 5893,
       "mode": "type"
     },
     {
-      "id": "097",
+      "id": "099",
       "title": "Paradiso - Canto XXIX",
       "length": 6283,
       "mode": "type"
     },
     {
-      "id": "098",
+      "id": "100",
       "title": "Paradiso - Canto XXX",
       "length": 6271,
       "mode": "type"
     },
     {
-      "id": "099",
+      "id": "101",
       "title": "Paradiso - Canto XXXI",
       "length": 5939,
       "mode": "type"
     },
     {
-      "id": "100",
+      "id": "102",
       "title": "Paradiso - Canto XXXII",
       "length": 6313,
       "mode": "type"
     },
     {
-      "id": "101",
+      "id": "103",
       "title": "Paradiso - Canto XXXIII",
       "length": 6113,
       "mode": "type"
     },
     {
-      "id": "102",
+      "id": "104",
       "title": "Endnotes",
       "length": 1136702,
+      "mode": "hide"
+    },
+    {
+      "id": "105",
+      "title": "List of Illustrations",
+      "length": 86,
+      "mode": "hide"
+    },
+    {
+      "id": "106",
+      "title": "Colophon",
+      "length": 1226,
+      "mode": "hide"
+    },
+    {
+      "id": "107",
+      "title": "Uncopyright",
+      "length": 2050,
       "mode": "hide"
     }
   ],

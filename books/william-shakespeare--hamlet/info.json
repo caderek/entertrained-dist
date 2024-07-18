@@ -31,134 +31,158 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - Hamlet",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1214,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "Dramatis Personae",
       "length": 670,
       "mode": "skip"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "Act I - Scene I",
       "length": 7981,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "Act I - Scene II",
       "length": 11890,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "Act I - Scene III",
       "length": 6121,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "Act I - Scene IV",
       "length": 4287,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "Act I - Scene V",
       "length": 8420,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "Act II - Scene I",
       "length": 5413,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "Act II - Scene II",
       "length": 27414,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "Act III - Scene I",
       "length": 8720,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "Act III - Scene II",
       "length": 18407,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "Act III - Scene III",
       "length": 4460,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "Act III - Scene IV",
       "length": 9988,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "Act IV - Scene I",
       "length": 2153,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "Act IV - Scene II",
       "length": 1416,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "017",
       "title": "Act IV - Scene III",
       "length": 3238,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "018",
       "title": "Act IV - Scene IV",
       "length": 3060,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "019",
       "title": "Act IV - Scene V",
       "length": 9395,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "020",
       "title": "Act IV - Scene VI",
       "length": 1630,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "021",
       "title": "Act IV - Scene VII",
       "length": 8841,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "022",
       "title": "Act V - Scene I",
       "length": 13717,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "023",
       "title": "Act V - Scene II",
       "length": 18720,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "024",
       "title": "Endnotes",
       "length": 1071,
+      "mode": "hide"
+    },
+    {
+      "id": "025",
+      "title": "Colophon",
+      "length": 1093,
+      "mode": "hide"
+    },
+    {
+      "id": "026",
+      "title": "Uncopyright",
+      "length": 2050,
       "mode": "hide"
     }
   ],

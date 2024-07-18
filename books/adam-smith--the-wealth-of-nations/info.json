@@ -31,422 +31,446 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - The Wealth of Nations",
+      "length": 15,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1188,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "Editor's Introduction",
       "length": 77786,
       "mode": "hide"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "Introduction and Plan of the Work",
       "length": 6444,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "Book I - I: Of the Division of Labour",
       "length": 20036,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "Book I - II: Of the Principle Which Gives Occasion to the Division of Labour",
       "length": 8834,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "Book I - III: That the Division of Labour Is Limited by the Extent of the Market",
       "length": 10484,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "Book I - IV: Of the Origin and Use of Money",
       "length": 15090,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "Book I - V: Of the Real and Nominal Price of Commodities, or of Their Price in Labour, and Their Price in Money",
       "length": 40195,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "Book I - VI: Of the Component Parts of the Price of Commodities",
       "length": 16867,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "Book I - VII: Of the Natural and Market Price of Commodities",
       "length": 21176,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "Book I - VIII: Of the Wages of Labour",
       "length": 54800,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "Book I - IX: Of the Profits of Stock",
       "length": 26847,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "Book I - X: Of Wages and Profit in the Different Employments of Labour and Stock - I: Inequalities Arising from the Nature of the Employments Themselves",
       "length": 46219,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "Book I - X: Of Wages and Profit in the Different Employments of Labour and Stock - II: Inequalities Occasioned by the Policy of Europe",
       "length": 64844,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "Book I - XI: Of the Rent of Land - I: Of the Produce of Land Which Always Affords Rent",
       "length": 36976,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "017",
       "title": "Book I - XI: Of the Rent of Land - II: Of the Produce of Land Which Sometimes Does, and Sometimes Does Not, Afford Rent",
       "length": 36277,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "018",
       "title": "Book I - XI: Of the Rent of Land - III: Of the Variations in the Proportion Between the Respective Values of That Sort of Produce Which Always Affords Rent, and of That Which Sometimes Does and Sometimes Does Not Afford Rent - Digression Concerning the Variations in the Value of Silver During the Course of the Four Last Centuries - First Period",
       "length": 34753,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "019",
       "title": "Book I - XI: Of the Rent of Land - III: Of the Variations in the Proportion Between the Respective Values of That Sort of Produce Which Always Affords Rent, and of That Which Sometimes Does and Sometimes Does Not Afford Rent - Digression Concerning the Variations in the Value of Silver During the Course of the Four Last Centuries - Second Period",
       "length": 2640,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "020",
       "title": "Book I - XI: Of the Rent of Land - III: Of the Variations in the Proportion Between the Respective Values of That Sort of Produce Which Always Affords Rent, and of That Which Sometimes Does and Sometimes Does Not Afford Rent - Digression Concerning the Variations in the Value of Silver During the Course of the Four Last Centuries - Third Period",
       "length": 41994,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "021",
       "title": "Book I - XI: Of the Rent of Land - III: Of the Variations in the Proportion Between the Respective Values of That Sort of Produce Which Always Affords Rent, and of That Which Sometimes Does and Sometimes Does Not Afford Rent - Digression Concerning the Variations in the Value of Silver During the Course of the Four Last Centuries - Variations in the Proportion Between the Respective Values of Gold and Silver",
       "length": 12441,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "022",
       "title": "Book I - XI: Of the Rent of Land - III: Of the Variations in the Proportion Between the Respective Values of That Sort of Produce Which Always Affords Rent, and of That Which Sometimes Does and Sometimes Does Not Afford Rent - Digression Concerning the Variations in the Value of Silver During the Course of the Four Last Centuries - Grounds of the Suspicion That the Value of Silver Still Continues to Decrease",
       "length": 2908,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "023",
       "title": "Book I - XI: Of the Rent of Land - III: Of the Variations in the Proportion Between the Respective Values of That Sort of Produce Which Always Affords Rent, and of That Which Sometimes Does and Sometimes Does Not Afford Rent - Digression Concerning the Variations in the Value of Silver During the Course of the Four Last Centuries - Different Effects of the Progress of Improvement Upon Three Different Sorts of Rude Produce - First Sort",
       "length": 4342,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "024",
       "title": "Book I - XI: Of the Rent of Land - III: Of the Variations in the Proportion Between the Respective Values of That Sort of Produce Which Always Affords Rent, and of That Which Sometimes Does and Sometimes Does Not Afford Rent - Digression Concerning the Variations in the Value of Silver During the Course of the Four Last Centuries - Different Effects of the Progress of Improvement Upon Three Different Sorts of Rude Produce - Second Sort",
       "length": 24123,
       "mode": "type"
     },
     {
-      "id": "023",
+      "id": "025",
       "title": "Book I - XI: Of the Rent of Land - III: Of the Variations in the Proportion Between the Respective Values of That Sort of Produce Which Always Affords Rent, and of That Which Sometimes Does and Sometimes Does Not Afford Rent - Digression Concerning the Variations in the Value of Silver During the Course of the Four Last Centuries - Different Effects of the Progress of Improvement Upon Three Different Sorts of Rude Produce - Third Sort",
       "length": 23700,
       "mode": "type"
     },
     {
-      "id": "024",
+      "id": "026",
       "title": "Book I - XI: Of the Rent of Land - III: Of the Variations in the Proportion Between the Respective Values of That Sort of Produce Which Always Affords Rent, and of That Which Sometimes Does and Sometimes Does Not Afford Rent - Digression Concerning the Variations in the Value of Silver During the Course of the Four Last Centuries - Conclusion of the Digression Concerning the Variations in the Value of Silver",
       "length": 13204,
       "mode": "type"
     },
     {
-      "id": "025",
+      "id": "027",
       "title": "Book I - XI: Of the Rent of Land - III: Of the Variations in the Proportion Between the Respective Values of That Sort of Produce Which Always Affords Rent, and of That Which Sometimes Does and Sometimes Does Not Afford Rent - Effects of the Progress of Improvement Upon the Real Price of Manufactures",
       "length": 11299,
       "mode": "type"
     },
     {
-      "id": "026",
+      "id": "028",
       "title": "Book I - XI: Of the Rent of Land - Conclusion of the Chapter",
       "length": 14910,
       "mode": "type"
     },
     {
-      "id": "027",
+      "id": "029",
       "title": "Book II - Introduction",
       "length": 4934,
       "mode": "type"
     },
     {
-      "id": "028",
+      "id": "030",
       "title": "Book II - I: Of the Division of Stock",
       "length": 18126,
       "mode": "type"
     },
     {
-      "id": "029",
+      "id": "031",
       "title": "Book II - II: Of Money Considered as a Particular Branch of the General Stock of the Society, or of the Expense of Maintaining the National Capital",
       "length": 111593,
       "mode": "type"
     },
     {
-      "id": "030",
+      "id": "032",
       "title": "Book II - III: Of the Accumulation of Capital, or of Productive and Unproductive Labour",
       "length": 46876,
       "mode": "type"
     },
     {
-      "id": "031",
+      "id": "033",
       "title": "Book II - IV: Of Stock Lent at Interest",
       "length": 20309,
       "mode": "type"
     },
     {
-      "id": "032",
+      "id": "034",
       "title": "Book II - V: Of the Different Employment of Capitals",
       "length": 38825,
       "mode": "type"
     },
     {
-      "id": "033",
+      "id": "035",
       "title": "Book III - I: Of the Natural Progress of Opulence",
       "length": 11777,
       "mode": "type"
     },
     {
-      "id": "034",
+      "id": "036",
       "title": "Book III - II: Of the Discouragement of Agriculture in the Ancient State of Europe After the Fall of the Roman Empire",
       "length": 27487,
       "mode": "type"
     },
     {
-      "id": "035",
+      "id": "037",
       "title": "Book III - III: Of the Rise and Progress of Cities and Towns, After the Fall of the Roman Empire",
       "length": 25759,
       "mode": "type"
     },
     {
-      "id": "036",
+      "id": "038",
       "title": "Book III - IV: How the Commerce of the Towns Contributed to the Improvement of the Country",
       "length": 30884,
       "mode": "type"
     },
     {
-      "id": "037",
+      "id": "039",
       "title": "Book IV - Introduction",
       "length": 884,
       "mode": "type"
     },
     {
-      "id": "038",
+      "id": "040",
       "title": "Book IV - I: Of the Principle of the Commercial or Mercantile System",
       "length": 54969,
       "mode": "type"
     },
     {
-      "id": "039",
+      "id": "041",
       "title": "Book IV - II: Of Restraints Upon the Importation from Foreign Countries of Such Goods as Can Be Produced at Home",
       "length": 63562,
       "mode": "type"
     },
     {
-      "id": "040",
+      "id": "042",
       "title": "Book IV - III: Of the Extraordinary Restraints Upon the Importation of Goods of Almost All Kinds, from Those Countries with Which the Balance Is Supposed to Be Disadvantageous - I: Of the Unreasonableness of Those Restraints Even Upon the Principles of the Commercial System - Digression Concerning Banks of Deposit, Particularly Concerning That of Amsterdam",
       "length": 22737,
       "mode": "type"
     },
     {
-      "id": "041",
+      "id": "043",
       "title": "Book IV - III: Of the Extraordinary Restraints Upon the Importation of Goods of Almost All Kinds, from Those Countries with Which the Balance Is Supposed to Be Disadvantageous - II: Of the Unreasonableness of Those Extraordinary Restraints Upon Other Principles",
       "length": 25342,
       "mode": "type"
     },
     {
-      "id": "042",
+      "id": "044",
       "title": "Book IV - IV: Of Drawbacks",
       "length": 56942,
       "mode": "type"
     },
     {
-      "id": "043",
+      "id": "045",
       "title": "Book IV - V: Of Bounties - Digression Concerning the Corn Trade and Corn Laws",
       "length": 49266,
       "mode": "type"
     },
     {
-      "id": "044",
+      "id": "046",
       "title": "Book IV - VI: Of Treaties of Commerce",
       "length": 28171,
       "mode": "type"
     },
     {
-      "id": "045",
+      "id": "047",
       "title": "Book IV - VII: Of Colonies - I: Of the Motives for Establishing New Colonies",
       "length": 21805,
       "mode": "type"
     },
     {
-      "id": "046",
+      "id": "048",
       "title": "Book IV - VII: Of Colonies - II: Causes of the Prosperity of New Colonies",
       "length": 63137,
       "mode": "type"
     },
     {
-      "id": "047",
+      "id": "049",
       "title": "Book IV - VII: Of Colonies - III: Of the Advantages Which Europe Has Derived from the Discovery of America, and from That of a Passage to the East Indies by the Cape of Good Hope",
       "length": 128917,
       "mode": "type"
     },
     {
-      "id": "048",
+      "id": "050",
       "title": "Book IV - VIII: Conclusion of the Mercantile System",
       "length": 48901,
       "mode": "type"
     },
     {
-      "id": "049",
+      "id": "051",
       "title": "Book IV - IX: Of the Agricultural Systems, or of Those Systems of Political OEconomy, Which Represent the Produce of Land as Either the Sole or the Principal Source of the Revenue and Wealth of Every Country",
       "length": 64286,
       "mode": "type"
     },
     {
-      "id": "050",
+      "id": "052",
       "title": "Book V - I: Of the Expenses of the Sovereign or Commonwealth - I: Of the Expense of Defence",
       "length": 42225,
       "mode": "type"
     },
     {
-      "id": "051",
+      "id": "053",
       "title": "Book V - I: Of the Expenses of the Sovereign or Commonwealth - II: Of the Expense of Justice",
       "length": 32533,
       "mode": "type"
     },
     {
-      "id": "052",
+      "id": "054",
       "title": "Book V - I: Of the Expenses of the Sovereign or Commonwealth - III: Of the Expense of Public Works and Public Institutions - Article I: Of the Public Works and Institutions for Facilitating the Commerce of the Society - And, First, of Those Which Are Necessary for Facilitating Commerce in General",
       "length": 19799,
       "mode": "type"
     },
     {
-      "id": "053",
+      "id": "055",
       "title": "Book V - I: Of the Expenses of the Sovereign or Commonwealth - III: Of the Expense of Public Works and Public Institutions - Article I: Of the Public Works and Institutions for Facilitating the Commerce of the Society - Of the Public Works and Institutions Which Are Necessary for Facilitating Particular Branches of Commerce",
       "length": 66706,
       "mode": "type"
     },
     {
-      "id": "054",
+      "id": "056",
       "title": "Book V - I: Of the Expenses of the Sovereign or Commonwealth - III: Of the Expense of Public Works and Public Institutions - Article II: Of the Expense of the Institutions for the Education of Youth",
       "length": 64638,
       "mode": "type"
     },
     {
-      "id": "055",
+      "id": "057",
       "title": "Book V - I: Of the Expenses of the Sovereign or Commonwealth - III: Of the Expense of Public Works and Public Institutions - Article III: Of the Expense of the Institutions for the Instruction of People of All Ages",
       "length": 69397,
       "mode": "type"
     },
     {
-      "id": "056",
+      "id": "058",
       "title": "Book V - I: Of the Expenses of the Sovereign or Commonwealth - IV: Of the Expense of Supporting the Dignity of the Sovereign",
       "length": 1073,
       "mode": "type"
     },
     {
-      "id": "057",
+      "id": "059",
       "title": "Book V - I: Of the Expenses of the Sovereign or Commonwealth - Conclusion",
       "length": 4130,
       "mode": "type"
     },
     {
-      "id": "058",
+      "id": "060",
       "title": "Book V - II: Of the Sources of the General or Public Revenue of the Society - I: Of the Funds or Sources of Revenue Which May Peculiarly Belong to the Sovereign or Commonwealth",
       "length": 25799,
       "mode": "type"
     },
     {
-      "id": "059",
+      "id": "061",
       "title": "Book V - II: Of the Sources of the General or Public Revenue of the Society - II: Of Taxes - Article I - Taxes Upon Rent; Taxes Upon the Rent of Land",
       "length": 21708,
       "mode": "type"
     },
     {
-      "id": "060",
+      "id": "062",
       "title": "Book V - II: Of the Sources of the General or Public Revenue of the Society - II: Of Taxes - Article I - Taxes Which Are Proportioned, Not to the Rent, but to the Produce of Land",
       "length": 9077,
       "mode": "type"
     },
     {
-      "id": "061",
+      "id": "063",
       "title": "Book V - II: Of the Sources of the General or Public Revenue of the Society - II: Of Taxes - Article I - Taxes Upon the Rent of Houses",
       "length": 18530,
       "mode": "type"
     },
     {
-      "id": "062",
+      "id": "064",
       "title": "Book V - II: Of the Sources of the General or Public Revenue of the Society - II: Of Taxes - Article II - Taxes Upon Profit, or Upon the Revenue Arising from Stock",
       "length": 13008,
       "mode": "type"
     },
     {
-      "id": "063",
+      "id": "065",
       "title": "Book V - II: Of the Sources of the General or Public Revenue of the Society - II: Of Taxes - Article II - Taxes Upon the Profit of Particular Employments",
       "length": 15185,
       "mode": "type"
     },
     {
-      "id": "064",
+      "id": "066",
       "title": "Book V - II: Of the Sources of the General or Public Revenue of the Society - II: Of Taxes - Appendix to Articles I and II - Taxes Upon the Capital Value of Land, Houses, and Stock",
       "length": 14727,
       "mode": "type"
     },
     {
-      "id": "065",
+      "id": "067",
       "title": "Book V - II: Of the Sources of the General or Public Revenue of the Society - II: Of Taxes - Article III: Taxes Upon the Wages of Labour",
       "length": 8216,
       "mode": "type"
     },
     {
-      "id": "066",
+      "id": "068",
       "title": "Book V - II: Of the Sources of the General or Public Revenue of the Society - II: Of Taxes - Article IV: Taxes Which, It Is Intended, Should Fall Indifferently Upon Every Different Species of Revenue - Capitation Taxes",
       "length": 5500,
       "mode": "type"
     },
     {
-      "id": "067",
+      "id": "069",
       "title": "Book V - II: Of the Sources of the General or Public Revenue of the Society - II: Of Taxes - Article IV: Taxes Which, It Is Intended, Should Fall Indifferently Upon Every Different Species of Revenue - Taxes Upon Consumable Commodities",
       "length": 94084,
       "mode": "type"
     },
     {
-      "id": "068",
+      "id": "070",
       "title": "Book V - III: Of Public Debts",
       "length": 105865,
       "mode": "type"
     },
     {
-      "id": "069",
+      "id": "071",
       "title": "Appendix",
       "length": 1684,
       "mode": "hide"
     },
     {
-      "id": "070",
+      "id": "072",
       "title": "Endnotes",
       "length": 224336,
+      "mode": "hide"
+    },
+    {
+      "id": "073",
+      "title": "Colophon",
+      "length": 1057,
+      "mode": "hide"
+    },
+    {
+      "id": "074",
+      "title": "Uncopyright",
+      "length": 2050,
       "mode": "hide"
     }
   ],

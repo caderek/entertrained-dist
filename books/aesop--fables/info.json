@@ -28,1713 +28,1737 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - Fables",
+      "length": 44,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "Introduction",
       "length": 8629,
       "mode": "skip"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "The Fox and the Grapes",
       "length": 395,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "The Goose That Laid the Golden Eggs",
       "length": 543,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "The Cat and the Mice",
       "length": 906,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "The Mischievous Dog",
       "length": 587,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "The Charcoal-Burner and the Fuller",
       "length": 569,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "The Mice in Council",
       "length": 719,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "The Bat and the Weasels",
       "length": 712,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "The Dog and the Sow",
       "length": 229,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "The Fox and the Crow",
       "length": 660,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "The Horse and the Groom",
       "length": 371,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "The Wolf and the Lamb",
       "length": 722,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "The Peacock and the Crane",
       "length": 356,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "The Cat and the Birds",
       "length": 398,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "017",
       "title": "The Spendthrift and the Swallow",
       "length": 521,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "018",
       "title": "The Old Woman and the Doctor",
       "length": 1262,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "019",
       "title": "The Moon and Her Mother",
       "length": 231,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "020",
       "title": "Mercury and the Woodman",
       "length": 1624,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "021",
       "title": "The Ass, the Fox, and the Lion",
       "length": 906,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "022",
       "title": "The Lion and the Mouse",
       "length": 893,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "023",
       "title": "The Crow and the Pitcher",
       "length": 477,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "024",
       "title": "The Boys and the Frogs",
       "length": 356,
       "mode": "type"
     },
     {
-      "id": "023",
+      "id": "025",
       "title": "The North Wind and the Sun",
       "length": 864,
       "mode": "type"
     },
     {
-      "id": "024",
+      "id": "026",
       "title": "The Mistress and Her Servants",
       "length": 658,
       "mode": "type"
     },
     {
-      "id": "025",
+      "id": "027",
       "title": "The Goods and the Ills",
       "length": 1163,
       "mode": "type"
     },
     {
-      "id": "026",
+      "id": "028",
       "title": "The Hares and the Frogs",
       "length": 937,
       "mode": "type"
     },
     {
-      "id": "027",
+      "id": "029",
       "title": "The Fox and the Stork",
       "length": 573,
       "mode": "type"
     },
     {
-      "id": "028",
+      "id": "030",
       "title": "The Wolf in Sheep's Clothing",
       "length": 505,
       "mode": "type"
     },
     {
-      "id": "029",
+      "id": "031",
       "title": "The Stag in the Ox-Stall",
       "length": 1347,
       "mode": "type"
     },
     {
-      "id": "030",
+      "id": "032",
       "title": "The Milkmaid and Her Pail",
       "length": 965,
       "mode": "type"
     },
     {
-      "id": "031",
+      "id": "033",
       "title": "The Dolphins, the Whales, and the Sprat",
       "length": 472,
       "mode": "type"
     },
     {
-      "id": "032",
+      "id": "034",
       "title": "The Fox and the Monkey",
       "length": 723,
       "mode": "type"
     },
     {
-      "id": "033",
+      "id": "035",
       "title": "The Ass and the Lapdog",
       "length": 1354,
       "mode": "type"
     },
     {
-      "id": "034",
+      "id": "036",
       "title": "The Fir-Tree and the Bramble",
       "length": 484,
       "mode": "type"
     },
     {
-      "id": "035",
+      "id": "037",
       "title": "The Frogs' Complaint Against the Sun",
       "length": 374,
       "mode": "type"
     },
     {
-      "id": "036",
+      "id": "038",
       "title": "The Dog, the Cock, and the Fox",
       "length": 678,
       "mode": "type"
     },
     {
-      "id": "037",
+      "id": "039",
       "title": "The Gnat and the Bull",
       "length": 447,
       "mode": "type"
     },
     {
-      "id": "038",
+      "id": "040",
       "title": "The Bear and the Travellers",
       "length": 847,
       "mode": "type"
     },
     {
-      "id": "039",
+      "id": "041",
       "title": "The Slave and the Lion",
       "length": 1867,
       "mode": "type"
     },
     {
-      "id": "040",
+      "id": "042",
       "title": "The Flea and the Man",
       "length": 669,
       "mode": "type"
     },
     {
-      "id": "041",
+      "id": "043",
       "title": "The Bee and Jupiter",
       "length": 640,
       "mode": "type"
     },
     {
-      "id": "042",
+      "id": "044",
       "title": "The Oak and the Reeds",
       "length": 543,
       "mode": "type"
     },
     {
-      "id": "043",
+      "id": "045",
       "title": "The Blind Man and the Cub",
       "length": 439,
       "mode": "type"
     },
     {
-      "id": "044",
+      "id": "046",
       "title": "The Boy and the Snails",
       "length": 464,
       "mode": "type"
     },
     {
-      "id": "045",
+      "id": "047",
       "title": "The Apes and the Two Travellers",
       "length": 1285,
       "mode": "type"
     },
     {
-      "id": "046",
+      "id": "048",
       "title": "The Ass and His Burdens",
       "length": 997,
       "mode": "type"
     },
     {
-      "id": "047",
+      "id": "049",
       "title": "The Shepherd's Boy and the Wolf",
       "length": 709,
       "mode": "type"
     },
     {
-      "id": "048",
+      "id": "050",
       "title": "The Fox and the Goat",
       "length": 1161,
       "mode": "type"
     },
     {
-      "id": "049",
+      "id": "051",
       "title": "The Fisherman and the Sprat",
       "length": 425,
       "mode": "type"
     },
     {
-      "id": "050",
+      "id": "052",
       "title": "The Boasting Traveller",
       "length": 550,
       "mode": "type"
     },
     {
-      "id": "051",
+      "id": "053",
       "title": "The Crab and His Mother",
       "length": 324,
       "mode": "type"
     },
     {
-      "id": "052",
+      "id": "054",
       "title": "The Ass and His Shadow",
       "length": 605,
       "mode": "type"
     },
     {
-      "id": "053",
+      "id": "055",
       "title": "The Farmer and His Sons",
       "length": 593,
       "mode": "type"
     },
     {
-      "id": "054",
+      "id": "056",
       "title": "The Dog and the Cook",
       "length": 1141,
       "mode": "type"
     },
     {
-      "id": "055",
+      "id": "057",
       "title": "The Monkey as King",
       "length": 720,
       "mode": "type"
     },
     {
-      "id": "056",
+      "id": "058",
       "title": "The Thieves and the Cock",
       "length": 525,
       "mode": "type"
     },
     {
-      "id": "057",
+      "id": "059",
       "title": "The Farmer and Fortune",
       "length": 594,
       "mode": "type"
     },
     {
-      "id": "058",
+      "id": "060",
       "title": "Jupiter and the Monkey",
       "length": 488,
       "mode": "type"
     },
     {
-      "id": "059",
+      "id": "061",
       "title": "Father and Sons",
       "length": 664,
       "mode": "type"
     },
     {
-      "id": "060",
+      "id": "062",
       "title": "The Lamp",
       "length": 374,
       "mode": "type"
     },
     {
-      "id": "061",
+      "id": "063",
       "title": "The Owl and the Birds",
       "length": 1135,
       "mode": "type"
     },
     {
-      "id": "062",
+      "id": "064",
       "title": "The Ass in the Lion's Skin",
       "length": 459,
       "mode": "type"
     },
     {
-      "id": "063",
+      "id": "065",
       "title": "The She-Goats and Their Beards",
       "length": 421,
       "mode": "type"
     },
     {
-      "id": "064",
+      "id": "066",
       "title": "The Old Lion",
       "length": 726,
       "mode": "type"
     },
     {
-      "id": "065",
+      "id": "067",
       "title": "The Boy Bathing",
       "length": 405,
       "mode": "type"
     },
     {
-      "id": "066",
+      "id": "068",
       "title": "The Quack Frog",
       "length": 377,
       "mode": "type"
     },
     {
-      "id": "067",
+      "id": "069",
       "title": "The Swollen Fox",
       "length": 675,
       "mode": "type"
     },
     {
-      "id": "068",
+      "id": "070",
       "title": "The Mouse, the Frog, and the Hawk",
       "length": 801,
       "mode": "type"
     },
     {
-      "id": "069",
+      "id": "071",
       "title": "The Boy and the Nettles",
       "length": 331,
       "mode": "type"
     },
     {
-      "id": "070",
+      "id": "072",
       "title": "The Peasant and the Apple-Tree",
       "length": 907,
       "mode": "type"
     },
     {
-      "id": "071",
+      "id": "073",
       "title": "The Jackdaw and the Pigeons",
       "length": 737,
       "mode": "type"
     },
     {
-      "id": "072",
+      "id": "074",
       "title": "Jupiter and the Tortoise",
       "length": 570,
       "mode": "type"
     },
     {
-      "id": "073",
+      "id": "075",
       "title": "The Dog in the Manger",
       "length": 312,
       "mode": "type"
     },
     {
-      "id": "074",
+      "id": "076",
       "title": "The Two Bags",
       "length": 271,
       "mode": "type"
     },
     {
-      "id": "075",
+      "id": "077",
       "title": "The Oxen and the Axletrees",
       "length": 342,
       "mode": "type"
     },
     {
-      "id": "076",
+      "id": "078",
       "title": "The Boy and the Filberts",
       "length": 549,
       "mode": "type"
     },
     {
-      "id": "077",
+      "id": "079",
       "title": "The Frogs Asking for a King",
       "length": 996,
       "mode": "type"
     },
     {
-      "id": "078",
+      "id": "080",
       "title": "The Olive-Tree and the Fig-Tree",
       "length": 492,
       "mode": "type"
     },
     {
-      "id": "079",
+      "id": "081",
       "title": "The Lion and the Boar",
       "length": 607,
       "mode": "type"
     },
     {
-      "id": "080",
+      "id": "082",
       "title": "The Walnut-Tree",
       "length": 331,
       "mode": "type"
     },
     {
-      "id": "081",
+      "id": "083",
       "title": "The Man and the Lion",
       "length": 644,
       "mode": "type"
     },
     {
-      "id": "082",
+      "id": "084",
       "title": "The Tortoise and the Eagle",
       "length": 634,
       "mode": "type"
     },
     {
-      "id": "083",
+      "id": "085",
       "title": "The Kid on the Housetop",
       "length": 376,
       "mode": "type"
     },
     {
-      "id": "084",
+      "id": "086",
       "title": "The Fox Without a Tail",
       "length": 654,
       "mode": "type"
     },
     {
-      "id": "085",
+      "id": "087",
       "title": "The Vain Jackdaw",
       "length": 964,
       "mode": "type"
     },
     {
-      "id": "086",
+      "id": "088",
       "title": "The Traveller and His Dog",
       "length": 290,
       "mode": "type"
     },
     {
-      "id": "087",
+      "id": "089",
       "title": "The Shipwrecked Man and the Sea",
       "length": 585,
       "mode": "type"
     },
     {
-      "id": "088",
+      "id": "090",
       "title": "The Wild Boar and the Fox",
       "length": 412,
       "mode": "type"
     },
     {
-      "id": "089",
+      "id": "091",
       "title": "Mercury and the Sculptor",
       "length": 655,
       "mode": "type"
     },
     {
-      "id": "090",
+      "id": "092",
       "title": "The Fawn and His Mother",
       "length": 422,
       "mode": "type"
     },
     {
-      "id": "091",
+      "id": "093",
       "title": "The Fox and the Lion",
       "length": 407,
       "mode": "type"
     },
     {
-      "id": "092",
+      "id": "094",
       "title": "The Eagle and His Captor",
       "length": 645,
       "mode": "type"
     },
     {
-      "id": "093",
+      "id": "095",
       "title": "The Blacksmith and His Dog",
       "length": 506,
       "mode": "type"
     },
     {
-      "id": "094",
+      "id": "096",
       "title": "The Stag at the Pool",
       "length": 831,
       "mode": "type"
     },
     {
-      "id": "095",
+      "id": "097",
       "title": "The Dog and the Shadow",
       "length": 411,
       "mode": "type"
     },
     {
-      "id": "096",
+      "id": "098",
       "title": "Mercury and the Tradesmen",
       "length": 549,
       "mode": "type"
     },
     {
-      "id": "097",
+      "id": "099",
       "title": "The Mice and the Weasels",
       "length": 935,
       "mode": "type"
     },
     {
-      "id": "098",
+      "id": "100",
       "title": "The Peacock and Juno",
       "length": 991,
       "mode": "type"
     },
     {
-      "id": "099",
+      "id": "101",
       "title": "The Bear and the Fox",
       "length": 410,
       "mode": "type"
     },
     {
-      "id": "100",
+      "id": "102",
       "title": "The Ass and the Old Peasant",
       "length": 553,
       "mode": "type"
     },
     {
-      "id": "101",
+      "id": "103",
       "title": "The Ox and the Frog",
       "length": 804,
       "mode": "type"
     },
     {
-      "id": "102",
+      "id": "104",
       "title": "The Man and the Image",
       "length": 543,
       "mode": "type"
     },
     {
-      "id": "103",
+      "id": "105",
       "title": "Hercules and the Wagoner",
       "length": 588,
       "mode": "type"
     },
     {
-      "id": "104",
+      "id": "106",
       "title": "The Pomegranate, the Apple-Tree, and the Bramble",
       "length": 344,
       "mode": "type"
     },
     {
-      "id": "105",
+      "id": "107",
       "title": "The Lion, the Bear, and the Fox",
       "length": 579,
       "mode": "type"
     },
     {
-      "id": "106",
+      "id": "108",
       "title": "The Blackamoor",
       "length": 421,
       "mode": "type"
     },
     {
-      "id": "107",
+      "id": "109",
       "title": "The Two Soldiers and the Robber",
       "length": 838,
       "mode": "type"
     },
     {
-      "id": "108",
+      "id": "110",
       "title": "The Lion and the Wild Ass",
       "length": 619,
       "mode": "type"
     },
     {
-      "id": "109",
+      "id": "111",
       "title": "The Man and the Satyr",
       "length": 607,
       "mode": "type"
     },
     {
-      "id": "110",
+      "id": "112",
       "title": "The Image-Seller",
       "length": 615,
       "mode": "type"
     },
     {
-      "id": "111",
+      "id": "113",
       "title": "The Eagle and the Arrow",
       "length": 498,
       "mode": "type"
     },
     {
-      "id": "112",
+      "id": "114",
       "title": "The Rich Man and the Tanner",
       "length": 479,
       "mode": "type"
     },
     {
-      "id": "113",
+      "id": "115",
       "title": "The Wolf, the Mother, and Her Child",
       "length": 643,
       "mode": "type"
     },
     {
-      "id": "114",
+      "id": "116",
       "title": "The Old Woman and the Wine-Jar",
       "length": 317,
       "mode": "type"
     },
     {
-      "id": "115",
+      "id": "117",
       "title": "The Lioness and the Vixen",
       "length": 425,
       "mode": "type"
     },
     {
-      "id": "116",
+      "id": "118",
       "title": "The Viper and the File",
       "length": 419,
       "mode": "type"
     },
     {
-      "id": "117",
+      "id": "119",
       "title": "The Cat and the Cock",
       "length": 662,
       "mode": "type"
     },
     {
-      "id": "118",
+      "id": "120",
       "title": "The Hare and the Tortoise",
       "length": 729,
       "mode": "type"
     },
     {
-      "id": "119",
+      "id": "121",
       "title": "The Soldier and His Horse",
       "length": 859,
       "mode": "type"
     },
     {
-      "id": "120",
+      "id": "122",
       "title": "The Oxen and the Butchers",
       "length": 790,
       "mode": "type"
     },
     {
-      "id": "121",
+      "id": "123",
       "title": "The Wolf and the Lion",
       "length": 416,
       "mode": "type"
     },
     {
-      "id": "122",
+      "id": "124",
       "title": "The Sheep, the Wolf, and the Stag",
       "length": 448,
       "mode": "type"
     },
     {
-      "id": "123",
+      "id": "125",
       "title": "The Lion and the Three Bulls",
       "length": 575,
       "mode": "type"
     },
     {
-      "id": "124",
+      "id": "126",
       "title": "The Horse and His Rider",
       "length": 447,
       "mode": "type"
     },
     {
-      "id": "125",
+      "id": "127",
       "title": "The Goat and the Vine",
       "length": 418,
       "mode": "type"
     },
     {
-      "id": "126",
+      "id": "128",
       "title": "The Two Pots",
       "length": 397,
       "mode": "type"
     },
     {
-      "id": "127",
+      "id": "129",
       "title": "The Old Hound",
       "length": 597,
       "mode": "type"
     },
     {
-      "id": "128",
+      "id": "130",
       "title": "The Clown and the Countryman",
       "length": 1687,
       "mode": "type"
     },
     {
-      "id": "129",
+      "id": "131",
       "title": "The Lark and the Farmer",
       "length": 957,
       "mode": "type"
     },
     {
-      "id": "130",
+      "id": "132",
       "title": "The Lion and the Ass",
       "length": 612,
       "mode": "type"
     },
     {
-      "id": "131",
+      "id": "133",
       "title": "The Prophet",
       "length": 557,
       "mode": "type"
     },
     {
-      "id": "132",
+      "id": "134",
       "title": "The Hound and the Hare",
       "length": 445,
       "mode": "type"
     },
     {
-      "id": "133",
+      "id": "135",
       "title": "The Lion, the Mouse, and the Fox",
       "length": 457,
       "mode": "type"
     },
     {
-      "id": "134",
+      "id": "136",
       "title": "The Trumpeter Taken Prisoner",
       "length": 443,
       "mode": "type"
     },
     {
-      "id": "135",
+      "id": "137",
       "title": "The Wolf and the Crane",
       "length": 548,
       "mode": "type"
     },
     {
-      "id": "136",
+      "id": "138",
       "title": "The Eagle, the Cat, and the Wild Sow",
       "length": 1351,
       "mode": "type"
     },
     {
-      "id": "137",
+      "id": "139",
       "title": "The Wolf and the Sheep",
       "length": 458,
       "mode": "type"
     },
     {
-      "id": "138",
+      "id": "140",
       "title": "The Tunny-Fish and the Dolphin",
       "length": 523,
       "mode": "type"
     },
     {
-      "id": "139",
+      "id": "141",
       "title": "The Three Tradesmen",
       "length": 484,
       "mode": "type"
     },
     {
-      "id": "140",
+      "id": "142",
       "title": "The Mouse and the Bull",
       "length": 707,
       "mode": "type"
     },
     {
-      "id": "141",
+      "id": "143",
       "title": "The Hare and the Hound",
       "length": 416,
       "mode": "type"
     },
     {
-      "id": "142",
+      "id": "144",
       "title": "The Town Mouse and the Country Mouse",
       "length": 1350,
       "mode": "type"
     },
     {
-      "id": "143",
+      "id": "145",
       "title": "The Lion and the Bull",
       "length": 702,
       "mode": "type"
     },
     {
-      "id": "144",
+      "id": "146",
       "title": "The Wolf, the Fox, and the Ape",
       "length": 408,
       "mode": "type"
     },
     {
-      "id": "145",
+      "id": "147",
       "title": "The Eagle and the Cocks",
       "length": 444,
       "mode": "type"
     },
     {
-      "id": "146",
+      "id": "148",
       "title": "The Escaped Jackdaw",
       "length": 588,
       "mode": "type"
     },
     {
-      "id": "147",
+      "id": "149",
       "title": "The Farmer and the Fox",
       "length": 500,
       "mode": "type"
     },
     {
-      "id": "148",
+      "id": "150",
       "title": "Venus and the Cat",
       "length": 631,
       "mode": "type"
     },
     {
-      "id": "149",
+      "id": "151",
       "title": "The Crow and the Swan",
       "length": 517,
       "mode": "type"
     },
     {
-      "id": "150",
+      "id": "152",
       "title": "The Stag with One Eye",
       "length": 664,
       "mode": "type"
     },
     {
-      "id": "151",
+      "id": "153",
       "title": "The Fly and the Draught-Mule",
       "length": 411,
       "mode": "type"
     },
     {
-      "id": "152",
+      "id": "154",
       "title": "The Cock and the Jewel",
       "length": 299,
       "mode": "type"
     },
     {
-      "id": "153",
+      "id": "155",
       "title": "The Wolf and the Shepherd",
       "length": 652,
       "mode": "type"
     },
     {
-      "id": "154",
+      "id": "156",
       "title": "The Farmer and the Stork",
       "length": 640,
       "mode": "type"
     },
     {
-      "id": "155",
+      "id": "157",
       "title": "The Charger and the Miller",
       "length": 681,
       "mode": "type"
     },
     {
-      "id": "156",
+      "id": "158",
       "title": "The Grasshopper and the Owl",
       "length": 987,
       "mode": "type"
     },
     {
-      "id": "157",
+      "id": "159",
       "title": "The Grasshopper and the Ants",
       "length": 693,
       "mode": "type"
     },
     {
-      "id": "158",
+      "id": "160",
       "title": "The Farmer and the Viper",
       "length": 402,
       "mode": "type"
     },
     {
-      "id": "159",
+      "id": "161",
       "title": "The Two Frogs",
       "length": 629,
       "mode": "type"
     },
     {
-      "id": "160",
+      "id": "162",
       "title": "The Cobbler Turned Doctor",
       "length": 958,
       "mode": "type"
     },
     {
-      "id": "161",
+      "id": "163",
       "title": "The Ass, the Cock, and the Lion",
       "length": 749,
       "mode": "type"
     },
     {
-      "id": "162",
+      "id": "164",
       "title": "The Belly and the Members",
       "length": 620,
       "mode": "type"
     },
     {
-      "id": "163",
+      "id": "165",
       "title": "The Bald Man and the Fly",
       "length": 553,
       "mode": "type"
     },
     {
-      "id": "164",
+      "id": "166",
       "title": "The Ass and the Wolf",
       "length": 881,
       "mode": "type"
     },
     {
-      "id": "165",
+      "id": "167",
       "title": "The Monkey and the Camel",
       "length": 492,
       "mode": "type"
     },
     {
-      "id": "166",
+      "id": "168",
       "title": "The Sick Man and the Doctor",
       "length": 732,
       "mode": "type"
     },
     {
-      "id": "167",
+      "id": "169",
       "title": "The Travellers and the Plane-Tree",
       "length": 706,
       "mode": "type"
     },
     {
-      "id": "168",
+      "id": "170",
       "title": "The Flea and the Ox",
       "length": 598,
       "mode": "type"
     },
     {
-      "id": "169",
+      "id": "171",
       "title": "The Birds, the Beasts, and the Bat",
       "length": 591,
       "mode": "type"
     },
     {
-      "id": "170",
+      "id": "172",
       "title": "The Man and His Two Sweethearts",
       "length": 537,
       "mode": "type"
     },
     {
-      "id": "171",
+      "id": "173",
       "title": "The Eagle, the Jackdaw, and the Shepherd",
       "length": 940,
       "mode": "type"
     },
     {
-      "id": "172",
+      "id": "174",
       "title": "The Wolf and the Boy",
       "length": 722,
       "mode": "type"
     },
     {
-      "id": "173",
+      "id": "175",
       "title": "The Miller, His Son, and Their Ass",
       "length": 2189,
       "mode": "type"
     },
     {
-      "id": "174",
+      "id": "176",
       "title": "The Stag and the Vine",
       "length": 635,
       "mode": "type"
     },
     {
-      "id": "175",
+      "id": "177",
       "title": "The Lamb Chased by a Wolf",
       "length": 336,
       "mode": "type"
     },
     {
-      "id": "176",
+      "id": "178",
       "title": "The Archer and the Lion",
       "length": 779,
       "mode": "type"
     },
     {
-      "id": "177",
+      "id": "179",
       "title": "The Wolf and the Goat",
       "length": 478,
       "mode": "type"
     },
     {
-      "id": "178",
+      "id": "180",
       "title": "The Sick Stag",
       "length": 499,
       "mode": "type"
     },
     {
-      "id": "179",
+      "id": "181",
       "title": "The Ass and the Mule",
       "length": 891,
       "mode": "type"
     },
     {
-      "id": "180",
+      "id": "182",
       "title": "Brother and Sister",
       "length": 881,
       "mode": "type"
     },
     {
-      "id": "181",
+      "id": "183",
       "title": "The Heifer and the Ox",
       "length": 513,
       "mode": "type"
     },
     {
-      "id": "182",
+      "id": "184",
       "title": "The Kingdom of the Lion",
       "length": 562,
       "mode": "type"
     },
     {
-      "id": "183",
+      "id": "185",
       "title": "The Ass and His Driver",
       "length": 498,
       "mode": "type"
     },
     {
-      "id": "184",
+      "id": "186",
       "title": "The Lion and the Hare",
       "length": 527,
       "mode": "type"
     },
     {
-      "id": "185",
+      "id": "187",
       "title": "The Wolves and the Dogs",
       "length": 787,
       "mode": "type"
     },
     {
-      "id": "186",
+      "id": "188",
       "title": "The Bull and the Calf",
       "length": 327,
       "mode": "type"
     },
     {
-      "id": "187",
+      "id": "189",
       "title": "The Trees and the Axe",
       "length": 583,
       "mode": "type"
     },
     {
-      "id": "188",
+      "id": "190",
       "title": "The Astronomer",
       "length": 585,
       "mode": "type"
     },
     {
-      "id": "189",
+      "id": "191",
       "title": "The Labourer and the Snake",
       "length": 684,
       "mode": "type"
     },
     {
-      "id": "190",
+      "id": "192",
       "title": "The Cage-Bird and the Bat",
       "length": 693,
       "mode": "type"
     },
     {
-      "id": "191",
+      "id": "193",
       "title": "The Ass and His Purchaser",
       "length": 823,
       "mode": "type"
     },
     {
-      "id": "192",
+      "id": "194",
       "title": "The Kid and the Wolf",
       "length": 812,
       "mode": "type"
     },
     {
-      "id": "193",
+      "id": "195",
       "title": "The Debtor and His Sow",
       "length": 834,
       "mode": "type"
     },
     {
-      "id": "194",
+      "id": "196",
       "title": "The Bald Huntsman",
       "length": 432,
       "mode": "type"
     },
     {
-      "id": "195",
+      "id": "197",
       "title": "The Herdsman and the Lost Bull",
       "length": 608,
       "mode": "type"
     },
     {
-      "id": "196",
+      "id": "198",
       "title": "The Mule",
       "length": 517,
       "mode": "type"
     },
     {
-      "id": "197",
+      "id": "199",
       "title": "The Hound and the Fox",
       "length": 441,
       "mode": "type"
     },
     {
-      "id": "198",
+      "id": "200",
       "title": "The Father and His Daughters",
       "length": 932,
       "mode": "type"
     },
     {
-      "id": "199",
+      "id": "201",
       "title": "The Thief and the Innkeeper",
       "length": 1711,
       "mode": "type"
     },
     {
-      "id": "200",
+      "id": "202",
       "title": "The Pack-Ass and the Wild Ass",
       "length": 591,
       "mode": "type"
     },
     {
-      "id": "201",
+      "id": "203",
       "title": "The Ass and His Masters",
       "length": 853,
       "mode": "type"
     },
     {
-      "id": "202",
+      "id": "204",
       "title": "The Pack-Ass, the Wild Ass, and the Lion",
       "length": 763,
       "mode": "type"
     },
     {
-      "id": "203",
+      "id": "205",
       "title": "The Ant",
       "length": 609,
       "mode": "type"
     },
     {
-      "id": "204",
+      "id": "206",
       "title": "The Frogs and the Well",
       "length": 531,
       "mode": "type"
     },
     {
-      "id": "205",
+      "id": "207",
       "title": "The Crab and the Fox",
       "length": 442,
       "mode": "type"
     },
     {
-      "id": "206",
+      "id": "208",
       "title": "The Fox and the Grasshopper",
       "length": 637,
       "mode": "type"
     },
     {
-      "id": "207",
+      "id": "209",
       "title": "The Farmer, His Boy, and the Rooks",
       "length": 1131,
       "mode": "type"
     },
     {
-      "id": "208",
+      "id": "210",
       "title": "The Ass and the Dog",
       "length": 763,
       "mode": "type"
     },
     {
-      "id": "209",
+      "id": "211",
       "title": "The Ass Carrying the Image",
       "length": 792,
       "mode": "type"
     },
     {
-      "id": "210",
+      "id": "212",
       "title": "The Athenian and the Theban",
       "length": 976,
       "mode": "type"
     },
     {
-      "id": "211",
+      "id": "213",
       "title": "The Goatherd and the Goat",
       "length": 496,
       "mode": "type"
     },
     {
-      "id": "212",
+      "id": "214",
       "title": "The Sheep and the Dog",
       "length": 838,
       "mode": "type"
     },
     {
-      "id": "213",
+      "id": "215",
       "title": "The Shepherd and the Wolf",
       "length": 864,
       "mode": "type"
     },
     {
-      "id": "214",
+      "id": "216",
       "title": "The Lion, Jupiter, and the Elephant",
       "length": 1131,
       "mode": "type"
     },
     {
-      "id": "215",
+      "id": "217",
       "title": "The Pig and the Sheep",
       "length": 513,
       "mode": "type"
     },
     {
-      "id": "216",
+      "id": "218",
       "title": "The Gardener and His Dog",
       "length": 555,
       "mode": "type"
     },
     {
-      "id": "217",
+      "id": "219",
       "title": "The Rivers and the Sea",
       "length": 352,
       "mode": "type"
     },
     {
-      "id": "218",
+      "id": "220",
       "title": "The Lion in Love",
       "length": 652,
       "mode": "type"
     },
     {
-      "id": "219",
+      "id": "221",
       "title": "The Beekeeper",
       "length": 613,
       "mode": "type"
     },
     {
-      "id": "220",
+      "id": "222",
       "title": "The Wolf and the Horse",
       "length": 502,
       "mode": "type"
     },
     {
-      "id": "221",
+      "id": "223",
       "title": "The Bat, the Bramble, and the Seagull",
       "length": 878,
       "mode": "type"
     },
     {
-      "id": "222",
+      "id": "224",
       "title": "The Dog and the Wolf",
       "length": 799,
       "mode": "type"
     },
     {
-      "id": "223",
+      "id": "225",
       "title": "The Wasp and the Snake",
       "length": 439,
       "mode": "type"
     },
     {
-      "id": "224",
+      "id": "226",
       "title": "The Eagle and the Beetle",
       "length": 1218,
       "mode": "type"
     },
     {
-      "id": "225",
+      "id": "227",
       "title": "The Fowler and the Lark",
       "length": 595,
       "mode": "type"
     },
     {
-      "id": "226",
+      "id": "228",
       "title": "The Fisherman Piping",
       "length": 562,
       "mode": "type"
     },
     {
-      "id": "227",
+      "id": "229",
       "title": "The Weasel and the Man",
       "length": 543,
       "mode": "type"
     },
     {
-      "id": "228",
+      "id": "230",
       "title": "The Ploughman, the Ass, and the Ox",
       "length": 426,
       "mode": "type"
     },
     {
-      "id": "229",
+      "id": "231",
       "title": "Demades and His Fable",
       "length": 624,
       "mode": "type"
     },
     {
-      "id": "230",
+      "id": "232",
       "title": "The Monkey and the Dolphin",
       "length": 1042,
       "mode": "type"
     },
     {
-      "id": "231",
+      "id": "233",
       "title": "The Crow and the Snake",
       "length": 394,
       "mode": "type"
     },
     {
-      "id": "232",
+      "id": "234",
       "title": "The Dogs and the Fox",
       "length": 242,
       "mode": "type"
     },
     {
-      "id": "233",
+      "id": "235",
       "title": "The Nightingale and the Hawk",
       "length": 554,
       "mode": "type"
     },
     {
-      "id": "234",
+      "id": "236",
       "title": "The Rose and the Amaranth",
       "length": 426,
       "mode": "type"
     },
     {
-      "id": "235",
+      "id": "237",
       "title": "The Man, the Horse, the Ox, and the Dog",
       "length": 988,
       "mode": "type"
     },
     {
-      "id": "236",
+      "id": "238",
       "title": "The Wolves, the Sheep, and the Ram",
       "length": 410,
       "mode": "type"
     },
     {
-      "id": "237",
+      "id": "239",
       "title": "The Swan",
       "length": 717,
       "mode": "type"
     },
     {
-      "id": "238",
+      "id": "240",
       "title": "The Snake and Jupiter",
       "length": 473,
       "mode": "type"
     },
     {
-      "id": "239",
+      "id": "241",
       "title": "The Wolf and His Shadow",
       "length": 509,
       "mode": "type"
     },
     {
-      "id": "240",
+      "id": "242",
       "title": "The Ploughman and the Wolf",
       "length": 639,
       "mode": "type"
     },
     {
-      "id": "241",
+      "id": "243",
       "title": "Mercury and the Man Bitten by an Ant",
       "length": 563,
       "mode": "type"
     },
     {
-      "id": "242",
+      "id": "244",
       "title": "The Wily Lion",
       "length": 857,
       "mode": "type"
     },
     {
-      "id": "243",
+      "id": "245",
       "title": "The Parrot and the Cat",
       "length": 771,
       "mode": "type"
     },
     {
-      "id": "244",
+      "id": "246",
       "title": "The Stag and the Lion",
       "length": 326,
       "mode": "type"
     },
     {
-      "id": "245",
+      "id": "247",
       "title": "The Impostor",
       "length": 860,
       "mode": "type"
     },
     {
-      "id": "246",
+      "id": "248",
       "title": "The Dogs and the Hides",
       "length": 355,
       "mode": "type"
     },
     {
-      "id": "247",
+      "id": "249",
       "title": "The Lion, the Fox, and the Ass",
       "length": 706,
       "mode": "type"
     },
     {
-      "id": "248",
+      "id": "250",
       "title": "The Fowler, the Partridge, and the Cock",
       "length": 858,
       "mode": "type"
     },
     {
-      "id": "249",
+      "id": "251",
       "title": "The Gnat and the Lion",
       "length": 845,
       "mode": "type"
     },
     {
-      "id": "250",
+      "id": "252",
       "title": "The Farmer and His Dogs",
       "length": 515,
       "mode": "type"
     },
     {
-      "id": "251",
+      "id": "253",
       "title": "The Eagle and the Fox",
       "length": 1233,
       "mode": "type"
     },
     {
-      "id": "252",
+      "id": "254",
       "title": "The Butcher and His Customers",
       "length": 641,
       "mode": "type"
     },
     {
-      "id": "253",
+      "id": "255",
       "title": "Hercules and Minerva",
       "length": 699,
       "mode": "type"
     },
     {
-      "id": "254",
+      "id": "256",
       "title": "The Fox Who Served a Lion",
       "length": 599,
       "mode": "type"
     },
     {
-      "id": "255",
+      "id": "257",
       "title": "The Quack Doctor",
       "length": 1281,
       "mode": "type"
     },
     {
-      "id": "256",
+      "id": "258",
       "title": "The Lion, the Wolf, and the Fox",
       "length": 1153,
       "mode": "type"
     },
     {
-      "id": "257",
+      "id": "259",
       "title": "Hercules and Plutus",
       "length": 623,
       "mode": "type"
     },
     {
-      "id": "258",
+      "id": "260",
       "title": "The Fox and the Leopard",
       "length": 260,
       "mode": "type"
     },
     {
-      "id": "259",
+      "id": "261",
       "title": "The Fox and the Hedgehog",
       "length": 747,
       "mode": "type"
     },
     {
-      "id": "260",
+      "id": "262",
       "title": "The Crow and the Raven",
       "length": 701,
       "mode": "type"
     },
     {
-      "id": "261",
+      "id": "263",
       "title": "The Witch",
       "length": 568,
       "mode": "type"
     },
     {
-      "id": "262",
+      "id": "264",
       "title": "The Old Man and Death",
       "length": 568,
       "mode": "type"
     },
     {
-      "id": "263",
+      "id": "265",
       "title": "The Miser",
       "length": 900,
       "mode": "type"
     },
     {
-      "id": "264",
+      "id": "266",
       "title": "The Foxes and the River",
       "length": 753,
       "mode": "type"
     },
     {
-      "id": "265",
+      "id": "267",
       "title": "The Horse and the Stag",
       "length": 687,
       "mode": "type"
     },
     {
-      "id": "266",
+      "id": "268",
       "title": "The Fox and the Bramble",
       "length": 423,
       "mode": "type"
     },
     {
-      "id": "267",
+      "id": "269",
       "title": "The Fox and the Snake",
       "length": 301,
       "mode": "type"
     },
     {
-      "id": "268",
+      "id": "270",
       "title": "The Lion, the Fox, and the Stag",
       "length": 2521,
       "mode": "type"
     },
     {
-      "id": "269",
+      "id": "271",
       "title": "The Man Who Lost His Spade",
       "length": 940,
       "mode": "type"
     },
     {
-      "id": "270",
+      "id": "272",
       "title": "The Partridge and the Fowler",
       "length": 408,
       "mode": "type"
     },
     {
-      "id": "271",
+      "id": "273",
       "title": "The Runaway Slave",
       "length": 377,
       "mode": "type"
     },
     {
-      "id": "272",
+      "id": "274",
       "title": "The Hunter and the Woodman",
       "length": 478,
       "mode": "type"
     },
     {
-      "id": "273",
+      "id": "275",
       "title": "The Serpent and the Eagle",
       "length": 715,
       "mode": "type"
     },
     {
-      "id": "274",
+      "id": "276",
       "title": "The Rogue and the Oracle",
       "length": 674,
       "mode": "type"
     },
     {
-      "id": "275",
+      "id": "277",
       "title": "The Horse and the Ass",
       "length": 605,
       "mode": "type"
     },
     {
-      "id": "276",
+      "id": "278",
       "title": "The Dog Chasing a Wolf",
       "length": 419,
       "mode": "type"
     },
     {
-      "id": "277",
+      "id": "279",
       "title": "Grief and His Due",
       "length": 681,
       "mode": "type"
     },
     {
-      "id": "278",
+      "id": "280",
       "title": "The Hawk, the Kite, and the Pigeons",
       "length": 326,
       "mode": "type"
     },
     {
-      "id": "279",
+      "id": "281",
       "title": "The Woman and the Farmer",
       "length": 1091,
       "mode": "type"
     },
     {
-      "id": "280",
+      "id": "282",
       "title": "Prometheus and the Making of Man",
       "length": 385,
       "mode": "type"
     },
     {
-      "id": "281",
+      "id": "283",
       "title": "The Swallow and the Crow",
       "length": 406,
       "mode": "type"
     },
     {
-      "id": "282",
+      "id": "284",
       "title": "The Hunter and the Horseman",
       "length": 650,
       "mode": "type"
     },
     {
-      "id": "283",
+      "id": "285",
       "title": "The Goatherd and the Wild Goats",
       "length": 1273,
       "mode": "type"
     },
     {
-      "id": "284",
+      "id": "286",
       "title": "The Nightingale and the Swallow",
       "length": 458,
       "mode": "type"
     },
     {
-      "id": "285",
+      "id": "287",
       "title": "The Traveller and Fortune",
       "length": 418,
       "mode": "type"
+    },
+    {
+      "id": "288",
+      "title": "Colophon",
+      "length": 1224,
+      "mode": "hide"
+    },
+    {
+      "id": "289",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL15009451W",

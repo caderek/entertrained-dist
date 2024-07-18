@@ -29,165 +29,189 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - Romeo and Juliet",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1218,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "Dramatis Personae",
       "length": 839,
       "mode": "skip"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "Prologue",
       "length": 632,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "Act I - Scene I",
       "length": 10910,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "Act I - Scene II",
       "length": 4678,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "Act I - Scene III",
       "length": 5005,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "Act I - Scene IV",
       "length": 5248,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "Act I - Scene V",
       "length": 6905,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "Act II - Prologue",
       "length": 643,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "Act II - Scene I",
       "length": 2042,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "Act II - Scene II",
       "length": 8831,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "Act II - Scene III",
       "length": 4393,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "Act II - Scene IV",
       "length": 9371,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "Act II - Scene V",
       "length": 3655,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "Act II - Scene VI",
       "length": 1757,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "017",
       "title": "Act III - Scene I",
       "length": 9445,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "018",
       "title": "Act III - Scene II",
       "length": 6491,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "019",
       "title": "Act III - Scene III",
       "length": 8048,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "020",
       "title": "Act III - Scene IV",
       "length": 1680,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "021",
       "title": "Act III - Scene V",
       "length": 11238,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "022",
       "title": "Act IV - Scene I",
       "length": 5821,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "023",
       "title": "Act IV - Scene II",
       "length": 2307,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "024",
       "title": "Act IV - Scene III",
       "length": 2684,
       "mode": "type"
     },
     {
-      "id": "023",
+      "id": "025",
       "title": "Act IV - Scene IV",
       "length": 1578,
       "mode": "type"
     },
     {
-      "id": "024",
+      "id": "026",
       "title": "Act IV - Scene V",
       "length": 6580,
       "mode": "type"
     },
     {
-      "id": "025",
+      "id": "027",
       "title": "Act V - Scene I",
       "length": 3938,
       "mode": "type"
     },
     {
-      "id": "026",
+      "id": "028",
       "title": "Act V - Scene II",
       "length": 1370,
       "mode": "type"
     },
     {
-      "id": "027",
+      "id": "029",
       "title": "Act V - Scene III",
       "length": 14719,
       "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Colophon",
+      "length": 1043,
+      "mode": "hide"
+    },
+    {
+      "id": "031",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL362427W",

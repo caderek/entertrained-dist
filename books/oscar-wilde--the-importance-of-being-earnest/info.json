@@ -29,33 +29,57 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - The Importance of Being Earnest",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "Dramatis Personae",
       "length": 175,
       "mode": "skip"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "The Scenes of the Play",
       "length": 175,
       "mode": "skip"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "Act I",
       "length": 40483,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "Act II",
       "length": 48463,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "Act III",
       "length": 26679,
       "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Colophon",
+      "length": 1032,
+      "mode": "hide"
+    },
+    {
+      "id": "009",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL27776452W",

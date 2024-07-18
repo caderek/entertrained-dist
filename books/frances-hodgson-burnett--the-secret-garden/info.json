@@ -36,165 +36,189 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - The Secret Garden",
+      "length": 28,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "I: There Is No One Left",
       "length": 10036,
       "mode": "type"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "II: Mistress Mary Quite Contrary",
       "length": 14373,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "III: Across the Moor",
       "length": 7756,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "IV: Martha",
       "length": 28118,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "V: The Cry in the Corridor",
       "length": 11543,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "VI: \"There Was Some One Crying - There Was!\"",
       "length": 11912,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "VII: The Key of the Garden",
       "length": 10575,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "VIII: The Robin Who Showed the Way",
       "length": 14126,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "IX: The Strangest House Anyone Ever Lived In",
       "length": 16469,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "X: Dickon",
       "length": 19674,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "XI: The Nest of the Missel Thrush",
       "length": 12957,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "XII: \"Might I Have a Bit of Earth?\"",
       "length": 13465,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "XIII: \"I Am Colin\"",
       "length": 21458,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "XIV: A Young Rajah",
       "length": 19241,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "017",
       "title": "XV: Nest Building",
       "length": 20499,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "018",
       "title": "XVI: \"I Won't!\" Said Mary",
       "length": 12298,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "019",
       "title": "XVII: A Tantrum",
       "length": 12079,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "020",
       "title": "XVIII: \"Tha' Munnot Waste No Time\"",
       "length": 11553,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "021",
       "title": "XIX: \"It Has Come!\"",
       "length": 18657,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "022",
       "title": "XX: \"I Shall Live Forever - and Ever - and Ever!\"",
       "length": 13731,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "023",
       "title": "XXI: Ben Weatherstaff",
       "length": 17648,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "024",
       "title": "XXII: When the Sun Went Down",
       "length": 8543,
       "mode": "type"
     },
     {
-      "id": "023",
+      "id": "025",
       "title": "XXIII: Magic",
       "length": 21319,
       "mode": "type"
     },
     {
-      "id": "024",
+      "id": "026",
       "title": "XXIV: \"Let Them Laugh\"",
       "length": 21227,
       "mode": "type"
     },
     {
-      "id": "025",
+      "id": "027",
       "title": "XXV: The Curtain",
       "length": 12582,
       "mode": "type"
     },
     {
-      "id": "026",
+      "id": "028",
       "title": "XXVI: \"It's Mother!\"",
       "length": 16258,
       "mode": "type"
     },
     {
-      "id": "027",
+      "id": "029",
       "title": "XXVII: In the Garden",
       "length": 27370,
       "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Colophon",
+      "length": 1111,
+      "mode": "hide"
+    },
+    {
+      "id": "031",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL69612W",

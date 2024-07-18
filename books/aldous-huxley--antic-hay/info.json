@@ -28,141 +28,165 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - Antic Hay",
+      "length": 18,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "Epigraph",
       "length": 88,
       "mode": "skip"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "I",
       "length": 23289,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "II",
       "length": 27990,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "III",
       "length": 27284,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "IV",
       "length": 24235,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "V",
       "length": 31189,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "VI",
       "length": 25843,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "VII",
       "length": 11195,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "VIII",
       "length": 9708,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "IX",
       "length": 43515,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "X",
       "length": 27779,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "XI",
       "length": 25862,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "XII",
       "length": 18816,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "XIII",
       "length": 14440,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "017",
       "title": "XIV",
       "length": 21507,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "018",
       "title": "XV",
       "length": 7133,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "019",
       "title": "XVI",
       "length": 27917,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "020",
       "title": "XVII",
       "length": 17383,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "021",
       "title": "XVIII",
       "length": 35609,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "022",
       "title": "XIX",
       "length": 13198,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "023",
       "title": "XX",
       "length": 14529,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "024",
       "title": "XXI",
       "length": 48547,
       "mode": "type"
     },
     {
-      "id": "023",
+      "id": "025",
       "title": "XXII",
       "length": 11938,
       "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Colophon",
+      "length": 1053,
+      "mode": "hide"
+    },
+    {
+      "id": "027",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL64466W",

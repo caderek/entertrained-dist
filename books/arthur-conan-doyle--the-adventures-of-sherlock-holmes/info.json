@@ -33,87 +33,111 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - The Adventures of Sherlock Holmes",
+      "length": 23,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "A Scandal in Bohemia - I",
       "length": 18993,
       "mode": "type"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "A Scandal in Bohemia - II",
       "length": 21293,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "A Scandal in Bohemia - III",
       "length": 5833,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "The Redheaded League",
       "length": 49021,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "A Case of Identity",
       "length": 37753,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "The Boscombe Valley Mystery",
       "length": 51114,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "The Five Orange Pips",
       "length": 39266,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "The Man with the Twisted Lip",
       "length": 48908,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "The Adventure of the Blue Carbuncle",
       "length": 41868,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "The Adventure of the Speckled Band",
       "length": 52682,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "The Adventure of the Engineer's Thumb",
       "length": 44422,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "The Adventure of the Noble Bachelor",
       "length": 43854,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "The Adventure of the Beryl Coronet",
       "length": 50762,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "The Adventure of the Copper Beeches",
       "length": 52844,
       "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Colophon",
+      "length": 1059,
+      "mode": "hide"
+    },
+    {
+      "id": "018",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL262421W",

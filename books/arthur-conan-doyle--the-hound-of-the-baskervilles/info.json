@@ -33,93 +33,123 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - The Hound of the Baskervilles",
+      "length": 23,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 209,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
       "title": "I: Mr. Sherlock Holmes",
       "length": 12534,
       "mode": "type"
     },
     {
-      "id": "002",
+      "id": "005",
       "title": "II: The Curse of the Baskervilles",
       "length": 21187,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "006",
       "title": "III: The Problem",
       "length": 15760,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "007",
       "title": "IV: Sir Henry Baskerville",
       "length": 21997,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "008",
       "title": "V: Three Broken Threads",
       "length": 18395,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "009",
       "title": "VI: Baskerville Hall",
       "length": 18882,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "010",
       "title": "VII: The Stapletons of Merripit House",
       "length": 26313,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "011",
       "title": "VIII: First Report of Dr. Watson",
       "length": 14772,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "012",
       "title": "IX: Second Report of Dr. Watson",
       "length": 34347,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "013",
       "title": "X: Extract from the Diary of Dr. Watson",
       "length": 18915,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "014",
       "title": "XI: The Man on the Tor",
       "length": 24210,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "015",
       "title": "XII: Death on the Moor",
       "length": 25693,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "016",
       "title": "XIII: Fixing the Nets",
       "length": 18324,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "017",
       "title": "XIV: The Hound of the Baskervilles",
       "length": 22123,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "018",
       "title": "XV: A Retrospection",
       "length": 22322,
       "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Colophon",
+      "length": 1098,
+      "mode": "hide"
+    },
+    {
+      "id": "020",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL262454W",

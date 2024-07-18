@@ -33,1299 +33,1323 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - Household Tales",
+      "length": 63,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
       "title": "The Frog-King, or Iron Henry",
       "length": 7290,
       "mode": "type"
     },
     {
-      "id": "002",
+      "id": "004",
       "title": "Cat and Mouse in Partnership",
       "length": 5062,
       "mode": "type"
     },
     {
-      "id": "003",
+      "id": "005",
       "title": "Our Lady's Child",
       "length": 9845,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "006",
       "title": "The Story of the Youth Who Went Forth to Learn What Fear Was",
       "length": 19550,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "007",
       "title": "The Wolf and the Seven Little Kids",
       "length": 5729,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "008",
       "title": "Faithful John",
       "length": 16458,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "009",
       "title": "The Good Bargain",
       "length": 8879,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "010",
       "title": "The Wonderful Musician",
       "length": 5580,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "011",
       "title": "The Twelve Brothers",
       "length": 10497,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "012",
       "title": "The Pack of Ragamuffins",
       "length": 4104,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "013",
       "title": "Little Brother and Little Sister",
       "length": 12166,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "014",
       "title": "Rapunzel",
       "length": 7431,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "015",
       "title": "The Three Little Men in the Wood",
       "length": 10573,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "016",
       "title": "The Three Spinners",
       "length": 4780,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "017",
       "title": "Hansel and Grethel",
       "length": 15460,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "018",
       "title": "The Three Snake-Leaves",
       "length": 7357,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "019",
       "title": "The White Snake",
       "length": 8351,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "020",
       "title": "The Straw, the Coal, and the Bean",
       "length": 2666,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "021",
       "title": "The Fisherman and His Wife",
       "length": 15594,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "022",
       "title": "The Valiant Little Tailor",
       "length": 17483,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "023",
       "title": "Cinderella",
       "length": 13951,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "024",
       "title": "The Riddle",
       "length": 6088,
       "mode": "type"
     },
     {
-      "id": "023",
+      "id": "025",
       "title": "The Mouse, the Bird, and the Sausage",
       "length": 3257,
       "mode": "type"
     },
     {
-      "id": "024",
+      "id": "026",
       "title": "Mother Holle",
       "length": 6013,
       "mode": "type"
     },
     {
-      "id": "025",
+      "id": "027",
       "title": "The Seven Ravens",
       "length": 4924,
       "mode": "type"
     },
     {
-      "id": "026",
+      "id": "028",
       "title": "Little Redcap",
       "length": 7316,
       "mode": "type"
     },
     {
-      "id": "027",
+      "id": "029",
       "title": "The Bremen Town-Musicians",
       "length": 6504,
       "mode": "type"
     },
     {
-      "id": "028",
+      "id": "030",
       "title": "The Singing Bone",
       "length": 3810,
       "mode": "type"
     },
     {
-      "id": "029",
+      "id": "031",
       "title": "The Devil with the Three Golden Hairs",
       "length": 13003,
       "mode": "type"
     },
     {
-      "id": "030",
+      "id": "032",
       "title": "The Louse and the Flea",
       "length": 2570,
       "mode": "type"
     },
     {
-      "id": "031",
+      "id": "033",
       "title": "The Girl Without Hands",
       "length": 11919,
       "mode": "type"
     },
     {
-      "id": "032",
+      "id": "034",
       "title": "Clever Hans",
       "length": 5247,
       "mode": "type"
     },
     {
-      "id": "033",
+      "id": "035",
       "title": "The Three Languages",
       "length": 4841,
       "mode": "type"
     },
     {
-      "id": "034",
+      "id": "036",
       "title": "Clever Elsie",
       "length": 6755,
       "mode": "type"
     },
     {
-      "id": "035",
+      "id": "037",
       "title": "The Tailor in Heaven",
       "length": 4061,
       "mode": "type"
     },
     {
-      "id": "036",
+      "id": "038",
       "title": "The Wishing-Table, the Gold-Ass, and the Cudgel in the Sack",
       "length": 20127,
       "mode": "type"
     },
     {
-      "id": "037",
+      "id": "039",
       "title": "Thumbling",
       "length": 11442,
       "mode": "type"
     },
     {
-      "id": "038",
+      "id": "040",
       "title": "The Wedding of Mrs. Fox - First Story",
       "length": 2089,
       "mode": "type"
     },
     {
-      "id": "039",
+      "id": "041",
       "title": "The Wedding of Mrs. Fox - Second Story",
       "length": 1913,
       "mode": "type"
     },
     {
-      "id": "040",
+      "id": "042",
       "title": "The Elves - First Story",
       "length": 3410,
       "mode": "type"
     },
     {
-      "id": "041",
+      "id": "043",
       "title": "The Elves - Second Story",
       "length": 1770,
       "mode": "type"
     },
     {
-      "id": "042",
+      "id": "044",
       "title": "The Elves - Third Story",
       "length": 903,
       "mode": "type"
     },
     {
-      "id": "043",
+      "id": "045",
       "title": "The Robber Bridegroom",
       "length": 7201,
       "mode": "type"
     },
     {
-      "id": "044",
+      "id": "046",
       "title": "Herr Korbes",
       "length": 1973,
       "mode": "type"
     },
     {
-      "id": "045",
+      "id": "047",
       "title": "The Godfather",
       "length": 3263,
       "mode": "type"
     },
     {
-      "id": "046",
+      "id": "048",
       "title": "Frau Trude",
       "length": 1539,
       "mode": "type"
     },
     {
-      "id": "047",
+      "id": "049",
       "title": "Godfather Death",
       "length": 6300,
       "mode": "type"
     },
     {
-      "id": "048",
+      "id": "050",
       "title": "Thumbling as Journeyman",
       "length": 8548,
       "mode": "type"
     },
     {
-      "id": "049",
+      "id": "051",
       "title": "Fitcher's Bird",
       "length": 7221,
       "mode": "type"
     },
     {
-      "id": "050",
+      "id": "052",
       "title": "The Juniper-Tree",
       "length": 15936,
       "mode": "type"
     },
     {
-      "id": "051",
+      "id": "053",
       "title": "Old Sultan",
       "length": 4303,
       "mode": "type"
     },
     {
-      "id": "052",
+      "id": "054",
       "title": "The Six Swans",
       "length": 10281,
       "mode": "type"
     },
     {
-      "id": "053",
+      "id": "055",
       "title": "Briar-Rose",
       "length": 6922,
       "mode": "type"
     },
     {
-      "id": "054",
+      "id": "056",
       "title": "Fundevogel (Bird-Foundling)",
       "length": 4990,
       "mode": "type"
     },
     {
-      "id": "055",
+      "id": "057",
       "title": "King Thrushbeard",
       "length": 8531,
       "mode": "type"
     },
     {
-      "id": "056",
+      "id": "058",
       "title": "Little Snow-White",
       "length": 16291,
       "mode": "type"
     },
     {
-      "id": "057",
+      "id": "059",
       "title": "The Knapsack, the Hat, and the Horn",
       "length": 12268,
       "mode": "type"
     },
     {
-      "id": "058",
+      "id": "060",
       "title": "Rumpelstiltskin",
       "length": 5581,
       "mode": "type"
     },
     {
-      "id": "059",
+      "id": "061",
       "title": "Sweetheart Roland",
       "length": 7636,
       "mode": "type"
     },
     {
-      "id": "060",
+      "id": "062",
       "title": "The Golden Bird",
       "length": 15534,
       "mode": "type"
     },
     {
-      "id": "061",
+      "id": "063",
       "title": "The Dog and the Sparrow",
       "length": 6275,
       "mode": "type"
     },
     {
-      "id": "062",
+      "id": "064",
       "title": "Frederick and Catherine",
       "length": 13523,
       "mode": "type"
     },
     {
-      "id": "063",
+      "id": "065",
       "title": "The Two Brothers",
       "length": 44460,
       "mode": "type"
     },
     {
-      "id": "064",
+      "id": "066",
       "title": "The Little Peasant",
       "length": 10823,
       "mode": "type"
     },
     {
-      "id": "065",
+      "id": "067",
       "title": "The Queen Bee",
       "length": 4320,
       "mode": "type"
     },
     {
-      "id": "066",
+      "id": "068",
       "title": "The Three Feathers",
       "length": 5445,
       "mode": "type"
     },
     {
-      "id": "067",
+      "id": "069",
       "title": "The Golden Goose",
       "length": 5599,
       "mode": "type"
     },
     {
-      "id": "068",
+      "id": "070",
       "title": "Allerleirauh",
       "length": 11217,
       "mode": "type"
     },
     {
-      "id": "069",
+      "id": "071",
       "title": "The Hare's Bride",
       "length": 2587,
       "mode": "type"
     },
     {
-      "id": "070",
+      "id": "072",
       "title": "The Twelve Huntsmen",
       "length": 5757,
       "mode": "type"
     },
     {
-      "id": "071",
+      "id": "073",
       "title": "The Thief and His Master",
       "length": 4015,
       "mode": "type"
     },
     {
-      "id": "072",
+      "id": "074",
       "title": "Jorinda and Joringel",
       "length": 4909,
       "mode": "type"
     },
     {
-      "id": "073",
+      "id": "075",
       "title": "The Three Sons of Fortune",
       "length": 5143,
       "mode": "type"
     },
     {
-      "id": "074",
+      "id": "076",
       "title": "How Six Men Got on in the World",
       "length": 10598,
       "mode": "type"
     },
     {
-      "id": "075",
+      "id": "077",
       "title": "The Wolf and the Man",
       "length": 2064,
       "mode": "type"
     },
     {
-      "id": "076",
+      "id": "078",
       "title": "The Wolf and the Fox",
       "length": 3685,
       "mode": "type"
     },
     {
-      "id": "077",
+      "id": "079",
       "title": "The Fox and His Cousin",
       "length": 1940,
       "mode": "type"
     },
     {
-      "id": "078",
+      "id": "080",
       "title": "The Fox and the Cat",
       "length": 1488,
       "mode": "type"
     },
     {
-      "id": "079",
+      "id": "081",
       "title": "The Pink",
       "length": 9094,
       "mode": "type"
     },
     {
-      "id": "080",
+      "id": "082",
       "title": "Clever Grethel",
       "length": 4773,
       "mode": "type"
     },
     {
-      "id": "081",
+      "id": "083",
       "title": "The Old Man and His Grandson",
       "length": 1267,
       "mode": "type"
     },
     {
-      "id": "082",
+      "id": "084",
       "title": "The Water-Nix",
       "length": 1568,
       "mode": "type"
     },
     {
-      "id": "083",
+      "id": "085",
       "title": "The Death of the Little Hen",
       "length": 3374,
       "mode": "type"
     },
     {
-      "id": "084",
+      "id": "086",
       "title": "Brother Lustig",
       "length": 21522,
       "mode": "type"
     },
     {
-      "id": "085",
+      "id": "087",
       "title": "Gambling Hansel",
       "length": 5074,
       "mode": "type"
     },
     {
-      "id": "086",
+      "id": "088",
       "title": "Hans in Luck",
       "length": 10226,
       "mode": "type"
     },
     {
-      "id": "087",
+      "id": "089",
       "title": "Hans Married",
       "length": 2294,
       "mode": "type"
     },
     {
-      "id": "088",
+      "id": "090",
       "title": "The Gold-Children",
       "length": 10021,
       "mode": "type"
     },
     {
-      "id": "089",
+      "id": "091",
       "title": "The Fox and the Geese",
       "length": 1177,
       "mode": "type"
     },
     {
-      "id": "090",
+      "id": "092",
       "title": "The Poor Man and the Rich Man",
       "length": 8679,
       "mode": "type"
     },
     {
-      "id": "091",
+      "id": "093",
       "title": "The Singing, Springing Lark",
       "length": 12148,
       "mode": "type"
     },
     {
-      "id": "092",
+      "id": "094",
       "title": "The Goose-Girl",
       "length": 11569,
       "mode": "type"
     },
     {
-      "id": "093",
+      "id": "095",
       "title": "The Young Giant",
       "length": 15823,
       "mode": "type"
     },
     {
-      "id": "094",
+      "id": "096",
       "title": "The Gnome",
       "length": 9480,
       "mode": "type"
     },
     {
-      "id": "095",
+      "id": "097",
       "title": "The King of the Golden Mountain",
       "length": 12483,
       "mode": "type"
     },
     {
-      "id": "096",
+      "id": "098",
       "title": "The Raven",
       "length": 11350,
       "mode": "type"
     },
     {
-      "id": "097",
+      "id": "099",
       "title": "The Peasant's Wise Daughter",
       "length": 7146,
       "mode": "type"
     },
     {
-      "id": "098",
+      "id": "100",
       "title": "Old Hildebrand",
       "length": 6906,
       "mode": "type"
     },
     {
-      "id": "099",
+      "id": "101",
       "title": "The Three Little Birds",
       "length": 7518,
       "mode": "type"
     },
     {
-      "id": "100",
+      "id": "102",
       "title": "The Water of Life",
       "length": 11924,
       "mode": "type"
     },
     {
-      "id": "101",
+      "id": "103",
       "title": "Doctor Knowall",
       "length": 3977,
       "mode": "type"
     },
     {
-      "id": "102",
+      "id": "104",
       "title": "The Spirit in the Bottle",
       "length": 9182,
       "mode": "type"
     },
     {
-      "id": "103",
+      "id": "105",
       "title": "The Devil's Sooty Brother",
       "length": 6462,
       "mode": "type"
     },
     {
-      "id": "104",
+      "id": "106",
       "title": "Bearskin",
       "length": 10265,
       "mode": "type"
     },
     {
-      "id": "105",
+      "id": "107",
       "title": "The Willow-Wren and the Bear",
       "length": 4812,
       "mode": "type"
     },
     {
-      "id": "106",
+      "id": "108",
       "title": "Sweet Porridge",
       "length": 1251,
       "mode": "type"
     },
     {
-      "id": "107",
+      "id": "109",
       "title": "Wise Folks",
       "length": 8036,
       "mode": "type"
     },
     {
-      "id": "108",
+      "id": "110",
       "title": "Stories About Snakes - First Story",
       "length": 1564,
       "mode": "type"
     },
     {
-      "id": "109",
+      "id": "111",
       "title": "Stories About Snakes - Second Story",
       "length": 898,
       "mode": "type"
     },
     {
-      "id": "110",
+      "id": "112",
       "title": "Stories About Snakes - Third Story",
       "length": 248,
       "mode": "type"
     },
     {
-      "id": "111",
+      "id": "113",
       "title": "The Poor Miller's Boy and the Cat",
       "length": 7137,
       "mode": "type"
     },
     {
-      "id": "112",
+      "id": "114",
       "title": "The Two Travellers",
       "length": 21602,
       "mode": "type"
     },
     {
-      "id": "113",
+      "id": "115",
       "title": "Hans the Hedgehog",
       "length": 10842,
       "mode": "type"
     },
     {
-      "id": "114",
+      "id": "116",
       "title": "The Shroud",
       "length": 1319,
       "mode": "type"
     },
     {
-      "id": "115",
+      "id": "117",
       "title": "The Jew Among Thorns",
       "length": 9188,
       "mode": "type"
     },
     {
-      "id": "116",
+      "id": "118",
       "title": "The Skilful Huntsman",
       "length": 11947,
       "mode": "type"
     },
     {
-      "id": "117",
+      "id": "119",
       "title": "The Flail from Heaven",
       "length": 1946,
       "mode": "type"
     },
     {
-      "id": "118",
+      "id": "120",
       "title": "The Two Kings' Children",
       "length": 17526,
       "mode": "type"
     },
     {
-      "id": "119",
+      "id": "121",
       "title": "The Cunning Little Tailor",
       "length": 6248,
       "mode": "type"
     },
     {
-      "id": "120",
+      "id": "122",
       "title": "The Bright Sun Brings It to Light",
       "length": 2736,
       "mode": "type"
     },
     {
-      "id": "121",
+      "id": "123",
       "title": "The Blue Light",
       "length": 9093,
       "mode": "type"
     },
     {
-      "id": "122",
+      "id": "124",
       "title": "The Wilful Child",
       "length": 686,
       "mode": "type"
     },
     {
-      "id": "123",
+      "id": "125",
       "title": "The Three Army-Surgeons",
       "length": 5595,
       "mode": "type"
     },
     {
-      "id": "124",
+      "id": "126",
       "title": "The Seven Swabians",
       "length": 5512,
       "mode": "type"
     },
     {
-      "id": "125",
+      "id": "127",
       "title": "The Three Apprentices",
       "length": 6089,
       "mode": "type"
     },
     {
-      "id": "126",
+      "id": "128",
       "title": "The King's Son Who Feared Nothing",
       "length": 10938,
       "mode": "type"
     },
     {
-      "id": "127",
+      "id": "129",
       "title": "Donkey Cabbages",
       "length": 13594,
       "mode": "type"
     },
     {
-      "id": "128",
+      "id": "130",
       "title": "The Old Woman in the Wood",
       "length": 4647,
       "mode": "type"
     },
     {
-      "id": "129",
+      "id": "131",
       "title": "The Three Brothers",
       "length": 3417,
       "mode": "type"
     },
     {
-      "id": "130",
+      "id": "132",
       "title": "The Devil and His Grandmother",
       "length": 6511,
       "mode": "type"
     },
     {
-      "id": "131",
+      "id": "133",
       "title": "Ferdinand the Faithful",
       "length": 9934,
       "mode": "type"
     },
     {
-      "id": "132",
+      "id": "134",
       "title": "The Iron Stove",
       "length": 11373,
       "mode": "type"
     },
     {
-      "id": "133",
+      "id": "135",
       "title": "The Lazy Spinner",
       "length": 3790,
       "mode": "type"
     },
     {
-      "id": "134",
+      "id": "136",
       "title": "The Four Skilful Brothers",
       "length": 8657,
       "mode": "type"
     },
     {
-      "id": "135",
+      "id": "137",
       "title": "One-Eye, Two-Eyes, and Three-Eyes",
       "length": 14137,
       "mode": "type"
     },
     {
-      "id": "136",
+      "id": "138",
       "title": "Fair Katrinelje and Pif-Paf-Poltrie",
       "length": 2017,
       "mode": "type"
     },
     {
-      "id": "137",
+      "id": "139",
       "title": "The Fox and the Horse",
       "length": 2394,
       "mode": "type"
     },
     {
-      "id": "138",
+      "id": "140",
       "title": "The Shoes That Were Danced to Pieces",
       "length": 7751,
       "mode": "type"
     },
     {
-      "id": "139",
+      "id": "141",
       "title": "The Six Servants",
       "length": 13914,
       "mode": "type"
     },
     {
-      "id": "140",
+      "id": "142",
       "title": "The White Bride and the Black One",
       "length": 8140,
       "mode": "type"
     },
     {
-      "id": "141",
+      "id": "143",
       "title": "Iron John",
       "length": 16524,
       "mode": "type"
     },
     {
-      "id": "142",
+      "id": "144",
       "title": "The Three Black Princesses",
       "length": 3591,
       "mode": "type"
     },
     {
-      "id": "143",
+      "id": "145",
       "title": "Knoist and His Three Sons",
       "length": 750,
       "mode": "type"
     },
     {
-      "id": "144",
+      "id": "146",
       "title": "The Maid of Brakel",
       "length": 689,
       "mode": "type"
     },
     {
-      "id": "145",
+      "id": "147",
       "title": "Domestic Servants",
       "length": 816,
       "mode": "type"
     },
     {
-      "id": "146",
+      "id": "148",
       "title": "The Lambkin and the Little Fish",
       "length": 3282,
       "mode": "type"
     },
     {
-      "id": "147",
+      "id": "149",
       "title": "Simeli Mountain",
       "length": 4571,
       "mode": "type"
     },
     {
-      "id": "148",
+      "id": "150",
       "title": "Going A-Travelling",
       "length": 2095,
       "mode": "type"
     },
     {
-      "id": "149",
+      "id": "151",
       "title": "The Donkey",
       "length": 6675,
       "mode": "type"
     },
     {
-      "id": "150",
+      "id": "152",
       "title": "The Ungrateful Son",
       "length": 811,
       "mode": "type"
     },
     {
-      "id": "151",
+      "id": "153",
       "title": "The Turnip",
       "length": 5883,
       "mode": "type"
     },
     {
-      "id": "152",
+      "id": "154",
       "title": "The Old Man Made Young Again",
       "length": 2861,
       "mode": "type"
     },
     {
-      "id": "153",
+      "id": "155",
       "title": "The Lord's Animals and the Devil's",
       "length": 1915,
       "mode": "type"
     },
     {
-      "id": "154",
+      "id": "156",
       "title": "The Beam",
       "length": 1460,
       "mode": "type"
     },
     {
-      "id": "155",
+      "id": "157",
       "title": "The Old Beggar-Woman",
       "length": 822,
       "mode": "type"
     },
     {
-      "id": "156",
+      "id": "158",
       "title": "The Three Sluggards",
       "length": 1098,
       "mode": "type"
     },
     {
-      "id": "157",
+      "id": "159",
       "title": "The Twelve Idle Servants",
       "length": 5327,
       "mode": "type"
     },
     {
-      "id": "158",
+      "id": "160",
       "title": "The Shepherd Boy",
       "length": 1807,
       "mode": "type"
     },
     {
-      "id": "159",
+      "id": "161",
       "title": "The Star-Money",
       "length": 1661,
       "mode": "type"
     },
     {
-      "id": "160",
+      "id": "162",
       "title": "The Stolen Farthings",
       "length": 1801,
       "mode": "type"
     },
     {
-      "id": "161",
+      "id": "163",
       "title": "Brides on Their Trial",
       "length": 812,
       "mode": "type"
     },
     {
-      "id": "162",
+      "id": "164",
       "title": "Odds and Ends",
       "length": 1026,
       "mode": "type"
     },
     {
-      "id": "163",
+      "id": "165",
       "title": "The Sparrow and His Four Children",
       "length": 5090,
       "mode": "type"
     },
     {
-      "id": "164",
+      "id": "166",
       "title": "The Story of Schlauraffen Land",
       "length": 1769,
       "mode": "type"
     },
     {
-      "id": "165",
+      "id": "167",
       "title": "The Ditmarsch Tale of Wonders",
       "length": 1061,
       "mode": "type"
     },
     {
-      "id": "166",
+      "id": "168",
       "title": "A Riddling Tale",
       "length": 652,
       "mode": "type"
     },
     {
-      "id": "167",
+      "id": "169",
       "title": "Snow-White and Rose-Red",
       "length": 12782,
       "mode": "type"
     },
     {
-      "id": "168",
+      "id": "170",
       "title": "The Wise Servant",
       "length": 1299,
       "mode": "type"
     },
     {
-      "id": "169",
+      "id": "171",
       "title": "The Glass Coffin",
       "length": 12466,
       "mode": "type"
     },
     {
-      "id": "170",
+      "id": "172",
       "title": "Lazy Harry",
       "length": 5191,
       "mode": "type"
     },
     {
-      "id": "171",
+      "id": "173",
       "title": "The Griffin",
       "length": 14415,
       "mode": "type"
     },
     {
-      "id": "172",
+      "id": "174",
       "title": "Strong Hans",
       "length": 13700,
       "mode": "type"
     },
     {
-      "id": "173",
+      "id": "175",
       "title": "The Peasant in Heaven",
       "length": 1307,
       "mode": "type"
     },
     {
-      "id": "174",
+      "id": "176",
       "title": "Lean Lisa",
       "length": 2327,
       "mode": "type"
     },
     {
-      "id": "175",
+      "id": "177",
       "title": "The Hut in the Forest",
       "length": 9756,
       "mode": "type"
     },
     {
-      "id": "176",
+      "id": "178",
       "title": "Sharing Joy and Sorrow",
       "length": 1967,
       "mode": "type"
     },
     {
-      "id": "177",
+      "id": "179",
       "title": "The Willow-Wren",
       "length": 6098,
       "mode": "type"
     },
     {
-      "id": "178",
+      "id": "180",
       "title": "The Sole",
       "length": 1282,
       "mode": "type"
     },
     {
-      "id": "179",
+      "id": "181",
       "title": "The Bittern and the Hoopoe",
       "length": 1253,
       "mode": "type"
     },
     {
-      "id": "180",
+      "id": "182",
       "title": "The Owl",
       "length": 4479,
       "mode": "type"
     },
     {
-      "id": "181",
+      "id": "183",
       "title": "The Moon",
       "length": 4138,
       "mode": "type"
     },
     {
-      "id": "182",
+      "id": "184",
       "title": "The Duration of Life",
       "length": 3006,
       "mode": "type"
     },
     {
-      "id": "183",
+      "id": "185",
       "title": "Death's Messengers",
       "length": 3078,
       "mode": "type"
     },
     {
-      "id": "184",
+      "id": "186",
       "title": "Master Pfriem (Master Cobbler's Awl)",
       "length": 7546,
       "mode": "type"
     },
     {
-      "id": "185",
+      "id": "187",
       "title": "The Goose-Girl at the Well",
       "length": 20229,
       "mode": "type"
     },
     {
-      "id": "186",
+      "id": "188",
       "title": "Eve's Various Children",
       "length": 3724,
       "mode": "type"
     },
     {
-      "id": "187",
+      "id": "189",
       "title": "The Nix of the Millpond",
       "length": 11217,
       "mode": "type"
     },
     {
-      "id": "188",
+      "id": "190",
       "title": "The Little Folks' Presents",
       "length": 5195,
       "mode": "type"
     },
     {
-      "id": "189",
+      "id": "191",
       "title": "The Giant and the Tailor",
       "length": 3749,
       "mode": "type"
     },
     {
-      "id": "190",
+      "id": "192",
       "title": "The Nail",
       "length": 1356,
       "mode": "type"
     },
     {
-      "id": "191",
+      "id": "193",
       "title": "The Poor Boy in the Grave",
       "length": 6392,
       "mode": "type"
     },
     {
-      "id": "192",
+      "id": "194",
       "title": "The True Sweethearts",
       "length": 14041,
       "mode": "type"
     },
     {
-      "id": "193",
+      "id": "195",
       "title": "The Hare and the Hedgehog",
       "length": 7138,
       "mode": "type"
     },
     {
-      "id": "194",
+      "id": "196",
       "title": "The Spindle, the Shuttle, and the Needle",
       "length": 5804,
       "mode": "type"
     },
     {
-      "id": "195",
+      "id": "197",
       "title": "The Peasant and the Devil",
       "length": 1973,
       "mode": "type"
     },
     {
-      "id": "196",
+      "id": "198",
       "title": "The Crumbs on the Table",
       "length": 971,
       "mode": "type"
     },
     {
-      "id": "197",
+      "id": "199",
       "title": "The Sea-Hare",
       "length": 6701,
       "mode": "type"
     },
     {
-      "id": "198",
+      "id": "200",
       "title": "The Master-Thief",
       "length": 15811,
       "mode": "type"
     },
     {
-      "id": "199",
+      "id": "201",
       "title": "The Drummer",
       "length": 19805,
       "mode": "type"
     },
     {
-      "id": "200",
+      "id": "202",
       "title": "The Ear of Corn",
       "length": 1264,
       "mode": "type"
     },
     {
-      "id": "201",
+      "id": "203",
       "title": "The Grave-Mound",
       "length": 7674,
       "mode": "type"
     },
     {
-      "id": "202",
+      "id": "204",
       "title": "Old Rinkrank",
       "length": 3900,
       "mode": "type"
     },
     {
-      "id": "203",
+      "id": "205",
       "title": "The Crystal Ball",
       "length": 5521,
       "mode": "type"
     },
     {
-      "id": "204",
+      "id": "206",
       "title": "Maid Maleen",
       "length": 10499,
       "mode": "type"
     },
     {
-      "id": "205",
+      "id": "207",
       "title": "The Boots of Buffalo-Leather",
       "length": 7626,
       "mode": "type"
     },
     {
-      "id": "206",
+      "id": "208",
       "title": "The Golden Key",
       "length": 907,
       "mode": "type"
     },
     {
-      "id": "207",
+      "id": "209",
       "title": "Children's Legends - St. Joseph in the Forest",
       "length": 5893,
       "mode": "type"
     },
     {
-      "id": "208",
+      "id": "210",
       "title": "Children's Legends - The Twelve Apostles",
       "length": 2117,
       "mode": "type"
     },
     {
-      "id": "209",
+      "id": "211",
       "title": "Children's Legends - The Rose",
       "length": 790,
       "mode": "type"
     },
     {
-      "id": "210",
+      "id": "212",
       "title": "Children's Legends - Poverty and Humility Lead to Heaven",
       "length": 2504,
       "mode": "type"
     },
     {
-      "id": "211",
+      "id": "213",
       "title": "Children's Legends - God's Food",
       "length": 1278,
       "mode": "type"
     },
     {
-      "id": "212",
+      "id": "214",
       "title": "Children's Legends - The Three Green Twigs",
       "length": 4914,
       "mode": "type"
     },
     {
-      "id": "213",
+      "id": "215",
       "title": "Children's Legends - Our Lady's Little Glass",
       "length": 822,
       "mode": "type"
     },
     {
-      "id": "214",
+      "id": "216",
       "title": "Children's Legends - The Aged Mother",
       "length": 1769,
       "mode": "type"
     },
     {
-      "id": "215",
+      "id": "217",
       "title": "Children's Legends - The Heavenly Wedding",
       "length": 2633,
       "mode": "type"
     },
     {
-      "id": "216",
+      "id": "218",
       "title": "Children's Legends - The Hazel-Branch",
       "length": 1140,
       "mode": "type"
+    },
+    {
+      "id": "219",
+      "title": "Colophon",
+      "length": 1252,
+      "mode": "hide"
+    },
+    {
+      "id": "220",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
     }
   ],
   "openlibraryId": "OL45361W",

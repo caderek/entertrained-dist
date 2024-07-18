@@ -26,746 +26,776 @@
   "chapters": [
     {
       "id": "001",
+      "title": "Titlepage - The Luzumiyat",
+      "length": 56,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 143,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
       "title": "To Abu al-ʻAlaʼ",
       "length": 2134,
       "mode": "type"
     },
     {
-      "id": "002",
+      "id": "005",
       "title": "Preface",
       "length": 21136,
       "mode": "skip"
     },
     {
-      "id": "003",
+      "id": "006",
       "title": "I",
       "length": 156,
       "mode": "type"
     },
     {
-      "id": "004",
+      "id": "007",
       "title": "II",
       "length": 166,
       "mode": "type"
     },
     {
-      "id": "005",
+      "id": "008",
       "title": "III",
       "length": 154,
       "mode": "type"
     },
     {
-      "id": "006",
+      "id": "009",
       "title": "IV",
       "length": 164,
       "mode": "type"
     },
     {
-      "id": "007",
+      "id": "010",
       "title": "V",
       "length": 165,
       "mode": "type"
     },
     {
-      "id": "008",
+      "id": "011",
       "title": "VI",
       "length": 180,
       "mode": "type"
     },
     {
-      "id": "009",
+      "id": "012",
       "title": "VII",
       "length": 166,
       "mode": "type"
     },
     {
-      "id": "010",
+      "id": "013",
       "title": "VIII",
       "length": 154,
       "mode": "type"
     },
     {
-      "id": "011",
+      "id": "014",
       "title": "IX",
       "length": 169,
       "mode": "type"
     },
     {
-      "id": "012",
+      "id": "015",
       "title": "X",
       "length": 166,
       "mode": "type"
     },
     {
-      "id": "013",
+      "id": "016",
       "title": "XI",
       "length": 171,
       "mode": "type"
     },
     {
-      "id": "014",
+      "id": "017",
       "title": "XII",
       "length": 168,
       "mode": "type"
     },
     {
-      "id": "015",
+      "id": "018",
       "title": "XIII",
       "length": 165,
       "mode": "type"
     },
     {
-      "id": "016",
+      "id": "019",
       "title": "XIV",
       "length": 162,
       "mode": "type"
     },
     {
-      "id": "017",
+      "id": "020",
       "title": "XV",
       "length": 165,
       "mode": "type"
     },
     {
-      "id": "018",
+      "id": "021",
       "title": "XVI",
       "length": 157,
       "mode": "type"
     },
     {
-      "id": "019",
+      "id": "022",
       "title": "XVII",
       "length": 168,
       "mode": "type"
     },
     {
-      "id": "020",
+      "id": "023",
       "title": "XVIII",
       "length": 170,
       "mode": "type"
     },
     {
-      "id": "021",
+      "id": "024",
       "title": "XIX",
       "length": 158,
       "mode": "type"
     },
     {
-      "id": "022",
+      "id": "025",
       "title": "XX",
       "length": 148,
       "mode": "type"
     },
     {
-      "id": "023",
+      "id": "026",
       "title": "XXI",
       "length": 162,
       "mode": "type"
     },
     {
-      "id": "024",
+      "id": "027",
       "title": "XXII",
       "length": 169,
       "mode": "type"
     },
     {
-      "id": "025",
+      "id": "028",
       "title": "XXIII",
       "length": 175,
       "mode": "type"
     },
     {
-      "id": "026",
+      "id": "029",
       "title": "XXIV",
       "length": 153,
       "mode": "type"
     },
     {
-      "id": "027",
+      "id": "030",
       "title": "XXV",
       "length": 160,
       "mode": "type"
     },
     {
-      "id": "028",
+      "id": "031",
       "title": "XXVI",
       "length": 167,
       "mode": "type"
     },
     {
-      "id": "029",
+      "id": "032",
       "title": "XXVII",
       "length": 175,
       "mode": "type"
     },
     {
-      "id": "030",
+      "id": "033",
       "title": "XXVIII",
       "length": 163,
       "mode": "type"
     },
     {
-      "id": "031",
+      "id": "034",
       "title": "XXIX",
       "length": 163,
       "mode": "type"
     },
     {
-      "id": "032",
+      "id": "035",
       "title": "XXX",
       "length": 182,
       "mode": "type"
     },
     {
-      "id": "033",
+      "id": "036",
       "title": "XXXI",
       "length": 161,
       "mode": "type"
     },
     {
-      "id": "034",
+      "id": "037",
       "title": "XXXII",
       "length": 178,
       "mode": "type"
     },
     {
-      "id": "035",
+      "id": "038",
       "title": "XXXIII",
       "length": 150,
       "mode": "type"
     },
     {
-      "id": "036",
+      "id": "039",
       "title": "XXXIV",
       "length": 172,
       "mode": "type"
     },
     {
-      "id": "037",
+      "id": "040",
       "title": "XXXV",
       "length": 153,
       "mode": "type"
     },
     {
-      "id": "038",
+      "id": "041",
       "title": "XXXVI",
       "length": 168,
       "mode": "type"
     },
     {
-      "id": "039",
+      "id": "042",
       "title": "XXXVII",
       "length": 167,
       "mode": "type"
     },
     {
-      "id": "040",
+      "id": "043",
       "title": "XXXVIII",
       "length": 155,
       "mode": "type"
     },
     {
-      "id": "041",
+      "id": "044",
       "title": "XXXIX",
       "length": 168,
       "mode": "type"
     },
     {
-      "id": "042",
+      "id": "045",
       "title": "XL",
       "length": 169,
       "mode": "type"
     },
     {
-      "id": "043",
+      "id": "046",
       "title": "XLI",
       "length": 159,
       "mode": "type"
     },
     {
-      "id": "044",
+      "id": "047",
       "title": "XLII",
       "length": 175,
       "mode": "type"
     },
     {
-      "id": "045",
+      "id": "048",
       "title": "XLIII",
       "length": 161,
       "mode": "type"
     },
     {
-      "id": "046",
+      "id": "049",
       "title": "XLIV",
       "length": 169,
       "mode": "type"
     },
     {
-      "id": "047",
+      "id": "050",
       "title": "XLV",
       "length": 157,
       "mode": "type"
     },
     {
-      "id": "048",
+      "id": "051",
       "title": "XLVI",
       "length": 156,
       "mode": "type"
     },
     {
-      "id": "049",
+      "id": "052",
       "title": "XLVII",
       "length": 183,
       "mode": "type"
     },
     {
-      "id": "050",
+      "id": "053",
       "title": "XLVIII",
       "length": 179,
       "mode": "type"
     },
     {
-      "id": "051",
+      "id": "054",
       "title": "XLIX",
       "length": 163,
       "mode": "type"
     },
     {
-      "id": "052",
+      "id": "055",
       "title": "L",
       "length": 162,
       "mode": "type"
     },
     {
-      "id": "053",
+      "id": "056",
       "title": "LI",
       "length": 165,
       "mode": "type"
     },
     {
-      "id": "054",
+      "id": "057",
       "title": "LII",
       "length": 163,
       "mode": "type"
     },
     {
-      "id": "055",
+      "id": "058",
       "title": "LIII",
       "length": 165,
       "mode": "type"
     },
     {
-      "id": "056",
+      "id": "059",
       "title": "LIV",
       "length": 156,
       "mode": "type"
     },
     {
-      "id": "057",
+      "id": "060",
       "title": "LV",
       "length": 151,
       "mode": "type"
     },
     {
-      "id": "058",
+      "id": "061",
       "title": "LVI",
       "length": 158,
       "mode": "type"
     },
     {
-      "id": "059",
+      "id": "062",
       "title": "LVII",
       "length": 181,
       "mode": "type"
     },
     {
-      "id": "060",
+      "id": "063",
       "title": "LVIII",
       "length": 162,
       "mode": "type"
     },
     {
-      "id": "061",
+      "id": "064",
       "title": "LIX",
       "length": 146,
       "mode": "type"
     },
     {
-      "id": "062",
+      "id": "065",
       "title": "LX",
       "length": 152,
       "mode": "type"
     },
     {
-      "id": "063",
+      "id": "066",
       "title": "LXI",
       "length": 161,
       "mode": "type"
     },
     {
-      "id": "064",
+      "id": "067",
       "title": "LXII",
       "length": 174,
       "mode": "type"
     },
     {
-      "id": "065",
+      "id": "068",
       "title": "LXIII",
       "length": 168,
       "mode": "type"
     },
     {
-      "id": "066",
+      "id": "069",
       "title": "LXIV",
       "length": 162,
       "mode": "type"
     },
     {
-      "id": "067",
+      "id": "070",
       "title": "LXV",
       "length": 187,
       "mode": "type"
     },
     {
-      "id": "068",
+      "id": "071",
       "title": "LXVI",
       "length": 175,
       "mode": "type"
     },
     {
-      "id": "069",
+      "id": "072",
       "title": "LXVII",
       "length": 156,
       "mode": "type"
     },
     {
-      "id": "070",
+      "id": "073",
       "title": "LXVIII",
       "length": 162,
       "mode": "type"
     },
     {
-      "id": "071",
+      "id": "074",
       "title": "LXIX",
       "length": 177,
       "mode": "type"
     },
     {
-      "id": "072",
+      "id": "075",
       "title": "LXX",
       "length": 176,
       "mode": "type"
     },
     {
-      "id": "073",
+      "id": "076",
       "title": "LXXI",
       "length": 181,
       "mode": "type"
     },
     {
-      "id": "074",
+      "id": "077",
       "title": "LXXII",
       "length": 172,
       "mode": "type"
     },
     {
-      "id": "075",
+      "id": "078",
       "title": "LXXIII",
       "length": 170,
       "mode": "type"
     },
     {
-      "id": "076",
+      "id": "079",
       "title": "LXXIV",
       "length": 165,
       "mode": "type"
     },
     {
-      "id": "077",
+      "id": "080",
       "title": "LXXV",
       "length": 164,
       "mode": "type"
     },
     {
-      "id": "078",
+      "id": "081",
       "title": "LXXVI",
       "length": 172,
       "mode": "type"
     },
     {
-      "id": "079",
+      "id": "082",
       "title": "LXXVII",
       "length": 174,
       "mode": "type"
     },
     {
-      "id": "080",
+      "id": "083",
       "title": "LXXVIII",
       "length": 179,
       "mode": "type"
     },
     {
-      "id": "081",
+      "id": "084",
       "title": "LXXIX",
       "length": 170,
       "mode": "type"
     },
     {
-      "id": "082",
+      "id": "085",
       "title": "LXXX",
       "length": 163,
       "mode": "type"
     },
     {
-      "id": "083",
+      "id": "086",
       "title": "LXXXI",
       "length": 172,
       "mode": "type"
     },
     {
-      "id": "084",
+      "id": "087",
       "title": "LXXXII",
       "length": 163,
       "mode": "type"
     },
     {
-      "id": "085",
+      "id": "088",
       "title": "LXXXIII",
       "length": 171,
       "mode": "type"
     },
     {
-      "id": "086",
+      "id": "089",
       "title": "LXXXIV",
       "length": 172,
       "mode": "type"
     },
     {
-      "id": "087",
+      "id": "090",
       "title": "LXXXV",
       "length": 161,
       "mode": "type"
     },
     {
-      "id": "088",
+      "id": "091",
       "title": "LXXXVI",
       "length": 183,
       "mode": "type"
     },
     {
-      "id": "089",
+      "id": "092",
       "title": "LXXXVII",
       "length": 164,
       "mode": "type"
     },
     {
-      "id": "090",
+      "id": "093",
       "title": "LXXXVIII",
       "length": 169,
       "mode": "type"
     },
     {
-      "id": "091",
+      "id": "094",
       "title": "LXXXIX",
       "length": 162,
       "mode": "type"
     },
     {
-      "id": "092",
+      "id": "095",
       "title": "XC",
       "length": 179,
       "mode": "type"
     },
     {
-      "id": "093",
+      "id": "096",
       "title": "XCI",
       "length": 153,
       "mode": "type"
     },
     {
-      "id": "094",
+      "id": "097",
       "title": "XCII",
       "length": 169,
       "mode": "type"
     },
     {
-      "id": "095",
+      "id": "098",
       "title": "XCIII",
       "length": 164,
       "mode": "type"
     },
     {
-      "id": "096",
+      "id": "099",
       "title": "XCIV",
       "length": 155,
       "mode": "type"
     },
     {
-      "id": "097",
+      "id": "100",
       "title": "XCV",
       "length": 179,
       "mode": "type"
     },
     {
-      "id": "098",
+      "id": "101",
       "title": "XCVI",
       "length": 160,
       "mode": "type"
     },
     {
-      "id": "099",
+      "id": "102",
       "title": "XCVII",
       "length": 171,
       "mode": "type"
     },
     {
-      "id": "100",
+      "id": "103",
       "title": "XCVIII",
       "length": 180,
       "mode": "type"
     },
     {
-      "id": "101",
+      "id": "104",
       "title": "XCIX",
       "length": 177,
       "mode": "type"
     },
     {
-      "id": "102",
+      "id": "105",
       "title": "C",
       "length": 164,
       "mode": "type"
     },
     {
-      "id": "103",
+      "id": "106",
       "title": "CI",
       "length": 166,
       "mode": "type"
     },
     {
-      "id": "104",
+      "id": "107",
       "title": "CII",
       "length": 177,
       "mode": "type"
     },
     {
-      "id": "105",
+      "id": "108",
       "title": "CIII",
       "length": 164,
       "mode": "type"
     },
     {
-      "id": "106",
+      "id": "109",
       "title": "CIV",
       "length": 161,
       "mode": "type"
     },
     {
-      "id": "107",
+      "id": "110",
       "title": "CV",
       "length": 165,
       "mode": "type"
     },
     {
-      "id": "108",
+      "id": "111",
       "title": "CVI",
       "length": 173,
       "mode": "type"
     },
     {
-      "id": "109",
+      "id": "112",
       "title": "CVII",
       "length": 161,
       "mode": "type"
     },
     {
-      "id": "110",
+      "id": "113",
       "title": "CVIII",
       "length": 175,
       "mode": "type"
     },
     {
-      "id": "111",
+      "id": "114",
       "title": "CIX",
       "length": 175,
       "mode": "type"
     },
     {
-      "id": "112",
+      "id": "115",
       "title": "CX",
       "length": 163,
       "mode": "type"
     },
     {
-      "id": "113",
+      "id": "116",
       "title": "CXI",
       "length": 184,
       "mode": "type"
     },
     {
-      "id": "114",
+      "id": "117",
       "title": "CXII",
       "length": 176,
       "mode": "type"
     },
     {
-      "id": "115",
+      "id": "118",
       "title": "CXIII",
       "length": 163,
       "mode": "type"
     },
     {
-      "id": "116",
+      "id": "119",
       "title": "CXIV",
       "length": 169,
       "mode": "type"
     },
     {
-      "id": "117",
+      "id": "120",
       "title": "CXV",
       "length": 177,
       "mode": "type"
     },
     {
-      "id": "118",
+      "id": "121",
       "title": "CXVI",
       "length": 163,
       "mode": "type"
     },
     {
-      "id": "119",
+      "id": "122",
       "title": "CXVII",
       "length": 175,
       "mode": "type"
     },
     {
-      "id": "120",
+      "id": "123",
       "title": "CXVIII",
       "length": 160,
       "mode": "type"
     },
     {
-      "id": "121",
+      "id": "124",
       "title": "CXIX",
       "length": 145,
       "mode": "type"
     },
     {
-      "id": "122",
+      "id": "125",
       "title": "CXX",
       "length": 173,
       "mode": "type"
     },
     {
-      "id": "123",
+      "id": "126",
       "title": "CXXI",
       "length": 152,
       "mode": "type"
     },
     {
-      "id": "124",
+      "id": "127",
       "title": "Endnotes",
       "length": 15490,
+      "mode": "hide"
+    },
+    {
+      "id": "128",
+      "title": "Colophon",
+      "length": 1152,
+      "mode": "hide"
+    },
+    {
+      "id": "129",
+      "title": "Uncopyright",
+      "length": 2050,
       "mode": "hide"
     }
   ],
