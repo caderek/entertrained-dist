@@ -1,1 +1,307 @@
-{"id":"t-s-eliot--poetry","title":"Poetry","titleAlpha":"poetry","author":"T. S. Eliot","language":"en","description":"A collection of T. S. Eliot's poetry, including \"The Love Song of J. Alfred Prufrock,\" \"The Waste Land,\" and \"The Hollow Men.\"","longDescription":["Poetry of T. S. Eliot collects all of his early work through \"The Hollow Men.\" Poems like \"The Love Song of J. Alfred Prufrock,\" \"Whispers of Immortality,\" and \"Gerontion\" ponder aging and mortality, while \"Sweeney Erect,\" \"Mr. Eliot's Sunday Service,\" and \"Sweeney Among the Nightingales\" sketch the temptations and agonies of the modern man in the character of Sweeney.","Woven throughout with allusions to works in six foreign languages and sporting over fifty footnotes by the author, \"The Waste Land\" is as notorious for its bleak picture of a post-war world as it is for its density and difficulty. \"The Hollow Men\" ends with one of the most famous stanzas in English poetry.","Eliot's flashes of insight bring the everyday into stark relief. Whether suffering an insufferable bore, observing the lives of strangers on the streets, or juxtaposing the sacred and the profane, his sometimes autobiographical vignettes of modern life still feel current a century after they were penned."],"year":1996,"genres":["classics","poetry"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/t-s-eliot/poetry"},"openlibraryId":"OL1142124W","goodreadsId":"80410","rating":0.60980844,"popularity":10,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Poetry","length":16,"mode":"hide"},{"id":"002","title":"Imprint","length":1178,"mode":"hide"},{"id":"003","title":"The Love Song of J. Alfred Prufrock","length":5907,"mode":"type"},{"id":"004","title":"Portrait of a Lady - I","length":1606,"mode":"type"},{"id":"005","title":"Portrait of a Lady - II","length":1740,"mode":"type"},{"id":"006","title":"Portrait of a Lady - III","length":1690,"mode":"type"},{"id":"007","title":"Preludes - I","length":388,"mode":"type"},{"id":"008","title":"Preludes - II","length":292,"mode":"type"},{"id":"009","title":"Preludes - III","length":549,"mode":"type"},{"id":"010","title":"Preludes - IV","length":560,"mode":"type"},{"id":"011","title":"Rhapsody on a Windy Night","length":2388,"mode":"type"},{"id":"012","title":"Morning at the Window","length":389,"mode":"type"},{"id":"013","title":"The Boston Evening Transcript","length":457,"mode":"type"},{"id":"014","title":"Aunt Helen","length":622,"mode":"type"},{"id":"015","title":"Cousin Nancy","length":429,"mode":"type"},{"id":"016","title":"Mr. Apollinax","length":1016,"mode":"type"},{"id":"017","title":"Hysteria","length":773,"mode":"type"},{"id":"018","title":"Conversation Galante","length":689,"mode":"type"},{"id":"019","title":"La Figlia Che Piange","length":968,"mode":"type"},{"id":"020","title":"Gerontion","length":3241,"mode":"type"},{"id":"021","title":"Burbank with a Baedeker: Bleistein with a Cigar","length":1354,"mode":"type"},{"id":"022","title":"Sweeney Erect","length":1556,"mode":"type"},{"id":"023","title":"A Cooking Egg","length":1204,"mode":"type"},{"id":"024","title":"Le Directeur","length":356,"mode":"type"},{"id":"025","title":"Melange Adultere de Tout","length":570,"mode":"type"},{"id":"026","title":"Lune de Miel","length":847,"mode":"type"},{"id":"027","title":"Ode","length":678,"mode":"type"},{"id":"028","title":"The Hippopotamus","length":1545,"mode":"type"},{"id":"029","title":"Dans le Restaurant","length":1416,"mode":"type"},{"id":"030","title":"Whispers of Immortality","length":1037,"mode":"type"},{"id":"031","title":"Mr. Eliot's Sunday Morning Service","length":1026,"mode":"type"},{"id":"032","title":"Sweeney Among the Nightingales","length":1519,"mode":"type"},{"id":"033","title":"The Waste Land - I: The Burial of the Dead","length":3162,"mode":"type"},{"id":"034","title":"The Waste Land - II: A Game of Chess","length":4021,"mode":"type"},{"id":"035","title":"The Waste Land - III: The Fire Sermon","length":4805,"mode":"type"},{"id":"036","title":"The Waste Land - IV: Death by Water","length":370,"mode":"type"},{"id":"037","title":"The Waste Land - V: What the Thunder Said","length":3989,"mode":"type"},{"id":"038","title":"The Hollow Men - I","length":483,"mode":"type"},{"id":"039","title":"The Hollow Men - II","length":461,"mode":"type"},{"id":"040","title":"The Hollow Men - III","length":323,"mode":"type"},{"id":"041","title":"The Hollow Men - IV","length":374,"mode":"type"},{"id":"042","title":"The Hollow Men - V","length":659,"mode":"type"},{"id":"043","title":"Endnotes","length":8920,"mode":"hide"},{"id":"044","title":"Colophon","length":1049,"mode":"hide"},{"id":"045","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338264583}
+{
+  "id": "t-s-eliot--poetry",
+  "title": "Poetry",
+  "titleAlpha": "poetry",
+  "author": "T. S. Eliot",
+  "language": "en",
+  "description": "A collection of T. S. Eliot's poetry, including \"The Love Song of J. Alfred Prufrock,\" \"The Waste Land,\" and \"The Hollow Men.\"",
+  "longDescription": [
+    "Poetry of T. S. Eliot collects all of his early work through \"The Hollow Men.\" Poems like \"The Love Song of J. Alfred Prufrock,\" \"Whispers of Immortality,\" and \"Gerontion\" ponder aging and mortality, while \"Sweeney Erect,\" \"Mr. Eliot's Sunday Service,\" and \"Sweeney Among the Nightingales\" sketch the temptations and agonies of the modern man in the character of Sweeney.",
+    "Woven throughout with allusions to works in six foreign languages and sporting over fifty footnotes by the author, \"The Waste Land\" is as notorious for its bleak picture of a post-war world as it is for its density and difficulty. \"The Hollow Men\" ends with one of the most famous stanzas in English poetry.",
+    "Eliot's flashes of insight bring the everyday into stark relief. Whether suffering an insufferable bore, observing the lives of strangers on the streets, or juxtaposing the sacred and the profane, his sometimes autobiographical vignettes of modern life still feel current a century after they were penned."
+  ],
+  "year": 1963,
+  "genres": [
+    "classics",
+    "poetry"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/t-s-eliot/poetry"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Poetry",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1178,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "The Love Song of J. Alfred Prufrock",
+      "length": 5907,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Portrait of a Lady - I",
+      "length": 1606,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Portrait of a Lady - II",
+      "length": 1740,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Portrait of a Lady - III",
+      "length": 1690,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Preludes - I",
+      "length": 388,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Preludes - II",
+      "length": 292,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Preludes - III",
+      "length": 549,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Preludes - IV",
+      "length": 560,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Rhapsody on a Windy Night",
+      "length": 2388,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Morning at the Window",
+      "length": 389,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "The Boston Evening Transcript",
+      "length": 457,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Aunt Helen",
+      "length": 622,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Cousin Nancy",
+      "length": 429,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Mr. Apollinax",
+      "length": 1016,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Hysteria",
+      "length": 773,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Conversation Galante",
+      "length": 689,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "La Figlia Che Piange",
+      "length": 968,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Gerontion",
+      "length": 3241,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Burbank with a Baedeker: Bleistein with a Cigar",
+      "length": 1354,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Sweeney Erect",
+      "length": 1556,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "A Cooking Egg",
+      "length": 1204,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Le Directeur",
+      "length": 356,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Melange Adultere de Tout",
+      "length": 570,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Lune de Miel",
+      "length": 847,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Ode",
+      "length": 678,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "The Hippopotamus",
+      "length": 1545,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Dans le Restaurant",
+      "length": 1416,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Whispers of Immortality",
+      "length": 1037,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Mr. Eliot's Sunday Morning Service",
+      "length": 1026,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Sweeney Among the Nightingales",
+      "length": 1519,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "The Waste Land - I: The Burial of the Dead",
+      "length": 3162,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "The Waste Land - II: A Game of Chess",
+      "length": 4021,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "The Waste Land - III: The Fire Sermon",
+      "length": 4805,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "The Waste Land - IV: Death by Water",
+      "length": 370,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "The Waste Land - V: What the Thunder Said",
+      "length": 3989,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "The Hollow Men - I",
+      "length": 483,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "The Hollow Men - II",
+      "length": 461,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "The Hollow Men - III",
+      "length": 323,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "The Hollow Men - IV",
+      "length": 374,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "The Hollow Men - V",
+      "length": 659,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Endnotes",
+      "length": 8920,
+      "mode": "hide"
+    },
+    {
+      "id": "044",
+      "title": "Colophon",
+      "length": 1049,
+      "mode": "hide"
+    },
+    {
+      "id": "045",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1142293W",
+  "goodreadsId": "142080",
+  "rating": 0.858,
+  "popularity": 21171,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721435048533
+}

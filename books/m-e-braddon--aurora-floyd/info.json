@@ -1,1 +1,296 @@
-{"id":"m-e-braddon--aurora-floyd","title":"Aurora Floyd","titleAlpha":"aurora floyd","author":"M. E. Braddon","language":"en","description":"After her marriage to a Yorkshire landowner, a young woman is oppressed by the consequences of a youthful indiscretion.","longDescription":["Aurora Floyd focuses on its eponymous heroine, Aurora Floyd, the daughter of a wealthy banker, who in his late forties scandalously married a poor actress from a northern county. His young wife died not long after Aurora's birth, and her daughter was raised by her grieving father, who idolizes the child. Aurora thus grows up spoiled and somewhat headstrong.","After she returns from a Parisian finishing school, it is clear that something happened to her there which has caused a dark cloud to hang over her, causing her father immense grief. When a few years later she is courted and then marries, the secrets of what happened in her teenage years eventually come to light, leading to tragedy.","The novel was published in 1863 after having been serialized in Temple Bar magazine. This came only a year after Braddon first achieved wide popularity with her best-selling novel Lady Audley's Secret. Aurora Floyd didn't achieve the same level of popularity, but it was nevertheless well received. It was almost immediately turned into a stage play, and was the basis of a short silent film in 1912."],"year":null,"genres":["classics","fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/m-e-braddon/aurora-floyd"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Aurora Floyd","length":18,"mode":"hide"},{"id":"002","title":"Imprint","length":1194,"mode":"hide"},{"id":"003","title":"I: How a Rich Banker Married an Actress","length":31102,"mode":"type"},{"id":"004","title":"II: Aurora","length":15379,"mode":"type"},{"id":"005","title":"III: What Became of the Diamond Bracelet","length":28357,"mode":"type"},{"id":"006","title":"IV: After the Ball","length":26141,"mode":"type"},{"id":"007","title":"V: John Mellish","length":26204,"mode":"type"},{"id":"008","title":"VI: Rejected and Accepted","length":28454,"mode":"type"},{"id":"009","title":"VII: Aurora's Strange Pensioner","length":31793,"mode":"type"},{"id":"010","title":"VIII: Poor John Mellish Comes Back Again","length":23287,"mode":"type"},{"id":"011","title":"IX: How Talbot Bulstrode Spent His Christmas","length":20348,"mode":"type"},{"id":"012","title":"X: Fighting the Battle","length":28171,"mode":"type"},{"id":"013","title":"XI: At the Chateau d'Arques","length":13157,"mode":"type"},{"id":"014","title":"XII: Steeve Hargraves, the \"Softy\"","length":33711,"mode":"type"},{"id":"015","title":"XIII: The Spring Meeting","length":31223,"mode":"type"},{"id":"016","title":"XIV: \"Love Took Up the Glass of Time, and Turned It in His Glowing Hands\"","length":22422,"mode":"type"},{"id":"017","title":"XV: Mr. Pastern's Letter","length":18631,"mode":"type"},{"id":"018","title":"XVI: Mr. James Conyers","length":26822,"mode":"type"},{"id":"019","title":"XVII: The Trainer's Messenger","length":25948,"mode":"type"},{"id":"020","title":"XVIII: Out in the Rain","length":37595,"mode":"type"},{"id":"021","title":"XIX: Money Matters","length":40140,"mode":"type"},{"id":"022","title":"XX: Captain Prodder","length":24380,"mode":"type"},{"id":"023","title":"XXI: \"He Only Said, I Am A-Weary.\"","length":23126,"mode":"type"},{"id":"024","title":"XXII: Still Constant","length":39346,"mode":"type"},{"id":"025","title":"XXIII: On the Threshold of Darker Miseries","length":14809,"mode":"type"},{"id":"026","title":"XXIV: Captain Prodder Carries Bad News to His Niece's House","length":29777,"mode":"type"},{"id":"027","title":"XXV: The Deed That Had Been Done in the Wood","length":48732,"mode":"type"},{"id":"028","title":"XXVI: At the Golden Lion","length":18294,"mode":"type"},{"id":"029","title":"XXVII: \"My Wife! My Wife! What Wife? I Have No Wife.\"","length":13679,"mode":"type"},{"id":"030","title":"XXVIII: Aurora's Flight","length":19009,"mode":"type"},{"id":"031","title":"XXIX: John Mellish Finds His Home Desolate","length":25881,"mode":"type"},{"id":"032","title":"XXX: An Unexpected Visitor","length":31856,"mode":"type"},{"id":"033","title":"XXXI: Talbot Bulstrode's Advice","length":16425,"mode":"type"},{"id":"034","title":"XXXII: On the Watch","length":26943,"mode":"type"},{"id":"035","title":"XXXIII: Captain Prodder Goes Back to Doncaster","length":34047,"mode":"type"},{"id":"036","title":"XXXIV: The Discovery of the Weapon with Which James Conyers Had Been Slain","length":17292,"mode":"type"},{"id":"037","title":"XXXV: Under a Cloud","length":35184,"mode":"type"},{"id":"038","title":"XXXVI: Reunion","length":17415,"mode":"type"},{"id":"039","title":"XXXVII: The Brass Button by Crosby, Birmingham","length":19272,"mode":"type"},{"id":"040","title":"XXXVIII: Off the Scent","length":27157,"mode":"type"},{"id":"041","title":"XXXIX: Talbot Bulstrode Makes Atonement for the Past","length":40465,"mode":"type"},{"id":"042","title":"Colophon","length":1020,"mode":"hide"},{"id":"043","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338063341}
+{
+  "id": "m-e-braddon--aurora-floyd",
+  "title": "Aurora Floyd",
+  "titleAlpha": "aurora floyd",
+  "author": "M. E. Braddon",
+  "language": "en",
+  "description": "After her marriage to a Yorkshire landowner, a young woman is oppressed by the consequences of a youthful indiscretion.",
+  "longDescription": [
+    "Aurora Floyd focuses on its eponymous heroine, Aurora Floyd, the daughter of a wealthy banker, who in his late forties scandalously married a poor actress from a northern county. His young wife died not long after Aurora's birth, and her daughter was raised by her grieving father, who idolizes the child. Aurora thus grows up spoiled and somewhat headstrong.",
+    "After she returns from a Parisian finishing school, it is clear that something happened to her there which has caused a dark cloud to hang over her, causing her father immense grief. When a few years later she is courted and then marries, the secrets of what happened in her teenage years eventually come to light, leading to tragedy.",
+    "The novel was published in 1863 after having been serialized in Temple Bar magazine. This came only a year after Braddon first achieved wide popularity with her best-selling novel Lady Audley's Secret. Aurora Floyd didn't achieve the same level of popularity, but it was nevertheless well received. It was almost immediately turned into a stage play, and was the basis of a short silent film in 1912."
+  ],
+  "year": 1863,
+  "genres": [
+    "classics",
+    "fiction",
+    "mystery"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/m-e-braddon/aurora-floyd"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Aurora Floyd",
+      "length": 18,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: How a Rich Banker Married an Actress",
+      "length": 31102,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: Aurora",
+      "length": 15379,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: What Became of the Diamond Bracelet",
+      "length": 28357,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: After the Ball",
+      "length": 26141,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: John Mellish",
+      "length": 26204,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: Rejected and Accepted",
+      "length": 28454,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: Aurora's Strange Pensioner",
+      "length": 31793,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: Poor John Mellish Comes Back Again",
+      "length": 23287,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: How Talbot Bulstrode Spent His Christmas",
+      "length": 20348,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: Fighting the Battle",
+      "length": 28171,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: At the Château d'Arques",
+      "length": 13157,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: Steeve Hargraves, the \"Softy\"",
+      "length": 33711,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: The Spring Meeting",
+      "length": 31223,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: \"Love Took Up the Glass of Time, and Turned It in His Glowing Hands\"",
+      "length": 22422,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: Mr. Pastern's Letter",
+      "length": 18631,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI: Mr. James Conyers",
+      "length": 26822,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII: The Trainer's Messenger",
+      "length": 25948,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII: Out in the Rain",
+      "length": 37595,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX: Money Matters",
+      "length": 40140,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX: Captain Prodder",
+      "length": 24380,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI: \"He Only Said, I Am A-Weary.\"",
+      "length": 23126,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII: Still Constant",
+      "length": 39346,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII: On the Threshold of Darker Miseries",
+      "length": 14809,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV: Captain Prodder Carries Bad News to His Niece's House",
+      "length": 29777,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXV: The Deed That Had Been Done in the Wood",
+      "length": 48732,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXVI: At the Golden Lion",
+      "length": 18294,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVII: \"My Wife! My Wife! What Wife? I Have No Wife.\"",
+      "length": 13679,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVIII: Aurora's Flight",
+      "length": 19009,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXIX: John Mellish Finds His Home Desolate",
+      "length": 25881,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXX: An Unexpected Visitor",
+      "length": 31856,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXXI: Talbot Bulstrode's Advice",
+      "length": 16425,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXXII: On the Watch",
+      "length": 26943,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXIII: Captain Prodder Goes Back to Doncaster",
+      "length": 34047,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXIV: The Discovery of the Weapon with Which James Conyers Had Been Slain",
+      "length": 17292,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXV: Under a Cloud",
+      "length": 35184,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXVI: Reunion",
+      "length": 17415,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXVII: The Brass Button by Crosby, Birmingham",
+      "length": 19272,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXVIII: Off the Scent",
+      "length": 27157,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XXXIX: Talbot Bulstrode Makes Atonement for the Past",
+      "length": 40465,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Colophon",
+      "length": 1020,
+      "mode": "hide"
+    },
+    {
+      "id": "043",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1490126W",
+  "goodreadsId": "2703076",
+  "rating": 0.748,
+  "popularity": 1649,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489937385
+}

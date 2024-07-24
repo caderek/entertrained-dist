@@ -1,1 +1,265 @@
-{"id":"sax-rohmer--brood-of-the-witch-queen","title":"Brood of the Witch-Queen","titleAlpha":"brood of the witch-queen","author":"Sax Rohmer","language":"en","description":"A father and son duo investigate a man who is wielding ancient Egyptian magic.","longDescription":["Perhaps best known for creating the character Fu-Manchu, Sax Rohmer is also known for his works involving the supernatural. This novel follows Robert Cairn, his father, Dr. Bruce Cairn, and their suspicion of one Antony Ferrara.","After witnessing the strange and violent death of a swan, Robert Cairn suspects that Ferrara may be involved with the death of the bird. Soon after two murders, Dr. Bruce Cairn arrives in London and warns Robert that he suspects Ferrara is using ancient Egyptian magic to accomplish his evil deeds. After a mystical attack on Robert, Dr. Cairn and his son become involved in a series of supernatural events as they work to prevent Antony Ferrara from inflicting his dark magic on more victims.","Like many of his works, Rohmer includes exotic locations in this novel; first set in London, the action soon moves to the pyramids of Egypt as the father and son duo track down Ferrara. Having received both success and notoriety from Fu-Manchu, Rohmer has been given praise for Brood of the Witch-Queen, such as when H. P. Lovecraft favorably compared it to Bram Stoker's Dracula."],"year":1918,"genres":["classics","fiction","horror"],"topics":["magic"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen"},"openlibraryId":"OL2288676W","goodreadsId":"1591750","rating":0.6839999999999999,"popularity":517,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Brood of the Witch-Queen","length":15,"mode":"hide"},{"id":"002","title":"Imprint","length":1212,"mode":"hide"},{"id":"003","title":"Prefatory Notice","length":348,"mode":"type"},{"id":"004","title":"I: Antony Ferrara","length":13667,"mode":"type"},{"id":"005","title":"II: The Phantom Hands","length":10192,"mode":"type"},{"id":"006","title":"III: The Ring of Thoth","length":17453,"mode":"type"},{"id":"007","title":"IV: At Ferrara's Chambers","length":12979,"mode":"type"},{"id":"008","title":"V: The Rustling Shadows","length":19291,"mode":"type"},{"id":"009","title":"VI: The Beetles","length":8597,"mode":"type"},{"id":"010","title":"VII: Sir Elwin Groves' Patient","length":8860,"mode":"type"},{"id":"011","title":"VIII: The Secret of Dhoon","length":12027,"mode":"type"},{"id":"012","title":"IX: The Polish Jewess","length":6537,"mode":"type"},{"id":"013","title":"X: The Laughter","length":14423,"mode":"type"},{"id":"014","title":"XI: Cairo","length":11384,"mode":"type"},{"id":"015","title":"XII: The Mask of Set","length":6887,"mode":"type"},{"id":"016","title":"XIII: The Scorpion Wind","length":20105,"mode":"type"},{"id":"017","title":"XIV: Dr. Cairn Arrives","length":7318,"mode":"type"},{"id":"018","title":"XV: The Witch-Queen","length":16892,"mode":"type"},{"id":"019","title":"XVI: Lair of the Spiders","length":16096,"mode":"type"},{"id":"020","title":"XVII: The Story of Ali Mohammed","length":7881,"mode":"type"},{"id":"021","title":"XVIII: The Bats","length":19935,"mode":"type"},{"id":"022","title":"XIX: Anthropomancy","length":11797,"mode":"type"},{"id":"023","title":"XX: The Incense","length":7578,"mode":"type"},{"id":"024","title":"XXI: The Magician","length":7205,"mode":"type"},{"id":"025","title":"XXII: Myra","length":8654,"mode":"type"},{"id":"026","title":"XXIII: The Face in the Orchid-House","length":8700,"mode":"type"},{"id":"027","title":"XXIV: Flowering of the Lotus","length":10578,"mode":"type"},{"id":"028","title":"XXV: Cairn Meets Ferrara","length":12905,"mode":"type"},{"id":"029","title":"XXVI: The Ivory Hand","length":13164,"mode":"type"},{"id":"030","title":"XXVII: The Thug's Cord","length":10556,"mode":"type"},{"id":"031","title":"XXVIII: The High Priest, Hortotef","length":20631,"mode":"type"},{"id":"032","title":"XXIX: The Wizard's Den","length":11140,"mode":"type"},{"id":"033","title":"XXX: The Elemental","length":7524,"mode":"type"},{"id":"034","title":"XXXI: The Book of Thoth","length":4519,"mode":"type"},{"id":"035","title":"Endnotes","length":263,"mode":"hide"},{"id":"036","title":"Colophon","length":1132,"mode":"hide"},{"id":"037","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338243351}
+{
+  "id": "sax-rohmer--brood-of-the-witch-queen",
+  "title": "Brood of the Witch-Queen",
+  "titleAlpha": "brood of the witch-queen",
+  "author": "Sax Rohmer",
+  "language": "en",
+  "description": "A father and son duo investigate a man who is wielding ancient Egyptian magic.",
+  "longDescription": [
+    "Perhaps best known for creating the character Fu-Manchu, Sax Rohmer is also known for his works involving the supernatural. This novel follows Robert Cairn, his father, Dr. Bruce Cairn, and their suspicion of one Antony Ferrara.",
+    "After witnessing the strange and violent death of a swan, Robert Cairn suspects that Ferrara may be involved with the death of the bird. Soon after two murders, Dr. Bruce Cairn arrives in London and warns Robert that he suspects Ferrara is using ancient Egyptian magic to accomplish his evil deeds. After a mystical attack on Robert, Dr. Cairn and his son become involved in a series of supernatural events as they work to prevent Antony Ferrara from inflicting his dark magic on more victims.",
+    "Like many of his works, Rohmer includes exotic locations in this novel; first set in London, the action soon moves to the pyramids of Egypt as the father and son duo track down Ferrara. Having received both success and notoriety from Fu-Manchu, Rohmer has been given praise for Brood of the Witch-Queen, such as when H. P. Lovecraft favorably compared it to Bram Stoker's Dracula."
+  ],
+  "year": 1918,
+  "genres": [
+    "classics",
+    "fiction",
+    "horror",
+    "mystery",
+    "suspense"
+  ],
+  "topics": [
+    "magic",
+    "supernatural"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Brood of the Witch-Queen",
+      "length": 15,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1212,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Prefatory Notice",
+      "length": 348,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "I: Antony Ferrara",
+      "length": 13667,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II: The Phantom Hands",
+      "length": 10192,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III: The Ring of Thoth",
+      "length": 17453,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "IV: At Ferrara's Chambers",
+      "length": 12979,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "V: The Rustling Shadows",
+      "length": 19291,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VI: The Beetles",
+      "length": 8597,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VII: Sir Elwin Groves' Patient",
+      "length": 8860,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VIII: The Secret of Dhoon",
+      "length": 12027,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "IX: The Polish Jewess",
+      "length": 6537,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "X: The Laughter",
+      "length": 14423,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XI: Cairo",
+      "length": 11384,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XII: The Mask of Set",
+      "length": 6887,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIII: The Scorpion Wind",
+      "length": 20105,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIV: Dr. Cairn Arrives",
+      "length": 7318,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XV: The Witch-Queen",
+      "length": 16892,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVI: Lair of the Spiders",
+      "length": 16096,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVII: The Story of Ali Mohammed",
+      "length": 7881,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVIII: The Bats",
+      "length": 19935,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XIX: Anthropomancy",
+      "length": 11797,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XX: The Incense",
+      "length": 7578,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXI: The Magician",
+      "length": 7205,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXII: Myra",
+      "length": 8654,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIII: The Face in the Orchid-House",
+      "length": 8700,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXIV: Flowering of the Lotus",
+      "length": 10578,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXV: Cairn Meets Ferrara",
+      "length": 12905,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVI: The Ivory Hand",
+      "length": 13164,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVII: The Thug's Cord",
+      "length": 10556,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVIII: The High Priest, Hortotef",
+      "length": 20631,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXIX: The Wizard's Den",
+      "length": 11140,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXX: The Elemental",
+      "length": 7524,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXXI: The Book of Thoth",
+      "length": 4519,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Endnotes",
+      "length": 263,
+      "mode": "hide"
+    },
+    {
+      "id": "036",
+      "title": "Colophon",
+      "length": 1132,
+      "mode": "hide"
+    },
+    {
+      "id": "037",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL2288676W",
+  "goodreadsId": "1591750",
+  "rating": 0.6839999999999999,
+  "popularity": 517,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490110856
+}

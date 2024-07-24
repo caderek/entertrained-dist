@@ -1,1 +1,175 @@
-{"id":"edgar-wallace--the-just-men-of-cordova","title":"The Just Men of Cordova","titleAlpha":"just men of cordova","author":"Edgar Wallace","language":"en","description":"The Four Just Men travel to Spain to bring justice to criminals operating in aristocratic high finance.","longDescription":["The Just Men of Cordova, the third novel in the Four Just Men series, finds the Just Men seeking to bring right the wrongs of criminals in the world of upper-class high finance and horse racing.","Colonel Black, a notorious London financier, has moved up in the world due to the convenient deaths of his investment partners. The Just Men soon catch wind that Dr. Essley, a colleague of Dr. Black's, has purchased a small supply of an extremely fatal poison that leaves no trace on the victim, and so they recruit a fourth Just Man to help them in their work. But despite several warnings from the Just Men, Colonel Black continues his murderous ways. Can the now-four Just Men stop him?","Edgar Wallace wrote The Just Men of Cordova some nine years after The Council of Justice, the previous novel in the series. During that time, Wallace had become increasing popular with the reading public - in fact, one of his publishers even claimed that he had written fully one quarter of all the books being sold in England."],"year":null,"genres":["adventure","classics","fiction","mystery"],"topics":["detective"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/edgar-wallace/the-just-men-of-cordova"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Just Men of Cordova","length":18,"mode":"hide"},{"id":"002","title":"Imprint","length":1186,"mode":"hide"},{"id":"003","title":"I: Three Men of Cordova","length":26525,"mode":"type"},{"id":"004","title":"II: Colonel Black, Financier","length":26765,"mode":"type"},{"id":"005","title":"III: An Adventure in Pimlico","length":16177,"mode":"type"},{"id":"006","title":"IV: The Men Who Sat in Judgment","length":13878,"mode":"type"},{"id":"007","title":"V: The Earl of Verlond","length":15752,"mode":"type"},{"id":"008","title":"VI: The Policeman and a Lady","length":8669,"mode":"type"},{"id":"009","title":"VII: Dr. Essley Meets Man","length":14239,"mode":"type"},{"id":"010","title":"VIII: Colonel Black Has Shock","length":6900,"mode":"type"},{"id":"011","title":"IX: Lord Verlond Gives Dinner","length":14335,"mode":"type"},{"id":"012","title":"X: A Policeman's Business","length":18975,"mode":"type"},{"id":"013","title":"XI: To Lincoln Races","length":16261,"mode":"type"},{"id":"014","title":"XII: The Race","length":28258,"mode":"type"},{"id":"015","title":"XIII: Who Are the Four?","length":14373,"mode":"type"},{"id":"016","title":"XIV: Willie Jakobs Tells","length":21835,"mode":"type"},{"id":"017","title":"XV: Sir Isaac's Fears","length":13548,"mode":"type"},{"id":"018","title":"XVI: Colonel Black Meets a Just Man","length":15760,"mode":"type"},{"id":"019","title":"XVII: Justice","length":12712,"mode":"type"},{"id":"020","title":"Endnotes","length":447,"mode":"hide"},{"id":"021","title":"Colophon","length":1055,"mode":"hide"},{"id":"022","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337696043}
+{
+  "id": "edgar-wallace--the-just-men-of-cordova",
+  "title": "The Just Men of Cordova",
+  "titleAlpha": "just men of cordova",
+  "author": "Edgar Wallace",
+  "language": "en",
+  "description": "The Four Just Men travel to Spain to bring justice to criminals operating in aristocratic high finance.",
+  "longDescription": [
+    "The Just Men of Cordova, the third novel in the Four Just Men series, finds the Just Men seeking to bring right the wrongs of criminals in the world of upper-class high finance and horse racing.",
+    "Colonel Black, a notorious London financier, has moved up in the world due to the convenient deaths of his investment partners. The Just Men soon catch wind that Dr. Essley, a colleague of Dr. Black's, has purchased a small supply of an extremely fatal poison that leaves no trace on the victim, and so they recruit a fourth Just Man to help them in their work. But despite several warnings from the Just Men, Colonel Black continues his murderous ways. Can the now-four Just Men stop him?",
+    "Edgar Wallace wrote The Just Men of Cordova some nine years after The Council of Justice, the previous novel in the series. During that time, Wallace had become increasing popular with the reading public - in fact, one of his publishers even claimed that he had written fully one quarter of all the books being sold in England."
+  ],
+  "year": 1917,
+  "genres": [
+    "adventure",
+    "classics",
+    "fiction",
+    "mystery",
+    "crime",
+    "thriller"
+  ],
+  "topics": [
+    "detective"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "The Four Just Men",
+  "part": 3,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/edgar-wallace/the-just-men-of-cordova"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Just Men of Cordova",
+      "length": 18,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1186,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: Three Men of Cordova",
+      "length": 26525,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: Colonel Black, Financier",
+      "length": 26765,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: An Adventure in Pimlico",
+      "length": 16177,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: The Men Who Sat in Judgment",
+      "length": 13878,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: The Earl of Verlond",
+      "length": 15752,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: The Policeman and a Lady",
+      "length": 8669,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: Dr. Essley Meets Man",
+      "length": 14239,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: Colonel Black Has Shock",
+      "length": 6900,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: Lord Verlond Gives Dinner",
+      "length": 14335,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: A Policeman's Business",
+      "length": 18975,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: To Lincoln Races",
+      "length": 16261,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: The Race",
+      "length": 28258,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: Who Are the Four?",
+      "length": 14373,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: Willie Jakobs Tells",
+      "length": 21835,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: Sir Isaac's Fears",
+      "length": 13548,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI: Colonel Black Meets a Just Man",
+      "length": 15760,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII: Justice",
+      "length": 12712,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Endnotes",
+      "length": 447,
+      "mode": "hide"
+    },
+    {
+      "id": "021",
+      "title": "Colophon",
+      "length": 1055,
+      "mode": "hide"
+    },
+    {
+      "id": "022",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1517988W",
+  "goodreadsId": "1363196",
+  "rating": 0.5980000000000001,
+  "popularity": 180,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489603734
+}

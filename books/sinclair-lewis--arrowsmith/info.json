@@ -1,1 +1,1229 @@
-{"id":"sinclair-lewis--arrowsmith","title":"Arrowsmith","titleAlpha":"arrowsmith","author":"Sinclair Lewis","language":"en","description":"An aspiring medical doctor struggles to lead the life of an ethical scientist during America's Roaring Twenties.","longDescription":["Martin Arrowsmith, the titular protagonist, grows up in a small Midwestern town where he wants to become a doctor. At medical school he meets an abrasive but brilliant professor, Gottlieb, who becomes his mentor. As Arrowsmith completes his training he begins a career practicing medicine. But, echoing Lewis's Main Street, small-town life becomes too insular and restricting; his interest in research and not people makes him unpopular, and he decides to work in a research laboratory instead.","From there Arrowsmith begins a career that hits all of the ethical quandaries that scientists and those in the medical profession encounter: everything from the ethical problem of research protocol strictness versus saving lives, to doing research for the betterment of mankind versus for turning a profit, to the politics of institutions, to the social problems of wealth and poverty. Arrowsmith struggles with these dilemmas because, like all of us, he isn't perfect. Despite his interest in helping humanity, he has little interest in people - aside from his serial womanizing - and this makes the path of his career an even harder one to walk. He's surrounded on all sides by icons of nobility, icons of pride, and icons of rapaciousness, each one distracting him from his calling.","Though the book isn't strictly a satire, few escape Lewis's biting pen. He skewers everyone indiscriminately: small-town rubes, big-city blowhards, aspiring politicians, doctors of both the noble and greedy variety, hapless ivory-towered researchers, holier-than-thou neighbors, tedious gilded-age socialites, and even lazy and backwards islanders. In some ways, Arrowsmith rivals Main Street in its often-bleak view of human nature - though unlike Main Street, the good to humanity that science offers is an ultimate light at the end of the tunnel.","The novel's publication in 1925 made it one of the first serious \"science\" novels, exploring all aspects of the life and career of a modern scientist. Lewis was aided in the novel's preparation by Paul de Kruif, a microbiologist and writer, whose medically-accurate contributions greatly enhance the text's realist flavor.","In 1926 Arrowsmith was awarded the Pulitzer Prize, but Lewis famously declined it. In his refusal letter, he claimed a disinterest in prizes of any kind; but the New York Times reported that those close to him say he was still angered over the Pulitzer's last-minute snatching of the 1921 prize from Main Street in favor of giving it to The Age of Innocence."],"year":1925,"genres":["classics","fiction","satire"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/sinclair-lewis/arrowsmith"},"openlibraryId":"OL51147W","goodreadsId":"3065247","rating":0.768,"popularity":8081,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Arrowsmith","length":19,"mode":"hide"},{"id":"002","title":"Imprint","length":1194,"mode":"hide"},{"id":"003","title":"Acknowledgments","length":622,"mode":"hide"},{"id":"004","title":"I - I","length":871,"mode":"type"},{"id":"005","title":"I - II","length":4801,"mode":"type"},{"id":"006","title":"I - III","length":4960,"mode":"type"},{"id":"007","title":"II - I","length":2075,"mode":"type"},{"id":"008","title":"II - II","length":6691,"mode":"type"},{"id":"009","title":"II - III","length":5434,"mode":"type"},{"id":"010","title":"II - IV","length":3208,"mode":"type"},{"id":"011","title":"II - V","length":5562,"mode":"type"},{"id":"012","title":"II - VI","length":4448,"mode":"type"},{"id":"013","title":"III - I","length":3535,"mode":"type"},{"id":"014","title":"III - II","length":2696,"mode":"type"},{"id":"015","title":"III - III","length":3127,"mode":"type"},{"id":"016","title":"III - IV","length":7078,"mode":"type"},{"id":"017","title":"III - V","length":4265,"mode":"type"},{"id":"018","title":"III - VI","length":2383,"mode":"type"},{"id":"019","title":"III - VII","length":4620,"mode":"type"},{"id":"020","title":"IV - I","length":5911,"mode":"type"},{"id":"021","title":"IV - II","length":1361,"mode":"type"},{"id":"022","title":"IV - III","length":1556,"mode":"type"},{"id":"023","title":"IV - IV","length":6512,"mode":"type"},{"id":"024","title":"V - I","length":4913,"mode":"type"},{"id":"025","title":"V - II","length":3846,"mode":"type"},{"id":"026","title":"V - III","length":2815,"mode":"type"},{"id":"027","title":"V - IV","length":2012,"mode":"type"},{"id":"028","title":"V - V","length":4735,"mode":"type"},{"id":"029","title":"V - VI","length":1266,"mode":"type"},{"id":"030","title":"V - VII","length":3488,"mode":"type"},{"id":"031","title":"VI - I","length":1989,"mode":"type"},{"id":"032","title":"VI - II","length":2274,"mode":"type"},{"id":"033","title":"VI - III","length":14494,"mode":"type"},{"id":"034","title":"VI - IV","length":11052,"mode":"type"},{"id":"035","title":"VI - V","length":11446,"mode":"type"},{"id":"036","title":"VII - I","length":813,"mode":"type"},{"id":"037","title":"VII - II","length":1667,"mode":"type"},{"id":"038","title":"VII - III","length":6272,"mode":"type"},{"id":"039","title":"VII - IV","length":4909,"mode":"type"},{"id":"040","title":"VII - V","length":1654,"mode":"type"},{"id":"041","title":"VII - VI","length":9250,"mode":"type"},{"id":"042","title":"VIII - I","length":3209,"mode":"type"},{"id":"043","title":"VIII - II","length":5933,"mode":"type"},{"id":"044","title":"VIII - III","length":3026,"mode":"type"},{"id":"045","title":"VIII - IV","length":6416,"mode":"type"},{"id":"046","title":"IX - I","length":4756,"mode":"type"},{"id":"047","title":"IX - II","length":9236,"mode":"type"},{"id":"048","title":"IX - III","length":17320,"mode":"type"},{"id":"049","title":"X - I","length":2039,"mode":"type"},{"id":"050","title":"X - II","length":4772,"mode":"type"},{"id":"051","title":"X - III","length":1226,"mode":"type"},{"id":"052","title":"X - IV","length":3781,"mode":"type"},{"id":"053","title":"X - V","length":3373,"mode":"type"},{"id":"054","title":"X - VI","length":5339,"mode":"type"},{"id":"055","title":"XI - I","length":3894,"mode":"type"},{"id":"056","title":"XI - II","length":8707,"mode":"type"},{"id":"057","title":"XII - I","length":8362,"mode":"type"},{"id":"058","title":"XII - II","length":1433,"mode":"type"},{"id":"059","title":"XII - III","length":1490,"mode":"type"},{"id":"060","title":"XII - IV","length":14309,"mode":"type"},{"id":"061","title":"XIII - I","length":2880,"mode":"type"},{"id":"062","title":"XIII - II","length":2228,"mode":"type"},{"id":"063","title":"XIII - III","length":10004,"mode":"type"},{"id":"064","title":"XIII - IV","length":3902,"mode":"type"},{"id":"065","title":"XIV - I","length":7901,"mode":"type"},{"id":"066","title":"XIV - II","length":9571,"mode":"type"},{"id":"067","title":"XV - I","length":3159,"mode":"type"},{"id":"068","title":"XV - II","length":2247,"mode":"type"},{"id":"069","title":"XV - III","length":3779,"mode":"type"},{"id":"070","title":"XV - IV","length":1238,"mode":"type"},{"id":"071","title":"XV - V","length":8501,"mode":"type"},{"id":"072","title":"XV - VI","length":6548,"mode":"type"},{"id":"073","title":"XVI - I","length":3112,"mode":"type"},{"id":"074","title":"XVI - II","length":1890,"mode":"type"},{"id":"075","title":"XVI - III","length":8611,"mode":"type"},{"id":"076","title":"XVI - IV","length":3359,"mode":"type"},{"id":"077","title":"XVI - V","length":4275,"mode":"type"},{"id":"078","title":"XVII - I","length":8530,"mode":"type"},{"id":"079","title":"XVII - II","length":812,"mode":"type"},{"id":"080","title":"XVII - III","length":3778,"mode":"type"},{"id":"081","title":"XVII - IV","length":1551,"mode":"type"},{"id":"082","title":"XVII - V","length":8769,"mode":"type"},{"id":"083","title":"XVIII - I","length":8356,"mode":"type"},{"id":"084","title":"XVIII - II","length":2738,"mode":"type"},{"id":"085","title":"XVIII - III","length":4101,"mode":"type"},{"id":"086","title":"XIX - I","length":3138,"mode":"type"},{"id":"087","title":"XIX - II","length":10858,"mode":"type"},{"id":"088","title":"XIX - III","length":2420,"mode":"type"},{"id":"089","title":"XIX - IV","length":20095,"mode":"type"},{"id":"090","title":"XX - I","length":6320,"mode":"type"},{"id":"091","title":"XX - II","length":2698,"mode":"type"},{"id":"092","title":"XX - III","length":11944,"mode":"type"},{"id":"093","title":"XX - IV","length":3419,"mode":"type"},{"id":"094","title":"XXI - I","length":5994,"mode":"type"},{"id":"095","title":"XXI - II","length":7586,"mode":"type"},{"id":"096","title":"XXI - III","length":1425,"mode":"type"},{"id":"097","title":"XXI - IV","length":14679,"mode":"type"},{"id":"098","title":"XXII - I","length":3863,"mode":"type"},{"id":"099","title":"XXII - II","length":5613,"mode":"type"},{"id":"100","title":"XXII - III","length":6482,"mode":"type"},{"id":"101","title":"XXII - IV","length":8416,"mode":"type"},{"id":"102","title":"XXII - V","length":822,"mode":"type"},{"id":"103","title":"XXIII - I","length":9576,"mode":"type"},{"id":"104","title":"XXIII - II","length":4317,"mode":"type"},{"id":"105","title":"XXIII - III","length":1663,"mode":"type"},{"id":"106","title":"XXIII - IV","length":1428,"mode":"type"},{"id":"107","title":"XXIV - I","length":7761,"mode":"type"},{"id":"108","title":"XXIV - II","length":2720,"mode":"type"},{"id":"109","title":"XXIV - III","length":15188,"mode":"type"},{"id":"110","title":"XXIV - IV","length":256,"mode":"type"},{"id":"111","title":"XXIV - V","length":1375,"mode":"type"},{"id":"112","title":"XXIV - VI","length":1429,"mode":"type"},{"id":"113","title":"XXV - I","length":6207,"mode":"type"},{"id":"114","title":"XXV - II","length":3229,"mode":"type"},{"id":"115","title":"XXV - III","length":2113,"mode":"type"},{"id":"116","title":"XXVI - I","length":9716,"mode":"type"},{"id":"117","title":"XXVI - II","length":1526,"mode":"type"},{"id":"118","title":"XXVI - III","length":1294,"mode":"type"},{"id":"119","title":"XXVI - IV","length":16043,"mode":"type"},{"id":"120","title":"XXVI - V","length":5531,"mode":"type"},{"id":"121","title":"XXVII - I","length":2462,"mode":"type"},{"id":"122","title":"XXVII - II","length":3672,"mode":"type"},{"id":"123","title":"XXVII - III","length":3937,"mode":"type"},{"id":"124","title":"XXVII - IV","length":2849,"mode":"type"},{"id":"125","title":"XXVII - V","length":6341,"mode":"type"},{"id":"126","title":"XXVII - VI","length":5738,"mode":"type"},{"id":"127","title":"XXVII - VII","length":3922,"mode":"type"},{"id":"128","title":"XXVII - VIII","length":3066,"mode":"type"},{"id":"129","title":"XXVIII - I","length":16272,"mode":"type"},{"id":"130","title":"XXVIII - II","length":5076,"mode":"type"},{"id":"131","title":"XXVIII - III","length":6887,"mode":"type"},{"id":"132","title":"XXIX - I","length":19852,"mode":"type"},{"id":"133","title":"XXX - I","length":5045,"mode":"type"},{"id":"134","title":"XXX - II","length":4014,"mode":"type"},{"id":"135","title":"XXX - III","length":907,"mode":"type"},{"id":"136","title":"XXX - IV","length":7534,"mode":"type"},{"id":"137","title":"XXX - V","length":4574,"mode":"type"},{"id":"138","title":"XXXI - I","length":10968,"mode":"type"},{"id":"139","title":"XXXI - II","length":2926,"mode":"type"},{"id":"140","title":"XXXI - III","length":1343,"mode":"type"},{"id":"141","title":"XXXII - I","length":8342,"mode":"type"},{"id":"142","title":"XXXII - II","length":3551,"mode":"type"},{"id":"143","title":"XXXII - III","length":4413,"mode":"type"},{"id":"144","title":"XXXII - IV","length":487,"mode":"type"},{"id":"145","title":"XXXII - V","length":356,"mode":"type"},{"id":"146","title":"XXXII - VI","length":2716,"mode":"type"},{"id":"147","title":"XXXII - VII","length":3526,"mode":"type"},{"id":"148","title":"XXXII - VIII","length":3457,"mode":"type"},{"id":"149","title":"XXXII - IX","length":1884,"mode":"type"},{"id":"150","title":"XXXIII - I","length":1644,"mode":"type"},{"id":"151","title":"XXXIII - II","length":8016,"mode":"type"},{"id":"152","title":"XXXIII - III","length":6096,"mode":"type"},{"id":"153","title":"XXXIII - IV","length":871,"mode":"type"},{"id":"154","title":"XXXIII - V","length":2323,"mode":"type"},{"id":"155","title":"XXXIII - VI","length":7280,"mode":"type"},{"id":"156","title":"XXXIV - I","length":3208,"mode":"type"},{"id":"157","title":"XXXIV - II","length":2001,"mode":"type"},{"id":"158","title":"XXXIV - III","length":5996,"mode":"type"},{"id":"159","title":"XXXIV - IV","length":5743,"mode":"type"},{"id":"160","title":"XXXIV - V","length":2584,"mode":"type"},{"id":"161","title":"XXXIV - VI","length":957,"mode":"type"},{"id":"162","title":"XXXIV - VII","length":5951,"mode":"type"},{"id":"163","title":"XXXV - I","length":1580,"mode":"type"},{"id":"164","title":"XXXV - II","length":2450,"mode":"type"},{"id":"165","title":"XXXV - III","length":637,"mode":"type"},{"id":"166","title":"XXXV - IV","length":5019,"mode":"type"},{"id":"167","title":"XXXV - V","length":7177,"mode":"type"},{"id":"168","title":"XXXV - VI","length":2413,"mode":"type"},{"id":"169","title":"XXXV - VII","length":2809,"mode":"type"},{"id":"170","title":"XXXV - VIII","length":812,"mode":"type"},{"id":"171","title":"XXXVI - I","length":1510,"mode":"type"},{"id":"172","title":"XXXVI - II","length":1169,"mode":"type"},{"id":"173","title":"XXXVI - III","length":1686,"mode":"type"},{"id":"174","title":"XXXVI - IV","length":2625,"mode":"type"},{"id":"175","title":"XXXVI - V","length":2648,"mode":"type"},{"id":"176","title":"XXXVI - VI","length":1467,"mode":"type"},{"id":"177","title":"XXXVI - VII","length":7027,"mode":"type"},{"id":"178","title":"XXXVII - I","length":8376,"mode":"type"},{"id":"179","title":"XXXVII - II","length":1604,"mode":"type"},{"id":"180","title":"XXXVII - III","length":2954,"mode":"type"},{"id":"181","title":"XXXVII - IV","length":472,"mode":"type"},{"id":"182","title":"XXXVII - V","length":974,"mode":"type"},{"id":"183","title":"XXXVII - VI","length":3657,"mode":"type"},{"id":"184","title":"XXXVIII - I","length":9567,"mode":"type"},{"id":"185","title":"XXXVIII - II","length":6116,"mode":"type"},{"id":"186","title":"XXXVIII - III","length":1889,"mode":"type"},{"id":"187","title":"XXXIX - I","length":19906,"mode":"type"},{"id":"188","title":"XXXIX - II","length":1132,"mode":"type"},{"id":"189","title":"XXXIX - III","length":3846,"mode":"type"},{"id":"190","title":"XXXIX - IV","length":1300,"mode":"type"},{"id":"191","title":"XXXIX - V","length":1250,"mode":"type"},{"id":"192","title":"XXXIX - VI","length":3671,"mode":"type"},{"id":"193","title":"XL - I","length":10876,"mode":"type"},{"id":"194","title":"XL - II","length":933,"mode":"type"},{"id":"195","title":"XL - III","length":6865,"mode":"type"},{"id":"196","title":"XL - IV","length":2141,"mode":"type"},{"id":"197","title":"Colophon","length":1021,"mode":"hide"},{"id":"198","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338252157}
+{
+  "id": "sinclair-lewis--arrowsmith",
+  "title": "Arrowsmith",
+  "titleAlpha": "arrowsmith",
+  "author": "Sinclair Lewis",
+  "language": "en",
+  "description": "An aspiring medical doctor struggles to lead the life of an ethical scientist during America's Roaring Twenties.",
+  "longDescription": [
+    "Martin Arrowsmith, the titular protagonist, grows up in a small Midwestern town where he wants to become a doctor. At medical school he meets an abrasive but brilliant professor, Gottlieb, who becomes his mentor. As Arrowsmith completes his training he begins a career practicing medicine. But, echoing Lewis's Main Street, small-town life becomes too insular and restricting; his interest in research and not people makes him unpopular, and he decides to work in a research laboratory instead.",
+    "From there Arrowsmith begins a career that hits all of the ethical quandaries that scientists and those in the medical profession encounter: everything from the ethical problem of research protocol strictness versus saving lives, to doing research for the betterment of mankind versus for turning a profit, to the politics of institutions, to the social problems of wealth and poverty. Arrowsmith struggles with these dilemmas because, like all of us, he isn't perfect. Despite his interest in helping humanity, he has little interest in people - aside from his serial womanizing - and this makes the path of his career an even harder one to walk. He's surrounded on all sides by icons of nobility, icons of pride, and icons of rapaciousness, each one distracting him from his calling.",
+    "Though the book isn't strictly a satire, few escape Lewis's biting pen. He skewers everyone indiscriminately: small-town rubes, big-city blowhards, aspiring politicians, doctors of both the noble and greedy variety, hapless ivory-towered researchers, holier-than-thou neighbors, tedious gilded-age socialites, and even lazy and backwards islanders. In some ways, Arrowsmith rivals Main Street in its often-bleak view of human nature - though unlike Main Street, the good to humanity that science offers is an ultimate light at the end of the tunnel.",
+    "The novel's publication in 1925 made it one of the first serious \"science\" novels, exploring all aspects of the life and career of a modern scientist. Lewis was aided in the novel's preparation by Paul de Kruif, a microbiologist and writer, whose medically-accurate contributions greatly enhance the text's realist flavor.",
+    "In 1926 Arrowsmith was awarded the Pulitzer Prize, but Lewis famously declined it. In his refusal letter, he claimed a disinterest in prizes of any kind; but the New York Times reported that those close to him say he was still angered over the Pulitzer's last-minute snatching of the 1921 prize from Main Street in favor of giving it to The Age of Innocence."
+  ],
+  "year": 1925,
+  "genres": [
+    "classics",
+    "fiction",
+    "satire",
+    "history"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/sinclair-lewis/arrowsmith"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Arrowsmith",
+      "length": 19,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Acknowledgments",
+      "length": 622,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "I - I",
+      "length": 871,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "I - II",
+      "length": 4801,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "I - III",
+      "length": 4960,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "II - I",
+      "length": 2075,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "II - II",
+      "length": 6691,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "II - III",
+      "length": 5434,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "II - IV",
+      "length": 3208,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "II - V",
+      "length": 5562,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "II - VI",
+      "length": 4448,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "III - I",
+      "length": 3535,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "III - II",
+      "length": 2696,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "III - III",
+      "length": 3127,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "III - IV",
+      "length": 7078,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "III - V",
+      "length": 4265,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "III - VI",
+      "length": 2383,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "III - VII",
+      "length": 4620,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "IV - I",
+      "length": 5911,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "IV - II",
+      "length": 1361,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "IV - III",
+      "length": 1556,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "IV - IV",
+      "length": 6512,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "V - I",
+      "length": 4913,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "V - II",
+      "length": 3846,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "V - III",
+      "length": 2815,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "V - IV",
+      "length": 2012,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "V - V",
+      "length": 4735,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "V - VI",
+      "length": 1266,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "V - VII",
+      "length": 3488,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "VI - I",
+      "length": 1989,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "VI - II",
+      "length": 2274,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "VI - III",
+      "length": 14494,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "VI - IV",
+      "length": 11052,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "VI - V",
+      "length": 11446,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "VII - I",
+      "length": 813,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "VII - II",
+      "length": 1667,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "VII - III",
+      "length": 6272,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "VII - IV",
+      "length": 4909,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "VII - V",
+      "length": 1654,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "VII - VI",
+      "length": 9250,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "VIII - I",
+      "length": 3209,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "VIII - II",
+      "length": 5933,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "VIII - III",
+      "length": 3026,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "VIII - IV",
+      "length": 6416,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "IX - I",
+      "length": 4756,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "IX - II",
+      "length": 9236,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "IX - III",
+      "length": 17320,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "X - I",
+      "length": 2039,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "X - II",
+      "length": 4772,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "X - III",
+      "length": 1226,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "X - IV",
+      "length": 3781,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "X - V",
+      "length": 3373,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "X - VI",
+      "length": 5339,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "XI - I",
+      "length": 3894,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "XI - II",
+      "length": 8707,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "XII - I",
+      "length": 8362,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "XII - II",
+      "length": 1433,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "XII - III",
+      "length": 1490,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "XII - IV",
+      "length": 14309,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "XIII - I",
+      "length": 2880,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "XIII - II",
+      "length": 2228,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "XIII - III",
+      "length": 10004,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "XIII - IV",
+      "length": 3902,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "XIV - I",
+      "length": 7901,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "XIV - II",
+      "length": 9571,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "XV - I",
+      "length": 3159,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "XV - II",
+      "length": 2247,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "XV - III",
+      "length": 3779,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "XV - IV",
+      "length": 1238,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "XV - V",
+      "length": 8501,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "XV - VI",
+      "length": 6548,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "XVI - I",
+      "length": 3112,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "XVI - II",
+      "length": 1890,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "XVI - III",
+      "length": 8611,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "XVI - IV",
+      "length": 3359,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "XVI - V",
+      "length": 4275,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "XVII - I",
+      "length": 8530,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "XVII - II",
+      "length": 812,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "XVII - III",
+      "length": 3778,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "XVII - IV",
+      "length": 1551,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "XVII - V",
+      "length": 8769,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "XVIII - I",
+      "length": 8356,
+      "mode": "type"
+    },
+    {
+      "id": "084",
+      "title": "XVIII - II",
+      "length": 2738,
+      "mode": "type"
+    },
+    {
+      "id": "085",
+      "title": "XVIII - III",
+      "length": 4101,
+      "mode": "type"
+    },
+    {
+      "id": "086",
+      "title": "XIX - I",
+      "length": 3138,
+      "mode": "type"
+    },
+    {
+      "id": "087",
+      "title": "XIX - II",
+      "length": 10858,
+      "mode": "type"
+    },
+    {
+      "id": "088",
+      "title": "XIX - III",
+      "length": 2420,
+      "mode": "type"
+    },
+    {
+      "id": "089",
+      "title": "XIX - IV",
+      "length": 20095,
+      "mode": "type"
+    },
+    {
+      "id": "090",
+      "title": "XX - I",
+      "length": 6320,
+      "mode": "type"
+    },
+    {
+      "id": "091",
+      "title": "XX - II",
+      "length": 2698,
+      "mode": "type"
+    },
+    {
+      "id": "092",
+      "title": "XX - III",
+      "length": 11944,
+      "mode": "type"
+    },
+    {
+      "id": "093",
+      "title": "XX - IV",
+      "length": 3419,
+      "mode": "type"
+    },
+    {
+      "id": "094",
+      "title": "XXI - I",
+      "length": 5994,
+      "mode": "type"
+    },
+    {
+      "id": "095",
+      "title": "XXI - II",
+      "length": 7586,
+      "mode": "type"
+    },
+    {
+      "id": "096",
+      "title": "XXI - III",
+      "length": 1425,
+      "mode": "type"
+    },
+    {
+      "id": "097",
+      "title": "XXI - IV",
+      "length": 14679,
+      "mode": "type"
+    },
+    {
+      "id": "098",
+      "title": "XXII - I",
+      "length": 3863,
+      "mode": "type"
+    },
+    {
+      "id": "099",
+      "title": "XXII - II",
+      "length": 5613,
+      "mode": "type"
+    },
+    {
+      "id": "100",
+      "title": "XXII - III",
+      "length": 6482,
+      "mode": "type"
+    },
+    {
+      "id": "101",
+      "title": "XXII - IV",
+      "length": 8416,
+      "mode": "type"
+    },
+    {
+      "id": "102",
+      "title": "XXII - V",
+      "length": 822,
+      "mode": "type"
+    },
+    {
+      "id": "103",
+      "title": "XXIII - I",
+      "length": 9576,
+      "mode": "type"
+    },
+    {
+      "id": "104",
+      "title": "XXIII - II",
+      "length": 4317,
+      "mode": "type"
+    },
+    {
+      "id": "105",
+      "title": "XXIII - III",
+      "length": 1663,
+      "mode": "type"
+    },
+    {
+      "id": "106",
+      "title": "XXIII - IV",
+      "length": 1428,
+      "mode": "type"
+    },
+    {
+      "id": "107",
+      "title": "XXIV - I",
+      "length": 7761,
+      "mode": "type"
+    },
+    {
+      "id": "108",
+      "title": "XXIV - II",
+      "length": 2720,
+      "mode": "type"
+    },
+    {
+      "id": "109",
+      "title": "XXIV - III",
+      "length": 15188,
+      "mode": "type"
+    },
+    {
+      "id": "110",
+      "title": "XXIV - IV",
+      "length": 256,
+      "mode": "type"
+    },
+    {
+      "id": "111",
+      "title": "XXIV - V",
+      "length": 1375,
+      "mode": "type"
+    },
+    {
+      "id": "112",
+      "title": "XXIV - VI",
+      "length": 1429,
+      "mode": "type"
+    },
+    {
+      "id": "113",
+      "title": "XXV - I",
+      "length": 6207,
+      "mode": "type"
+    },
+    {
+      "id": "114",
+      "title": "XXV - II",
+      "length": 3229,
+      "mode": "type"
+    },
+    {
+      "id": "115",
+      "title": "XXV - III",
+      "length": 2113,
+      "mode": "type"
+    },
+    {
+      "id": "116",
+      "title": "XXVI - I",
+      "length": 9716,
+      "mode": "type"
+    },
+    {
+      "id": "117",
+      "title": "XXVI - II",
+      "length": 1526,
+      "mode": "type"
+    },
+    {
+      "id": "118",
+      "title": "XXVI - III",
+      "length": 1294,
+      "mode": "type"
+    },
+    {
+      "id": "119",
+      "title": "XXVI - IV",
+      "length": 16043,
+      "mode": "type"
+    },
+    {
+      "id": "120",
+      "title": "XXVI - V",
+      "length": 5531,
+      "mode": "type"
+    },
+    {
+      "id": "121",
+      "title": "XXVII - I",
+      "length": 2462,
+      "mode": "type"
+    },
+    {
+      "id": "122",
+      "title": "XXVII - II",
+      "length": 3672,
+      "mode": "type"
+    },
+    {
+      "id": "123",
+      "title": "XXVII - III",
+      "length": 3937,
+      "mode": "type"
+    },
+    {
+      "id": "124",
+      "title": "XXVII - IV",
+      "length": 2849,
+      "mode": "type"
+    },
+    {
+      "id": "125",
+      "title": "XXVII - V",
+      "length": 6341,
+      "mode": "type"
+    },
+    {
+      "id": "126",
+      "title": "XXVII - VI",
+      "length": 5738,
+      "mode": "type"
+    },
+    {
+      "id": "127",
+      "title": "XXVII - VII",
+      "length": 3922,
+      "mode": "type"
+    },
+    {
+      "id": "128",
+      "title": "XXVII - VIII",
+      "length": 3066,
+      "mode": "type"
+    },
+    {
+      "id": "129",
+      "title": "XXVIII - I",
+      "length": 16272,
+      "mode": "type"
+    },
+    {
+      "id": "130",
+      "title": "XXVIII - II",
+      "length": 5076,
+      "mode": "type"
+    },
+    {
+      "id": "131",
+      "title": "XXVIII - III",
+      "length": 6887,
+      "mode": "type"
+    },
+    {
+      "id": "132",
+      "title": "XXIX - I",
+      "length": 19852,
+      "mode": "type"
+    },
+    {
+      "id": "133",
+      "title": "XXX - I",
+      "length": 5045,
+      "mode": "type"
+    },
+    {
+      "id": "134",
+      "title": "XXX - II",
+      "length": 4014,
+      "mode": "type"
+    },
+    {
+      "id": "135",
+      "title": "XXX - III",
+      "length": 907,
+      "mode": "type"
+    },
+    {
+      "id": "136",
+      "title": "XXX - IV",
+      "length": 7534,
+      "mode": "type"
+    },
+    {
+      "id": "137",
+      "title": "XXX - V",
+      "length": 4574,
+      "mode": "type"
+    },
+    {
+      "id": "138",
+      "title": "XXXI - I",
+      "length": 10968,
+      "mode": "type"
+    },
+    {
+      "id": "139",
+      "title": "XXXI - II",
+      "length": 2926,
+      "mode": "type"
+    },
+    {
+      "id": "140",
+      "title": "XXXI - III",
+      "length": 1343,
+      "mode": "type"
+    },
+    {
+      "id": "141",
+      "title": "XXXII - I",
+      "length": 8342,
+      "mode": "type"
+    },
+    {
+      "id": "142",
+      "title": "XXXII - II",
+      "length": 3551,
+      "mode": "type"
+    },
+    {
+      "id": "143",
+      "title": "XXXII - III",
+      "length": 4413,
+      "mode": "type"
+    },
+    {
+      "id": "144",
+      "title": "XXXII - IV",
+      "length": 487,
+      "mode": "type"
+    },
+    {
+      "id": "145",
+      "title": "XXXII - V",
+      "length": 356,
+      "mode": "type"
+    },
+    {
+      "id": "146",
+      "title": "XXXII - VI",
+      "length": 2716,
+      "mode": "type"
+    },
+    {
+      "id": "147",
+      "title": "XXXII - VII",
+      "length": 3526,
+      "mode": "type"
+    },
+    {
+      "id": "148",
+      "title": "XXXII - VIII",
+      "length": 3457,
+      "mode": "type"
+    },
+    {
+      "id": "149",
+      "title": "XXXII - IX",
+      "length": 1884,
+      "mode": "type"
+    },
+    {
+      "id": "150",
+      "title": "XXXIII - I",
+      "length": 1644,
+      "mode": "type"
+    },
+    {
+      "id": "151",
+      "title": "XXXIII - II",
+      "length": 8016,
+      "mode": "type"
+    },
+    {
+      "id": "152",
+      "title": "XXXIII - III",
+      "length": 6096,
+      "mode": "type"
+    },
+    {
+      "id": "153",
+      "title": "XXXIII - IV",
+      "length": 871,
+      "mode": "type"
+    },
+    {
+      "id": "154",
+      "title": "XXXIII - V",
+      "length": 2323,
+      "mode": "type"
+    },
+    {
+      "id": "155",
+      "title": "XXXIII - VI",
+      "length": 7280,
+      "mode": "type"
+    },
+    {
+      "id": "156",
+      "title": "XXXIV - I",
+      "length": 3208,
+      "mode": "type"
+    },
+    {
+      "id": "157",
+      "title": "XXXIV - II",
+      "length": 2001,
+      "mode": "type"
+    },
+    {
+      "id": "158",
+      "title": "XXXIV - III",
+      "length": 5996,
+      "mode": "type"
+    },
+    {
+      "id": "159",
+      "title": "XXXIV - IV",
+      "length": 5743,
+      "mode": "type"
+    },
+    {
+      "id": "160",
+      "title": "XXXIV - V",
+      "length": 2584,
+      "mode": "type"
+    },
+    {
+      "id": "161",
+      "title": "XXXIV - VI",
+      "length": 957,
+      "mode": "type"
+    },
+    {
+      "id": "162",
+      "title": "XXXIV - VII",
+      "length": 5951,
+      "mode": "type"
+    },
+    {
+      "id": "163",
+      "title": "XXXV - I",
+      "length": 1580,
+      "mode": "type"
+    },
+    {
+      "id": "164",
+      "title": "XXXV - II",
+      "length": 2450,
+      "mode": "type"
+    },
+    {
+      "id": "165",
+      "title": "XXXV - III",
+      "length": 637,
+      "mode": "type"
+    },
+    {
+      "id": "166",
+      "title": "XXXV - IV",
+      "length": 5019,
+      "mode": "type"
+    },
+    {
+      "id": "167",
+      "title": "XXXV - V",
+      "length": 7177,
+      "mode": "type"
+    },
+    {
+      "id": "168",
+      "title": "XXXV - VI",
+      "length": 2413,
+      "mode": "type"
+    },
+    {
+      "id": "169",
+      "title": "XXXV - VII",
+      "length": 2809,
+      "mode": "type"
+    },
+    {
+      "id": "170",
+      "title": "XXXV - VIII",
+      "length": 812,
+      "mode": "type"
+    },
+    {
+      "id": "171",
+      "title": "XXXVI - I",
+      "length": 1510,
+      "mode": "type"
+    },
+    {
+      "id": "172",
+      "title": "XXXVI - II",
+      "length": 1169,
+      "mode": "type"
+    },
+    {
+      "id": "173",
+      "title": "XXXVI - III",
+      "length": 1686,
+      "mode": "type"
+    },
+    {
+      "id": "174",
+      "title": "XXXVI - IV",
+      "length": 2625,
+      "mode": "type"
+    },
+    {
+      "id": "175",
+      "title": "XXXVI - V",
+      "length": 2648,
+      "mode": "type"
+    },
+    {
+      "id": "176",
+      "title": "XXXVI - VI",
+      "length": 1467,
+      "mode": "type"
+    },
+    {
+      "id": "177",
+      "title": "XXXVI - VII",
+      "length": 7027,
+      "mode": "type"
+    },
+    {
+      "id": "178",
+      "title": "XXXVII - I",
+      "length": 8376,
+      "mode": "type"
+    },
+    {
+      "id": "179",
+      "title": "XXXVII - II",
+      "length": 1604,
+      "mode": "type"
+    },
+    {
+      "id": "180",
+      "title": "XXXVII - III",
+      "length": 2954,
+      "mode": "type"
+    },
+    {
+      "id": "181",
+      "title": "XXXVII - IV",
+      "length": 472,
+      "mode": "type"
+    },
+    {
+      "id": "182",
+      "title": "XXXVII - V",
+      "length": 974,
+      "mode": "type"
+    },
+    {
+      "id": "183",
+      "title": "XXXVII - VI",
+      "length": 3657,
+      "mode": "type"
+    },
+    {
+      "id": "184",
+      "title": "XXXVIII - I",
+      "length": 9567,
+      "mode": "type"
+    },
+    {
+      "id": "185",
+      "title": "XXXVIII - II",
+      "length": 6116,
+      "mode": "type"
+    },
+    {
+      "id": "186",
+      "title": "XXXVIII - III",
+      "length": 1889,
+      "mode": "type"
+    },
+    {
+      "id": "187",
+      "title": "XXXIX - I",
+      "length": 19906,
+      "mode": "type"
+    },
+    {
+      "id": "188",
+      "title": "XXXIX - II",
+      "length": 1132,
+      "mode": "type"
+    },
+    {
+      "id": "189",
+      "title": "XXXIX - III",
+      "length": 3846,
+      "mode": "type"
+    },
+    {
+      "id": "190",
+      "title": "XXXIX - IV",
+      "length": 1300,
+      "mode": "type"
+    },
+    {
+      "id": "191",
+      "title": "XXXIX - V",
+      "length": 1250,
+      "mode": "type"
+    },
+    {
+      "id": "192",
+      "title": "XXXIX - VI",
+      "length": 3671,
+      "mode": "type"
+    },
+    {
+      "id": "193",
+      "title": "XL - I",
+      "length": 10876,
+      "mode": "type"
+    },
+    {
+      "id": "194",
+      "title": "XL - II",
+      "length": 933,
+      "mode": "type"
+    },
+    {
+      "id": "195",
+      "title": "XL - III",
+      "length": 6865,
+      "mode": "type"
+    },
+    {
+      "id": "196",
+      "title": "XL - IV",
+      "length": 2141,
+      "mode": "type"
+    },
+    {
+      "id": "197",
+      "title": "Colophon",
+      "length": 1021,
+      "mode": "hide"
+    },
+    {
+      "id": "198",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL51147W",
+  "goodreadsId": "11389",
+  "rating": 0.768,
+  "popularity": 8096,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490121949
+}

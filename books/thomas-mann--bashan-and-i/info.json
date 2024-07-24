@@ -1,1 +1,99 @@
-{"id":"thomas-mann--bashan-and-i","title":"Bashan and I","titleAlpha":"bashan and i","author":"Thomas Mann","language":"en","description":"A renowned novelist describes the unique relation that links him to his dog.","longDescription":["In Bashan and I (sometime referred to as Man and Dog), Thomas Mann, the Nobel Prize-winning author of The Magic Mountain and Death in Venice, writes in the most remarkable way of the unique relation that links a dog with his master. These memoirs read as a novel, and describe in fierce detail the behavior, feelings and psychology of Mann's dog Bashan, and of Mann himself. Mann tells how he acquired Bashan, details traits of his character, and describes how they go on harmless and bucolic hunts.","Written in 1918 at the end of the First World War, Bashan and I is an ode to life, to nature, to simple joys, and to a dog."],"year":null,"genres":["classics","nonfiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/thomas-mann/bashan-and-i/herman-george-scheffauer"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Bashan and I","length":16,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Foreword","length":1523,"mode":"type"},{"id":"004","title":"I: Bashan Puts in His Appearance","length":17953,"mode":"type"},{"id":"005","title":"II: How We Acquired Bashan","length":14975,"mode":"type"},{"id":"006","title":"III: A Few Items Regarding Bashan's Character and Manner of Life","length":44149,"mode":"type"},{"id":"007","title":"IV: The Hunting-Grounds","length":54260,"mode":"type"},{"id":"008","title":"V: The Chase","length":79305,"mode":"type"},{"id":"009","title":"Colophon","length":1118,"mode":"hide"},{"id":"010","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338288611}
+{
+  "id": "thomas-mann--bashan-and-i",
+  "title": "Bashan and I",
+  "titleAlpha": "bashan and i",
+  "author": "Thomas Mann",
+  "language": "en",
+  "description": "A renowned novelist describes the unique relation that links him to his dog.",
+  "longDescription": [
+    "In Bashan and I (sometime referred to as Man and Dog), Thomas Mann, the Nobel Prize-winning author of The Magic Mountain and Death in Venice, writes in the most remarkable way of the unique relation that links a dog with his master. These memoirs read as a novel, and describe in fierce detail the behavior, feelings and psychology of Mann's dog Bashan, and of Mann himself. Mann tells how he acquired Bashan, details traits of his character, and describes how they go on harmless and bucolic hunts.",
+    "Written in 1918 at the end of the First World War, Bashan and I is an ode to life, to nature, to simple joys, and to a dog."
+  ],
+  "year": 1918,
+  "genres": [
+    "classics",
+    "nonfiction"
+  ],
+  "topics": [
+    "animals",
+    "friendship"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/thomas-mann/bashan-and-i/herman-george-scheffauer"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Bashan and I",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Foreword",
+      "length": 1523,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "I: Bashan Puts in His Appearance",
+      "length": 17953,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II: How We Acquired Bashan",
+      "length": 14975,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III: A Few Items Regarding Bashan's Character and Manner of Life",
+      "length": 44149,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "IV: The Hunting-Grounds",
+      "length": 54260,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "V: The Chase",
+      "length": 79298,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Colophon",
+      "length": 1118,
+      "mode": "hide"
+    },
+    {
+      "id": "010",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL27119631W",
+  "goodreadsId": "625050",
+  "rating": 0.686,
+  "popularity": 645,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490162505
+}

@@ -1,1 +1,313 @@
-{"id":"henry-james--the-golden-bowl","title":"The Golden Bowl","titleAlpha":"golden bowl","author":"Henry James","language":"en","description":"The daughter of a wealthy American art collector marries a poor Italian Prince.","longDescription":["In The Golden Bowl, an impoverished Italian aristocrat comes to London to marry a wealthy American, but meets an old mistress before the wedding and spends time with her, helping her pick out a wedding gift. After their marriage, his wife maintains a close relationship with her father, while their own relationship becomes strained.","Completed in 1904, Henry James himself considered The Golden Bowl one of his best novels, and it remains one of critics' favorites. Along with The Wings of the Dove and The Ambassadors, the novel represents James' \"major phase,\" where he returned to the study of Americans abroad, which dominated his earlier career. The novel focuses almost entirely on four central characters, and explores themes of marriage and adultery in an intricate psychological study, which some critics have even suggested anticipates the style of stream-of-consciousness writing."],"year":null,"genres":["classics","fiction","psychological"],"topics":["art"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/henry-james/the-golden-bowl"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Golden Bowl","length":16,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Book First: The Prince - Part First - I","length":34421,"mode":"type"},{"id":"004","title":"Book First: The Prince - Part First - II","length":28454,"mode":"type"},{"id":"005","title":"Book First: The Prince - Part First - III","length":28470,"mode":"type"},{"id":"006","title":"Book First: The Prince - Part First - IV","length":38519,"mode":"type"},{"id":"007","title":"Book First: The Prince - Part First - V","length":23329,"mode":"type"},{"id":"008","title":"Book First: The Prince - Part First - VI","length":25057,"mode":"type"},{"id":"009","title":"Book First: The Prince - Part Second - VII","length":30795,"mode":"type"},{"id":"010","title":"Book First: The Prince - Part Second - VIII","length":18034,"mode":"type"},{"id":"011","title":"Book First: The Prince - Part Second - IX","length":22231,"mode":"type"},{"id":"012","title":"Book First: The Prince - Part Second - X","length":30933,"mode":"type"},{"id":"013","title":"Book First: The Prince - Part Second - XI","length":29650,"mode":"type"},{"id":"014","title":"Book First: The Prince - Part Second - XII","length":26363,"mode":"type"},{"id":"015","title":"Book First: The Prince - Part Second - XIII","length":21348,"mode":"type"},{"id":"016","title":"Book First: The Prince - Part Third - XIV","length":32272,"mode":"type"},{"id":"017","title":"Book First: The Prince - Part Third - XV","length":15411,"mode":"type"},{"id":"018","title":"Book First: The Prince - Part Third - XVI","length":17975,"mode":"type"},{"id":"019","title":"Book First: The Prince - Part Third - XVII","length":18973,"mode":"type"},{"id":"020","title":"Book First: The Prince - Part Third - XVIII","length":19682,"mode":"type"},{"id":"021","title":"Book First: The Prince - Part Third - XIX","length":21503,"mode":"type"},{"id":"022","title":"Book First: The Prince - Part Third - XX","length":16116,"mode":"type"},{"id":"023","title":"Book First: The Prince - Part Third - XXI","length":21914,"mode":"type"},{"id":"024","title":"Book First: The Prince - Part Third - XXII","length":20985,"mode":"type"},{"id":"025","title":"Book First: The Prince - Part Third - XXIII","length":22619,"mode":"type"},{"id":"026","title":"Book First: The Prince - Part Third - XXIV","length":33541,"mode":"type"},{"id":"027","title":"Book Second: The Princess - Part Fourth - XXV","length":29593,"mode":"type"},{"id":"028","title":"Book Second: The Princess - Part Fourth - XXVI","length":40807,"mode":"type"},{"id":"029","title":"Book Second: The Princess - Part Fourth - XXVII","length":33867,"mode":"type"},{"id":"030","title":"Book Second: The Princess - Part Fourth - XXVIII","length":26404,"mode":"type"},{"id":"031","title":"Book Second: The Princess - Part Fourth - XXIX","length":24712,"mode":"type"},{"id":"032","title":"Book Second: The Princess - Part Fourth - XXX","length":32042,"mode":"type"},{"id":"033","title":"Book Second: The Princess - Part Fourth - XXXI","length":23651,"mode":"type"},{"id":"034","title":"Book Second: The Princess - Part Fourth - XXXII","length":26592,"mode":"type"},{"id":"035","title":"Book Second: The Princess - Part Fourth - XXXIII","length":40081,"mode":"type"},{"id":"036","title":"Book Second: The Princess - Part Fourth - XXXIV","length":35720,"mode":"type"},{"id":"037","title":"Book Second: The Princess - Part Fifth - XXXV","length":36619,"mode":"type"},{"id":"038","title":"Book Second: The Princess - Part Fifth - XXXVI","length":34774,"mode":"type"},{"id":"039","title":"Book Second: The Princess - Part Fifth - XXXVII","length":34693,"mode":"type"},{"id":"040","title":"Book Second: The Princess - Part Fifth - XXXVIII","length":32537,"mode":"type"},{"id":"041","title":"Book Second: The Princess - Part Fifth - XXXIX","length":34907,"mode":"type"},{"id":"042","title":"Book Second: The Princess - Part Sixth - XL","length":23193,"mode":"type"},{"id":"043","title":"Book Second: The Princess - Part Sixth - XLI","length":25211,"mode":"type"},{"id":"044","title":"Book Second: The Princess - Part Sixth - XLII","length":23955,"mode":"type"},{"id":"045","title":"Colophon","length":962,"mode":"hide"},{"id":"046","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337867232}
+{
+  "id": "henry-james--the-golden-bowl",
+  "title": "The Golden Bowl",
+  "titleAlpha": "golden bowl",
+  "author": "Henry James",
+  "language": "en",
+  "description": "The daughter of a wealthy American art collector marries a poor Italian Prince.",
+  "longDescription": [
+    "In The Golden Bowl, an impoverished Italian aristocrat comes to London to marry a wealthy American, but meets an old mistress before the wedding and spends time with her, helping her pick out a wedding gift. After their marriage, his wife maintains a close relationship with her father, while their own relationship becomes strained.",
+    "Completed in 1904, Henry James himself considered The Golden Bowl one of his best novels, and it remains one of critics' favorites. Along with The Wings of the Dove and The Ambassadors, the novel represents James' \"major phase,\" where he returned to the study of Americans abroad, which dominated his earlier career. The novel focuses almost entirely on four central characters, and explores themes of marriage and adultery in an intricate psychological study, which some critics have even suggested anticipates the style of stream-of-consciousness writing."
+  ],
+  "year": 1904,
+  "genres": [
+    "classics",
+    "fiction",
+    "psychological"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/henry-james/the-golden-bowl"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Golden Bowl",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Book First: The Prince - Part First - I",
+      "length": 34421,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Book First: The Prince - Part First - II",
+      "length": 28454,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Book First: The Prince - Part First - III",
+      "length": 28470,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book First: The Prince - Part First - IV",
+      "length": 38519,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Book First: The Prince - Part First - V",
+      "length": 23329,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Book First: The Prince - Part First - VI",
+      "length": 25057,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book First: The Prince - Part Second - VII",
+      "length": 30795,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Book First: The Prince - Part Second - VIII",
+      "length": 18034,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book First: The Prince - Part Second - IX",
+      "length": 22231,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book First: The Prince - Part Second - X",
+      "length": 30933,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book First: The Prince - Part Second - XI",
+      "length": 29650,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book First: The Prince - Part Second - XII",
+      "length": 26363,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book First: The Prince - Part Second - XIII",
+      "length": 21348,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Book First: The Prince - Part Third - XIV",
+      "length": 32272,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book First: The Prince - Part Third - XV",
+      "length": 15411,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book First: The Prince - Part Third - XVI",
+      "length": 17975,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Book First: The Prince - Part Third - XVII",
+      "length": 18973,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Book First: The Prince - Part Third - XVIII",
+      "length": 19682,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Book First: The Prince - Part Third - XIX",
+      "length": 21503,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Book First: The Prince - Part Third - XX",
+      "length": 16116,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Book First: The Prince - Part Third - XXI",
+      "length": 21914,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Book First: The Prince - Part Third - XXII",
+      "length": 20985,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Book First: The Prince - Part Third - XXIII",
+      "length": 22619,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Book First: The Prince - Part Third - XXIV",
+      "length": 33541,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Book Second: The Princess - Part Fourth - XXV",
+      "length": 29593,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Book Second: The Princess - Part Fourth - XXVI",
+      "length": 40807,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Book Second: The Princess - Part Fourth - XXVII",
+      "length": 33867,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Book Second: The Princess - Part Fourth - XXVIII",
+      "length": 26404,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Book Second: The Princess - Part Fourth - XXIX",
+      "length": 24712,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Book Second: The Princess - Part Fourth - XXX",
+      "length": 32042,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Book Second: The Princess - Part Fourth - XXXI",
+      "length": 23651,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Book Second: The Princess - Part Fourth - XXXII",
+      "length": 26592,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Book Second: The Princess - Part Fourth - XXXIII",
+      "length": 40081,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Book Second: The Princess - Part Fourth - XXXIV",
+      "length": 35720,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Book Second: The Princess - Part Fifth - XXXV",
+      "length": 36619,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Book Second: The Princess - Part Fifth - XXXVI",
+      "length": 34774,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Book Second: The Princess - Part Fifth - XXXVII",
+      "length": 34693,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Book Second: The Princess - Part Fifth - XXXVIII",
+      "length": 32537,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Book Second: The Princess - Part Fifth - XXXIX",
+      "length": 34907,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Book Second: The Princess - Part Sixth - XL",
+      "length": 23193,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Book Second: The Princess - Part Sixth - XLI",
+      "length": 25211,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Book Second: The Princess - Part Sixth - XLII",
+      "length": 23955,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Colophon",
+      "length": 962,
+      "mode": "hide"
+    },
+    {
+      "id": "046",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL276338W",
+  "goodreadsId": "259020",
+  "rating": 0.754,
+  "popularity": 11489,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489762491
+}

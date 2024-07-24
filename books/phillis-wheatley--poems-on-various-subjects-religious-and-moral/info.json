@@ -1,1 +1,450 @@
-{"id":"phillis-wheatley--poems-on-various-subjects-religious-and-moral","title":"Poems on Various Subjects, Religious and Moral","titleAlpha":"poems on various subjects, religious and moral","author":"Phillis Wheatley","language":"en","description":"Phillis Wheatley's only published collection of poetry.","longDescription":["Poems on Various Subjects, Religious and Moral was the first book of poetry ever published by an African-American author. Phillis Wheatley's deep familiarity with Latin literature and Christianity, combined with her African ancestry, provided her with a unique and inimitable view of poetry.","She was kidnapped and brought over to America on a ship called The Phillis after which she was named. Her interest in poetry and literature was recognized by the Wheatley family who, though keeping her enslaved, provided her with classic works of literature by authors such as Virgil, Homer, Terence, and Pope, all of whom had a significant influence on her work.","She received praise from many of her contemporaries including George Washington, John Hancock, and Voltaire. Shortly after publishing her collection of poetry she was emancipated by the Wheatley family. Even so, her life ended in poverty and obscurity.","Though her influence on poetry and African-American literature is indisputable, more modern critics of her work point to the lack of censure of slavery and the absence of discussion about the lives of black people in the United States as an example of the Uncle Tom syndrome."],"year":null,"genres":["classics","poetry"],"topics":["african-americans"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/phillis-wheatley/poems-on-various-subjects-religious-and-moral"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Poems on Various Subjects, Religious and Moral","length":21,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Dedication","length":201,"mode":"hide"},{"id":"004","title":"Preface","length":909,"mode":"skip"},{"id":"005","title":"Letter to the Publisher","length":931,"mode":"type"},{"id":"006","title":"To Maecenas","length":2427,"mode":"type"},{"id":"007","title":"On Virtue","length":917,"mode":"type"},{"id":"008","title":"To the University of Cambridge, in New-England","length":1280,"mode":"type"},{"id":"009","title":"To the King's Most Excellent Majesty","length":651,"mode":"type"},{"id":"010","title":"On Being Brought from Africa to America","length":341,"mode":"type"},{"id":"011","title":"On the Death of the Rev. Dr. Sewell","length":2208,"mode":"type"},{"id":"012","title":"On the Death of the Rev. Mr. George Whitefield","length":2063,"mode":"type"},{"id":"013","title":"On the Death of a Young Lady of Five Years of Age","length":1608,"mode":"type"},{"id":"014","title":"On the Death of a Young Gentleman","length":1069,"mode":"type"},{"id":"015","title":"To a Lady on the Death of Her Husband","length":1496,"mode":"type"},{"id":"016","title":"Goliath of Gath - 1 Sam., Chap","length":9765,"mode":"type"},{"id":"017","title":"Thoughts on the Works of Providence","length":5731,"mode":"type"},{"id":"018","title":"To a Lady on the Death of Three Relations","length":1415,"mode":"type"},{"id":"019","title":"To a Clergyman on the Death of His Lady","length":1899,"mode":"type"},{"id":"020","title":"An Hymn to the Morning","length":860,"mode":"type"},{"id":"021","title":"An Hymn to the Evening","length":808,"mode":"type"},{"id":"022","title":"Isaiah 63:1 - 8","length":1308,"mode":"type"},{"id":"023","title":"On Recollection","length":2151,"mode":"type"},{"id":"024","title":"On Imagination","length":2321,"mode":"type"},{"id":"025","title":"A Funeral Poem on the Death of C. E. An Infant of Twelve Months","length":2037,"mode":"type"},{"id":"026","title":"To Captain H--d, of the 65th Regiment","length":431,"mode":"type"},{"id":"027","title":"To the Right Honourable William, Earl of Dartmouth, His Majesty's Principal Secretary of State for North-America, etc.","length":1894,"mode":"type"},{"id":"028","title":"Ode to Neptune - I","length":225,"mode":"type"},{"id":"029","title":"Ode to Neptune - II","length":237,"mode":"type"},{"id":"030","title":"Ode to Neptune - III","length":248,"mode":"type"},{"id":"031","title":"To a Lady on Her Coming to North-America with Her Son, for the Recovery of Her Health","length":1486,"mode":"type"},{"id":"032","title":"To a Lady on Her Remarkable Preservation in an Hurricane in North-Carolina","length":1382,"mode":"type"},{"id":"033","title":"To a Lady and Her Children, on the Death of Her Son and Their Brother","length":1323,"mode":"type"},{"id":"034","title":"To a Gentleman and Lady on the Death of the Lady's Brother and Sister, and a Child of the Name of Avis, Aged One Year","length":1466,"mode":"type"},{"id":"035","title":"On the Death of Dr. Samuel Marshall","length":1229,"mode":"type"},{"id":"036","title":"To a Gentleman on His Voyage to Great-Britain for the Recovery of His Health","length":1390,"mode":"type"},{"id":"037","title":"To the Rev. Dr. Thomas Amory, on Reading His Sermons on Daily Devotion, in Which That Duty Is Recommended and Assisted","length":1200,"mode":"type"},{"id":"038","title":"On the Death of J. C. An Infant","length":1903,"mode":"type"},{"id":"039","title":"An Hymn to Humanity - I","length":180,"mode":"type"},{"id":"040","title":"An Hymn to Humanity - II","length":197,"mode":"type"},{"id":"041","title":"An Hymn to Humanity - III","length":198,"mode":"type"},{"id":"042","title":"An Hymn to Humanity - IV","length":202,"mode":"type"},{"id":"043","title":"An Hymn to Humanity - V","length":192,"mode":"type"},{"id":"044","title":"An Hymn to Humanity - VI","length":184,"mode":"type"},{"id":"045","title":"To the Honourable T. H. Esq.; On the Death of His Daughter","length":1773,"mode":"type"},{"id":"046","title":"Niobe in Distress for Her Children Slain by Apollo, from Ovid's Metamorphoses, Book VI and from a View of the Painting of Mr. Richard Wilson","length":9792,"mode":"type"},{"id":"047","title":"To S. M. A Young African Painter, on Seeing His Works","length":1476,"mode":"type"},{"id":"048","title":"To His Honour the Lieutenant-Governor, on the Death of His Lady. March 24, 1773","length":1960,"mode":"type"},{"id":"049","title":"A Farewel to America. To Mrs. S. W. - I","length":130,"mode":"type"},{"id":"050","title":"A Farewel to America. To Mrs. S. W. - II","length":129,"mode":"type"},{"id":"051","title":"A Farewel to America. To Mrs. S. W. - III","length":112,"mode":"type"},{"id":"052","title":"A Farewel to America. To Mrs. S. W. - IV","length":115,"mode":"type"},{"id":"053","title":"A Farewel to America. To Mrs. S. W. - V","length":122,"mode":"type"},{"id":"054","title":"A Farewel to America. To Mrs. S. W. - VI","length":128,"mode":"type"},{"id":"055","title":"A Farewel to America. To Mrs. S. W. - VII","length":120,"mode":"type"},{"id":"056","title":"A Farewel to America. To Mrs. S. W. - VIII","length":121,"mode":"type"},{"id":"057","title":"A Farewel to America. To Mrs. S. W. - IX","length":127,"mode":"type"},{"id":"058","title":"A Farewel to America. To Mrs. S. W. - X","length":121,"mode":"type"},{"id":"059","title":"A Farewel to America. To Mrs. S. W. - XI","length":123,"mode":"type"},{"id":"060","title":"A Farewel to America. To Mrs. S. W. - XII","length":116,"mode":"type"},{"id":"061","title":"A Farewel to America. To Mrs. S. W. - XIII","length":153,"mode":"type"},{"id":"062","title":"A Rebus, by I. B. - I","length":180,"mode":"type"},{"id":"063","title":"A Rebus, by I. B. - II","length":183,"mode":"type"},{"id":"064","title":"A Rebus, by I. B. - III","length":176,"mode":"type"},{"id":"065","title":"An Answer to the Rebus, by the Author of These Poems","length":790,"mode":"type"},{"id":"066","title":"Endnotes","length":272,"mode":"hide"},{"id":"067","title":"Colophon","length":1123,"mode":"hide"},{"id":"068","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338169598}
+{
+  "id": "phillis-wheatley--poems-on-various-subjects-religious-and-moral",
+  "title": "Poems on Various Subjects, Religious and Moral",
+  "titleAlpha": "poems on various subjects, religious and moral",
+  "author": "Phillis Wheatley",
+  "language": "en",
+  "description": "Phillis Wheatley's only published collection of poetry.",
+  "longDescription": [
+    "Poems on Various Subjects, Religious and Moral was the first book of poetry ever published by an African-American author. Phillis Wheatley's deep familiarity with Latin literature and Christianity, combined with her African ancestry, provided her with a unique and inimitable view of poetry.",
+    "She was kidnapped and brought over to America on a ship called The Phillis after which she was named. Her interest in poetry and literature was recognized by the Wheatley family who, though keeping her enslaved, provided her with classic works of literature by authors such as Virgil, Homer, Terence, and Pope, all of whom had a significant influence on her work.",
+    "She received praise from many of her contemporaries including George Washington, John Hancock, and Voltaire. Shortly after publishing her collection of poetry she was emancipated by the Wheatley family. Even so, her life ended in poverty and obscurity.",
+    "Though her influence on poetry and African-American literature is indisputable, more modern critics of her work point to the lack of censure of slavery and the absence of discussion about the lives of black people in the United States as an example of the Uncle Tom syndrome."
+  ],
+  "year": 1773,
+  "genres": [
+    "classics",
+    "poetry",
+    "spirituality"
+  ],
+  "topics": [
+    "african-americans",
+    "religion"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/phillis-wheatley/poems-on-various-subjects-religious-and-moral"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Poems on Various Subjects, Religious and Moral",
+      "length": 21,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 201,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Preface",
+      "length": 909,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Letter to the Publisher",
+      "length": 931,
+      "mode": "skip"
+    },
+    {
+      "id": "006",
+      "title": "To Maecenas",
+      "length": 2427,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "On Virtue",
+      "length": 917,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "To the University of Cambridge, in New-England",
+      "length": 1280,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "To the King's Most Excellent Majesty",
+      "length": 651,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "On Being Brought from Africa to America",
+      "length": 341,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "On the Death of the Rev. Dr. Sewell",
+      "length": 2208,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "On the Death of the Rev. Mr. George Whitefield",
+      "length": 2063,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "On the Death of a Young Lady of Five Years of Age",
+      "length": 1608,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "On the Death of a Young Gentleman",
+      "length": 1069,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "To a Lady on the Death of Her Husband",
+      "length": 1496,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Goliath of Gath - 1 Sam., Chap",
+      "length": 9765,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Thoughts on the Works of Providence",
+      "length": 5731,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "To a Lady on the Death of Three Relations",
+      "length": 1415,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "To a Clergyman on the Death of His Lady",
+      "length": 1899,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "An Hymn to the Morning",
+      "length": 860,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "An Hymn to the Evening",
+      "length": 808,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Isaiah 63:1 - 8",
+      "length": 1308,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "On Recollection",
+      "length": 2151,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "On Imagination",
+      "length": 2321,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "A Funeral Poem on the Death of C. E. An Infant of Twelve Months",
+      "length": 2037,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "To Captain H--d, of the 65th Regiment",
+      "length": 431,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "To the Right Honourable William, Earl of Dartmouth, His Majesty's Principal Secretary of State for North-America, etc.",
+      "length": 1894,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Ode to Neptune - I",
+      "length": 225,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Ode to Neptune - II",
+      "length": 237,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Ode to Neptune - III",
+      "length": 248,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "To a Lady on Her Coming to North-America with Her Son, for the Recovery of Her Health",
+      "length": 1486,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "To a Lady on Her Remarkable Preservation in an Hurricane in North-Carolina",
+      "length": 1382,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "To a Lady and Her Children, on the Death of Her Son and Their Brother",
+      "length": 1323,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "To a Gentleman and Lady on the Death of the Lady's Brother and Sister, and a Child of the Name of Avis, Aged One Year",
+      "length": 1466,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "On the Death of Dr. Samuel Marshall",
+      "length": 1229,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "To a Gentleman on His Voyage to Great-Britain for the Recovery of His Health",
+      "length": 1390,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "To the Rev. Dr. Thomas Amory, on Reading His Sermons on Daily Devotion, in Which That Duty Is Recommended and Assisted",
+      "length": 1200,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "On the Death of J. C. An Infant",
+      "length": 1903,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "An Hymn to Humanity - I",
+      "length": 180,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "An Hymn to Humanity - II",
+      "length": 197,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "An Hymn to Humanity - III",
+      "length": 198,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "An Hymn to Humanity - IV",
+      "length": 202,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "An Hymn to Humanity - V",
+      "length": 192,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "An Hymn to Humanity - VI",
+      "length": 184,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "To the Honourable T. H. Esq.; On the Death of His Daughter",
+      "length": 1773,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Niobe in Distress for Her Children Slain by Apollo, from Ovid's Metamorphoses, Book VI and from a View of the Painting of Mr. Richard Wilson",
+      "length": 9792,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "To S. M. A Young African Painter, on Seeing His Works",
+      "length": 1476,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "To His Honour the Lieutenant-Governor, on the Death of His Lady. March 24, 1773",
+      "length": 1960,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "A Farewel to America. To Mrs. S. W. - I",
+      "length": 130,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "A Farewel to America. To Mrs. S. W. - II",
+      "length": 129,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "A Farewel to America. To Mrs. S. W. - III",
+      "length": 112,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "A Farewel to America. To Mrs. S. W. - IV",
+      "length": 115,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "A Farewel to America. To Mrs. S. W. - V",
+      "length": 122,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "A Farewel to America. To Mrs. S. W. - VI",
+      "length": 128,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "A Farewel to America. To Mrs. S. W. - VII",
+      "length": 120,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "A Farewel to America. To Mrs. S. W. - VIII",
+      "length": 121,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "A Farewel to America. To Mrs. S. W. - IX",
+      "length": 127,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "A Farewel to America. To Mrs. S. W. - X",
+      "length": 121,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "A Farewel to America. To Mrs. S. W. - XI",
+      "length": 123,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "A Farewel to America. To Mrs. S. W. - XII",
+      "length": 116,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "A Farewel to America. To Mrs. S. W. - XIII",
+      "length": 153,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "A Rebus, by I. B. - I",
+      "length": 180,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "A Rebus, by I. B. - II",
+      "length": 183,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "A Rebus, by I. B. - III",
+      "length": 176,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "An Answer to the Rebus, by the Author of These Poems",
+      "length": 790,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "Endnotes",
+      "length": 272,
+      "mode": "hide"
+    },
+    {
+      "id": "067",
+      "title": "Colophon",
+      "length": 1123,
+      "mode": "hide"
+    },
+    {
+      "id": "068",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL3516723W",
+  "goodreadsId": "2468778",
+  "rating": 0.734,
+  "popularity": 276,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490043109
+}

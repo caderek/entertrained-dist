@@ -1,1 +1,271 @@
-{"id":"ivan-turgenev--fathers-and-children","title":"Fathers and Children","titleAlpha":"fathers and children","author":"Ivan Turgenev","language":"en","description":"Arkady returns to his father's estate accompanied by his friend from university - a nihilist.","longDescription":["Arkady, a university graduate, returns from St. Petersburg to his father's estate with his mentor Bazarov - a nihilist.","Fathers and Children (also known as Fathers and Sons) is a novel written in 1862 by Russian writer Ivan Turgenev and published in Moscow by The Russian Messenger.","The main theme of the novel is the conflict between two generations - the \"fathers,\" the liberal serf owners, and the \"children,\" nihilists who reject their authority and traditions.","Turgenev's novel also helped popularize the term \"nihilism,\" especially after the word's use by an influential Russian nihilist movement in the 1860s.","Despite being harshly criticized in Russia, the novel was very well received in Europe, being praised by influential novelists like Gustave Flaubert and Guy de Maupassant, making it the first Russian novel to gain recognition in the Western literary world."],"year":1862,"genres":["classics","fiction","history","philosophy"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/ivan-turgenev/fathers-and-children/constance-garnett"},"openlibraryId":"OL43370W","goodreadsId":"919939","rating":0.798,"popularity":90863,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Fathers and Children","length":51,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Biographical Note","length":3896,"mode":"hide"},{"id":"004","title":"Criticisms and Interpretations - I","length":3158,"mode":"type"},{"id":"005","title":"Criticisms and Interpretations - II","length":3029,"mode":"type"},{"id":"006","title":"Criticisms and Interpretations - III","length":2805,"mode":"type"},{"id":"007","title":"Criticisms and Interpretations - IV","length":2595,"mode":"type"},{"id":"008","title":"Criticisms and Interpretations - V","length":4879,"mode":"type"},{"id":"009","title":"I","length":7177,"mode":"type"},{"id":"010","title":"II","length":3668,"mode":"type"},{"id":"011","title":"III","length":10632,"mode":"type"},{"id":"012","title":"IV","length":8476,"mode":"type"},{"id":"013","title":"V","length":12016,"mode":"type"},{"id":"014","title":"VI","length":5834,"mode":"type"},{"id":"015","title":"VII","length":12490,"mode":"type"},{"id":"016","title":"VIII","length":13917,"mode":"type"},{"id":"017","title":"IX","length":5701,"mode":"type"},{"id":"018","title":"X","length":23927,"mode":"type"},{"id":"019","title":"XI","length":7769,"mode":"type"},{"id":"020","title":"XII","length":9786,"mode":"type"},{"id":"021","title":"XIII","length":11426,"mode":"type"},{"id":"022","title":"XIV","length":9436,"mode":"type"},{"id":"023","title":"XV","length":8908,"mode":"type"},{"id":"024","title":"XVI","length":20218,"mode":"type"},{"id":"025","title":"XVII","length":21428,"mode":"type"},{"id":"026","title":"XVIII","length":9265,"mode":"type"},{"id":"027","title":"XIX","length":14156,"mode":"type"},{"id":"028","title":"XX","length":20914,"mode":"type"},{"id":"029","title":"XXI","length":31720,"mode":"type"},{"id":"030","title":"XXII","length":11499,"mode":"type"},{"id":"031","title":"XXIII","length":13120,"mode":"type"},{"id":"032","title":"XXIV","length":33147,"mode":"type"},{"id":"033","title":"XXV","length":19438,"mode":"type"},{"id":"034","title":"XXVI","length":16698,"mode":"type"},{"id":"035","title":"XXVII","length":30462,"mode":"type"},{"id":"036","title":"XXVIII","length":10428,"mode":"type"},{"id":"037","title":"Colophon","length":1094,"mode":"hide"},{"id":"038","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337905062}
+{
+  "id": "ivan-turgenev--fathers-and-children",
+  "title": "Fathers and Children",
+  "titleAlpha": "fathers and children",
+  "author": "Ivan Turgenev",
+  "language": "en",
+  "description": "Arkady returns to his father's estate accompanied by his friend from university - a nihilist.",
+  "longDescription": [
+    "Arkady, a university graduate, returns from St. Petersburg to his father's estate with his mentor Bazarov - a nihilist.",
+    "Fathers and Children (also known as Fathers and Sons) is a novel written in 1862 by Russian writer Ivan Turgenev and published in Moscow by The Russian Messenger.",
+    "The main theme of the novel is the conflict between two generations - the \"fathers,\" the liberal serf owners, and the \"children,\" nihilists who reject their authority and traditions.",
+    "Turgenev's novel also helped popularize the term \"nihilism,\" especially after the word's use by an influential Russian nihilist movement in the 1860s.",
+    "Despite being harshly criticized in Russia, the novel was very well received in Europe, being praised by influential novelists like Gustave Flaubert and Guy de Maupassant, making it the first Russian novel to gain recognition in the Western literary world."
+  ],
+  "year": 1862,
+  "genres": [
+    "classics",
+    "fiction",
+    "history",
+    "philosophy"
+  ],
+  "topics": [
+    "family"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/ivan-turgenev/fathers-and-children/constance-garnett"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Fathers and Children",
+      "length": 51,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Biographical Note",
+      "length": 3896,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Criticisms and Interpretations - I",
+      "length": 3158,
+      "mode": "hide"
+    },
+    {
+      "id": "005",
+      "title": "Criticisms and Interpretations - II",
+      "length": 3029,
+      "mode": "hide"
+    },
+    {
+      "id": "006",
+      "title": "Criticisms and Interpretations - III",
+      "length": 2805,
+      "mode": "hide"
+    },
+    {
+      "id": "007",
+      "title": "Criticisms and Interpretations - IV",
+      "length": 2595,
+      "mode": "hide"
+    },
+    {
+      "id": "008",
+      "title": "Criticisms and Interpretations - V",
+      "length": 4879,
+      "mode": "hide"
+    },
+    {
+      "id": "009",
+      "title": "I",
+      "length": 7177,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "II",
+      "length": 3668,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "III",
+      "length": 10632,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "IV",
+      "length": 8476,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "V",
+      "length": 12016,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "VI",
+      "length": 5834,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "VII",
+      "length": 12490,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "VIII",
+      "length": 13917,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "IX",
+      "length": 5701,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "X",
+      "length": 23927,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XI",
+      "length": 7769,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XII",
+      "length": 9786,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIII",
+      "length": 11426,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XIV",
+      "length": 9436,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XV",
+      "length": 8908,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XVI",
+      "length": 20218,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XVII",
+      "length": 21428,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XVIII",
+      "length": 9265,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XIX",
+      "length": 14156,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XX",
+      "length": 20914,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXI",
+      "length": 31720,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXII",
+      "length": 11499,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXIII",
+      "length": 13120,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXIV",
+      "length": 33147,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXV",
+      "length": 19438,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXVI",
+      "length": 16698,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXVII",
+      "length": 30462,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXVIII",
+      "length": 10428,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Colophon",
+      "length": 1094,
+      "mode": "hide"
+    },
+    {
+      "id": "038",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL43370W",
+  "goodreadsId": "919939",
+  "rating": 0.798,
+  "popularity": 90863,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489795264
+}

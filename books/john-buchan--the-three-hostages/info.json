@@ -1,1 +1,222 @@
-{"id":"john-buchan--the-three-hostages","title":"The Three Hostages","titleAlpha":"three hostages","author":"John Buchan","language":"en","description":"A former man-of-adventure is coaxed out of comfortable retirement and into danger as he aids in the rescue of three hostages.","longDescription":["Published in 1924, The Three Hostages is the fourth of John Buchan's novels to feature Richard Hannay.","Following the conclusion of the Great War, Hannay has retired from British intelligence. He is coaxed from retirement to aid in the rescue of three prominent hostages held by an international criminal organization bent on controlling the disturbed minds of those affected by the Great War. Hannay pretends to succumb to hypnotic mind control and secretly travels to a remote farm in Norway to continue the hostage search."],"year":1924,"genres":["adventure","classics","fiction"],"topics":["espionage"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/john-buchan/the-three-hostages"},"openlibraryId":"OL76591W","goodreadsId":"6442548","rating":0.758,"popularity":1208,"cover":null,"free":false,"custom":false,"series":"Richard Hannay","part":4,"chapters":[{"id":"001","title":"Titlepage - The Three Hostages","length":16,"mode":"hide"},{"id":"002","title":"Imprint","length":1194,"mode":"hide"},{"id":"003","title":"Dedication","length":1336,"mode":"hide"},{"id":"004","title":"I: Doctor Greenslade Theorises","length":20738,"mode":"type"},{"id":"005","title":"II: I Hear of the Three Hostages","length":34184,"mode":"type"},{"id":"006","title":"III: Researches in the Subconscious","length":25787,"mode":"type"},{"id":"007","title":"IV: I Make the Acquaintance of a Popular Man","length":29773,"mode":"type"},{"id":"008","title":"V: The Thursday Club","length":31025,"mode":"type"},{"id":"009","title":"VI: The House in Gospel Oak","length":31915,"mode":"type"},{"id":"010","title":"VII: Some Experiences of a Disciple","length":25307,"mode":"type"},{"id":"011","title":"VIII: The Blind Spinner","length":24114,"mode":"type"},{"id":"012","title":"IX: I Am Introduced to Strong Magic","length":24851,"mode":"type"},{"id":"013","title":"X: Confidences at a Wayside Inn","length":32243,"mode":"type"},{"id":"014","title":"XI: How a German Engineer Found Strange Fishing","length":31864,"mode":"type"},{"id":"015","title":"XII: I Return to Servitude","length":21839,"mode":"type"},{"id":"016","title":"XIII: I Visit the Fields of Eden","length":36908,"mode":"type"},{"id":"017","title":"XIV: Sir Archibald Roylance Puts His Foot in It","length":25189,"mode":"type"},{"id":"018","title":"XV: How a French Nobleman Discovered Fear","length":21515,"mode":"type"},{"id":"019","title":"XVI: Our Time Is Narrowed","length":27914,"mode":"type"},{"id":"020","title":"XVII: The District-Visitor in Palmyra Square","length":16964,"mode":"type"},{"id":"021","title":"XVIII: The Night of the First of June","length":33244,"mode":"type"},{"id":"022","title":"XIX: The Night of the First of June - Later","length":32780,"mode":"type"},{"id":"023","title":"XX: Machray","length":27743,"mode":"type"},{"id":"024","title":"XXI: How I Stalked Wilder Game Than Deer - I: 9 A. M. to 2:15 P. M.","length":8212,"mode":"type"},{"id":"025","title":"XXI: How I Stalked Wilder Game Than Deer - II: 2:15 P. M., to About 5 P. M.","length":15051,"mode":"type"},{"id":"026","title":"XXI: How I Stalked Wilder Game Than Deer - III: 5 P. M., to About 7:30 P. M.","length":8358,"mode":"type"},{"id":"027","title":"XXI: How I Stalked Wilder Game Than Deer - IV: 7:30 P. M. and Onwards","length":10919,"mode":"type"},{"id":"028","title":"Endnotes","length":39,"mode":"hide"},{"id":"029","title":"Colophon","length":1078,"mode":"hide"},{"id":"030","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337976311}
+{
+  "id": "john-buchan--the-three-hostages",
+  "title": "The Three Hostages",
+  "titleAlpha": "three hostages",
+  "author": "John Buchan",
+  "language": "en",
+  "description": "A former man-of-adventure is coaxed out of comfortable retirement and into danger as he aids in the rescue of three hostages.",
+  "longDescription": [
+    "Published in 1924, The Three Hostages is the fourth of John Buchan's novels to feature Richard Hannay.",
+    "Following the conclusion of the Great War, Hannay has retired from British intelligence. He is coaxed from retirement to aid in the rescue of three prominent hostages held by an international criminal organization bent on controlling the disturbed minds of those affected by the Great War. Hannay pretends to succumb to hypnotic mind control and secretly travels to a remote farm in Norway to continue the hostage search."
+  ],
+  "year": 1924,
+  "genres": [
+    "adventure",
+    "classics",
+    "fiction",
+    "thriller",
+    "mystery",
+    "action"
+  ],
+  "topics": [
+    "espionage"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Richard Hannay",
+  "part": 4,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/john-buchan/the-three-hostages"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Three Hostages",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 1336,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "I: Doctor Greenslade Theorises",
+      "length": 20738,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II: I Hear of the Three Hostages",
+      "length": 34184,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III: Researches in the Subconscious",
+      "length": 25787,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "IV: I Make the Acquaintance of a Popular Man",
+      "length": 29773,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "V: The Thursday Club",
+      "length": 31025,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VI: The House in Gospel Oak",
+      "length": 31915,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VII: Some Experiences of a Disciple",
+      "length": 25307,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VIII: The Blind Spinner",
+      "length": 24114,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "IX: I Am Introduced to Strong Magic",
+      "length": 24851,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "X: Confidences at a Wayside Inn",
+      "length": 32243,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XI: How a German Engineer Found Strange Fishing",
+      "length": 31864,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XII: I Return to Servitude",
+      "length": 21839,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIII: I Visit the Fields of Eden",
+      "length": 36908,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIV: Sir Archibald Roylance Puts His Foot in It",
+      "length": 25189,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XV: How a French Nobleman Discovered Fear",
+      "length": 21515,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVI: Our Time Is Narrowed",
+      "length": 27914,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVII: The District-Visitor in Palmyra Square",
+      "length": 16964,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVIII: The Night of the First of June",
+      "length": 33244,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XIX: The Night of the First of June - Later",
+      "length": 32780,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XX: Machray",
+      "length": 27743,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXI: How I Stalked Wilder Game Than Deer - I: 9 A. M. to 2:15 P. M.",
+      "length": 8212,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXI: How I Stalked Wilder Game Than Deer - II: 2:15 P. M., to About 5 P. M.",
+      "length": 15051,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXI: How I Stalked Wilder Game Than Deer - III: 5 P. M., to About 7:30 P. M.",
+      "length": 8358,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXI: How I Stalked Wilder Game Than Deer - IV: 7:30 P. M. and Onwards",
+      "length": 10919,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Endnotes",
+      "length": 39,
+      "mode": "hide"
+    },
+    {
+      "id": "029",
+      "title": "Colophon",
+      "length": 1078,
+      "mode": "hide"
+    },
+    {
+      "id": "030",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL76591W",
+  "goodreadsId": "144395",
+  "rating": 0.758,
+  "popularity": 1211,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489844975
+}

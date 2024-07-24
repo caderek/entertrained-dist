@@ -1,1 +1,273 @@
-{"id":"robert-louis-stevenson--the-black-arrow","title":"The Black Arrow","titleAlpha":"black arrow","author":"Robert Louis Stevenson","language":"en","description":"During the War of the Roses, a young knight must rescue his lady and find out who killed his father.","longDescription":["Richard \"Dick\" Shelton fights in the service of Sir Daniel, an unprincipled knight who continually changes sides in the War of the Roses. Dick helps a young lady, dressed as a man, who is escaping Sir Daniel's attempt to marry her off. In the meantime, Dick suspects that the man he serves had a hand in killing his father, and must figure out who his real friends are.","Robert Louis Stevenson first wrote this adventure and romance story in 1883, as a serial in a children's literary magazine. It was published as a single volume in 1888."],"year":2001,"genres":["adventure","classics","coming-of-age","fiction","history"],"topics":["knights","war"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/robert-louis-stevenson/the-black-arrow"},"openlibraryId":"OL24321949W","goodreadsId":null,"rating":0.53013478,"popularity":7,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Black Arrow","length":27,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Prologue - John Amend-All","length":28292,"mode":"type"},{"id":"004","title":"Book I: The Two Lads - I: At the Sign of the Sun in Kettley","length":15231,"mode":"type"},{"id":"005","title":"Book I: The Two Lads - II: In the Fen","length":10063,"mode":"type"},{"id":"006","title":"Book I: The Two Lads - III: The Fen Ferry","length":12741,"mode":"type"},{"id":"007","title":"Book I: The Two Lads - IV: A Greenwood Company","length":13974,"mode":"type"},{"id":"008","title":"Book I: The Two Lads - V: \"Bloody as the Hunter\"","length":14915,"mode":"type"},{"id":"009","title":"Book I: The Two Lads - VI: To the Day's End","length":12424,"mode":"type"},{"id":"010","title":"Book I: The Two Lads - VII: The Hooded Face","length":15326,"mode":"type"},{"id":"011","title":"Book II: The Moat House - I: Dick Asks Questions","length":14825,"mode":"type"},{"id":"012","title":"Book II: The Moat House - II: The Two Oaths","length":13224,"mode":"type"},{"id":"013","title":"Book II: The Moat House - III: The Room Over the Chapel","length":11549,"mode":"type"},{"id":"014","title":"Book II: The Moat House - IV: The Passage","length":8563,"mode":"type"},{"id":"015","title":"Book II: The Moat House - V: How Dick Changed Sides","length":15061,"mode":"type"},{"id":"016","title":"Book III: My Lord Foxham - I: The House by the Shore","length":12946,"mode":"type"},{"id":"017","title":"Book III: My Lord Foxham - II: A Skirmish in the Dark","length":11758,"mode":"type"},{"id":"018","title":"Book III: My Lord Foxham - III: St. Bride's Cross","length":5852,"mode":"type"},{"id":"019","title":"Book III: My Lord Foxham - IV: The \"Good Hope\"","length":15768,"mode":"type"},{"id":"020","title":"Book III: My Lord Foxham - V: The \"Good Hope\" (Continued)","length":11216,"mode":"type"},{"id":"021","title":"Book III: My Lord Foxham - VI: The \"Good Hope\" (Concluded)","length":9528,"mode":"type"},{"id":"022","title":"Book IV: The Disguise - I: The Den","length":13380,"mode":"type"},{"id":"023","title":"Book IV: The Disguise - II: \"In Mine Enemies' House\"","length":16784,"mode":"type"},{"id":"024","title":"Book IV: The Disguise - III: The Dead Spy","length":13307,"mode":"type"},{"id":"025","title":"Book IV: The Disguise - IV: In the Abbey Church","length":16939,"mode":"type"},{"id":"026","title":"Book IV: The Disguise - V: Earl Risingham","length":6042,"mode":"type"},{"id":"027","title":"Book IV: The Disguise - VI: Arblaster Again","length":18964,"mode":"type"},{"id":"028","title":"Book V: Crookback - I: The Shrill Trumpet","length":12595,"mode":"type"},{"id":"029","title":"Book V: Crookback - II: The Battle of Shoreby","length":12295,"mode":"type"},{"id":"030","title":"Book V: Crookback - III: The Battle of Shoreby (Concluded)","length":7600,"mode":"type"},{"id":"031","title":"Book V: Crookback - IV: The Sack of Shoreby","length":17434,"mode":"type"},{"id":"032","title":"Book V: Crookback - V: Night in the Woods: Alicia Risingham","length":13184,"mode":"type"},{"id":"033","title":"Book V: Crookback - VI: Night in the Woods (Concluded): Dick and Joan","length":16682,"mode":"type"},{"id":"034","title":"Book V: Crookback - VII: Dick's Revenge","length":6880,"mode":"type"},{"id":"035","title":"Book V: Crookback - VIII: Conclusion","length":4198,"mode":"type"},{"id":"036","title":"Endnotes","length":345,"mode":"hide"},{"id":"037","title":"Colophon","length":1102,"mode":"hide"},{"id":"038","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338207685}
+{
+  "id": "robert-louis-stevenson--the-black-arrow",
+  "title": "The Black Arrow",
+  "titleAlpha": "black arrow",
+  "author": "Robert Louis Stevenson",
+  "language": "en",
+  "description": "During the War of the Roses, a young knight must rescue his lady and find out who killed his father.",
+  "longDescription": [
+    "Richard \"Dick\" Shelton fights in the service of Sir Daniel, an unprincipled knight who continually changes sides in the War of the Roses. Dick helps a young lady, dressed as a man, who is escaping Sir Daniel's attempt to marry her off. In the meantime, Dick suspects that the man he serves had a hand in killing his father, and must figure out who his real friends are.",
+    "Robert Louis Stevenson first wrote this adventure and romance story in 1883, as a serial in a children's literary magazine. It was published as a single volume in 1888."
+  ],
+  "year": 1883,
+  "genres": [
+    "adventure",
+    "classics",
+    "coming-of-age",
+    "fiction",
+    "history",
+    "crime",
+    "romance"
+  ],
+  "topics": [
+    "knights",
+    "war",
+    "revenge"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-black-arrow"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Black Arrow",
+      "length": 27,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Prologue - John Amend-All",
+      "length": 28292,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Book I: The Two Lads - I: At the Sign of the Sun in Kettley",
+      "length": 15231,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Book I: The Two Lads - II: In the Fen",
+      "length": 10063,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book I: The Two Lads - III: The Fen Ferry",
+      "length": 12741,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Book I: The Two Lads - IV: A Greenwood Company",
+      "length": 13974,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Book I: The Two Lads - V: \"Bloody as the Hunter\"",
+      "length": 14915,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book I: The Two Lads - VI: To the Day's End",
+      "length": 12424,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Book I: The Two Lads - VII: The Hooded Face",
+      "length": 15326,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book II: The Moat House - I: Dick Asks Questions",
+      "length": 14825,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book II: The Moat House - II: The Two Oaths",
+      "length": 13224,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book II: The Moat House - III: The Room Over the Chapel",
+      "length": 11549,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book II: The Moat House - IV: The Passage",
+      "length": 8563,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book II: The Moat House - V: How Dick Changed Sides",
+      "length": 15061,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Book III: My Lord Foxham - I: The House by the Shore",
+      "length": 12946,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book III: My Lord Foxham - II: A Skirmish in the Dark",
+      "length": 11758,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book III: My Lord Foxham - III: St. Bride's Cross",
+      "length": 5852,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Book III: My Lord Foxham - IV: The \"Good Hope\"",
+      "length": 15768,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Book III: My Lord Foxham - V: The \"Good Hope\" (Continued)",
+      "length": 11216,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Book III: My Lord Foxham - VI: The \"Good Hope\" (Concluded)",
+      "length": 9528,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Book IV: The Disguise - I: The Den",
+      "length": 13380,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Book IV: The Disguise - II: \"In Mine Enemies' House\"",
+      "length": 16784,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Book IV: The Disguise - III: The Dead Spy",
+      "length": 13307,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Book IV: The Disguise - IV: In the Abbey Church",
+      "length": 16939,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Book IV: The Disguise - V: Earl Risingham",
+      "length": 6042,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Book IV: The Disguise - VI: Arblaster Again",
+      "length": 18964,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Book V: Crookback - I: The Shrill Trumpet",
+      "length": 12595,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Book V: Crookback - II: The Battle of Shoreby",
+      "length": 12295,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Book V: Crookback - III: The Battle of Shoreby (Concluded)",
+      "length": 7600,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Book V: Crookback - IV: The Sack of Shoreby",
+      "length": 17434,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Book V: Crookback - V: Night in the Woods: Alicia Risingham",
+      "length": 13184,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Book V: Crookback - VI: Night in the Woods (Concluded): Dick and Joan",
+      "length": 16682,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Book V: Crookback - VII: Dick's Revenge",
+      "length": 6880,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Book V: Crookback - VIII: Conclusion",
+      "length": 4198,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Endnotes",
+      "length": 345,
+      "mode": "hide"
+    },
+    {
+      "id": "037",
+      "title": "Colophon",
+      "length": 1102,
+      "mode": "hide"
+    },
+    {
+      "id": "038",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL24321949W",
+  "goodreadsId": "296264",
+  "rating": 0.76,
+  "popularity": 18921,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490080560
+}

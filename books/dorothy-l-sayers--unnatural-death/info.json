@@ -1,1 +1,212 @@
-{"id":"dorothy-l-sayers--unnatural-death","title":"Unnatural Death","titleAlpha":"unnatural death","author":"Dorothy L. Sayers","language":"en","description":"An amateur detective's investigation of the suspiciously-early death of an elderly lady triggers a series of deadly events.","longDescription":["Unnatural Death, published in 1927, is the third novel written by Dorothy L. Sayers featuring her aristocratic detective Lord Peter Wimsey.","The story begins with a conversation in a restaurant between Wimsey, his friend Detective Inspector Charles Parker, and a doctor who tells them about a situation he was involved in: an elderly lady, suffering from a slow-acting cancer, died suddenly and unexpectedly with no obvious immediate cause of death. She died intestate, but her great-niece, with whom she was living, was set to inherit the considerable estate. Suspecting something wrong, the doctor demanded an autopsy, which showed nothing unusual, but stirred up such local animosity that the he was forced to abandon his practice. Wimsey, sensing a mystery, decides to investigate - but his investigation triggers a series of deadly events.","One of the delights of the book is the introduction of a new character in Miss Alexandra Climpson, a middle-aged spinster whom Wimsey employs as an investigative agent, and whose effusive reports of the gossip she picks up in the town are very amusing.","Unnatural Death is notable for its inclusion of one clearly lesbian character - a decision unusual in detective fiction at the time - and the very sympathetic treatment by Wimsey of a black character (though offensively racist terms for him are used by others in the book).","An adaptation of the book was made for BBC radio in 1975."],"year":1927,"genres":["classics","crime","fiction","mystery"],"topics":["detective","murder"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/dorothy-l-sayers/unnatural-death"},"openlibraryId":"OL2234912W","goodreadsId":"199239","rating":0.8140000000000001,"popularity":28573,"cover":null,"free":false,"custom":false,"series":"Lord Peter Wimsey","part":3,"chapters":[{"id":"001","title":"Titlepage - Unnatural Death","length":22,"mode":"hide"},{"id":"002","title":"Imprint","length":1246,"mode":"hide"},{"id":"003","title":"Part I: The Medical Problem - I: Overheard","length":15591,"mode":"type"},{"id":"004","title":"Part I: The Medical Problem - II: Miching Mallecho","length":11662,"mode":"type"},{"id":"005","title":"Part I: The Medical Problem - III: A Use for Spinsters","length":20512,"mode":"type"},{"id":"006","title":"Part I: The Medical Problem - IV: A Bit Mental","length":15943,"mode":"type"},{"id":"007","title":"Part I: The Medical Problem - V: Gossip","length":16486,"mode":"type"},{"id":"008","title":"Part I: The Medical Problem - VI: Found Dead","length":28594,"mode":"type"},{"id":"009","title":"Part I: The Medical Problem - VII: Ham and Brandy","length":18271,"mode":"type"},{"id":"010","title":"Part I: The Medical Problem - VIII: Concerning Crime","length":16402,"mode":"type"},{"id":"011","title":"Part I: The Medical Problem - IX: The Will","length":10210,"mode":"type"},{"id":"012","title":"Part II: The Legal Problem - X: The Will Again","length":26385,"mode":"type"},{"id":"013","title":"Part II: The Legal Problem - XI: Crossroads","length":29132,"mode":"type"},{"id":"014","title":"Part II: The Legal Problem - XII: A Tale of Two Spinsters","length":18404,"mode":"type"},{"id":"015","title":"Part II: The Legal Problem - XIII: Hallelujah","length":13964,"mode":"type"},{"id":"016","title":"Part II: The Legal Problem - XIV: Sharp Quillets of the Law","length":20599,"mode":"type"},{"id":"017","title":"Part II: The Legal Problem - XV: Temptation of St. Peter","length":15744,"mode":"type"},{"id":"018","title":"Part II: The Legal Problem - XVI: A Cast-Iron Alibi","length":11423,"mode":"type"},{"id":"019","title":"Part II: The Legal Problem - XVII: The Country Lawyer's Story","length":18612,"mode":"type"},{"id":"020","title":"Part II: The Legal Problem - XVIII: The London Lawyer's Story","length":20910,"mode":"type"},{"id":"021","title":"Part III: The Medico-Legal Problem - XIX: Gone Away","length":27876,"mode":"type"},{"id":"022","title":"Part III: The Medico-Legal Problem - XX: Murder","length":16703,"mode":"type"},{"id":"023","title":"Part III: The Medico-Legal Problem - XXI: By What Means?","length":24044,"mode":"type"},{"id":"024","title":"Part III: The Medico-Legal Problem - XXII: A Case of Conscience","length":28831,"mode":"type"},{"id":"025","title":"Part III: The Medico-Legal Problem - XXIII: - And Smote Him, Thus","length":26608,"mode":"type"},{"id":"026","title":"List of Illustrations","length":234,"mode":"hide"},{"id":"027","title":"Colophon","length":933,"mode":"hide"},{"id":"028","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337647703}
+{
+  "id": "dorothy-l-sayers--unnatural-death",
+  "title": "Unnatural Death",
+  "titleAlpha": "unnatural death",
+  "author": "Dorothy L. Sayers",
+  "language": "en",
+  "description": "An amateur detective's investigation of the suspiciously-early death of an elderly lady triggers a series of deadly events.",
+  "longDescription": [
+    "Unnatural Death, published in 1927, is the third novel written by Dorothy L. Sayers featuring her aristocratic detective Lord Peter Wimsey.",
+    "The story begins with a conversation in a restaurant between Wimsey, his friend Detective Inspector Charles Parker, and a doctor who tells them about a situation he was involved in: an elderly lady, suffering from a slow-acting cancer, died suddenly and unexpectedly with no obvious immediate cause of death. She died intestate, but her great-niece, with whom she was living, was set to inherit the considerable estate. Suspecting something wrong, the doctor demanded an autopsy, which showed nothing unusual, but stirred up such local animosity that the he was forced to abandon his practice. Wimsey, sensing a mystery, decides to investigate - but his investigation triggers a series of deadly events.",
+    "One of the delights of the book is the introduction of a new character in Miss Alexandra Climpson, a middle-aged spinster whom Wimsey employs as an investigative agent, and whose effusive reports of the gossip she picks up in the town are very amusing.",
+    "Unnatural Death is notable for its inclusion of one clearly lesbian character - a decision unusual in detective fiction at the time - and the very sympathetic treatment by Wimsey of a black character (though offensively racist terms for him are used by others in the book).",
+    "An adaptation of the book was made for BBC radio in 1975."
+  ],
+  "year": 1927,
+  "genres": [
+    "classics",
+    "crime",
+    "fiction",
+    "mystery"
+  ],
+  "topics": [
+    "detective",
+    "murder"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Lord Peter Wimsey",
+  "part": 3,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/dorothy-l-sayers/unnatural-death"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Unnatural Death",
+      "length": 22,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1246,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Part I: The Medical Problem - I: Overheard",
+      "length": 15591,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Part I: The Medical Problem - II: Miching Mallecho",
+      "length": 11662,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Part I: The Medical Problem - III: A Use for Spinsters",
+      "length": 20512,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Part I: The Medical Problem - IV: A Bit Mental",
+      "length": 15943,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Part I: The Medical Problem - V: Gossip",
+      "length": 16486,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Part I: The Medical Problem - VI: Found Dead",
+      "length": 28594,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Part I: The Medical Problem - VII: Ham and Brandy",
+      "length": 18271,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Part I: The Medical Problem - VIII: Concerning Crime",
+      "length": 16402,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Part I: The Medical Problem - IX: The Will",
+      "length": 10210,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Part II: The Legal Problem - X: The Will Again",
+      "length": 26385,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Part II: The Legal Problem - XI: Crossroads",
+      "length": 29132,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Part II: The Legal Problem - XII: A Tale of Two Spinsters",
+      "length": 18404,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Part II: The Legal Problem - XIII: Hallelujah",
+      "length": 13964,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Part II: The Legal Problem - XIV: Sharp Quillets of the Law",
+      "length": 20599,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Part II: The Legal Problem - XV: Temptation of St. Peter",
+      "length": 15744,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Part II: The Legal Problem - XVI: A Cast-Iron Alibi",
+      "length": 11423,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Part II: The Legal Problem - XVII: The Country Lawyer's Story",
+      "length": 18612,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Part II: The Legal Problem - XVIII: The London Lawyer's Story",
+      "length": 20910,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Part III: The Medico-Legal Problem - XIX: Gone Away",
+      "length": 27876,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Part III: The Medico-Legal Problem - XX: Murder",
+      "length": 16703,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Part III: The Medico-Legal Problem - XXI: By What Means?",
+      "length": 24044,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Part III: The Medico-Legal Problem - XXII: A Case of Conscience",
+      "length": 28831,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Part III: The Medico-Legal Problem - XXIII: - And Smote Him, Thus",
+      "length": 26608,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "List of Illustrations",
+      "length": 234,
+      "mode": "hide"
+    },
+    {
+      "id": "027",
+      "title": "Colophon",
+      "length": 933,
+      "mode": "hide"
+    },
+    {
+      "id": "028",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL2234912W",
+  "goodreadsId": "199239",
+  "rating": 0.8140000000000001,
+  "popularity": 28573,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721337647703
+}

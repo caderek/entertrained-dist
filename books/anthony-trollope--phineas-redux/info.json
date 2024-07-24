@@ -1,1 +1,547 @@
-{"id":"anthony-trollope--phineas-redux","title":"Phineas Redux","titleAlpha":"phineas redux","author":"Anthony Trollope","language":"en","description":"A young Irishman returns to parliamentary life only to encounter obstacles which threaten to bring his aspirations to an untimely end.","longDescription":["At the end of Phineas Finn, the second of Anthony Trollope's Palliser series, Phineas has abandoned his parliamentary career, accepted a sinecure in the civil service in Dublin, and married his Irish sweetheart. As Phineas Redux begins, he is a widower and tired of Dublin life.","Fortunately for him, his friends in London believe he might be enticed back to take a role as a member of Parliament in the face of the latest political crisis. Phineas answers the call - but all does not turn out as planned. His friends welcome him back, but even this involves serious social complications. And, it transpires, even the likable Phineas Finn has political enemies who wish to spoil his return to public life. Along the way, Phineas continues to deepen his understanding of both personal and public politics.","As in The Eustace Diamonds, Trollope weaves high drama into his plot, but refuses to keep secrets from his readers. Far from having a dampening effect on the tension, the focus of Trollope's art directs his readers' attention to the psychological conflicts that arise.","At this point in the series, something of Trollope's own political disappointments begin to cast a shadow over the maneuvers and machinations of both local and parliamentary politics. There is still a nobility about public service, though, of which Trollope never loses sight, and which will play a larger role as the series moves towards its conclusion."],"year":1874,"genres":["classics","crime","fiction","psychological","suspense"],"topics":["politics"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/anthony-trollope/phineas-redux"},"openlibraryId":"OL109870W","goodreadsId":"837089","rating":0.8160000000000001,"popularity":2767,"cover":null,"free":false,"custom":false,"series":"Palliser","part":4,"chapters":[{"id":"001","title":"Titlepage - Phineas Redux","length":21,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I: Temptation","length":25255,"mode":"type"},{"id":"004","title":"II: Harrington Hall","length":22250,"mode":"type"},{"id":"005","title":"III: Gerard Maule","length":9317,"mode":"type"},{"id":"006","title":"IV: Tankerville","length":13518,"mode":"type"},{"id":"007","title":"V: Mr. Daubeny's Great Move","length":25233,"mode":"type"},{"id":"008","title":"VI: Phineas and His Old Friends","length":18635,"mode":"type"},{"id":"009","title":"VII: Coming Home from Hunting","length":14162,"mode":"type"},{"id":"010","title":"VIII: The Address","length":15098,"mode":"type"},{"id":"011","title":"IX: The Debate","length":10209,"mode":"type"},{"id":"012","title":"X: The Deserted Husband","length":23042,"mode":"type"},{"id":"013","title":"XI: The Truant Wife","length":13942,"mode":"type"},{"id":"014","title":"XII: Konigstein","length":22591,"mode":"type"},{"id":"015","title":"XIII: \"I Have Got the Seat\"","length":18033,"mode":"type"},{"id":"016","title":"XIV: Trumpeton Wood","length":15613,"mode":"type"},{"id":"017","title":"XV: \"How Well You Knew!\"","length":10008,"mode":"type"},{"id":"018","title":"XVI: Copperhouse Cross and Broughton Spinnies","length":27013,"mode":"type"},{"id":"019","title":"XVII: Madame Goesler's Story","length":11296,"mode":"type"},{"id":"020","title":"XVIII: Spooner of Spoon Hall","length":16713,"mode":"type"},{"id":"021","title":"XIX: Something Out of the Way","length":18093,"mode":"type"},{"id":"022","title":"XX: Phineas Again in London","length":22819,"mode":"type"},{"id":"023","title":"XXI: Mr. Maule, Senior","length":23063,"mode":"type"},{"id":"024","title":"XXII: \"Purity of Morals, Finn\"","length":17980,"mode":"type"},{"id":"025","title":"XXIII: Macpherson's Hotel","length":17786,"mode":"type"},{"id":"026","title":"XXIV: Madame Goesler Is Sent For","length":11467,"mode":"type"},{"id":"027","title":"XXV: \"I Would Do It Now\"","length":17433,"mode":"type"},{"id":"028","title":"XXVI: The Duke's Will","length":11668,"mode":"type"},{"id":"029","title":"XXVII: An Editor's Wrath","length":17319,"mode":"type"},{"id":"030","title":"XXVIII: The First Thunderbolt","length":24639,"mode":"type"},{"id":"031","title":"XXIX: The Spooner Correspondence","length":18076,"mode":"type"},{"id":"032","title":"XXX: Regrets","length":17648,"mode":"type"},{"id":"033","title":"XXXI: The Duke and Duchess in Town","length":11044,"mode":"type"},{"id":"034","title":"XXXII: The World Becomes Cold","length":23381,"mode":"type"},{"id":"035","title":"XXXIII: The Two Gladiators","length":26394,"mode":"type"},{"id":"036","title":"XXXIV: The Universe","length":19081,"mode":"type"},{"id":"037","title":"XXXV: Political Venom","length":14140,"mode":"type"},{"id":"038","title":"XXXVI: Seventy-Two","length":14138,"mode":"type"},{"id":"039","title":"XXXVII: The Conspiracy","length":23526,"mode":"type"},{"id":"040","title":"XXXVIII: Once Again in Portman Square","length":13737,"mode":"type"},{"id":"041","title":"XXXIX: Cagliostro","length":15318,"mode":"type"},{"id":"042","title":"XL: The Prime Minister Is Hard Pressed","length":19074,"mode":"type"},{"id":"043","title":"XLI: \"I Hope I'm Not Distrusted\"","length":14178,"mode":"type"},{"id":"044","title":"XLII: Boulogne","length":20303,"mode":"type"},{"id":"045","title":"XLIII: The Second Thunderbolt","length":14121,"mode":"type"},{"id":"046","title":"XLIV: The Browborough Trial","length":22547,"mode":"type"},{"id":"047","title":"XLV: Some Passages in the Life of Mr. Emilius","length":18209,"mode":"type"},{"id":"048","title":"XLVI: The Quarrel","length":19971,"mode":"type"},{"id":"049","title":"XLVII: What Came of the Quarrel","length":17052,"mode":"type"},{"id":"050","title":"XLVIII: Mr. Maule's Attempt","length":16338,"mode":"type"},{"id":"051","title":"XLIX: Showing What Mrs. Bunce Said to the Policeman","length":18184,"mode":"type"},{"id":"052","title":"L: What the Lords and Commons Said About the Murder","length":11836,"mode":"type"},{"id":"053","title":"LI: \"You Think It Shameful\"","length":17019,"mode":"type"},{"id":"054","title":"LII: Mr. Kennedy's Will","length":22630,"mode":"type"},{"id":"055","title":"LIII: None but the Brave Deserve the Fair","length":22807,"mode":"type"},{"id":"056","title":"LIV: The Duchess Takes Counsel","length":17084,"mode":"type"},{"id":"057","title":"LV: Phineas in Prison","length":18951,"mode":"type"},{"id":"058","title":"LVI: The Meager Family","length":10072,"mode":"type"},{"id":"059","title":"LVII: The Beginning of the Search for the Key and the Coat","length":14542,"mode":"type"},{"id":"060","title":"LVIII: The Two Dukes","length":15616,"mode":"type"},{"id":"061","title":"LIX: Mrs. Bonteen","length":17470,"mode":"type"},{"id":"062","title":"LX: Two Days Before the Trial","length":23865,"mode":"type"},{"id":"063","title":"LXI: The Beginning of the Trial","length":20275,"mode":"type"},{"id":"064","title":"LXII: Lord Fawn's Evidence","length":17698,"mode":"type"},{"id":"065","title":"LXIII: Mr. Chaffanbrass for the Defence","length":18245,"mode":"type"},{"id":"066","title":"LXIV: Confusion in the Court","length":15686,"mode":"type"},{"id":"067","title":"LXV: \"I Hate Her!\"","length":11115,"mode":"type"},{"id":"068","title":"LXVI: The Foreign Bludgeon","length":11997,"mode":"type"},{"id":"069","title":"LXVII: The Verdict","length":30744,"mode":"type"},{"id":"070","title":"LXVIII: Phineas After the Trial","length":17218,"mode":"type"},{"id":"071","title":"LXIX: The Duke's First Cousin","length":21848,"mode":"type"},{"id":"072","title":"LXX: \"I Will Not Go to Loughlinter\"","length":24443,"mode":"type"},{"id":"073","title":"LXXI: Phineas Finn Is Reelected","length":13766,"mode":"type"},{"id":"074","title":"LXXII: The End of the Story of Mr. Emilius and Lady Eustace","length":11369,"mode":"type"},{"id":"075","title":"LXXIII: Phineas Finn Returns to His Duties","length":14721,"mode":"type"},{"id":"076","title":"LXXIV: At Matching","length":20151,"mode":"type"},{"id":"077","title":"LXXV: The Trumpeton Feud Is Settled","length":12176,"mode":"type"},{"id":"078","title":"LXXVI: Madame Goesler's Legacy","length":22861,"mode":"type"},{"id":"079","title":"LXXVII: Phineas Finn's Success","length":23491,"mode":"type"},{"id":"080","title":"LXXVIII: The Last Visit to Saulsby","length":19139,"mode":"type"},{"id":"081","title":"LXXIX: At Last - At Last","length":13503,"mode":"type"},{"id":"082","title":"LXXX: Conclusion","length":6608,"mode":"type"},{"id":"083","title":"Colophon","length":1028,"mode":"hide"},{"id":"084","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337521628}
+{
+  "id": "anthony-trollope--phineas-redux",
+  "title": "Phineas Redux",
+  "titleAlpha": "phineas redux",
+  "author": "Anthony Trollope",
+  "language": "en",
+  "description": "A young Irishman returns to parliamentary life only to encounter obstacles which threaten to bring his aspirations to an untimely end.",
+  "longDescription": [
+    "At the end of Phineas Finn, the second of Anthony Trollope's Palliser series, Phineas has abandoned his parliamentary career, accepted a sinecure in the civil service in Dublin, and married his Irish sweetheart. As Phineas Redux begins, he is a widower and tired of Dublin life.",
+    "Fortunately for him, his friends in London believe he might be enticed back to take a role as a member of Parliament in the face of the latest political crisis. Phineas answers the call - but all does not turn out as planned. His friends welcome him back, but even this involves serious social complications. And, it transpires, even the likable Phineas Finn has political enemies who wish to spoil his return to public life. Along the way, Phineas continues to deepen his understanding of both personal and public politics.",
+    "As in The Eustace Diamonds, Trollope weaves high drama into his plot, but refuses to keep secrets from his readers. Far from having a dampening effect on the tension, the focus of Trollope's art directs his readers' attention to the psychological conflicts that arise.",
+    "At this point in the series, something of Trollope's own political disappointments begin to cast a shadow over the maneuvers and machinations of both local and parliamentary politics. There is still a nobility about public service, though, of which Trollope never loses sight, and which will play a larger role as the series moves towards its conclusion."
+  ],
+  "year": 1874,
+  "genres": [
+    "classics",
+    "crime",
+    "fiction",
+    "psychological",
+    "suspense"
+  ],
+  "topics": [
+    "politics"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Palliser",
+  "part": 4,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/anthony-trollope/phineas-redux"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Phineas Redux",
+      "length": 21,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: Temptation",
+      "length": 25255,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: Harrington Hall",
+      "length": 22250,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: Gerard Maule",
+      "length": 9317,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: Tankerville",
+      "length": 13518,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: Mr. Daubeny's Great Move",
+      "length": 25233,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: Phineas and His Old Friends",
+      "length": 18635,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: Coming Home from Hunting",
+      "length": 14162,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: The Address",
+      "length": 15098,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: The Debate",
+      "length": 10209,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: The Deserted Husband",
+      "length": 23042,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: The Truant Wife",
+      "length": 13942,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: Konigstein",
+      "length": 22591,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: \"I Have Got the Seat\"",
+      "length": 18033,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: Trumpeton Wood",
+      "length": 15613,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: \"How Well You Knew!\"",
+      "length": 10008,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI: Copperhouse Cross and Broughton Spinnies",
+      "length": 27013,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII: Madame Goesler's Story",
+      "length": 11296,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII: Spooner of Spoon Hall",
+      "length": 16713,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX: Something Out of the Way",
+      "length": 18093,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX: Phineas Again in London",
+      "length": 22819,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI: Mr. Maule, Senior",
+      "length": 23063,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII: \"Purity of Morals, Finn\"",
+      "length": 17980,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII: Macpherson's Hotel",
+      "length": 17786,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV: Madame Goesler Is Sent For",
+      "length": 11467,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXV: \"I Would Do It Now\"",
+      "length": 17433,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXVI: The Duke's Will",
+      "length": 11668,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVII: An Editor's Wrath",
+      "length": 17319,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVIII: The First Thunderbolt",
+      "length": 24639,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXIX: The Spooner Correspondence",
+      "length": 18076,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXX: Regrets",
+      "length": 17648,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXXI: The Duke and Duchess in Town",
+      "length": 11044,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXXII: The World Becomes Cold",
+      "length": 23381,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXIII: The Two Gladiators",
+      "length": 26394,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXIV: The Universe",
+      "length": 19081,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXV: Political Venom",
+      "length": 14140,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXVI: Seventy-Two",
+      "length": 14138,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXVII: The Conspiracy",
+      "length": 23526,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXVIII: Once Again in Portman Square",
+      "length": 13737,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XXXIX: Cagliostro",
+      "length": 15318,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XL: The Prime Minister Is Hard Pressed",
+      "length": 19074,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XLI: \"I Hope I'm Not Distrusted\"",
+      "length": 14178,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XLII: Boulogne",
+      "length": 20303,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XLIII: The Second Thunderbolt",
+      "length": 14121,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "XLIV: The Browborough Trial",
+      "length": 22547,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "XLV: Some Passages in the Life of Mr. Emilius",
+      "length": 18209,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "XLVI: The Quarrel",
+      "length": 19971,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "XLVII: What Came of the Quarrel",
+      "length": 17052,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "XLVIII: Mr. Maule's Attempt",
+      "length": 16338,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "XLIX: Showing What Mrs. Bunce Said to the Policeman",
+      "length": 18184,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "L: What the Lords and Commons Said About the Murder",
+      "length": 11836,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "LI: \"You Think It Shameful\"",
+      "length": 17019,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "LII: Mr. Kennedy's Will",
+      "length": 22630,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "LIII: None but the Brave Deserve the Fair",
+      "length": 22807,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "LIV: The Duchess Takes Counsel",
+      "length": 17084,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "LV: Phineas in Prison",
+      "length": 18951,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "LVI: The Meager Family",
+      "length": 10072,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "LVII: The Beginning of the Search for the Key and the Coat",
+      "length": 14542,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "LVIII: The Two Dukes",
+      "length": 15616,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "LIX: Mrs. Bonteen",
+      "length": 17470,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "LX: Two Days Before the Trial",
+      "length": 23865,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "LXI: The Beginning of the Trial",
+      "length": 20275,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "LXII: Lord Fawn's Evidence",
+      "length": 17698,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "LXIII: Mr. Chaffanbrass for the Defence",
+      "length": 18245,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "LXIV: Confusion in the Court",
+      "length": 15686,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "LXV: \"I Hate Her!\"",
+      "length": 11115,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "LXVI: The Foreign Bludgeon",
+      "length": 11997,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "LXVII: The Verdict",
+      "length": 30744,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "LXVIII: Phineas After the Trial",
+      "length": 17218,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "LXIX: The Duke's First Cousin",
+      "length": 21848,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "LXX: \"I Will Not Go to Loughlinter\"",
+      "length": 24443,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "LXXI: Phineas Finn Is Reelected",
+      "length": 13766,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "LXXII: The End of the Story of Mr. Emilius and Lady Eustace",
+      "length": 11369,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "LXXIII: Phineas Finn Returns to His Duties",
+      "length": 14721,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "LXXIV: At Matching",
+      "length": 20151,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "LXXV: The Trumpeton Feud Is Settled",
+      "length": 12176,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "LXXVI: Madame Goesler's Legacy",
+      "length": 22861,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "LXXVII: Phineas Finn's Success",
+      "length": 23491,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "LXXVIII: The Last Visit to Saulsby",
+      "length": 19139,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "LXXIX: At Last - At Last",
+      "length": 13503,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "LXXX: Conclusion",
+      "length": 6608,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "Colophon",
+      "length": 1028,
+      "mode": "hide"
+    },
+    {
+      "id": "084",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL109870W",
+  "goodreadsId": "837089",
+  "rating": 0.8160000000000001,
+  "popularity": 2767,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721337521628
+}

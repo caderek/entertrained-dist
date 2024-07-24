@@ -1,1 +1,228 @@
-{"id":"h-beam-piper--space-viking","title":"Space Viking","titleAlpha":"space viking","author":"H. Beam Piper","language":"en","description":"A tragic starfarer seeks revenge in this epic space opera.","longDescription":["Initially serialized in Analog magazine between 1962 and 1963, Space Viking takes place after the events of H. Beam Piper's earlier serialization, The Cosmic Computer. Space Viking is a classic space opera: what begins as an interstellar tale of revenge turns into a swashbuckling adventure yarn, and finally into a meditation on empire-building and galactic governance with direct allusions to our modern history.","This richness of content makes Space Viking a unique read. The reader begins by expecting a lighter sci-fi adventure, and early on the plot delivers; but as events transpire, the reader is deftly drawn away from action scenes and into a more nuanced discussion on governance and human nature."],"year":1962,"genres":["classics","fiction","science-fiction"],"topics":["revenge","space","warfare"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/h-beam-piper/space-viking"},"openlibraryId":"OL579067W","goodreadsId":"2113938","rating":0.752,"popularity":1929,"cover":null,"free":false,"custom":false,"series":"Federation","part":4,"chapters":[{"id":"001","title":"Titlepage - Space Viking","length":18,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I","length":9008,"mode":"type"},{"id":"004","title":"II","length":10982,"mode":"type"},{"id":"005","title":"III","length":8258,"mode":"type"},{"id":"006","title":"IV","length":8663,"mode":"type"},{"id":"007","title":"V","length":10176,"mode":"type"},{"id":"008","title":"VI","length":15913,"mode":"type"},{"id":"009","title":"VII","length":11820,"mode":"type"},{"id":"010","title":"VIII","length":14566,"mode":"type"},{"id":"011","title":"IX","length":18612,"mode":"type"},{"id":"012","title":"X","length":9411,"mode":"type"},{"id":"013","title":"XI","length":9728,"mode":"type"},{"id":"014","title":"XII","length":17529,"mode":"type"},{"id":"015","title":"XIII","length":7478,"mode":"type"},{"id":"016","title":"XIV","length":15862,"mode":"type"},{"id":"017","title":"XV","length":14341,"mode":"type"},{"id":"018","title":"XVI","length":14751,"mode":"type"},{"id":"019","title":"XVII","length":15270,"mode":"type"},{"id":"020","title":"XVIII","length":13686,"mode":"type"},{"id":"021","title":"XIX","length":12324,"mode":"type"},{"id":"022","title":"XX","length":18508,"mode":"type"},{"id":"023","title":"XXI","length":16850,"mode":"type"},{"id":"024","title":"XXII","length":15422,"mode":"type"},{"id":"025","title":"XXIII","length":19029,"mode":"type"},{"id":"026","title":"XXIV","length":13279,"mode":"type"},{"id":"027","title":"XXV","length":23456,"mode":"type"},{"id":"028","title":"XXVI","length":14341,"mode":"type"},{"id":"029","title":"XXVII","length":20256,"mode":"type"},{"id":"030","title":"Colophon","length":1093,"mode":"hide"},{"id":"031","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337836378}
+{
+  "id": "h-beam-piper--space-viking",
+  "title": "Space Viking",
+  "titleAlpha": "space viking",
+  "author": "H. Beam Piper",
+  "language": "en",
+  "description": "A tragic starfarer seeks revenge in this epic space opera.",
+  "longDescription": [
+    "Initially serialized in Analog magazine between 1962 and 1963, Space Viking takes place after the events of H. Beam Piper's earlier serialization, The Cosmic Computer. Space Viking is a classic space opera: what begins as an interstellar tale of revenge turns into a swashbuckling adventure yarn, and finally into a meditation on empire-building and galactic governance with direct allusions to our modern history.",
+    "This richness of content makes Space Viking a unique read. The reader begins by expecting a lighter sci-fi adventure, and early on the plot delivers; but as events transpire, the reader is deftly drawn away from action scenes and into a more nuanced discussion on governance and human nature."
+  ],
+  "year": 1962,
+  "genres": [
+    "classics",
+    "fiction",
+    "science-fiction",
+    "adventure"
+  ],
+  "topics": [
+    "revenge",
+    "space",
+    "warfare"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Federation",
+  "part": 4,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/h-beam-piper/space-viking"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Space Viking",
+      "length": 18,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I",
+      "length": 9008,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II",
+      "length": 10982,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III",
+      "length": 8258,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV",
+      "length": 8663,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V",
+      "length": 10176,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI",
+      "length": 15913,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII",
+      "length": 11820,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII",
+      "length": 14566,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX",
+      "length": 18612,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X",
+      "length": 9411,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI",
+      "length": 9728,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII",
+      "length": 17529,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII",
+      "length": 7478,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV",
+      "length": 15862,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV",
+      "length": 14341,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI",
+      "length": 14751,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII",
+      "length": 15270,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII",
+      "length": 13686,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX",
+      "length": 12324,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX",
+      "length": 18508,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI",
+      "length": 16850,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII",
+      "length": 15422,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII",
+      "length": 19029,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV",
+      "length": 13279,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXV",
+      "length": 23456,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXVI",
+      "length": 14341,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVII",
+      "length": 20256,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Colophon",
+      "length": 1093,
+      "mode": "hide"
+    },
+    {
+      "id": "031",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL579067W",
+  "goodreadsId": "2113938",
+  "rating": 0.752,
+  "popularity": 1929,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489738025
+}

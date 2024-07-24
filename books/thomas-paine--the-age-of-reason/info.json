@@ -1,1 +1,256 @@
-{"id":"thomas-paine--the-age-of-reason","title":"The Age of Reason","titleAlpha":"age of reason","author":"Thomas Paine","language":"en","description":"Paine argues against the legitimacy of the Bible and institutional religion.","longDescription":["The Age of Reason is an important work in the American Deist movement. Paine worked on it continually for more than a decade, publishing it in three parts from 1794 through 1807. It quickly became a best-seller in post-Revolution America, spurring a revival in Deism as an alternative to the prevailing Christian influence.","In clear, simple, and often funny language, Paine attempts to dissect the Bible's supposed inaccuracies and hypocrisies. He portrays the Bible as a human construct, full of illogic, errors, and internal inconsistencies, as opposed to it being a text born of divine inspiration. On those arguments he pivots to decrying not just Christianity, but organized religion as a whole, as a human invention created to terrorize and enslave. Instead of accepting organized religion, he states that \"his mind is his own church\" and that man must embrace reason.","While these arguments weren't new to the wealthy and educated class of the era, they were new to the poor masses. The book was at first distributed as cheap unbound pamphlets, making it easily accessible to the poor; and Paine's simple language was written in way the poor could understand and sympathize with. This made the powerful very nervous, and, fearing that the book could cause a potential revolution, Paine and his publishers were suppressed.","Paine wrote The Age of Reason while living in Paris. In France, its thesis wasn't revolutionary enough for the bloodthirsty Jacobins; he was imprisoned there for ten months and only escaped execution through a stroke of luck. Meanwhile in Britain, the government considered the pamphlets seditious. British booksellers and publishers involved in printing and distributing the pamphlets were repeatedly tried for seditious and blasphemous libel, with some even receiving sentences of hard labor.","Paine began writing Part III after escaping France for America, but even the American elite thought the book too scandalous, with Thomas Jefferson - himself a Deist - advising Paine not to publish. Paine listened to Jefferson's advice and held off publishing Part III for five years before publishing extracts as separate pamphlets. For that reason, Part III is not a concrete publication, but rather an arrangement of several loosely-related pamphlets organized at the discretion of an edition's editor.","Once it was in the hands of Americans, it sparked a revival in Deism in the United States before being viciously attacked from all sides. Paine earned a reputation as an agitator and blasphemer that stuck to him for the rest of his life.","Despite The Age of Reason's harsh reception - or perhaps, because of it, and the controversy and discussion it caused - it achieved a popularity in England, France, and America that gave it incredible influence in those nation's perspectives on organized religion."],"year":1794,"genres":["classics","philosophy","science"],"topics":["politics","religion"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason"},"openlibraryId":"OL266832W","goodreadsId":"7153641","rating":0.8240000000000001,"popularity":9000,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Age of Reason","length":17,"mode":"hide"},{"id":"002","title":"Imprint","length":1176,"mode":"hide"},{"id":"003","title":"Editor's Introduction - With Some Results of Recent Researches","length":40068,"mode":"type"},{"id":"004","title":"Part I - I: The Author's Profession of Faith","length":3780,"mode":"type"},{"id":"005","title":"Part I - II: Of Missions and Revelations","length":5344,"mode":"type"},{"id":"006","title":"Part I - III: Concerning the Character of Jesus Christ, and His History","length":4485,"mode":"type"},{"id":"007","title":"Part I - IV: Of the Bases of Christianity","length":3549,"mode":"type"},{"id":"008","title":"Part I - V: Examination in Detail of the Preceding Bases","length":2448,"mode":"type"},{"id":"009","title":"Part I - VI: Of the True Theology","length":1262,"mode":"type"},{"id":"010","title":"Part I - VII: Examination of the Old Testament","length":11590,"mode":"type"},{"id":"011","title":"Part I - VIII: Of the New Testament","length":12355,"mode":"type"},{"id":"012","title":"Part I - IX: In What the True Revelation Consists","length":3524,"mode":"type"},{"id":"013","title":"Part I - X: Concerning God, and the Lights Cast on His Existence and Attributes by the Bible","length":6062,"mode":"type"},{"id":"014","title":"Part I - XI: Of the Theology of the Christians; and the True Theology","length":10761,"mode":"type"},{"id":"015","title":"Part I - XII: The Effects of Christianism on Education; Proposed Reforms","length":11105,"mode":"type"},{"id":"016","title":"Part I - XIII: Comparison of Christianism with the Religious Ideas Inspired by Nature","length":11770,"mode":"type"},{"id":"017","title":"Part I - XIV: System of the Universe","length":5273,"mode":"type"},{"id":"018","title":"Part I - XV: Advantages of the Existence of Many Worlds in Each Solar System","length":2599,"mode":"type"},{"id":"019","title":"Part I - XVI: Application of the Preceding to the System of the Christians","length":3289,"mode":"type"},{"id":"020","title":"Part I - XVII: Of the Means Employed in All Time, and Almost Universally, to Deceive the Peoples","length":15911,"mode":"type"},{"id":"021","title":"Part I - Recapitulation","length":2179,"mode":"type"},{"id":"022","title":"Part II - Preface","length":6797,"mode":"skip"},{"id":"023","title":"Part II - I: The Old Testament","length":124024,"mode":"type"},{"id":"024","title":"Part II - II: The New Testament","length":58534,"mode":"type"},{"id":"025","title":"Part II - III: Conclusion","length":22762,"mode":"type"},{"id":"026","title":"Part III - To the Ministers and Preachers of All Denominations of Religion","length":4483,"mode":"type"},{"id":"027","title":"Part III - An Essay on Dreams","length":66621,"mode":"type"},{"id":"028","title":"Part III - An Examination of the Passages in the New Testament - The Book of Mark","length":6486,"mode":"type"},{"id":"029","title":"Part III - An Examination of the Passages in the New Testament - The Book of Luke","length":3070,"mode":"type"},{"id":"030","title":"Part III - An Examination of the Passages in the New Testament - The Book of John","length":34373,"mode":"type"},{"id":"031","title":"Part III - Contradictory Doctrines Between Matthew and Mark","length":3128,"mode":"type"},{"id":"032","title":"Part III - Private Thoughts of a Future State","length":3158,"mode":"type"},{"id":"033","title":"Endnotes","length":44924,"mode":"hide"},{"id":"034","title":"Colophon","length":1087,"mode":"hide"},{"id":"035","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338290049}
+{
+  "id": "thomas-paine--the-age-of-reason",
+  "title": "The Age of Reason",
+  "titleAlpha": "age of reason",
+  "author": "Thomas Paine",
+  "language": "en",
+  "description": "Paine argues against the legitimacy of the Bible and institutional religion.",
+  "longDescription": [
+    "The Age of Reason is an important work in the American Deist movement. Paine worked on it continually for more than a decade, publishing it in three parts from 1794 through 1807. It quickly became a best-seller in post-Revolution America, spurring a revival in Deism as an alternative to the prevailing Christian influence.",
+    "In clear, simple, and often funny language, Paine attempts to dissect the Bible's supposed inaccuracies and hypocrisies. He portrays the Bible as a human construct, full of illogic, errors, and internal inconsistencies, as opposed to it being a text born of divine inspiration. On those arguments he pivots to decrying not just Christianity, but organized religion as a whole, as a human invention created to terrorize and enslave. Instead of accepting organized religion, he states that \"his mind is his own church\" and that man must embrace reason.",
+    "While these arguments weren't new to the wealthy and educated class of the era, they were new to the poor masses. The book was at first distributed as cheap unbound pamphlets, making it easily accessible to the poor; and Paine's simple language was written in way the poor could understand and sympathize with. This made the powerful very nervous, and, fearing that the book could cause a potential revolution, Paine and his publishers were suppressed.",
+    "Paine wrote The Age of Reason while living in Paris. In France, its thesis wasn't revolutionary enough for the bloodthirsty Jacobins; he was imprisoned there for ten months and only escaped execution through a stroke of luck. Meanwhile in Britain, the government considered the pamphlets seditious. British booksellers and publishers involved in printing and distributing the pamphlets were repeatedly tried for seditious and blasphemous libel, with some even receiving sentences of hard labor.",
+    "Paine began writing Part III after escaping France for America, but even the American elite thought the book too scandalous, with Thomas Jefferson - himself a Deist - advising Paine not to publish. Paine listened to Jefferson's advice and held off publishing Part III for five years before publishing extracts as separate pamphlets. For that reason, Part III is not a concrete publication, but rather an arrangement of several loosely-related pamphlets organized at the discretion of an edition's editor.",
+    "Once it was in the hands of Americans, it sparked a revival in Deism in the United States before being viciously attacked from all sides. Paine earned a reputation as an agitator and blasphemer that stuck to him for the rest of his life.",
+    "Despite The Age of Reason's harsh reception - or perhaps, because of it, and the controversy and discussion it caused - it achieved a popularity in England, France, and America that gave it incredible influence in those nation's perspectives on organized religion."
+  ],
+  "year": 1794,
+  "genres": [
+    "classics",
+    "philosophy",
+    "science",
+    "nonfiction"
+  ],
+  "topics": [
+    "politics",
+    "religion"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Age of Reason",
+      "length": 17,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Editor's Introduction - With Some Results of Recent Researches",
+      "length": 40068,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Part I - I: The Author's Profession of Faith",
+      "length": 3780,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Part I - II: Of Missions and Revelations",
+      "length": 5344,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Part I - III: Concerning the Character of Jesus Christ, and His History",
+      "length": 4485,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Part I - IV: Of the Bases of Christianity",
+      "length": 3549,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Part I - V: Examination in Detail of the Preceding Bases",
+      "length": 2448,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Part I - VI: Of the True Theology",
+      "length": 1262,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Part I - VII: Examination of the Old Testament",
+      "length": 11590,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Part I - VIII: Of the New Testament",
+      "length": 12355,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Part I - IX: In What the True Revelation Consists",
+      "length": 3524,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Part I - X: Concerning God, and the Lights Cast on His Existence and Attributes by the Bible",
+      "length": 6062,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Part I - XI: Of the Theology of the Christians; and the True Theology",
+      "length": 10761,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Part I - XII: The Effects of Christianism on Education; Proposed Reforms",
+      "length": 11105,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Part I - XIII: Comparison of Christianism with the Religious Ideas Inspired by Nature",
+      "length": 11770,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Part I - XIV: System of the Universe",
+      "length": 5273,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Part I - XV: Advantages of the Existence of Many Worlds in Each Solar System",
+      "length": 2599,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Part I - XVI: Application of the Preceding to the System of the Christians",
+      "length": 3289,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Part I - XVII: Of the Means Employed in All Time, and Almost Universally, to Deceive the Peoples",
+      "length": 15911,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Part I - Recapitulation",
+      "length": 2179,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Part II - Preface",
+      "length": 6797,
+      "mode": "skip"
+    },
+    {
+      "id": "023",
+      "title": "Part II - I: The Old Testament",
+      "length": 124024,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Part II - II: The New Testament",
+      "length": 58534,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Part II - III: Conclusion",
+      "length": 22762,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Part III - To the Ministers and Preachers of All Denominations of Religion",
+      "length": 4483,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Part III - An Essay on Dreams",
+      "length": 66621,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Part III - An Examination of the Passages in the New Testament - The Book of Mark",
+      "length": 6486,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Part III - An Examination of the Passages in the New Testament - The Book of Luke",
+      "length": 3070,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Part III - An Examination of the Passages in the New Testament - The Book of John",
+      "length": 34373,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Part III - Contradictory Doctrines Between Matthew and Mark",
+      "length": 3128,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Part III - Private Thoughts of a Future State",
+      "length": 3158,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Endnotes",
+      "length": 44924,
+      "mode": "hide"
+    },
+    {
+      "id": "034",
+      "title": "Colophon",
+      "length": 1087,
+      "mode": "hide"
+    },
+    {
+      "id": "035",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL266832W",
+  "goodreadsId": "7153641",
+  "rating": 0.8240000000000001,
+  "popularity": 9006,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721338290049
+}

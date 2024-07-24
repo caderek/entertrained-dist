@@ -1,1 +1,360 @@
-{"id":"willa-cather--my-antonia","title":"My Ántonia","titleAlpha":"my ántonia","author":"Willa Cather","language":"en","description":"Orphaned boy Jim meets Antonia, the daughter of a Czech family who has immigrated to Nebraska.","longDescription":["Written in the style of a memoir, My Antonia chronicles Jim Burden's friendship with the daughter of a Czech immigrant family. Recently orphaned, he moves west to Nebraska to live with his grandparents. Riding the same train is the Shimerda family, who are also on their way to settle in the area. The Shimerdas have a difficult life as pioneers: living in a sod house, working the fields, and running out of food in the winter. Jim soon becomes smitten with Antonia, the eldest daughter, as they grow up and explore the landscape around them together. Through his eyes, we see both how she shapes the land around her and is shaped by the rigors of poverty.","Similarly to Jim, Willa Cather spent her early years in Nebraska but most of her adult life in Eastern cities. She pays homage to her homeland with her Prairie Trilogy of novels: O Pioneers!, The Song of the Lark, and My Antonia. They are tinged with her characteristic straightforward language, reverence for nature, and nostalgia, even as she acknowledges the hardships of the past.","Published in 1918 to great enthusiasm, My Antonia is considered one of Cather's finest works and a defining point in her identity as a writer."],"year":1918,"genres":["classics","fiction","western"],"topics":["friendship","frontier"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/willa-cather/my-antonia"},"openlibraryId":"OL12791W","goodreadsId":"595801","rating":0.766,"popularity":139205,"cover":null,"free":false,"custom":false,"series":"Great Plains Trilogy","part":3,"chapters":[{"id":"001","title":"Titlepage - My Antonia","length":17,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Epigraph","length":28,"mode":"skip"},{"id":"004","title":"Dedication","length":63,"mode":"hide"},{"id":"005","title":"Introduction","length":7051,"mode":"type"},{"id":"006","title":"My Antonia - Book I: The Shimerdas - I","length":6316,"mode":"type"},{"id":"007","title":"My Antonia - Book I: The Shimerdas - II","length":13155,"mode":"type"},{"id":"008","title":"My Antonia - Book I: The Shimerdas - III","length":11027,"mode":"type"},{"id":"009","title":"My Antonia - Book I: The Shimerdas - IV","length":5547,"mode":"type"},{"id":"010","title":"My Antonia - Book I: The Shimerdas - V","length":6430,"mode":"type"},{"id":"011","title":"My Antonia - Book I: The Shimerdas - VI","length":6272,"mode":"type"},{"id":"012","title":"My Antonia - Book I: The Shimerdas - VII","length":9043,"mode":"type"},{"id":"013","title":"My Antonia - Book I: The Shimerdas - VIII","length":14084,"mode":"type"},{"id":"014","title":"My Antonia - Book I: The Shimerdas - IX","length":10352,"mode":"type"},{"id":"015","title":"My Antonia - Book I: The Shimerdas - X","length":11440,"mode":"type"},{"id":"016","title":"My Antonia - Book I: The Shimerdas - XI","length":5201,"mode":"type"},{"id":"017","title":"My Antonia - Book I: The Shimerdas - XII","length":4959,"mode":"type"},{"id":"018","title":"My Antonia - Book I: The Shimerdas - XIII","length":6889,"mode":"type"},{"id":"019","title":"My Antonia - Book I: The Shimerdas - XIV","length":12044,"mode":"type"},{"id":"020","title":"My Antonia - Book I: The Shimerdas - XV","length":12566,"mode":"type"},{"id":"021","title":"My Antonia - Book I: The Shimerdas - XVI","length":6314,"mode":"type"},{"id":"022","title":"My Antonia - Book I: The Shimerdas - XVII","length":8581,"mode":"type"},{"id":"023","title":"My Antonia - Book I: The Shimerdas - XVIII","length":11734,"mode":"type"},{"id":"024","title":"My Antonia - Book I: The Shimerdas - XIX","length":4310,"mode":"type"},{"id":"025","title":"My Antonia - Book II: The Hired Girls - I","length":5311,"mode":"type"},{"id":"026","title":"My Antonia - Book II: The Hired Girls - II","length":8330,"mode":"type"},{"id":"027","title":"My Antonia - Book II: The Hired Girls - III","length":5332,"mode":"type"},{"id":"028","title":"My Antonia - Book II: The Hired Girls - IV","length":12385,"mode":"type"},{"id":"029","title":"My Antonia - Book II: The Hired Girls - V","length":3661,"mode":"type"},{"id":"030","title":"My Antonia - Book II: The Hired Girls - VI","length":9859,"mode":"type"},{"id":"031","title":"My Antonia - Book II: The Hired Girls - VII","length":15128,"mode":"type"},{"id":"032","title":"My Antonia - Book II: The Hired Girls - VIII","length":5633,"mode":"type"},{"id":"033","title":"My Antonia - Book II: The Hired Girls - IX","length":8641,"mode":"type"},{"id":"034","title":"My Antonia - Book II: The Hired Girls - X","length":5130,"mode":"type"},{"id":"035","title":"My Antonia - Book II: The Hired Girls - XI","length":6323,"mode":"type"},{"id":"036","title":"My Antonia - Book II: The Hired Girls - XII","length":14702,"mode":"type"},{"id":"037","title":"My Antonia - Book II: The Hired Girls - XIII","length":5749,"mode":"type"},{"id":"038","title":"My Antonia - Book II: The Hired Girls - XIV","length":17686,"mode":"type"},{"id":"039","title":"My Antonia - Book II: The Hired Girls - XV","length":9748,"mode":"type"},{"id":"040","title":"My Antonia - Book III: Lena Lingard - I","length":7399,"mode":"type"},{"id":"041","title":"My Antonia - Book III: Lena Lingard - II","length":9829,"mode":"type"},{"id":"042","title":"My Antonia - Book III: Lena Lingard - III","length":8883,"mode":"type"},{"id":"043","title":"My Antonia - Book III: Lena Lingard - IV","length":19145,"mode":"type"},{"id":"044","title":"My Antonia - Book IV: The Pioneer Woman's Story - I","length":7074,"mode":"type"},{"id":"045","title":"My Antonia - Book IV: The Pioneer Woman's Story - II","length":3570,"mode":"type"},{"id":"046","title":"My Antonia - Book IV: The Pioneer Woman's Story - III","length":15610,"mode":"type"},{"id":"047","title":"My Antonia - Book IV: The Pioneer Woman's Story - IV","length":5094,"mode":"type"},{"id":"048","title":"My Antonia - Book V: Cuzak's Boys - I","length":32534,"mode":"type"},{"id":"049","title":"My Antonia - Book V: Cuzak's Boys - II","length":17098,"mode":"type"},{"id":"050","title":"My Antonia - Book V: Cuzak's Boys - III","length":5218,"mode":"type"},{"id":"051","title":"Endnotes","length":197,"mode":"hide"},{"id":"052","title":"Colophon","length":1036,"mode":"hide"},{"id":"053","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338369002}
+{
+  "id": "willa-cather--my-antonia",
+  "title": "My Ántonia",
+  "titleAlpha": "my ántonia",
+  "author": "Willa Cather",
+  "language": "en",
+  "description": "Orphaned boy Jim meets Ántonia, the daughter of a Czech family who has immigrated to Nebraska.",
+  "longDescription": [
+    "Written in the style of a memoir, My Ántonia chronicles Jim Burden's friendship with the daughter of a Czech immigrant family. Recently orphaned, he moves west to Nebraska to live with his grandparents. Riding the same train is the Shimerda family, who are also on their way to settle in the area. The Shimerdas have a difficult life as pioneers: living in a sod house, working the fields, and running out of food in the winter. Jim soon becomes smitten with Ántonia, the eldest daughter, as they grow up and explore the landscape around them together. Through his eyes, we see both how she shapes the land around her and is shaped by the rigors of poverty.",
+    "Similarly to Jim, Willa Cather spent her early years in Nebraska but most of her adult life in Eastern cities. She pays homage to her homeland with her Prairie Trilogy of novels: O Pioneers!, The Song of the Lark, and My Ántonia. They are tinged with her characteristic straightforward language, reverence for nature, and nostalgia, even as she acknowledges the hardships of the past.",
+    "Published in 1918 to great enthusiasm, My Ántonia is considered one of Cather's finest works and a defining point in her identity as a writer."
+  ],
+  "year": 1918,
+  "genres": [
+    "classics",
+    "fiction",
+    "western",
+    "history"
+  ],
+  "topics": [
+    "friendship",
+    "frontier"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Great Plains Trilogy",
+  "part": 3,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/willa-cather/my-antonia"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - My Ántonia",
+      "length": 17,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Epigraph",
+      "length": 28,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Dedication",
+      "length": 63,
+      "mode": "hide"
+    },
+    {
+      "id": "005",
+      "title": "Introduction",
+      "length": 7051,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book I: The Shimerdas - I",
+      "length": 6316,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Book I: The Shimerdas - II",
+      "length": 13155,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Book I: The Shimerdas - III",
+      "length": 11027,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book I: The Shimerdas - IV",
+      "length": 5547,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Book I: The Shimerdas - V",
+      "length": 6430,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book I: The Shimerdas - VI",
+      "length": 6272,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book I: The Shimerdas - VII",
+      "length": 9043,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book I: The Shimerdas - VIII",
+      "length": 14084,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book I: The Shimerdas - IX",
+      "length": 10352,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book I: The Shimerdas - X",
+      "length": 11440,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Book I: The Shimerdas - XI",
+      "length": 5201,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book I: The Shimerdas - XII",
+      "length": 4959,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book I: The Shimerdas - XIII",
+      "length": 6889,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Book I: The Shimerdas - XIV",
+      "length": 12044,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Book I: The Shimerdas - XV",
+      "length": 12566,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Book I: The Shimerdas - XVI",
+      "length": 6314,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Book I: The Shimerdas - XVII",
+      "length": 8581,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Book I: The Shimerdas - XVIII",
+      "length": 11734,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Book I: The Shimerdas - XIX",
+      "length": 4310,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Book II: The Hired Girls - I",
+      "length": 5311,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Book II: The Hired Girls - II",
+      "length": 8330,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Book II: The Hired Girls - III",
+      "length": 5332,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Book II: The Hired Girls - IV",
+      "length": 12385,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Book II: The Hired Girls - V",
+      "length": 3661,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Book II: The Hired Girls - VI",
+      "length": 9859,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Book II: The Hired Girls - VII",
+      "length": 15128,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Book II: The Hired Girls - VIII",
+      "length": 5633,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Book II: The Hired Girls - IX",
+      "length": 8641,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Book II: The Hired Girls - X",
+      "length": 5130,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Book II: The Hired Girls - XI",
+      "length": 6323,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Book II: The Hired Girls - XII",
+      "length": 14702,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Book II: The Hired Girls - XIII",
+      "length": 5749,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Book II: The Hired Girls - XIV",
+      "length": 17686,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Book II: The Hired Girls - XV",
+      "length": 9748,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Book III: Lena Lingard - I",
+      "length": 7399,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Book III: Lena Lingard - II",
+      "length": 9829,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Book III: Lena Lingard - III",
+      "length": 8883,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Book III: Lena Lingard - IV",
+      "length": 19145,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Book IV: The Pioneer Woman's Story - I",
+      "length": 7074,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Book IV: The Pioneer Woman's Story - II",
+      "length": 3570,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Book IV: The Pioneer Woman's Story - III",
+      "length": 15610,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Book IV: The Pioneer Woman's Story - IV",
+      "length": 5094,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Book V: Cuzak's Boys - I",
+      "length": 32534,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "Book V: Cuzak's Boys - II",
+      "length": 17098,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Book V: Cuzak's Boys - III",
+      "length": 5218,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "Endnotes",
+      "length": 197,
+      "mode": "hide"
+    },
+    {
+      "id": "052",
+      "title": "Colophon",
+      "length": 1036,
+      "mode": "hide"
+    },
+    {
+      "id": "053",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL12791W",
+  "goodreadsId": "595801",
+  "rating": 0.766,
+  "popularity": 139205,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490235153
+}

@@ -1,1 +1,222 @@
-{"id":"apsley-cherry-garrard--the-worst-journey-in-the-world","title":"The Worst Journey in the World","titleAlpha":"worst journey in the world","author":"Apsley Cherry-Garrard","language":"en","description":"The travelogue of a member of Robert Scott's ill-fated Antarctic expedition of 1910.","longDescription":["In 1910 famous explorer Robert Falcon Scott led the Terra Nova Expedition to the South Pole. The expedition was part scientific and part adventure: Scott wanted to be the first to reach the pole.","The expedition was beset by hardship from the beginning, and after realizing that they had been beaten to the pole by Roald Amundsen's Norwegian Expedition, the party suffered a final tragedy: the loss of Scott and his companions to the Antarctic cold on their return journey to base camp.","The Worst Journey in the World is an autobiographical account of one of the survivors of the expedition, Apsley Cherry-Garrard. It's a unique combination of fascinating scientific documentary, adventure novel, and with the inclusion of Scott's final journal entries, horror story. Journey is peppered throughout with journal entries, illustrations, and pictures from Cherry-Garrard's companions, making it a fascinating window into the majesty and danger of the Antarctic."],"year":1922,"genres":["classics","memoir","nonfiction","travel"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world"},"openlibraryId":"OL3360211W","goodreadsId":"61948803","rating":0.836,"popularity":7739,"cover":null,"free":false,"custom":false,"series":"The Worst Journey in the World","part":0,"chapters":[{"id":"001","title":"Titlepage - The Worst Journey in the World","length":26,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Preamble","length":517,"mode":"type"},{"id":"004","title":"Preface","length":6494,"mode":"skip"},{"id":"005","title":"Introduction","length":99154,"mode":"type"},{"id":"006","title":"I: From England to South Africa","length":46469,"mode":"type"},{"id":"007","title":"II: Making Our Easting Down","length":48937,"mode":"type"},{"id":"008","title":"III: Southward","length":62118,"mode":"type"},{"id":"009","title":"IV: Land","length":74499,"mode":"type"},{"id":"010","title":"V: The Depot Journey - The Return of the Pony Party from One Ton Depot","length":14712,"mode":"type"},{"id":"011","title":"V: The Depot Journey - The Return of the Dog Party","length":113755,"mode":"type"},{"id":"012","title":"VI: The First Winter","length":256414,"mode":"type"},{"id":"013","title":"VII: The Winter Journey - Appendix - Professor Cossar Ewart's Report","length":7463,"mode":"type"},{"id":"014","title":"VIII: Spring","length":31820,"mode":"type"},{"id":"015","title":"IX: The Polar Journey - I: The Barrier Stage","length":66393,"mode":"type"},{"id":"016","title":"X: The Polar Journey (Continued) - II: The Beardmore Glacier","length":36014,"mode":"type"},{"id":"017","title":"XI: The Polar Journey (Continued) - III: The Plateau from Mount Darwin to Lat° 2′ S.","length":23857,"mode":"type"},{"id":"018","title":"XII: The Polar Journey (Continued) - IV: Returning Parties","length":53102,"mode":"type"},{"id":"019","title":"XIII: Suspense","length":96778,"mode":"type"},{"id":"020","title":"XIV: The Last Winter - Note","length":7271,"mode":"type"},{"id":"021","title":"XV: Another Spring","length":25618,"mode":"type"},{"id":"022","title":"XVI: The Search Journey","length":47956,"mode":"type"},{"id":"023","title":"XVII: The Polar Journey - V: The Pole and After","length":61376,"mode":"type"},{"id":"024","title":"XVIII: The Polar Journey (Continued) - VI: Farthest South","length":31459,"mode":"type"},{"id":"025","title":"XIX: Never Again","length":73377,"mode":"type"},{"id":"026","title":"Glossary","length":2627,"mode":"type"},{"id":"027","title":"Endnotes","length":15584,"mode":"hide"},{"id":"028","title":"List of Illustrations","length":7241,"mode":"hide"},{"id":"029","title":"Colophon","length":1089,"mode":"hide"},{"id":"030","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337538972}
+{
+  "id": "apsley-cherry-garrard--the-worst-journey-in-the-world",
+  "title": "The Worst Journey in the World",
+  "titleAlpha": "worst journey in the world",
+  "author": "Apsley Cherry-Garrard",
+  "language": "en",
+  "description": "The travelogue of a member of Robert Scott's ill-fated Antarctic expedition of 1910.",
+  "longDescription": [
+    "In 1910 famous explorer Robert Falcon Scott led the Terra Nova Expedition to the South Pole. The expedition was part scientific and part adventure: Scott wanted to be the first to reach the pole.",
+    "The expedition was beset by hardship from the beginning, and after realizing that they had been beaten to the pole by Roald Amundsen's Norwegian Expedition, the party suffered a final tragedy: the loss of Scott and his companions to the Antarctic cold on their return journey to base camp.",
+    "The Worst Journey in the World is an autobiographical account of one of the survivors of the expedition, Apsley Cherry-Garrard. It's a unique combination of fascinating scientific documentary, adventure novel, and with the inclusion of Scott's final journal entries, horror story. Journey is peppered throughout with journal entries, illustrations, and pictures from Cherry-Garrard's companions, making it a fascinating window into the majesty and danger of the Antarctic."
+  ],
+  "year": 1922,
+  "genres": [
+    "classics",
+    "memoir",
+    "nonfiction",
+    "travel",
+    "adventure",
+    "history",
+    "survival"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "",
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Worst Journey in the World",
+      "length": 26,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Preamble",
+      "length": 517,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Preface",
+      "length": 6494,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Introduction",
+      "length": 99154,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "I: From England to South Africa",
+      "length": 46469,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "II: Making Our Easting Down",
+      "length": 48937,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "III: Southward",
+      "length": 62118,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "IV: Land",
+      "length": 74499,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "V: The Depot Journey - The Return of the Pony Party from One Ton Depot",
+      "length": 14712,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "V: The Depot Journey - The Return of the Dog Party",
+      "length": 113755,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VI: The First Winter",
+      "length": 256414,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "VII: The Winter Journey - Appendix - Professor Cossar Ewart's Report",
+      "length": 7463,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "VIII: Spring",
+      "length": 31820,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "IX: The Polar Journey - I: The Barrier Stage",
+      "length": 66393,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "X: The Polar Journey (Continued) - II: The Beardmore Glacier",
+      "length": 36014,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XI: The Polar Journey (Continued) - III: The Plateau from Mount Darwin to Lat° 2′ S.",
+      "length": 23857,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XII: The Polar Journey (Continued) - IV: Returning Parties",
+      "length": 53102,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XIII: Suspense",
+      "length": 96778,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XIV: The Last Winter - Note",
+      "length": 7271,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XV: Another Spring",
+      "length": 25618,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVI: The Search Journey",
+      "length": 47956,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XVII: The Polar Journey - V: The Pole and After",
+      "length": 61376,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XVIII: The Polar Journey (Continued) - VI: Farthest South",
+      "length": 31459,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XIX: Never Again",
+      "length": 73377,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Glossary",
+      "length": 2627,
+      "mode": "hide"
+    },
+    {
+      "id": "027",
+      "title": "Endnotes",
+      "length": 15584,
+      "mode": "hide"
+    },
+    {
+      "id": "028",
+      "title": "List of Illustrations",
+      "length": 7241,
+      "mode": "hide"
+    },
+    {
+      "id": "029",
+      "title": "Colophon",
+      "length": 1089,
+      "mode": "hide"
+    },
+    {
+      "id": "030",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL3360211W",
+  "goodreadsId": "61948803",
+  "rating": 0.836,
+  "popularity": 7739,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721337538972
+}

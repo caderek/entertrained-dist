@@ -47,9 +47,9 @@
     },
     {
       "id": "004",
-      "title": "Half-Titlepage - A Journal of the Plague Year",
+      "title": "A Journal of the Plague Year",
       "length": 512395,
-      "mode": "hide"
+      "mode": "type"
     },
     {
       "id": "005",

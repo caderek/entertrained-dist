@@ -1,1 +1,308 @@
-{"id":"nikolai-gogol--short-fiction","title":"Short Fiction","titleAlpha":"short fiction","author":"Nikolai Gogol","language":"en","description":"A collection of Gogol's translated short stories and novellas ordered by date of publication.","longDescription":["Nikolai Gogol spent most of his literary career writing short stories, drawing inspiration from his childhood in Ukraine and his adult life in St. Petersburg. His stories are filled with larger than life yet relatable characters and perfectly described locations, and span many genres from historical epics to early horror and surrealism.","His influence on Russian literature cannot be understated: Fyodor Dostoevsky is quoted as saying \"We all come out from Gogol's 'Overcoat,' \" (presented here as \"The Mantle\") and mentioned him by name in Crime and Punishment; Mikhail Bulgakov stated that \"no-one can compare with him,\" and Vladimir Nabokov wrote a full biography. Many of the stories in this collection have been adapted for stage and film, including \"The Nose\" as an opera by Dmitri Shostakovich.","Collected here are all of the public domain translations into English of Gogol's short stories, in chronological order of the original Russian publication. They were translated by Claud Field, Isabel F. Hapgood, Vizetelly and Company, and George Tolstoy."],"year":null,"genres":["classics","fiction","shorts"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/nikolai-gogol/short-fiction/claud-field_isabel-f-hapgood_vizetelly-and-company_george-tolstoy"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Short Fiction","length":107,"mode":"hide"},{"id":"002","title":"Imprint","length":1181,"mode":"hide"},{"id":"003","title":"Foreword","length":603,"mode":"type"},{"id":"004","title":"St. John's Eve - A Story Told by the Sacristan of the Dikanka Church","length":34301,"mode":"type"},{"id":"005","title":"A May Night - I","length":10516,"mode":"type"},{"id":"006","title":"A May Night - II: The Village Headman","length":6001,"mode":"type"},{"id":"007","title":"A May Night - III: An Unexpected Rival - The Conspiracy","length":5443,"mode":"type"},{"id":"008","title":"A May Night - IV: Wild Pranks","length":19640,"mode":"type"},{"id":"009","title":"A May Night - V: The Drowned Girl","length":6428,"mode":"type"},{"id":"010","title":"A May Night - VI: The Awakening","length":6234,"mode":"type"},{"id":"011","title":"The Night of Christmas Eve","length":101985,"mode":"type"},{"id":"012","title":"Old-Fashioned Farmers","length":49458,"mode":"type"},{"id":"013","title":"Taras Bulba - I","length":24401,"mode":"type"},{"id":"014","title":"Taras Bulba - II","length":22968,"mode":"type"},{"id":"015","title":"Taras Bulba - III","length":17260,"mode":"type"},{"id":"016","title":"Taras Bulba - IV","length":18310,"mode":"type"},{"id":"017","title":"Taras Bulba - V","length":23986,"mode":"type"},{"id":"018","title":"Taras Bulba - VI","length":24834,"mode":"type"},{"id":"019","title":"Taras Bulba - VII","length":29109,"mode":"type"},{"id":"020","title":"Taras Bulba - VIII","length":19412,"mode":"type"},{"id":"021","title":"Taras Bulba - IX","length":29772,"mode":"type"},{"id":"022","title":"Taras Bulba - X","length":12604,"mode":"type"},{"id":"023","title":"Taras Bulba - XI","length":23413,"mode":"type"},{"id":"024","title":"Taras Bulba - XII","length":14395,"mode":"type"},{"id":"025","title":"The Viy - I","length":42062,"mode":"type"},{"id":"026","title":"The Viy - II","length":37136,"mode":"type"},{"id":"027","title":"How the Two Ivans Quarrelled - I: Ivan Ivanovitch and Ivan Nikiforovitch","length":9903,"mode":"type"},{"id":"028","title":"How the Two Ivans Quarrelled - II: From Which May Be Seen Whence Arose the Discussion Between Ivan Ivanovitch and Ivan Nikiforovitch","length":17440,"mode":"type"},{"id":"029","title":"How the Two Ivans Quarrelled - III: What Took Place After Ivan Ivanovitch's Quarrel with Ivan Nikiforovitch","length":10255,"mode":"type"},{"id":"030","title":"How the Two Ivans Quarrelled - IV: What Took Place Before the District Judge of Mirgorod","length":22064,"mode":"type"},{"id":"031","title":"How the Two Ivans Quarrelled - V: In Which Are Detailed the Deliberations of Two Important Personages of Mirgorod","length":9758,"mode":"type"},{"id":"032","title":"How the Two Ivans Quarrelled - VI: From Which the Reader Can Easily Discover What Is Contained in It","length":13046,"mode":"type"},{"id":"033","title":"How the Two Ivans Quarrelled - VII: How a Reconciliation Was Sought to Be Effected and a Lawsuit Ensued","length":16436,"mode":"type"},{"id":"034","title":"The Mysterious Portrait - I","length":70474,"mode":"type"},{"id":"035","title":"The Mysterious Portrait - II","length":37084,"mode":"type"},{"id":"036","title":"Memoirs of a Madman","length":42574,"mode":"type"},{"id":"037","title":"The Nose - I","length":7179,"mode":"type"},{"id":"038","title":"The Nose - II","length":37391,"mode":"type"},{"id":"039","title":"The Nose - III","length":4280,"mode":"type"},{"id":"040","title":"The Nose - IV","length":1242,"mode":"type"},{"id":"041","title":"The Calash","length":24010,"mode":"type"},{"id":"042","title":"The Mantle","length":62299,"mode":"type"},{"id":"043","title":"Endnotes","length":6062,"mode":"hide"},{"id":"044","title":"Colophon","length":1237,"mode":"hide"},{"id":"045","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338129155}
+{
+  "id": "nikolai-gogol--short-fiction",
+  "title": "Short Fiction",
+  "titleAlpha": "short fiction",
+  "author": "Nikolai Gogol",
+  "language": "en",
+  "description": "A collection of Gogol's translated short stories and novellas ordered by date of publication.",
+  "longDescription": [
+    "Nikolai Gogol spent most of his literary career writing short stories, drawing inspiration from his childhood in Ukraine and his adult life in St. Petersburg. His stories are filled with larger than life yet relatable characters and perfectly described locations, and span many genres from historical epics to early horror and surrealism.",
+    "His influence on Russian literature cannot be understated: Fyodor Dostoevsky is quoted as saying \"We all come out from Gogol's 'Overcoat,' \" (presented here as \"The Mantle\") and mentioned him by name in Crime and Punishment; Mikhail Bulgakov stated that \"no-one can compare with him,\" and Vladimir Nabokov wrote a full biography. Many of the stories in this collection have been adapted for stage and film, including \"The Nose\" as an opera by Dmitri Shostakovich.",
+    "Collected here are all of the public domain translations into English of Gogol's short stories, in chronological order of the original Russian publication. They were translated by Claud Field, Isabel F. Hapgood, Vizetelly and Company, and George Tolstoy."
+  ],
+  "year": 1835,
+  "genres": [
+    "classics",
+    "fiction",
+    "shorts"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/nikolai-gogol/short-fiction/claud-field_isabel-f-hapgood_vizetelly-and-company_george-tolstoy"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Short Fiction",
+      "length": 107,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1181,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Foreword",
+      "length": 603,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "St. John's Eve - A Story Told by the Sacristan of the Dikanka Church",
+      "length": 34301,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "A May Night - I",
+      "length": 10516,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "A May Night - II: The Village Headman",
+      "length": 6001,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "A May Night - III: An Unexpected Rival - The Conspiracy",
+      "length": 5443,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "A May Night - IV: Wild Pranks",
+      "length": 19640,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "A May Night - V: The Drowned Girl",
+      "length": 6428,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "A May Night - VI: The Awakening",
+      "length": 6234,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "The Night of Christmas Eve",
+      "length": 101985,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Old-Fashioned Farmers",
+      "length": 49458,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Taras Bulba - I",
+      "length": 24401,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Taras Bulba - II",
+      "length": 22968,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Taras Bulba - III",
+      "length": 17260,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Taras Bulba - IV",
+      "length": 18310,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Taras Bulba - V",
+      "length": 23986,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Taras Bulba - VI",
+      "length": 24834,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Taras Bulba - VII",
+      "length": 29109,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Taras Bulba - VIII",
+      "length": 19412,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Taras Bulba - IX",
+      "length": 29772,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Taras Bulba - X",
+      "length": 12604,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Taras Bulba - XI",
+      "length": 23413,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Taras Bulba - XII",
+      "length": 14395,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "The Viy - I",
+      "length": 42062,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "The Viy - II",
+      "length": 37136,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "How the Two Ivans Quarrelled - I: Ivan Ivanovitch and Ivan Nikiforovitch",
+      "length": 9903,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "How the Two Ivans Quarrelled - II: From Which May Be Seen Whence Arose the Discussion Between Ivan Ivanovitch and Ivan Nikiforovitch",
+      "length": 17440,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "How the Two Ivans Quarrelled - III: What Took Place After Ivan Ivanovitch's Quarrel with Ivan Nikiforovitch",
+      "length": 10255,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "How the Two Ivans Quarrelled - IV: What Took Place Before the District Judge of Mirgorod",
+      "length": 22064,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "How the Two Ivans Quarrelled - V: In Which Are Detailed the Deliberations of Two Important Personages of Mirgorod",
+      "length": 9758,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "How the Two Ivans Quarrelled - VI: From Which the Reader Can Easily Discover What Is Contained in It",
+      "length": 13046,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "How the Two Ivans Quarrelled - VII: How a Reconciliation Was Sought to Be Effected and a Lawsuit Ensued",
+      "length": 16436,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "The Mysterious Portrait - I",
+      "length": 70474,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "The Mysterious Portrait - II",
+      "length": 37084,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Memoirs of a Madman",
+      "length": 42574,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "The Nose - I",
+      "length": 7179,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "The Nose - II",
+      "length": 37390,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "The Nose - III",
+      "length": 4280,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "The Nose - IV",
+      "length": 1242,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "The Calash",
+      "length": 24010,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "The Mantle",
+      "length": 62298,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Endnotes",
+      "length": 6062,
+      "mode": "hide"
+    },
+    {
+      "id": "044",
+      "title": "Colophon",
+      "length": 1237,
+      "mode": "hide"
+    },
+    {
+      "id": "045",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL27292279W",
+  "goodreadsId": "252981",
+  "rating": 0.8699999999999999,
+  "popularity": 14835,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489995507
+}

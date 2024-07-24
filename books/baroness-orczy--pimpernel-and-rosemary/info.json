@@ -1,1 +1,367 @@
-{"id":"baroness-orczy--pimpernel-and-rosemary","title":"Pimpernel and Rosemary","titleAlpha":"pimpernel and rosemary","author":"Baroness Orczy","language":"en","description":"A famous journalist is drawn into the intrigues of two Eastern European nations in the aftermath of World War I.","longDescription":["Rosemary, the former love of Peter Blakeney, is about to be married to one of Peter's friends. A famous journalist, she is asked to come to Transylvania and report on the Romanian occupation following the first World War, having travelled there many times in her childhood with Peter's mother. She agrees to move up her wedding so that her fiance can travel with her. Soon after they get there, Peter's nephew and girlfriend are arrested for treason, and Rosemary is given a terrible choice - all while Peter arrives in the country as well, seemingly working against his own family.","Just as she went back several generations in previous entries in the series, this time the Baroness Orczy goes forward several, to the years immediately following World War I. Having grown up in Hungary, she sets the story in an area of the world very familiar to her, weaving her fictional characters into the real-world history of the time."],"year":null,"genres":["adventure","classics","fiction"],"topics":["war"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/baroness-orczy/pimpernel-and-rosemary"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Pimpernel and Rosemary","length":19,"mode":"hide"},{"id":"002","title":"Imprint","length":1186,"mode":"hide"},{"id":"003","title":"Prologue - I","length":14533,"mode":"type"},{"id":"004","title":"Prologue - II","length":4933,"mode":"type"},{"id":"005","title":"I","length":7687,"mode":"type"},{"id":"006","title":"II","length":7250,"mode":"type"},{"id":"007","title":"III","length":15194,"mode":"type"},{"id":"008","title":"IV","length":16413,"mode":"type"},{"id":"009","title":"V","length":3046,"mode":"type"},{"id":"010","title":"VI","length":16790,"mode":"type"},{"id":"011","title":"VII","length":5790,"mode":"type"},{"id":"012","title":"VIII","length":13187,"mode":"type"},{"id":"013","title":"IX","length":21004,"mode":"type"},{"id":"014","title":"X","length":4227,"mode":"type"},{"id":"015","title":"XI","length":20825,"mode":"type"},{"id":"016","title":"XII","length":14823,"mode":"type"},{"id":"017","title":"XIII","length":29632,"mode":"type"},{"id":"018","title":"XIV","length":14326,"mode":"type"},{"id":"019","title":"XV","length":10926,"mode":"type"},{"id":"020","title":"XVI","length":9756,"mode":"type"},{"id":"021","title":"XVII","length":23706,"mode":"type"},{"id":"022","title":"XVIII","length":13956,"mode":"type"},{"id":"023","title":"XIX","length":6799,"mode":"type"},{"id":"024","title":"XX","length":17808,"mode":"type"},{"id":"025","title":"XXI","length":11331,"mode":"type"},{"id":"026","title":"XXII","length":4489,"mode":"type"},{"id":"027","title":"XXIII","length":11290,"mode":"type"},{"id":"028","title":"XXIV","length":17767,"mode":"type"},{"id":"029","title":"XXV","length":12322,"mode":"type"},{"id":"030","title":"XXVI","length":18752,"mode":"type"},{"id":"031","title":"XXVII","length":9701,"mode":"type"},{"id":"032","title":"XXVIII","length":21969,"mode":"type"},{"id":"033","title":"XXIX","length":8048,"mode":"type"},{"id":"034","title":"XXX","length":3895,"mode":"type"},{"id":"035","title":"XXXI","length":8741,"mode":"type"},{"id":"036","title":"XXXII","length":13436,"mode":"type"},{"id":"037","title":"XXXIII","length":12011,"mode":"type"},{"id":"038","title":"XXXIV","length":15560,"mode":"type"},{"id":"039","title":"XXXV","length":8963,"mode":"type"},{"id":"040","title":"XXXVI","length":11045,"mode":"type"},{"id":"041","title":"XXXVII","length":12338,"mode":"type"},{"id":"042","title":"XXXVIII","length":16217,"mode":"type"},{"id":"043","title":"XXXIX","length":9077,"mode":"type"},{"id":"044","title":"XL","length":7916,"mode":"type"},{"id":"045","title":"XLI","length":11169,"mode":"type"},{"id":"046","title":"XLII","length":4832,"mode":"type"},{"id":"047","title":"XLIII","length":11898,"mode":"type"},{"id":"048","title":"XLIV","length":3652,"mode":"type"},{"id":"049","title":"XLV","length":20533,"mode":"type"},{"id":"050","title":"XLVI","length":3505,"mode":"type"},{"id":"051","title":"XLVII","length":7016,"mode":"type"},{"id":"052","title":"XLVIII","length":7433,"mode":"type"},{"id":"053","title":"Colophon","length":1026,"mode":"hide"},{"id":"054","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337563708}
+{
+  "id": "baroness-orczy--pimpernel-and-rosemary",
+  "title": "Pimpernel and Rosemary",
+  "titleAlpha": "pimpernel and rosemary",
+  "author": "Baroness Orczy",
+  "language": "en",
+  "description": "A famous journalist is drawn into the intrigues of two Eastern European nations in the aftermath of World War I.",
+  "longDescription": [
+    "Rosemary, the former love of Peter Blakeney, is about to be married to one of Peter's friends. A famous journalist, she is asked to come to Transylvania and report on the Romanian occupation following the first World War, having travelled there many times in her childhood with Peter's mother. She agrees to move up her wedding so that her fiance can travel with her. Soon after they get there, Peter's nephew and girlfriend are arrested for treason, and Rosemary is given a terrible choice - all while Peter arrives in the country as well, seemingly working against his own family.",
+    "Just as she went back several generations in previous entries in the series, this time the Baroness Orczy goes forward several, to the years immediately following World War I. Having grown up in Hungary, she sets the story in an area of the world very familiar to her, weaving her fictional characters into the real-world history of the time."
+  ],
+  "year": 1924,
+  "genres": [
+    "adventure",
+    "classics",
+    "fiction",
+    "action",
+    "history",
+    "romance"
+  ],
+  "topics": [
+    "revolution",
+    "war"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "The Scarlet Pimpernel",
+  "part": 17,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/baroness-orczy/pimpernel-and-rosemary"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Pimpernel and Rosemary",
+      "length": 19,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1186,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Prologue - I",
+      "length": 14533,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Prologue - II",
+      "length": 4933,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "I",
+      "length": 7687,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "II",
+      "length": 7250,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "III",
+      "length": 15194,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "IV",
+      "length": 16413,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "V",
+      "length": 3046,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VI",
+      "length": 16790,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VII",
+      "length": 5790,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VIII",
+      "length": 13187,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "IX",
+      "length": 21004,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "X",
+      "length": 4227,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XI",
+      "length": 20825,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XII",
+      "length": 14823,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIII",
+      "length": 29632,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIV",
+      "length": 14326,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XV",
+      "length": 10926,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVI",
+      "length": 9756,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVII",
+      "length": 23706,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVIII",
+      "length": 13956,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XIX",
+      "length": 6799,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XX",
+      "length": 17808,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXI",
+      "length": 11331,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXII",
+      "length": 4489,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXIII",
+      "length": 11290,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXIV",
+      "length": 17767,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXV",
+      "length": 12322,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVI",
+      "length": 18752,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVII",
+      "length": 9701,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXVIII",
+      "length": 21969,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXIX",
+      "length": 8048,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXX",
+      "length": 3895,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXI",
+      "length": 8741,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXII",
+      "length": 13436,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXIII",
+      "length": 12011,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXIV",
+      "length": 15560,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXV",
+      "length": 8963,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXVI",
+      "length": 11045,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XXXVII",
+      "length": 12338,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XXXVIII",
+      "length": 16217,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XXXIX",
+      "length": 9077,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XL",
+      "length": 7916,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XLI",
+      "length": 11169,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "XLII",
+      "length": 4832,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "XLIII",
+      "length": 11898,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "XLIV",
+      "length": 3652,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "XLV",
+      "length": 20533,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "XLVI",
+      "length": 3505,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "XLVII",
+      "length": 7016,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "XLVIII",
+      "length": 7433,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "Colophon",
+      "length": 1026,
+      "mode": "hide"
+    },
+    {
+      "id": "054",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL8445006W",
+  "goodreadsId": "1707804",
+  "rating": 0.6980000000000001,
+  "popularity": 130,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721337563708
+}

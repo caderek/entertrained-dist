@@ -1,1 +1,521 @@
-{"id":"anthony-trollope--phineas-finn","title":"Phineas Finn","titleAlpha":"phineas finn","author":"Anthony Trollope","language":"en","description":"A young Irishman attempts to establish himself as a member of Parliament while finding his way in high society.","longDescription":["High politics are not always centrally in view in Anthony Trollope's Palliser novels, but parliamentary life comes to the fore throughout Phineas Finn, the second in the series.","The hero of the tale is the young son of an Irish country doctor, now attaining manhood and striking out in life. Although training for the Bar, he feels the lure of Parliament and manages to secure a seat. Blessed with good fortune, \"comely inside and out,\" and pleasant company to both women and men, he begins to climb the ladder. Along with his undoubted triumphs there come also palpable failures - social as well as political. Leaving behind a sweetheart in Ireland, he encounters women of high status and fashion in London who place their own claims on his heart.","While Phineas is clearly the hero of the novel bearing his name, the lives of a number of remarkable women become intertwined with his own, each of whom he loves, after a fashion. The portrait of Lady Laura Standish - who serves as his political muse as well - is especially poignantly drawn, while Violet Effingham and the somewhat mysterious Madame Max Goesler each have an individuated strength and depth of character. Each, too, mirrors in different ways the dilemma faced by Phineas in his political career: whether it is better to be subservient and \"succeed,\" or maintain independence and risk being an outcast.","The writing of Phineas Finn coincided with Trollope's own political awakening and aspirations. While working on this novel, he was also composing a memoir of Lord Palmerston, the Prime Minister who had died in office only a couple years previously. (The memoir remained unpublished until 1882.) By this point in his mid fifties, Trollope made his own attempt to secure a seat as a member of Parliament in 1868, failed, and was scarred by the experience. The literary critic Michael Sadleir characterized Trollope's parliamentary fiction as showing a \"preoccupation with political society [but] indifference to political theory,\" perhaps unfairly. Especially in the character of Mr. Monk, Phineas's chief political mentor, much wisdom for parliamentary life is imparted.","Trollope's political failure does not yet cast a shadow on the optimism which pervades Phineas Finn. The novelist's own views would ripen along with those of his characters as the series took shape. Still, in his autobiography Trollope was able to declare, \"Phineas Finn, I certainly think, was successful from first to last.\""],"year":null,"genres":["classics","fiction"],"topics":["politics"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/anthony-trollope/phineas-finn"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Phineas Finn","length":21,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I: Phineas Finn Proposes to Stand for Loughshane","length":23232,"mode":"type"},{"id":"004","title":"II: Phineas Finn Is Elected for Loughshane","length":20117,"mode":"type"},{"id":"005","title":"III: Phineas Finn Takes His Seat","length":14554,"mode":"type"},{"id":"006","title":"IV: Lady Laura Standish","length":11955,"mode":"type"},{"id":"007","title":"V: Mr. and Mrs. Low","length":22544,"mode":"type"},{"id":"008","title":"VI: Lord Brentford's Dinner","length":22602,"mode":"type"},{"id":"009","title":"VII: Mr. and Mrs. Bunce","length":23308,"mode":"type"},{"id":"010","title":"VIII: The News About Mr. Mildmay and Sir Everard","length":19311,"mode":"type"},{"id":"011","title":"IX: The New Government","length":16003,"mode":"type"},{"id":"012","title":"X: Violet Effingham","length":18194,"mode":"type"},{"id":"013","title":"XI: Lord Chiltern","length":15935,"mode":"type"},{"id":"014","title":"XII: Autumnal Prospects","length":11816,"mode":"type"},{"id":"015","title":"XIII: Saulsby Wood","length":11324,"mode":"type"},{"id":"016","title":"XIV: Loughlinter","length":24238,"mode":"type"},{"id":"017","title":"XV: Donald Bean's Pony","length":22654,"mode":"type"},{"id":"018","title":"XVI: Phineas Finn Returns to Killaloe","length":12539,"mode":"type"},{"id":"019","title":"XVII: Phineas Finn Returns to London","length":21772,"mode":"type"},{"id":"020","title":"XVIII: Mr. Turnbull","length":14072,"mode":"type"},{"id":"021","title":"XIX: Lord Chiltern Rides His Horse Bonebreaker","length":21598,"mode":"type"},{"id":"022","title":"XX: The Debate on the Ballot","length":23128,"mode":"type"},{"id":"023","title":"XXI: \"Do Be Punctual\"","length":17221,"mode":"type"},{"id":"024","title":"XXII: Lady Baldock at Home","length":16652,"mode":"type"},{"id":"025","title":"XXIII: Sunday in Grosvenor Place","length":10928,"mode":"type"},{"id":"026","title":"XXIV: The Willingford Bull","length":25154,"mode":"type"},{"id":"027","title":"XXV: Mr. Turnbull's Carriage Stops the Way","length":21265,"mode":"type"},{"id":"028","title":"XXVI: \"The First Speech\"","length":23053,"mode":"type"},{"id":"029","title":"XXVII: Phineas Discussed","length":16856,"mode":"type"},{"id":"030","title":"XXVIII: The Second Reading Is Carried","length":18620,"mode":"type"},{"id":"031","title":"XXIX: A Cabinet Meeting","length":18142,"mode":"type"},{"id":"032","title":"XXX: Mr. Kennedy's Luck","length":17846,"mode":"type"},{"id":"033","title":"XXXI: Finn for Loughton","length":23716,"mode":"type"},{"id":"034","title":"XXXII: Lady Laura Kennedy's Headache","length":29474,"mode":"type"},{"id":"035","title":"XXXIII: Mr. Slide's Grievance","length":17590,"mode":"type"},{"id":"036","title":"XXXIV: Was He Honest?","length":12664,"mode":"type"},{"id":"037","title":"XXXV: Mr. Monk Upon Reform","length":23286,"mode":"type"},{"id":"038","title":"XXXVI: Phineas Finn Makes Progress","length":18720,"mode":"type"},{"id":"039","title":"XXXVII: A Rough Encounter","length":17221,"mode":"type"},{"id":"040","title":"XXXVIII: The Duel","length":17204,"mode":"type"},{"id":"041","title":"XXXIX: Lady Laura Is Told","length":23124,"mode":"type"},{"id":"042","title":"XL: Madame Max Goesler","length":17664,"mode":"type"},{"id":"043","title":"XLI: Lord Fawn","length":11290,"mode":"type"},{"id":"044","title":"XLII: Lady Baldock Does Not Send a Card to Phineas Finn","length":12027,"mode":"type"},{"id":"045","title":"XLIII: Promotion","length":12258,"mode":"type"},{"id":"046","title":"XLIV: Phineas and His Friends","length":25890,"mode":"type"},{"id":"047","title":"XLV: Miss Effingham's Four Lovers","length":11565,"mode":"type"},{"id":"048","title":"XLVI: The Mousetrap","length":8802,"mode":"type"},{"id":"049","title":"XLVII: Mr. Mildmay's Bill","length":18446,"mode":"type"},{"id":"050","title":"XLVIII: \"The Duke\"","length":17377,"mode":"type"},{"id":"051","title":"XLIX: The Duellists Meet","length":17158,"mode":"type"},{"id":"052","title":"L: Again Successful","length":17300,"mode":"type"},{"id":"053","title":"LI: Troubles at Loughlinter","length":23969,"mode":"type"},{"id":"054","title":"LII: The First Blow","length":16408,"mode":"type"},{"id":"055","title":"LIII: Showing How Phineas Bore the Blow","length":28861,"mode":"type"},{"id":"056","title":"LIV: Consolation","length":10865,"mode":"type"},{"id":"057","title":"LV: Lord Chiltern at Saulsby","length":23223,"mode":"type"},{"id":"058","title":"LVI: What the People in Marylebone Thought","length":17677,"mode":"type"},{"id":"059","title":"LVII: The Top Brick of the Chimney","length":17032,"mode":"type"},{"id":"060","title":"LVIII: Rara Avis in Terris","length":17590,"mode":"type"},{"id":"061","title":"LIX: The Earl's Wrath","length":23318,"mode":"type"},{"id":"062","title":"LX: Madame Goesler's Politics","length":18564,"mode":"type"},{"id":"063","title":"LXI: Another Duel","length":11727,"mode":"type"},{"id":"064","title":"LXII: The Letter That Was Sent to Brighton","length":22635,"mode":"type"},{"id":"065","title":"LXIII: Showing How the Duke Stood His Ground","length":23987,"mode":"type"},{"id":"066","title":"LXIV: The Horns","length":24141,"mode":"type"},{"id":"067","title":"LXV: The Cabinet Minister at Killaloe","length":17800,"mode":"type"},{"id":"068","title":"LXVI: Victrix","length":17051,"mode":"type"},{"id":"069","title":"LXVII: Job's Comforters","length":18371,"mode":"type"},{"id":"070","title":"LXVIII: The Joint Attack","length":17570,"mode":"type"},{"id":"071","title":"LXIX: The Temptress","length":23551,"mode":"type"},{"id":"072","title":"LXX: The Prime Minister's House","length":11796,"mode":"type"},{"id":"073","title":"LXXI: Comparing Notes","length":13902,"mode":"type"},{"id":"074","title":"LXXII: Madame Goesler's Generosity","length":19454,"mode":"type"},{"id":"075","title":"LXXIII: Amantium Irae","length":11597,"mode":"type"},{"id":"076","title":"LXXIV: The Beginning of the End","length":17193,"mode":"type"},{"id":"077","title":"LXXV: P. P. C.","length":26491,"mode":"type"},{"id":"078","title":"LXXVI: Conclusion","length":12409,"mode":"type"},{"id":"079","title":"Colophon","length":1021,"mode":"hide"},{"id":"080","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337519679}
+{
+  "id": "anthony-trollope--phineas-finn",
+  "title": "Phineas Finn",
+  "titleAlpha": "phineas finn",
+  "author": "Anthony Trollope",
+  "language": "en",
+  "description": "A young Irishman attempts to establish himself as a member of Parliament while finding his way in high society.",
+  "longDescription": [
+    "High politics are not always centrally in view in Anthony Trollope's Palliser novels, but parliamentary life comes to the fore throughout Phineas Finn, the second in the series.",
+    "The hero of the tale is the young son of an Irish country doctor, now attaining manhood and striking out in life. Although training for the Bar, he feels the lure of Parliament and manages to secure a seat. Blessed with good fortune, \"comely inside and out,\" and pleasant company to both women and men, he begins to climb the ladder. Along with his undoubted triumphs there come also palpable failures - social as well as political. Leaving behind a sweetheart in Ireland, he encounters women of high status and fashion in London who place their own claims on his heart.",
+    "While Phineas is clearly the hero of the novel bearing his name, the lives of a number of remarkable women become intertwined with his own, each of whom he loves, after a fashion. The portrait of Lady Laura Standish - who serves as his political muse as well - is especially poignantly drawn, while Violet Effingham and the somewhat mysterious Madame Max Goesler each have an individuated strength and depth of character. Each, too, mirrors in different ways the dilemma faced by Phineas in his political career: whether it is better to be subservient and \"succeed,\" or maintain independence and risk being an outcast.",
+    "The writing of Phineas Finn coincided with Trollope's own political awakening and aspirations. While working on this novel, he was also composing a memoir of Lord Palmerston, the Prime Minister who had died in office only a couple years previously. (The memoir remained unpublished until 1882.) By this point in his mid fifties, Trollope made his own attempt to secure a seat as a member of Parliament in 1868, failed, and was scarred by the experience. The literary critic Michael Sadleir characterized Trollope's parliamentary fiction as showing a \"preoccupation with political society [but] indifference to political theory,\" perhaps unfairly. Especially in the character of Mr. Monk, Phineas's chief political mentor, much wisdom for parliamentary life is imparted.",
+    "Trollope's political failure does not yet cast a shadow on the optimism which pervades Phineas Finn. The novelist's own views would ripen along with those of his characters as the series took shape. Still, in his autobiography Trollope was able to declare, \"Phineas Finn, I certainly think, was successful from first to last.\""
+  ],
+  "year": 1869,
+  "genres": [
+    "classics",
+    "fiction"
+  ],
+  "topics": [
+    "politics"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Palliser",
+  "part": 2,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/anthony-trollope/phineas-finn"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Phineas Finn",
+      "length": 21,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: Phineas Finn Proposes to Stand for Loughshane",
+      "length": 23232,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: Phineas Finn Is Elected for Loughshane",
+      "length": 20117,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: Phineas Finn Takes His Seat",
+      "length": 14554,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: Lady Laura Standish",
+      "length": 11955,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: Mr. and Mrs. Low",
+      "length": 22544,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: Lord Brentford's Dinner",
+      "length": 22602,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: Mr. and Mrs. Bunce",
+      "length": 23308,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: The News About Mr. Mildmay and Sir Everard",
+      "length": 19311,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: The New Government",
+      "length": 16003,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: Violet Effingham",
+      "length": 18194,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: Lord Chiltern",
+      "length": 15935,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: Autumnal Prospects",
+      "length": 11816,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: Saulsby Wood",
+      "length": 11324,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: Loughlinter",
+      "length": 24238,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: Donald Bean's Pony",
+      "length": 22654,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI: Phineas Finn Returns to Killaloe",
+      "length": 12539,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII: Phineas Finn Returns to London",
+      "length": 21772,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII: Mr. Turnbull",
+      "length": 14072,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX: Lord Chiltern Rides His Horse Bonebreaker",
+      "length": 21598,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX: The Debate on the Ballot",
+      "length": 23128,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI: \"Do Be Punctual\"",
+      "length": 17221,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII: Lady Baldock at Home",
+      "length": 16652,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII: Sunday in Grosvenor Place",
+      "length": 10928,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV: The Willingford Bull",
+      "length": 25154,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXV: Mr. Turnbull's Carriage Stops the Way",
+      "length": 21265,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXVI: \"The First Speech\"",
+      "length": 23053,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVII: Phineas Discussed",
+      "length": 16856,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVIII: The Second Reading Is Carried",
+      "length": 18620,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXIX: A Cabinet Meeting",
+      "length": 18142,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXX: Mr. Kennedy's Luck",
+      "length": 17846,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXXI: Finn for Loughton",
+      "length": 23716,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXXII: Lady Laura Kennedy's Headache",
+      "length": 29474,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXIII: Mr. Slide's Grievance",
+      "length": 17590,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXIV: Was He Honest?",
+      "length": 12664,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXV: Mr. Monk Upon Reform",
+      "length": 23286,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXVI: Phineas Finn Makes Progress",
+      "length": 18720,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXVII: A Rough Encounter",
+      "length": 17221,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXVIII: The Duel",
+      "length": 17204,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XXXIX: Lady Laura Is Told",
+      "length": 23124,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XL: Madame Max Goesler",
+      "length": 17664,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XLI: Lord Fawn",
+      "length": 11290,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XLII: Lady Baldock Does Not Send a Card to Phineas Finn",
+      "length": 12027,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XLIII: Promotion",
+      "length": 12258,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "XLIV: Phineas and His Friends",
+      "length": 25890,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "XLV: Miss Effingham's Four Lovers",
+      "length": 11565,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "XLVI: The Mousetrap",
+      "length": 8802,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "XLVII: Mr. Mildmay's Bill",
+      "length": 18446,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "XLVIII: \"The Duke\"",
+      "length": 17377,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "XLIX: The Duellists Meet",
+      "length": 17158,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "L: Again Successful",
+      "length": 17300,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "LI: Troubles at Loughlinter",
+      "length": 23969,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "LII: The First Blow",
+      "length": 16408,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "LIII: Showing How Phineas Bore the Blow",
+      "length": 28861,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "LIV: Consolation",
+      "length": 10865,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "LV: Lord Chiltern at Saulsby",
+      "length": 23223,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "LVI: What the People in Marylebone Thought",
+      "length": 17677,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "LVII: The Top Brick of the Chimney",
+      "length": 17032,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "LVIII: Rara Avis in Terris",
+      "length": 17590,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "LIX: The Earl's Wrath",
+      "length": 23318,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "LX: Madame Goesler's Politics",
+      "length": 18564,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "LXI: Another Duel",
+      "length": 11727,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "LXII: The Letter That Was Sent to Brighton",
+      "length": 22635,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "LXIII: Showing How the Duke Stood His Ground",
+      "length": 23987,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "LXIV: The Horns",
+      "length": 24141,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "LXV: The Cabinet Minister at Killaloe",
+      "length": 17800,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "LXVI: Victrix",
+      "length": 17051,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "LXVII: Job's Comforters",
+      "length": 18371,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "LXVIII: The Joint Attack",
+      "length": 17570,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "LXIX: The Temptress",
+      "length": 23551,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "LXX: The Prime Minister's House",
+      "length": 11796,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "LXXI: Comparing Notes",
+      "length": 13902,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "LXXII: Madame Goesler's Generosity",
+      "length": 19454,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "LXXIII: Amantium Irae",
+      "length": 11597,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "LXXIV: The Beginning of the End",
+      "length": 17193,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "LXXV: P. P. C.",
+      "length": 26491,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "LXXVI: Conclusion",
+      "length": 12409,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "Colophon",
+      "length": 1021,
+      "mode": "hide"
+    },
+    {
+      "id": "080",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL109864W",
+  "goodreadsId": "1541692",
+  "rating": 0.798,
+  "popularity": 7221,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721337519679
+}

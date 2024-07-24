@@ -1,1 +1,154 @@
-{"id":"frances-hodgson-burnett--little-lord-fauntleroy","title":"Little Lord Fauntleroy","titleAlpha":"little lord fauntleroy","author":"Frances Hodgson Burnett","language":"en","description":"A poor young boy unexpectedly inherits a peerage and travels to England to live with his grandfather, an Earl.","longDescription":["In Little Lord Fauntleroy, an American boy named Cedric is transported from the impoverished streets of New York City to the grandeur of his ancestral home, Dorincourt Castle. Here he learns how to become an English aristocrat from the Earl of Dorincourt, his cold and cynical grandfather.","Frances Hodgson Burnett published this, her first children's story, in St. Nicholas Magazine in 1885. Because of the story's popularity, a year later, it was published as an illustrated novel to be sold around the world and translated to 20 different languages."],"year":1885,"genres":["children","classics","fiction"],"topics":["family"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/frances-hodgson-burnett/little-lord-fauntleroy"},"openlibraryId":"OL69625W","goodreadsId":"1454775","rating":0.778,"popularity":22846,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Little Lord Fauntleroy","length":28,"mode":"hide"},{"id":"002","title":"Imprint","length":1176,"mode":"hide"},{"id":"003","title":"I","length":18847,"mode":"type"},{"id":"004","title":"II","length":44920,"mode":"type"},{"id":"005","title":"III","length":10532,"mode":"type"},{"id":"006","title":"IV","length":21096,"mode":"type"},{"id":"007","title":"V","length":35503,"mode":"type"},{"id":"008","title":"VI","length":39720,"mode":"type"},{"id":"009","title":"VII","length":13368,"mode":"type"},{"id":"010","title":"VIII","length":16787,"mode":"type"},{"id":"011","title":"IX","length":11555,"mode":"type"},{"id":"012","title":"X","length":34140,"mode":"type"},{"id":"013","title":"XI","length":19754,"mode":"type"},{"id":"014","title":"XII","length":15796,"mode":"type"},{"id":"015","title":"XIII","length":9975,"mode":"type"},{"id":"016","title":"XIV","length":7986,"mode":"type"},{"id":"017","title":"XV","length":13177,"mode":"type"},{"id":"018","title":"Colophon","length":1049,"mode":"hide"},{"id":"019","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337762887}
+{
+  "id": "frances-hodgson-burnett--little-lord-fauntleroy",
+  "title": "Little Lord Fauntleroy",
+  "titleAlpha": "little lord fauntleroy",
+  "author": "Frances Hodgson Burnett",
+  "language": "en",
+  "description": "A poor young boy unexpectedly inherits a peerage and travels to England to live with his grandfather, an Earl.",
+  "longDescription": [
+    "In Little Lord Fauntleroy, an American boy named Cedric is transported from the impoverished streets of New York City to the grandeur of his ancestral home, Dorincourt Castle. Here he learns how to become an English aristocrat from the Earl of Dorincourt, his cold and cynical grandfather.",
+    "Frances Hodgson Burnett published this, her first children's story, in St. Nicholas Magazine in 1885. Because of the story's popularity, a year later, it was published as an illustrated novel to be sold around the world and translated to 20 different languages."
+  ],
+  "year": 1885,
+  "genres": [
+    "children",
+    "classics",
+    "fiction"
+  ],
+  "topics": [
+    "family",
+    "nobility"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/frances-hodgson-burnett/little-lord-fauntleroy"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Little Lord Fauntleroy",
+      "length": 28,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I",
+      "length": 18847,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II",
+      "length": 44920,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III",
+      "length": 10532,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV",
+      "length": 21096,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V",
+      "length": 35503,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI",
+      "length": 39720,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII",
+      "length": 13368,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII",
+      "length": 16787,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX",
+      "length": 11555,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X",
+      "length": 34140,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI",
+      "length": 19754,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII",
+      "length": 15796,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII",
+      "length": 9975,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV",
+      "length": 7986,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV",
+      "length": 13177,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Colophon",
+      "length": 1049,
+      "mode": "hide"
+    },
+    {
+      "id": "019",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL69625W",
+  "goodreadsId": "1454775",
+  "rating": 0.778,
+  "popularity": 22846,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489672945
+}

@@ -1,1 +1,179 @@
-{"id":"maurice-leblanc--813","title":"813","titleAlpha":"813","author":"Maurice Leblanc","language":"en","description":"The gentleman-thief returns only to face his most dangerous opponent yet.","longDescription":["When Arsene Lupin disappeared at the end of The Hollow Needle the public and police assumed he was dead; but it turns out he was just biding his time and waiting for the right opponent to face off against. Luckily, a secret involving a stash of hidden papers and Europe's aristocratic families is more than enough to pique the interests of Lupin and his unknown competitor. This novel is told more from Lupin's point of view than the previous stories, and that reduces some of the omnipotence bestowed upon him by Leblanc while highlighting his more emotional qualities.","Originally serialized in Le Journal, 813 was published in novel form in 1910. At more than 500 pages, it was deemed a little heavy and was subsequently split into two volumes in 1917 along with slight editing to increase the timely anti-German sentiment. Presented here is the 1910 English translation."],"year":1997,"genres":["classics","fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/maurice-leblanc/813/alexander-teixeira-de-mattos"},"openlibraryId":"OL7989859W","goodreadsId":"141205","rating":0.4832674,"popularity":2,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - 813","length":64,"mode":"hide"},{"id":"002","title":"Imprint","length":1194,"mode":"hide"},{"id":"003","title":"Translator's Note","length":271,"mode":"type"},{"id":"004","title":"I: The Tragedy at the Palace Hotel","length":37920,"mode":"type"},{"id":"005","title":"II: The Blue-Edged Label","length":33277,"mode":"type"},{"id":"006","title":"III: M. Lenormand Opens His Campaign","length":28768,"mode":"type"},{"id":"007","title":"IV: Prince Sernine at Work","length":54384,"mode":"type"},{"id":"008","title":"V: M. Lenormand at Work","length":32956,"mode":"type"},{"id":"009","title":"VI: M. Lenormand Succumbs","length":34517,"mode":"type"},{"id":"010","title":"VII: Parbury-Ribeira-Altenheim","length":40625,"mode":"type"},{"id":"011","title":"VIII: The Olive-Green Frock-Coat","length":37091,"mode":"type"},{"id":"012","title":"IX: \"Sante Palace\"","length":48639,"mode":"type"},{"id":"013","title":"X: Lupin's Great Scheme","length":23704,"mode":"type"},{"id":"014","title":"XI: Charlemagne","length":24715,"mode":"type"},{"id":"015","title":"XII: The Emperor's Letters","length":44717,"mode":"type"},{"id":"016","title":"XIII: The Seven Scoundrels","length":38271,"mode":"type"},{"id":"017","title":"XIV: The Man in Black","length":37107,"mode":"type"},{"id":"018","title":"XV: The Map of Europe","length":36985,"mode":"type"},{"id":"019","title":"XVI: Arsene Lupin's Three Murders","length":40995,"mode":"type"},{"id":"020","title":"Epilogue - The Suicide","length":12825,"mode":"type"},{"id":"021","title":"Endnotes","length":1529,"mode":"hide"},{"id":"022","title":"Colophon","length":1149,"mode":"hide"},{"id":"023","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338105799}
+{
+  "id": "maurice-leblanc--813",
+  "title": "813",
+  "titleAlpha": "813",
+  "author": "Maurice Leblanc",
+  "language": "en",
+  "description": "The gentleman-thief returns only to face his most dangerous opponent yet.",
+  "longDescription": [
+    "When Arsène Lupin disappeared at the end of The Hollow Needle the public and police assumed he was dead; but it turns out he was just biding his time and waiting for the right opponent to face off against. Luckily, a secret involving a stash of hidden papers and Europe's aristocratic families is more than enough to pique the interests of Lupin and his unknown competitor. This novel is told more from Lupin's point of view than the previous stories, and that reduces some of the omnipotence bestowed upon him by Leblanc while highlighting his more emotional qualities.",
+    "Originally serialized in Le Journal, 813 was published in novel form in 1910. At more than 500 pages, it was deemed a little heavy and was subsequently split into two volumes in 1917 along with slight editing to increase the timely anti-German sentiment. Presented here is the 1910 English translation."
+  ],
+  "year": 1910,
+  "genres": [
+    "classics",
+    "fiction",
+    "crime",
+    "mystery"
+  ],
+  "topics": [
+    "thieves",
+    "detective"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Arsène Lupin",
+  "part": 4,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/maurice-leblanc/813/alexander-teixeira-de-mattos"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - 813",
+      "length": 64,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Translator's Note",
+      "length": 271,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "I: The Tragedy at the Palace Hotel",
+      "length": 37920,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II: The Blue-Edged Label",
+      "length": 33277,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III: M. Lenormand Opens His Campaign",
+      "length": 28768,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "IV: Prince Sernine at Work",
+      "length": 54384,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "V: M. Lenormand at Work",
+      "length": 32956,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VI: M. Lenormand Succumbs",
+      "length": 34517,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VII: Parbury-Ribeira-Altenheim",
+      "length": 40625,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VIII: The Olive-Green Frock-Coat",
+      "length": 37091,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "IX: \"Santé Palace\"",
+      "length": 48639,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "X: Lupin's Great Scheme",
+      "length": 23704,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XI: Charlemagne",
+      "length": 24715,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XII: The Emperor's Letters",
+      "length": 44717,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIII: The Seven Scoundrels",
+      "length": 38271,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIV: The Man in Black",
+      "length": 37106,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XV: The Map of Europe",
+      "length": 36985,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVI: Arsène Lupin's Three Murders",
+      "length": 40995,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Epilogue - The Suicide",
+      "length": 12825,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Endnotes",
+      "length": 1529,
+      "mode": "hide"
+    },
+    {
+      "id": "022",
+      "title": "Colophon",
+      "length": 1149,
+      "mode": "hide"
+    },
+    {
+      "id": "023",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1064288W",
+  "goodreadsId": "57903917",
+  "rating": 0.778,
+  "popularity": 2532,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489975570
+}

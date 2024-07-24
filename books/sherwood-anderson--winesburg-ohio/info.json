@@ -1,1 +1,224 @@
-{"id":"sherwood-anderson--winesburg-ohio","title":"Winesburg, Ohio","titleAlpha":"winesburg, ohio","author":"Sherwood Anderson","language":"en","description":"The residents of a small pre-industrial Ohio town lead their lives amidst a backdrop of pervasive loneliness.","longDescription":["Winesburg, Ohio, is set in a fictional town in early 1900s America based on Anderson's boyhood memories of his hometown of Clyde, Ohio. The novel is actually a series of interconnected short stories, with each one focusing on the life of a different resident of the sleepy, pre-industrial town. Though each story peers into the personal life of a different character, the common threads running through all of them are George Willard, the young reporter for the Winesburg Eagle - and a pervasive sense of loneliness, even despair. As the stories obliquely trace George's coming of age, he becomes a symbol of the hope the town holds for the future as its citizens struggle against the oppressive smallness of their existence and their paradoxical inability to form meaningful bonds with each other in such a small community.","The stories in Winesburg, Ohio are of a decidedly melancholy nature, but their real beauty lies in the vivid characterization of the big personalities living in the small town. The simplicity of Anderson's plain-styled prose paints a rich picture, with each character precisely portrayed in all of their dusty down-to-earth physicality. One can almost picture the narrator as the whiskey-soaked voice of Tom Waits, rolling each syllable around in his mouth as the summer heat lies heavy in the twilight air.","Atmosphere aside, the stories are also unique in that Anderson creates narrative tension not with plot development, but with insights into the psychology of the kinds of people who choose, or don't choose, to live in Winesburg. This makes the novel one of the earliest examples of literary modernism. It was praised by its contemporaries on publication, with H. L. Mencken stating that the novel \"embodies some of the most remarkable writing done in America in our time.\" It remained both acclaimed and widely read throughout the 1930s, when its popularity waned with the author's own. In the 1960s critics reevaluated it, firmly placing it in the canon of modern American classics."],"year":1919,"genres":["classics","fiction","shorts"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio"},"openlibraryId":"OL15212580W","goodreadsId":"470727","rating":0.768,"popularity":35045,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Winesburg, Ohio","length":22,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Introduction","length":18838,"mode":"type"},{"id":"004","title":"Dedication","length":185,"mode":"hide"},{"id":"005","title":"The Book of the Grotesque","length":6040,"mode":"type"},{"id":"006","title":"Hands","length":12843,"mode":"type"},{"id":"007","title":"Paper Pills","length":6757,"mode":"type"},{"id":"008","title":"Mother","length":17387,"mode":"type"},{"id":"009","title":"The Philosopher","length":13842,"mode":"type"},{"id":"010","title":"Nobody Knows","length":6660,"mode":"type"},{"id":"011","title":"Godliness - Part I","length":18207,"mode":"type"},{"id":"012","title":"Godliness - Part II","length":22881,"mode":"type"},{"id":"013","title":"Surrender - Part III","length":17096,"mode":"type"},{"id":"014","title":"Terror - Part IV","length":10258,"mode":"type"},{"id":"015","title":"A Man of Ideas","length":15525,"mode":"type"},{"id":"016","title":"Adventure","length":14882,"mode":"type"},{"id":"017","title":"Respectability","length":12022,"mode":"type"},{"id":"018","title":"The Thinker","length":26688,"mode":"type"},{"id":"019","title":"Tandy","length":6085,"mode":"type"},{"id":"020","title":"The Strength of God","length":16627,"mode":"type"},{"id":"021","title":"The Teacher","length":16271,"mode":"type"},{"id":"022","title":"Loneliness","length":19677,"mode":"type"},{"id":"023","title":"An Awakening","length":18623,"mode":"type"},{"id":"024","title":"\"Queer\"","length":20397,"mode":"type"},{"id":"025","title":"The Untold Lie","length":12376,"mode":"type"},{"id":"026","title":"Drink","length":17330,"mode":"type"},{"id":"027","title":"Death","length":21814,"mode":"type"},{"id":"028","title":"Sophistication","length":17864,"mode":"type"},{"id":"029","title":"Departure","length":5922,"mode":"type"},{"id":"030","title":"Colophon","length":1011,"mode":"hide"},{"id":"031","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338248910}
+{
+  "id": "sherwood-anderson--winesburg-ohio",
+  "title": "Winesburg, Ohio",
+  "titleAlpha": "winesburg, ohio",
+  "author": "Sherwood Anderson",
+  "language": "en",
+  "description": "The residents of a small pre-industrial Ohio town lead their lives amidst a backdrop of pervasive loneliness.",
+  "longDescription": [
+    "Winesburg, Ohio, is set in a fictional town in early 1900s America based on Anderson's boyhood memories of his hometown of Clyde, Ohio. The novel is actually a series of interconnected short stories, with each one focusing on the life of a different resident of the sleepy, pre-industrial town. Though each story peers into the personal life of a different character, the common threads running through all of them are George Willard, the young reporter for the Winesburg Eagle - and a pervasive sense of loneliness, even despair. As the stories obliquely trace George's coming of age, he becomes a symbol of the hope the town holds for the future as its citizens struggle against the oppressive smallness of their existence and their paradoxical inability to form meaningful bonds with each other in such a small community.",
+    "The stories in Winesburg, Ohio are of a decidedly melancholy nature, but their real beauty lies in the vivid characterization of the big personalities living in the small town. The simplicity of Anderson's plain-styled prose paints a rich picture, with each character precisely portrayed in all of their dusty down-to-earth physicality. One can almost picture the narrator as the whiskey-soaked voice of Tom Waits, rolling each syllable around in his mouth as the summer heat lies heavy in the twilight air.",
+    "Atmosphere aside, the stories are also unique in that Anderson creates narrative tension not with plot development, but with insights into the psychology of the kinds of people who choose, or don't choose, to live in Winesburg. This makes the novel one of the earliest examples of literary modernism. It was praised by its contemporaries on publication, with H. L. Mencken stating that the novel \"embodies some of the most remarkable writing done in America in our time.\" It remained both acclaimed and widely read throughout the 1930s, when its popularity waned with the author's own. In the 1960s critics reevaluated it, firmly placing it in the canon of modern American classics."
+  ],
+  "year": 1919,
+  "genres": [
+    "classics",
+    "fiction",
+    "shorts"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/sherwood-anderson/winesburg-ohio"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Winesburg, Ohio",
+      "length": 22,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Introduction",
+      "length": 18838,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Dedication",
+      "length": 185,
+      "mode": "hide"
+    },
+    {
+      "id": "005",
+      "title": "The Book of the Grotesque",
+      "length": 6040,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Hands",
+      "length": 12843,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Paper Pills",
+      "length": 6757,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Mother",
+      "length": 17387,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "The Philosopher",
+      "length": 13842,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Nobody Knows",
+      "length": 6660,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Godliness - Part I",
+      "length": 18207,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Godliness - Part II",
+      "length": 22881,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Surrender - Part III",
+      "length": 17096,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Terror - Part IV",
+      "length": 10258,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "A Man of Ideas",
+      "length": 15525,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Adventure",
+      "length": 14882,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Respectability",
+      "length": 12022,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "The Thinker",
+      "length": 26688,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Tandy",
+      "length": 6085,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "The Strength of God",
+      "length": 16627,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "The Teacher",
+      "length": 16271,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Loneliness",
+      "length": 19677,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "An Awakening",
+      "length": 18623,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "\"Queer\"",
+      "length": 20397,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "The Untold Lie",
+      "length": 12376,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Drink",
+      "length": 17330,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Death",
+      "length": 21814,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Sophistication",
+      "length": 17864,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Departure",
+      "length": 5922,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Colophon",
+      "length": 1011,
+      "mode": "hide"
+    },
+    {
+      "id": "031",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL15212580W",
+  "goodreadsId": "470727",
+  "rating": 0.768,
+  "popularity": 35045,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490118116
+}

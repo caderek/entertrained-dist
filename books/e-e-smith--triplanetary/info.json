@@ -1,1 +1,211 @@
-{"id":"e-e-smith--triplanetary","title":"Triplanetary","titleAlpha":"triplanetary","author":"E. E. Smith","language":"en","description":"In a universe where all powerful alien races influence the fates of worlds, a war erupts between the Triplanetary League of the inner solar system, pirates led by a mysterious and malicious scientist, and technologically advanced aliens.","longDescription":["Hundreds of millions of years ago, two near-omnipotent alien races encountered each other, beginning a conflict that will shape the history of the entire universe. The benevolent Arisians covertly influence humanity, hoping to create a people capable of one day defeating the vile Eddorians, who are waging their own campaign for the fate of civilization on Earth. This sets the stage for a clash between the Triplanetary League of the inner solar system, the enigmatic pirate-scientist Roger, and the Nevians, interlopers whose first appearance wreaks havoc among the other parties.","Triplanetary is the first of Edward E. \"Doc\" Smith's Lensman series, an early and influential entry in the space opera genre. Originally serialized in Amazing Stories in 1934 as a stand-alone story, Triplanetary was collected in book form in 1948 with six new chapters and numerous additions, changing the story to be a prequel to the rest of the Lensman series."],"year":1934,"genres":["classics","fiction","science-fiction"],"topics":["aliens","space","warfare"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/e-e-smith/triplanetary"},"openlibraryId":"OL2685469W","goodreadsId":"390220","rating":0.73,"popularity":7133,"cover":null,"free":false,"custom":false,"series":"Lensman","part":1,"chapters":[{"id":"001","title":"Titlepage - Triplanetary","length":16,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Dedication","length":7,"mode":"hide"},{"id":"004","title":"Book I: Dawn - I: Arisia and Eddore","length":17624,"mode":"type"},{"id":"005","title":"Book I: Dawn - II: The Fall of Atlantis - I: Eddore","length":2291,"mode":"type"},{"id":"006","title":"Book I: Dawn - II: The Fall of Atlantis - II: Arisia","length":7178,"mode":"type"},{"id":"007","title":"Book I: Dawn - II: The Fall of Atlantis - III: Atlantis","length":33155,"mode":"type"},{"id":"008","title":"Book I: Dawn - III: The Fall of Rome - I: Eddore","length":4252,"mode":"type"},{"id":"009","title":"Book I: Dawn - III: The Fall of Rome - II: Arisia","length":1896,"mode":"type"},{"id":"010","title":"Book I: Dawn - III: The Fall of Rome - III: Rome","length":24521,"mode":"type"},{"id":"011","title":"Book II: The World War - IV: 1918","length":23762,"mode":"type"},{"id":"012","title":"Book II: The World War - V: 1941","length":38455,"mode":"type"},{"id":"013","title":"Book II: The World War - VI: 19 -?","length":22651,"mode":"type"},{"id":"014","title":"Book III: Triplanetary - VII: Pirates of Space","length":35475,"mode":"type"},{"id":"015","title":"Book III: Triplanetary - VIII: In Roger's Planetoid","length":33829,"mode":"type"},{"id":"016","title":"Book III: Triplanetary - IX: Fleet Against Planetoid","length":21798,"mode":"type"},{"id":"017","title":"Book III: Triplanetary - X: Within the Red Veil","length":37300,"mode":"type"},{"id":"018","title":"Book III: Triplanetary - XI: Nevian Strife","length":34746,"mode":"type"},{"id":"019","title":"Book III: Triplanetary - XII: Worm, Submarine, and Freedom","length":13196,"mode":"type"},{"id":"020","title":"Book III: Triplanetary - XIII: The Hill","length":23679,"mode":"type"},{"id":"021","title":"Book III: Triplanetary - XIV: The Super-Ship Is Launched","length":20588,"mode":"type"},{"id":"022","title":"Book III: Triplanetary - XV: Specimens","length":8501,"mode":"type"},{"id":"023","title":"Book III: Triplanetary - XVI: Super-Ship in Action","length":28617,"mode":"type"},{"id":"024","title":"Book III: Triplanetary - XVII: Roger Carries On","length":38994,"mode":"type"},{"id":"025","title":"Book III: Triplanetary - XVIII: The Specimens Escape","length":34029,"mode":"type"},{"id":"026","title":"Book III: Triplanetary - XIX: Giants Meet","length":27861,"mode":"type"},{"id":"027","title":"Colophon","length":1049,"mode":"hide"},{"id":"028","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337656890}
+{
+  "id": "e-e-smith--triplanetary",
+  "title": "Triplanetary",
+  "titleAlpha": "triplanetary",
+  "author": "E. E. Smith",
+  "language": "en",
+  "description": "In a universe where all powerful alien races influence the fates of worlds, a war erupts between the Triplanetary League of the inner solar system, pirates led by a mysterious and malicious scientist, and technologically advanced aliens.",
+  "longDescription": [
+    "Hundreds of millions of years ago, two near-omnipotent alien races encountered each other, beginning a conflict that will shape the history of the entire universe. The benevolent Arisians covertly influence humanity, hoping to create a people capable of one day defeating the vile Eddorians, who are waging their own campaign for the fate of civilization on Earth. This sets the stage for a clash between the Triplanetary League of the inner solar system, the enigmatic pirate-scientist Roger, and the Nevians, interlopers whose first appearance wreaks havoc among the other parties.",
+    "Triplanetary is the first of Edward E. \"Doc\" Smith's Lensman series, an early and influential entry in the space opera genre. Originally serialized in Amazing Stories in 1934 as a stand-alone story, Triplanetary was collected in book form in 1948 with six new chapters and numerous additions, changing the story to be a prequel to the rest of the Lensman series."
+  ],
+  "year": 1934,
+  "genres": [
+    "classics",
+    "fiction",
+    "science-fiction"
+  ],
+  "topics": [
+    "aliens",
+    "space",
+    "warfare",
+    "war",
+    "pirates"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Lensman",
+  "part": 1,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/e-e-smith/triplanetary"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Triplanetary",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 7,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Book I: Dawn - I: Arisia and Eddore",
+      "length": 17624,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Book I: Dawn - II: The Fall of Atlantis - I: Eddore",
+      "length": 2291,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book I: Dawn - II: The Fall of Atlantis - II: Arisia",
+      "length": 7178,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Book I: Dawn - II: The Fall of Atlantis - III: Atlantis",
+      "length": 33155,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Book I: Dawn - III: The Fall of Rome - I: Eddore",
+      "length": 4252,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book I: Dawn - III: The Fall of Rome - II: Arisia",
+      "length": 1896,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Book I: Dawn - III: The Fall of Rome - III: Rome",
+      "length": 24521,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book II: The World War - IV: 1918",
+      "length": 23762,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book II: The World War - V: 1941",
+      "length": 38455,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book II: The World War - VI: 19 -?",
+      "length": 22651,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book III: Triplanetary - VII: Pirates of Space",
+      "length": 35475,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book III: Triplanetary - VIII: In Roger's Planetoid",
+      "length": 33829,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Book III: Triplanetary - IX: Fleet Against Planetoid",
+      "length": 21798,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book III: Triplanetary - X: Within the Red Veil",
+      "length": 37300,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book III: Triplanetary - XI: Nevian Strife",
+      "length": 34746,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Book III: Triplanetary - XII: Worm, Submarine, and Freedom",
+      "length": 13196,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Book III: Triplanetary - XIII: The Hill",
+      "length": 23679,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Book III: Triplanetary - XIV: The Super-Ship Is Launched",
+      "length": 20588,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Book III: Triplanetary - XV: Specimens",
+      "length": 8501,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Book III: Triplanetary - XVI: Super-Ship in Action",
+      "length": 28617,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Book III: Triplanetary - XVII: Roger Carries On",
+      "length": 38994,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Book III: Triplanetary - XVIII: The Specimens Escape",
+      "length": 34029,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Book III: Triplanetary - XIX: Giants Meet",
+      "length": 27861,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Colophon",
+      "length": 1049,
+      "mode": "hide"
+    },
+    {
+      "id": "028",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL2685469W",
+  "goodreadsId": "390220",
+  "rating": 0.73,
+  "popularity": 7133,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489550881
+}

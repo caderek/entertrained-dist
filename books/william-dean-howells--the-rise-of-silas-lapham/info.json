@@ -1,1 +1,226 @@
-{"id":"william-dean-howells--the-rise-of-silas-lapham","title":"The Rise of Silas Lapham","titleAlpha":"rise of silas lapham","author":"William Dean Howells","language":"en","description":"A self-made man in the Gilded Age struggles to do what's right when his business is in danger and his family faces an uncertain future.","longDescription":["Silas Lapham's long-lasting paint, made with minerals found on his family's farm in Vermont, has helped make him a millionaire - as has hard work, ambition, and tough business sense. Now that he's reached late middle age, he's a success. A newspaper is writing him up in its \"Solid Men of Boston\" series, his family goes to seaside resorts in the summer, the scion of the aristocratic Covey family has joined his firm, his daughters have made inroads into 1880s society, and he's even having a lavish house built in the newly-fashionable Back Bay.","But it's all too good to last. Soon the Laphams must deal with long-simmering temptations that exist because of a ruthless decision made when his company was getting off the ground. Will they avoid a fall?","In 1885, when The Rise of Silas Lapham was published, William Dean Howells was in the middle of his own career. The novel remains his best-known work, enduring in no small part because of its portrayal of the self-made man and the problems that success and competition bring."],"year":null,"genres":["classics","fiction","psychological"],"topics":["business"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/william-dean-howells/the-rise-of-silas-lapham"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Rise of Silas Lapham","length":25,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I","length":41810,"mode":"type"},{"id":"004","title":"II","length":28392,"mode":"type"},{"id":"005","title":"III","length":17511,"mode":"type"},{"id":"006","title":"IV","length":24914,"mode":"type"},{"id":"007","title":"V","length":19190,"mode":"type"},{"id":"008","title":"VI","length":22543,"mode":"type"},{"id":"009","title":"VII","length":17080,"mode":"type"},{"id":"010","title":"VIII","length":28901,"mode":"type"},{"id":"011","title":"IX","length":32573,"mode":"type"},{"id":"012","title":"X","length":21541,"mode":"type"},{"id":"013","title":"XI","length":35074,"mode":"type"},{"id":"014","title":"XII","length":31887,"mode":"type"},{"id":"015","title":"XIII","length":29212,"mode":"type"},{"id":"016","title":"XIV","length":44084,"mode":"type"},{"id":"017","title":"XV","length":9260,"mode":"type"},{"id":"018","title":"XVI","length":16335,"mode":"type"},{"id":"019","title":"XVII","length":17209,"mode":"type"},{"id":"020","title":"XVIII","length":17951,"mode":"type"},{"id":"021","title":"XIX","length":27190,"mode":"type"},{"id":"022","title":"XX","length":24976,"mode":"type"},{"id":"023","title":"XXI","length":17878,"mode":"type"},{"id":"024","title":"XXII","length":9742,"mode":"type"},{"id":"025","title":"XXIII","length":26690,"mode":"type"},{"id":"026","title":"XXIV","length":29608,"mode":"type"},{"id":"027","title":"XXV","length":35578,"mode":"type"},{"id":"028","title":"XXVI","length":27537,"mode":"type"},{"id":"029","title":"XXVII","length":37649,"mode":"type"},{"id":"030","title":"Colophon","length":1079,"mode":"hide"},{"id":"031","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338379186}
+{
+  "id": "william-dean-howells--the-rise-of-silas-lapham",
+  "title": "The Rise of Silas Lapham",
+  "titleAlpha": "rise of silas lapham",
+  "author": "William Dean Howells",
+  "language": "en",
+  "description": "A self-made man in the Gilded Age struggles to do what's right when his business is in danger and his family faces an uncertain future.",
+  "longDescription": [
+    "Silas Lapham's long-lasting paint, made with minerals found on his family's farm in Vermont, has helped make him a millionaire - as has hard work, ambition, and tough business sense. Now that he's reached late middle age, he's a success. A newspaper is writing him up in its \"Solid Men of Boston\" series, his family goes to seaside resorts in the summer, the scion of the aristocratic Covey family has joined his firm, his daughters have made inroads into 1880s society, and he's even having a lavish house built in the newly-fashionable Back Bay.",
+    "But it's all too good to last. Soon the Laphams must deal with long-simmering temptations that exist because of a ruthless decision made when his company was getting off the ground. Will they avoid a fall?",
+    "In 1885, when The Rise of Silas Lapham was published, William Dean Howells was in the middle of his own career. The novel remains his best-known work, enduring in no small part because of its portrayal of the self-made man and the problems that success and competition bring."
+  ],
+  "year": 1885,
+  "genres": [
+    "classics",
+    "fiction",
+    "psychological"
+  ],
+  "topics": [
+    "business"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/william-dean-howells/the-rise-of-silas-lapham"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Rise of Silas Lapham",
+      "length": 25,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I",
+      "length": 41810,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II",
+      "length": 28392,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III",
+      "length": 17511,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV",
+      "length": 24914,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V",
+      "length": 19190,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI",
+      "length": 22543,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII",
+      "length": 17080,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII",
+      "length": 28901,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX",
+      "length": 32573,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X",
+      "length": 21541,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI",
+      "length": 35074,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII",
+      "length": 31887,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII",
+      "length": 29212,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV",
+      "length": 44084,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV",
+      "length": 9260,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI",
+      "length": 16335,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII",
+      "length": 17209,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII",
+      "length": 17951,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX",
+      "length": 27190,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX",
+      "length": 24976,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI",
+      "length": 17878,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII",
+      "length": 9742,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII",
+      "length": 26690,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV",
+      "length": 29608,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXV",
+      "length": 35578,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXVI",
+      "length": 27537,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVII",
+      "length": 37649,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Colophon",
+      "length": 1079,
+      "mode": "hide"
+    },
+    {
+      "id": "031",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL8061633W",
+  "goodreadsId": "381362",
+  "rating": 0.686,
+  "popularity": 4131,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490255224
+}

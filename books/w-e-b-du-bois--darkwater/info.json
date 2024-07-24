@@ -1,1 +1,148 @@
-{"id":"w-e-b-du-bois--darkwater","title":"Darkwater","titleAlpha":"darkwater","author":"W. E. B. Du Bois","language":"en","description":"A collection of essays, short fiction, and poetry related to the lives of black people in Jim Crow-era America.","longDescription":["In The Souls of Black Folk the sociologist W. E. B. Du Bois introduced the concept of the \"veil,\" a separation of the inner lives of black Americans from their white counterparts. Darkwater: Voices from Within the Veil is a collection of essays, poems, and short fiction that attempts to provide a nuanced look behind the veil at the lives of black Americans and to give voice to their often neglected concerns.","Written in the aftermath of the First World War, seventeen years after The Souls of Black Folk and during a time when racial tension had been codified into the infamous Jim Crow laws, Du Bois touches on a wide range of topics, from the philosophical to the concrete. His over-arching message is a desire for equality. He argues strongly against colonialism, excessive materialism, and Jim Crow, and discusses how only proper education and universal suffrage can provide the foundation for a more fair society. The unique combination of different writing styles on display vividly captures both his frustration and his belief in the possibility of a future shared on an equal basis between people of all colors."],"year":null,"genres":["classics","nonfiction","philosophy"],"topics":["african-americans"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Darkwater","length":21,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Dedication","length":22,"mode":"hide"},{"id":"004","title":"Postscript","length":1503,"mode":"type"},{"id":"005","title":"Credo","length":30867,"mode":"type"},{"id":"006","title":"I: The Shadow of Years - A Litany at Atlanta","length":40372,"mode":"type"},{"id":"007","title":"II: The Souls of White Folk - The Riddle of the Sphinx","length":31110,"mode":"type"},{"id":"008","title":"III: The Hands of Ethiopia - The Princess of the Hither Isles","length":45013,"mode":"type"},{"id":"009","title":"IV: Of Work and Wealth - The Second Coming","length":24068,"mode":"type"},{"id":"010","title":"V: \"The Servant in the House\" - Jesus Christ in Texas","length":57088,"mode":"type"},{"id":"011","title":"VI: Of the Ruling of Men - The Call","length":37954,"mode":"type"},{"id":"012","title":"VII: The Damnation of Women - Children of the Moon","length":42147,"mode":"type"},{"id":"013","title":"VIII: The Immortal Child - Almighty Death","length":41042,"mode":"type"},{"id":"014","title":"IX: Of Beauty and Death - The Prayers of God","length":31784,"mode":"type"},{"id":"015","title":"X: The Comet - A Hymn to the Peoples","length":1870,"mode":"type"},{"id":"016","title":"Endnotes","length":41,"mode":"hide"},{"id":"017","title":"Colophon","length":1046,"mode":"hide"},{"id":"018","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338327436}
+{
+  "id": "w-e-b-du-bois--darkwater",
+  "title": "Darkwater",
+  "titleAlpha": "darkwater",
+  "author": "W. E. B. Du Bois",
+  "language": "en",
+  "description": "A collection of essays, short fiction, and poetry related to the lives of black people in Jim Crow-era America.",
+  "longDescription": [
+    "In The Souls of Black Folk the sociologist W. E. B. Du Bois introduced the concept of the \"veil,\" a separation of the inner lives of black Americans from their white counterparts. Darkwater: Voices from Within the Veil is a collection of essays, poems, and short fiction that attempts to provide a nuanced look behind the veil at the lives of black Americans and to give voice to their often neglected concerns.",
+    "Written in the aftermath of the First World War, seventeen years after The Souls of Black Folk and during a time when racial tension had been codified into the infamous Jim Crow laws, Du Bois touches on a wide range of topics, from the philosophical to the concrete. His over-arching message is a desire for equality. He argues strongly against colonialism, excessive materialism, and Jim Crow, and discusses how only proper education and universal suffrage can provide the foundation for a more fair society. The unique combination of different writing styles on display vividly captures both his frustration and his belief in the possibility of a future shared on an equal basis between people of all colors."
+  ],
+  "year": 1920,
+  "genres": [
+    "classics",
+    "nonfiction",
+    "philosophy",
+    "fiction"
+  ],
+  "topics": [
+    "african-americans"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Darkwater",
+      "length": 21,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 22,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Postscript",
+      "length": 1503,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Credo",
+      "length": 30867,
+      "mode": "skip"
+    },
+    {
+      "id": "006",
+      "title": "I: The Shadow of Years - A Litany at Atlanta",
+      "length": 40372,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "II: The Souls of White Folk - The Riddle of the Sphinx",
+      "length": 31110,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "III: The Hands of Ethiopia - The Princess of the Hither Isles",
+      "length": 45013,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "IV: Of Work and Wealth - The Second Coming",
+      "length": 24068,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "V: \"The Servant in the House\" - Jesus Christ in Texas",
+      "length": 57088,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VI: Of the Ruling of Men - The Call",
+      "length": 37954,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VII: The Damnation of Women - Children of the Moon",
+      "length": 42147,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "VIII: The Immortal Child - Almighty Death",
+      "length": 41042,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "IX: Of Beauty and Death - The Prayers of God",
+      "length": 31784,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "X: The Comet - A Hymn to the Peoples",
+      "length": 1870,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Endnotes",
+      "length": 41,
+      "mode": "hide"
+    },
+    {
+      "id": "017",
+      "title": "Colophon",
+      "length": 1046,
+      "mode": "hide"
+    },
+    {
+      "id": "018",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL28571W",
+  "goodreadsId": "672737",
+  "rating": 0.86,
+  "popularity": 878,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490206515
+}

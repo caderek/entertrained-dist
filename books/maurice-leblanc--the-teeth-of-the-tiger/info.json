@@ -1,1 +1,191 @@
-{"id":"maurice-leblanc--the-teeth-of-the-tiger","title":"The Teeth of the Tiger","titleAlpha":"teeth of the tiger","author":"Maurice Leblanc","language":"en","description":"A series of murders connected to an enormous legacy leads to a battle against an unseen adversary.","longDescription":["The fortunes of Don Luis Perenna seem set to only increase after the will of his friend, Cosmo Mornington, is read. Perenna stands to benefit by one million francs if he finds the true heir, and by one hundred million if they can't be found. But after both a detective and a potential recipient of the fortune die in the in the same way as Mornington, Perenna (alias Arsene Lupin) must fight to prove his innocence and discover the real murderer.","The Teeth of the Tiger was published in this English translation in 1914, but wasn't available in the original French until its serialization in Le Journal in 1920. In the timeline of the series, The Teeth of the Tiger is set after the events of 813, and continues with the rebalancing of Lupin from a god-like genius to a fallible, albeit brilliant, man."],"year":null,"genres":["classics","fiction","mystery"],"topics":["detective"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/maurice-leblanc/the-teeth-of-the-tiger/alexander-teixeira-de-mattos"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Teeth of the Tiger","length":64,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I: d'Artagnan, Porthos... and Monte Cristo","length":37189,"mode":"type"},{"id":"004","title":"II: A Man Dead","length":33354,"mode":"type"},{"id":"005","title":"III: A Man Doomed","length":33862,"mode":"type"},{"id":"006","title":"IV: The Clouded Turquoise","length":45779,"mode":"type"},{"id":"007","title":"V: The Iron Curtain","length":32912,"mode":"type"},{"id":"008","title":"VI: The Man with the Ebony Walking-Stick","length":35652,"mode":"type"},{"id":"009","title":"VII: Shakespeare's Works, Volume VIII","length":35008,"mode":"type"},{"id":"010","title":"VIII: The Devil's Post-Office","length":26977,"mode":"type"},{"id":"011","title":"IX: Lupin's Anger","length":28417,"mode":"type"},{"id":"012","title":"X: Gaston Sauverand Explains","length":38830,"mode":"type"},{"id":"013","title":"XI: Routed","length":24163,"mode":"type"},{"id":"014","title":"XII: \"Help!\"","length":28489,"mode":"type"},{"id":"015","title":"XIII: The Explosion","length":31011,"mode":"type"},{"id":"016","title":"XIV: The \"Hater\"","length":41152,"mode":"type"},{"id":"017","title":"XV: The Heir to the Hundred Millions","length":39143,"mode":"type"},{"id":"018","title":"XVI: Weber Takes His Revenge","length":35109,"mode":"type"},{"id":"019","title":"XVII: Open Sesame!","length":28121,"mode":"type"},{"id":"020","title":"XVIII: Arsene I Emperor of Mauretania","length":27439,"mode":"type"},{"id":"021","title":"XIX: \"The Snare Is Laid. Beware, Lupin!\"","length":35906,"mode":"type"},{"id":"022","title":"XX: Florence's Secret","length":43154,"mode":"type"},{"id":"023","title":"XXI: Lupin's Lupins","length":25509,"mode":"type"},{"id":"024","title":"Colophon","length":1220,"mode":"hide"},{"id":"025","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338117268}
+{
+  "id": "maurice-leblanc--the-teeth-of-the-tiger",
+  "title": "The Teeth of the Tiger",
+  "titleAlpha": "teeth of the tiger",
+  "author": "Maurice Leblanc",
+  "language": "en",
+  "description": "A series of murders connected to an enormous legacy leads to a battle against an unseen adversary.",
+  "longDescription": [
+    "The fortunes of Don Luis Perenna seem set to only increase after the will of his friend, Cosmo Mornington, is read. Perenna stands to benefit by one million francs if he finds the true heir, and by one hundred million if they can't be found. But after both a detective and a potential recipient of the fortune die in the in the same way as Mornington, Perenna (alias Arsène Lupin) must fight to prove his innocence and discover the real murderer.",
+    "The Teeth of the Tiger was published in this English translation in 1914, but wasn't available in the original French until its serialization in Le Journal in 1920. In the timeline of the series, The Teeth of the Tiger is set after the events of 813, and continues with the rebalancing of Lupin from a god-like genius to a fallible, albeit brilliant, man."
+  ],
+  "year": 1920,
+  "genres": [
+    "classics",
+    "fiction",
+    "mystery",
+    "crime"
+  ],
+  "topics": [
+    "detective",
+    "thieves"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Arsène Lupin",
+  "part": 7,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/maurice-leblanc/the-teeth-of-the-tiger/alexander-teixeira-de-mattos"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Teeth of the Tiger",
+      "length": 64,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: d'Artagnan, Porthos... and Monte Cristo",
+      "length": 37189,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: A Man Dead",
+      "length": 33354,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: A Man Doomed",
+      "length": 33862,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: The Clouded Turquoise",
+      "length": 45779,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: The Iron Curtain",
+      "length": 32912,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: The Man with the Ebony Walking-Stick",
+      "length": 35652,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: Shakespeare's Works, Volume VIII",
+      "length": 35008,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: The Devil's Post-Office",
+      "length": 26977,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: Lupin's Anger",
+      "length": 28417,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: Gaston Sauverand Explains",
+      "length": 38830,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: Routed",
+      "length": 24163,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: \"Help!\"",
+      "length": 28489,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: The Explosion",
+      "length": 31011,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: The \"Hater\"",
+      "length": 41152,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: The Heir to the Hundred Millions",
+      "length": 39143,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI: Weber Takes His Revenge",
+      "length": 35109,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII: Open Sesame!",
+      "length": 28121,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII: Arsène I Emperor of Mauretania",
+      "length": 27439,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX: \"The Snare Is Laid. Beware, Lupin!\"",
+      "length": 35906,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX: Florence's Secret",
+      "length": 43154,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI: Lupin's Lupins",
+      "length": 25509,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Colophon",
+      "length": 1220,
+      "mode": "hide"
+    },
+    {
+      "id": "025",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL7989938W",
+  "goodreadsId": "93663",
+  "rating": 0.784,
+  "popularity": 769,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489984832
+}

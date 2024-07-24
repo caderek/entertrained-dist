@@ -1,1 +1,205 @@
-{"id":"edgar-wallace--the-clue-of-the-twisted-candle","title":"The Clue of the Twisted Candle","titleAlpha":"clue of the twisted candle","author":"Edgar Wallace","language":"en","description":"A successful writer is asked to help solve a locked-room murder mystery that has the authorities baffled.","longDescription":["John Lexham, a famous mystery writer, finds himself with money problems after an investment goes poorly. His problems multiply when a confrontation leads to a dead creditor, and John quickly finds himself convicted of the crime and given a lengthy prison sentence. Kara, a rich friend with a shady past, helps John break out of prison and escape abroad.","But Lexham soon finds out that sometimes friends can be enemies, and that freedom can be fleeting, as he is soon held captive again. After escaping a second time and being exonerated, John is called upon to help solve Kara's brutal murder.","The Clue of the Twisted Candle was published in 1918 and adapted for film in 1960."],"year":1916,"genres":["adventure","classics","fiction","mystery"],"topics":["detective"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/edgar-wallace/the-clue-of-the-twisted-candle"},"openlibraryId":"OL1518059W","goodreadsId":"854300","rating":0.708,"popularity":796,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Clue of the Twisted Candle","length":18,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I","length":33709,"mode":"type"},{"id":"004","title":"II","length":11171,"mode":"type"},{"id":"005","title":"III","length":16962,"mode":"type"},{"id":"006","title":"IV","length":6637,"mode":"type"},{"id":"007","title":"V","length":8725,"mode":"type"},{"id":"008","title":"VI","length":11856,"mode":"type"},{"id":"009","title":"VII","length":7631,"mode":"type"},{"id":"010","title":"VIII","length":32050,"mode":"type"},{"id":"011","title":"IX","length":16576,"mode":"type"},{"id":"012","title":"X","length":10778,"mode":"type"},{"id":"013","title":"XI","length":17099,"mode":"type"},{"id":"014","title":"XII","length":6156,"mode":"type"},{"id":"015","title":"XIII","length":8566,"mode":"type"},{"id":"016","title":"XIV","length":8337,"mode":"type"},{"id":"017","title":"XV","length":17654,"mode":"type"},{"id":"018","title":"XVI","length":13842,"mode":"type"},{"id":"019","title":"XVII","length":25667,"mode":"type"},{"id":"020","title":"XVIII","length":2890,"mode":"type"},{"id":"021","title":"XIX","length":10209,"mode":"type"},{"id":"022","title":"XX","length":1353,"mode":"type"},{"id":"023","title":"XXI: The Narrative of John Lexman","length":20599,"mode":"type"},{"id":"024","title":"XXII","length":21565,"mode":"type"},{"id":"025","title":"XXIII","length":5550,"mode":"type"},{"id":"026","title":"Colophon","length":1062,"mode":"hide"},{"id":"027","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337692555}
+{
+  "id": "edgar-wallace--the-clue-of-the-twisted-candle",
+  "title": "The Clue of the Twisted Candle",
+  "titleAlpha": "clue of the twisted candle",
+  "author": "Edgar Wallace",
+  "language": "en",
+  "description": "A successful writer is asked to help solve a locked-room murder mystery that has the authorities baffled.",
+  "longDescription": [
+    "John Lexham, a famous mystery writer, finds himself with money problems after an investment goes poorly. His problems multiply when a confrontation leads to a dead creditor, and John quickly finds himself convicted of the crime and given a lengthy prison sentence. Kara, a rich friend with a shady past, helps John break out of prison and escape abroad.",
+    "But Lexham soon finds out that sometimes friends can be enemies, and that freedom can be fleeting, as he is soon held captive again. After escaping a second time and being exonerated, John is called upon to help solve Kara's brutal murder.",
+    "The Clue of the Twisted Candle was published in 1918 and adapted for film in 1960."
+  ],
+  "year": 1916,
+  "genres": [
+    "adventure",
+    "classics",
+    "fiction",
+    "mystery",
+    "thriller",
+    "crime"
+  ],
+  "topics": [
+    "detective"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/edgar-wallace/the-clue-of-the-twisted-candle"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Clue of the Twisted Candle",
+      "length": 18,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I",
+      "length": 33709,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II",
+      "length": 11171,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III",
+      "length": 16962,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV",
+      "length": 6637,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V",
+      "length": 8725,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI",
+      "length": 11856,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII",
+      "length": 7631,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII",
+      "length": 32050,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX",
+      "length": 16576,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X",
+      "length": 10778,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI",
+      "length": 17099,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII",
+      "length": 6156,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII",
+      "length": 8566,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV",
+      "length": 8337,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV",
+      "length": 17654,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI",
+      "length": 13842,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII",
+      "length": 25667,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII",
+      "length": 2890,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX",
+      "length": 10209,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX",
+      "length": 1353,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI: The Narrative of John Lexman",
+      "length": 20599,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII",
+      "length": 21565,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII",
+      "length": 5550,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Colophon",
+      "length": 1062,
+      "mode": "hide"
+    },
+    {
+      "id": "027",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1518059W",
+  "goodreadsId": "854300",
+  "rating": 0.708,
+  "popularity": 796,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489598591
+}

@@ -1,1 +1,573 @@
-{"id":"anthony-trollope--the-last-chronicle-of-barset","title":"The Last Chronicle of Barset","titleAlpha":"last chronicle of barset","author":"Anthony Trollope","language":"en","description":"An impoverished clergyman is accused of theft, and this disgrace leads to great suffering for both his family and those that love them.","longDescription":["The Last Chronicle of Barset is the sixth, and as its title would suggest, final novel in Anthony Trollope's Chronicles of Barsetshire. Like the earlier books, it was serialized in Cornhill Magazine, with a hardcover edition coming out in 1867. It brings together many of the characters who had appeared in series' earlier novels, and rounds off a number of story threads that those novels began.","The primary storyline is concerned with the Reverend Josiah Crawley, who, as the book opens, has been accused of passing a check for twenty pounds, a check not made out to himself and whose possession he cannot account for. The accusation has significant implications for many of the other characters.","The Last Chronicle of Barset was made into a television series released by the BBC in 1959. Along with the other novels in the series, it was made into a radio play released by Radio 4 in the United Kingdom in the 1990s."],"year":1867,"genres":["classics","fiction","psychological","romance"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/anthony-trollope/the-last-chronicle-of-barset"},"openlibraryId":"OL109876W","goodreadsId":"1266925","rating":0.836,"popularity":6105,"cover":null,"free":false,"custom":false,"series":"Chronicles of Barsetshire","part":6,"chapters":[{"id":"001","title":"Titlepage - The Last Chronicle of Barset","length":21,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I: How Did He Get It?","length":26769,"mode":"type"},{"id":"004","title":"II: By Heavens He Had Better Not!","length":19672,"mode":"type"},{"id":"005","title":"III: The Archdeacon's Threat","length":11842,"mode":"type"},{"id":"006","title":"IV: The Clergyman's House at Hogglestock","length":19135,"mode":"type"},{"id":"007","title":"V: What the World Thought About It","length":14150,"mode":"type"},{"id":"008","title":"VI: Grace Crawley","length":23924,"mode":"type"},{"id":"009","title":"VII: Miss Prettyman's Private Room","length":25537,"mode":"type"},{"id":"010","title":"VIII: Mr. Crawley Is Taken to Silverbridge","length":32725,"mode":"type"},{"id":"011","title":"IX: Grace Crawley Goes to Allington","length":23977,"mode":"type"},{"id":"012","title":"X: Dinner at Framley Court","length":14369,"mode":"type"},{"id":"013","title":"XI: The Bishop Sends His Inhibition","length":19859,"mode":"type"},{"id":"014","title":"XII: Mr. Crawley Seeks for Sympathy","length":19917,"mode":"type"},{"id":"015","title":"XIII: The Bishop's Angel","length":23168,"mode":"type"},{"id":"016","title":"XIV: Major Grantly Consults a Friend","length":14107,"mode":"type"},{"id":"017","title":"XV: Up in London","length":28239,"mode":"type"},{"id":"018","title":"XVI: Down at Allington","length":28791,"mode":"type"},{"id":"019","title":"XVII: Mr. Crawley Is Summoned to Barchester","length":22315,"mode":"type"},{"id":"020","title":"XVIII: The Bishop of Barchester Is Crushed","length":23431,"mode":"type"},{"id":"021","title":"XIX: Where Did It Come from?","length":11580,"mode":"type"},{"id":"022","title":"XX: What Mr. Walker Thought About It","length":16822,"mode":"type"},{"id":"023","title":"XXI: Mr. Robarts on His Embassy","length":18556,"mode":"type"},{"id":"024","title":"XXII: Major Grantly at Home","length":22413,"mode":"type"},{"id":"025","title":"XXIII: Miss Lily Dale's Resolution","length":26301,"mode":"type"},{"id":"026","title":"XXIV: Mrs. Dobbs Broughton's Dinner-Party","length":33132,"mode":"type"},{"id":"027","title":"XXV: Miss Madalina Demolines","length":20437,"mode":"type"},{"id":"028","title":"XXVI: The Picture","length":17422,"mode":"type"},{"id":"029","title":"XXVII: A Hero at Home","length":19275,"mode":"type"},{"id":"030","title":"XXVIII: Showing How Major Grantly Took a Walk","length":17907,"mode":"type"},{"id":"031","title":"XXIX: Miss Lily Dale's Logic","length":12611,"mode":"type"},{"id":"032","title":"XXX: Showing What Major Grantly Did After His Walk","length":10891,"mode":"type"},{"id":"033","title":"XXXI: Showing How Major Grantly Returned to Guestwick","length":16442,"mode":"type"},{"id":"034","title":"XXXII: Mr. Toogood","length":38925,"mode":"type"},{"id":"035","title":"XXXIII: The Plumstead Foxes","length":17688,"mode":"type"},{"id":"036","title":"XXXIV: Mrs. Proudie Sends for Her Lawyer","length":19777,"mode":"type"},{"id":"037","title":"XXXV: Lily Dale Writes Two Words in Her Book","length":36285,"mode":"type"},{"id":"038","title":"XXXVI: Grace Crawley Returns Home","length":13228,"mode":"type"},{"id":"039","title":"XXXVII: Hook Court","length":19955,"mode":"type"},{"id":"040","title":"XXXVIII: Jael","length":23106,"mode":"type"},{"id":"041","title":"XXXIX: A New Flirtation","length":17347,"mode":"type"},{"id":"042","title":"XL: Mr. Toogood's Ideas About Society","length":17537,"mode":"type"},{"id":"043","title":"XLI: Grace Crawley at Home","length":22020,"mode":"type"},{"id":"044","title":"XLII: Mr. Toogood Travels Professionally","length":31794,"mode":"type"},{"id":"045","title":"XLIII: Mr. Crosbie Goes Into the City","length":24845,"mode":"type"},{"id":"046","title":"XLIV: \"I Suppose I Must Let You Have It.\"","length":10821,"mode":"type"},{"id":"047","title":"XLV: Lily Dale Goes to London","length":23966,"mode":"type"},{"id":"048","title":"XLVI: The Bayswater Romance","length":20208,"mode":"type"},{"id":"049","title":"XLVII: Dr. Tempest at the Palace","length":41716,"mode":"type"},{"id":"050","title":"XLVIII: The Softness of Sir Raffle Buffle","length":16934,"mode":"type"},{"id":"051","title":"XLIX: Near the Close","length":36367,"mode":"type"},{"id":"052","title":"L: Lady Lufton's Proposition","length":22620,"mode":"type"},{"id":"053","title":"LI: Mrs. Dobbs Broughton Piles Her Fagots","length":35718,"mode":"type"},{"id":"054","title":"LII: Why Don't You Have an \"It\" for Yourself?","length":22900,"mode":"type"},{"id":"055","title":"LIII: Rotten Row","length":22894,"mode":"type"},{"id":"056","title":"LIV: The Clerical Commission","length":21079,"mode":"type"},{"id":"057","title":"LV: Framley Parsonage","length":13315,"mode":"type"},{"id":"058","title":"LVI: The Archdeacon Goes to Framley","length":33586,"mode":"type"},{"id":"059","title":"LVII: A Double Pledge","length":23825,"mode":"type"},{"id":"060","title":"LVIII: The Cross-Grainedness of Men","length":27689,"mode":"type"},{"id":"061","title":"LIX: A Lady Presents Her Compliments to Miss L. D.","length":29047,"mode":"type"},{"id":"062","title":"LX: The End of Jael and Sisera","length":28734,"mode":"type"},{"id":"063","title":"LXI: \"It's Dogged as Does It.\"","length":28668,"mode":"type"},{"id":"064","title":"LXII: Mr. Crawley's Letter to the Dean","length":29011,"mode":"type"},{"id":"065","title":"LXIII: Two Visitors to Hogglestock","length":29669,"mode":"type"},{"id":"066","title":"LXIV: The Tragedy in Hook Court","length":17253,"mode":"type"},{"id":"067","title":"LXV: Miss Van Siever Makes Her Choice","length":17573,"mode":"type"},{"id":"068","title":"LXVI: Requiescat in Pace","length":22252,"mode":"type"},{"id":"069","title":"LXVII: In Memoriam","length":23228,"mode":"type"},{"id":"070","title":"LXVIII: The Obstinacy of Mr. Crawley","length":18731,"mode":"type"},{"id":"071","title":"LXIX: Mr. Crawley's Last Appearance in His Own Pulpit","length":13192,"mode":"type"},{"id":"072","title":"LXX: Mrs. Arabin Is Caught","length":23842,"mode":"type"},{"id":"073","title":"LXXI: Mr. Toogood at Silverbridge","length":19421,"mode":"type"},{"id":"074","title":"LXXII: Mr. Toogood at The Dragon of Wantly","length":14296,"mode":"type"},{"id":"075","title":"LXXIII: There Is Comfort at Plumstead","length":17694,"mode":"type"},{"id":"076","title":"LXXIV: The Crawleys Are Informed","length":17866,"mode":"type"},{"id":"077","title":"LXXV: Madalina's Heart Is Bleeding","length":20717,"mode":"type"},{"id":"078","title":"LXXVI: I Think He Is Light of Heart","length":16669,"mode":"type"},{"id":"079","title":"LXXVII: The Shattered Tree","length":17082,"mode":"type"},{"id":"080","title":"LXXVIII: The Arabins Return to Barchester","length":22997,"mode":"type"},{"id":"081","title":"LXXIX: Mr. Crawley Speaks of His Coat","length":17324,"mode":"type"},{"id":"082","title":"LXXX: Miss Demolines Desires to Become a Finger-Post","length":27391,"mode":"type"},{"id":"083","title":"LXXXI: Barchester Cloisters","length":12167,"mode":"type"},{"id":"084","title":"LXXXII: The Last Scene at Hogglestock","length":28665,"mode":"type"},{"id":"085","title":"LXXXIII: Mr. Crawley Is Conquered","length":15908,"mode":"type"},{"id":"086","title":"LXXXIV: Conclusion","length":11951,"mode":"type"},{"id":"087","title":"Endnotes","length":159,"mode":"hide"},{"id":"088","title":"Colophon","length":1078,"mode":"hide"},{"id":"089","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337530041}
+{
+  "id": "anthony-trollope--the-last-chronicle-of-barset",
+  "title": "The Last Chronicle of Barset",
+  "titleAlpha": "last chronicle of barset",
+  "author": "Anthony Trollope",
+  "language": "en",
+  "description": "An impoverished clergyman is accused of theft, and this disgrace leads to great suffering for both his family and those that love them.",
+  "longDescription": [
+    "The Last Chronicle of Barset is the sixth, and as its title would suggest, final novel in Anthony Trollope's Chronicles of Barsetshire. Like the earlier books, it was serialized in Cornhill Magazine, with a hardcover edition coming out in 1867. It brings together many of the characters who had appeared in series' earlier novels, and rounds off a number of story threads that those novels began.",
+    "The primary storyline is concerned with the Reverend Josiah Crawley, who, as the book opens, has been accused of passing a check for twenty pounds, a check not made out to himself and whose possession he cannot account for. The accusation has significant implications for many of the other characters.",
+    "The Last Chronicle of Barset was made into a television series released by the BBC in 1959. Along with the other novels in the series, it was made into a radio play released by Radio 4 in the United Kingdom in the 1990s."
+  ],
+  "year": 1867,
+  "genres": [
+    "classics",
+    "fiction",
+    "psychological",
+    "romance"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Chronicles of Barsetshire",
+  "part": 6,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/anthony-trollope/the-last-chronicle-of-barset"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Last Chronicle of Barset",
+      "length": 21,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: How Did He Get It?",
+      "length": 26769,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: By Heavens He Had Better Not!",
+      "length": 19672,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: The Archdeacon's Threat",
+      "length": 11842,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: The Clergyman's House at Hogglestock",
+      "length": 19135,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: What the World Thought About It",
+      "length": 14150,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: Grace Crawley",
+      "length": 23924,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: Miss Prettyman's Private Room",
+      "length": 25537,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: Mr. Crawley Is Taken to Silverbridge",
+      "length": 32725,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: Grace Crawley Goes to Allington",
+      "length": 23977,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: Dinner at Framley Court",
+      "length": 14369,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: The Bishop Sends His Inhibition",
+      "length": 19859,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: Mr. Crawley Seeks for Sympathy",
+      "length": 19917,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: The Bishop's Angel",
+      "length": 23168,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: Major Grantly Consults a Friend",
+      "length": 14107,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: Up in London",
+      "length": 28239,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI: Down at Allington",
+      "length": 28791,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII: Mr. Crawley Is Summoned to Barchester",
+      "length": 22315,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII: The Bishop of Barchester Is Crushed",
+      "length": 23431,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX: Where Did It Come from?",
+      "length": 11580,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX: What Mr. Walker Thought About It",
+      "length": 16822,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI: Mr. Robarts on His Embassy",
+      "length": 18556,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII: Major Grantly at Home",
+      "length": 22413,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII: Miss Lily Dale's Resolution",
+      "length": 26301,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV: Mrs. Dobbs Broughton's Dinner-Party",
+      "length": 33132,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXV: Miss Madalina Demolines",
+      "length": 20437,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXVI: The Picture",
+      "length": 17422,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVII: A Hero at Home",
+      "length": 19275,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVIII: Showing How Major Grantly Took a Walk",
+      "length": 17907,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXIX: Miss Lily Dale's Logic",
+      "length": 12611,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXX: Showing What Major Grantly Did After His Walk",
+      "length": 10891,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXXI: Showing How Major Grantly Returned to Guestwick",
+      "length": 16442,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXXII: Mr. Toogood",
+      "length": 38925,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXIII: The Plumstead Foxes",
+      "length": 17688,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXIV: Mrs. Proudie Sends for Her Lawyer",
+      "length": 19777,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXV: Lily Dale Writes Two Words in Her Book",
+      "length": 36285,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXVI: Grace Crawley Returns Home",
+      "length": 13228,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXVII: Hook Court",
+      "length": 19955,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXVIII: Jael",
+      "length": 23106,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XXXIX: A New Flirtation",
+      "length": 17347,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XL: Mr. Toogood's Ideas About Society",
+      "length": 17537,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XLI: Grace Crawley at Home",
+      "length": 22020,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XLII: Mr. Toogood Travels Professionally",
+      "length": 31794,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XLIII: Mr. Crosbie Goes Into the City",
+      "length": 24845,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "XLIV: \"I Suppose I Must Let You Have It.\"",
+      "length": 10821,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "XLV: Lily Dale Goes to London",
+      "length": 23966,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "XLVI: The Bayswater Romance",
+      "length": 20208,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "XLVII: Dr. Tempest at the Palace",
+      "length": 41716,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "XLVIII: The Softness of Sir Raffle Buffle",
+      "length": 16934,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "XLIX: Near the Close",
+      "length": 36367,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "L: Lady Lufton's Proposition",
+      "length": 22620,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "LI: Mrs. Dobbs Broughton Piles Her Fagots",
+      "length": 35718,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "LII: Why Don't You Have an \"It\" for Yourself?",
+      "length": 22900,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "LIII: Rotten Row",
+      "length": 22894,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "LIV: The Clerical Commission",
+      "length": 21079,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "LV: Framley Parsonage",
+      "length": 13315,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "LVI: The Archdeacon Goes to Framley",
+      "length": 33586,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "LVII: A Double Pledge",
+      "length": 23825,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "LVIII: The Cross-Grainedness of Men",
+      "length": 27689,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "LIX: A Lady Presents Her Compliments to Miss L. D.",
+      "length": 29047,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "LX: The End of Jael and Sisera",
+      "length": 28734,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "LXI: \"It's Dogged as Does It.\"",
+      "length": 28668,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "LXII: Mr. Crawley's Letter to the Dean",
+      "length": 29011,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "LXIII: Two Visitors to Hogglestock",
+      "length": 29669,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "LXIV: The Tragedy in Hook Court",
+      "length": 17253,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "LXV: Miss Van Siever Makes Her Choice",
+      "length": 17573,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "LXVI: Requiescat in Pace",
+      "length": 22252,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "LXVII: In Memoriam",
+      "length": 23228,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "LXVIII: The Obstinacy of Mr. Crawley",
+      "length": 18731,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "LXIX: Mr. Crawley's Last Appearance in His Own Pulpit",
+      "length": 13192,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "LXX: Mrs. Arabin Is Caught",
+      "length": 23842,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "LXXI: Mr. Toogood at Silverbridge",
+      "length": 19421,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "LXXII: Mr. Toogood at The Dragon of Wantly",
+      "length": 14296,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "LXXIII: There Is Comfort at Plumstead",
+      "length": 17694,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "LXXIV: The Crawleys Are Informed",
+      "length": 17866,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "LXXV: Madalina's Heart Is Bleeding",
+      "length": 20717,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "LXXVI: I Think He Is Light of Heart",
+      "length": 16669,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "LXXVII: The Shattered Tree",
+      "length": 17082,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "LXXVIII: The Arabins Return to Barchester",
+      "length": 22997,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "LXXIX: Mr. Crawley Speaks of His Coat",
+      "length": 17324,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "LXXX: Miss Demolines Desires to Become a Finger-Post",
+      "length": 27391,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "LXXXI: Barchester Cloisters",
+      "length": 12167,
+      "mode": "type"
+    },
+    {
+      "id": "084",
+      "title": "LXXXII: The Last Scene at Hogglestock",
+      "length": 28665,
+      "mode": "type"
+    },
+    {
+      "id": "085",
+      "title": "LXXXIII: Mr. Crawley Is Conquered",
+      "length": 15908,
+      "mode": "type"
+    },
+    {
+      "id": "086",
+      "title": "LXXXIV: Conclusion",
+      "length": 11951,
+      "mode": "type"
+    },
+    {
+      "id": "087",
+      "title": "Endnotes",
+      "length": 159,
+      "mode": "hide"
+    },
+    {
+      "id": "088",
+      "title": "Colophon",
+      "length": 1078,
+      "mode": "hide"
+    },
+    {
+      "id": "089",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL109876W",
+  "goodreadsId": "1266925",
+  "rating": 0.836,
+  "popularity": 6105,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721337530041
+}

@@ -1,1 +1,144 @@
-{"id":"ford-madox-ford--some-do-not","title":"Some Do Not ...","titleAlpha":"some do not ...","author":"Ford Madox Ford","language":"en","description":"As World War I looms, a stiff English statistician and a suffragette fall in love.","longDescription":["Some Do Not ... opens at the cusp of World War I. Christopher Tietjens, a government statistician, and his friend Vincent Macmaster, an aspiring literary critic, are visiting the English countryside. Tietjens, preoccupied with his disastrous marriage, meets Valentine Wannop, a suffragette, during a round of golf. As their love story develops, the novel explores the horrors of the war without the narrative ever entering the battlefield.","The characters are complex and nuanced. Tietjens is an old-fashioned man even by the standards of his day; he's concerned with honor and doing the right thing, but he lives in a society that only pays those values lip service. Yet he himself isn't free of a thread of hypocrisy: he won't leave his deeply unhappy marriage because that would be the wrong way to act, but the reader is left wondering if he tolerates his situation simply because he married up in class. He wants to do to the noble and right thing, but does that mean going to war?","The men and women around him each have their individual motivations, and they are often conniving and unlikable in their aspirations even as the propaganda of England at war paints the country as a moral and heroic one. The delicate interplay of each character's subtleties paints a rich portrait of 1920s English society, as the romantic ideals of right and wrong clash with notions of ambition and practicality.","The prose is unapologetically modernist: unannounced time shifts combine with a stream-of-consciousness style that can often be dense. Yet Ford's portrayal of shell shock, the politics of women in the 1920s, and the moral greyness of wartime is groundbreaking. The book, and its complete tetralogy - called Parade's End - has garnered praise from critics and authors alike, with Anthony Burgess calling it \"the finest novel about the First World War\" and William Carlos Williams stating that the novels \"constitute the English prose masterpiece of their time.\""],"year":null,"genres":["classics","fiction","history"],"topics":["war"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/ford-madox-ford/some-do-not"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Some Do Not...","length":20,"mode":"hide"},{"id":"002","title":"Imprint","length":1201,"mode":"hide"},{"id":"003","title":"Part I - I","length":43271,"mode":"type"},{"id":"004","title":"Part I - II","length":45671,"mode":"type"},{"id":"005","title":"Part I - III","length":45207,"mode":"type"},{"id":"006","title":"Part I - IV","length":38103,"mode":"type"},{"id":"007","title":"Part I - V","length":55586,"mode":"type"},{"id":"008","title":"Part I - VI","length":46458,"mode":"type"},{"id":"009","title":"Part I - VII","length":44334,"mode":"type"},{"id":"010","title":"Part II - I","length":76107,"mode":"type"},{"id":"011","title":"Part II - II","length":54105,"mode":"type"},{"id":"012","title":"Part II - III","length":55282,"mode":"type"},{"id":"013","title":"Part II - IV","length":86353,"mode":"type"},{"id":"014","title":"Part II - V","length":42300,"mode":"type"},{"id":"015","title":"Part II - VI","length":16332,"mode":"type"},{"id":"016","title":"Colophon","length":1098,"mode":"hide"},{"id":"017","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337755924}
+{
+  "id": "ford-madox-ford--some-do-not",
+  "title": "Some Do Not ...",
+  "titleAlpha": "some do not ...",
+  "author": "Ford Madox Ford",
+  "language": "en",
+  "description": "As World War I looms, a stiff English statistician and a suffragette fall in love.",
+  "longDescription": [
+    "Some Do Not ... opens at the cusp of World War I. Christopher Tietjens, a government statistician, and his friend Vincent Macmaster, an aspiring literary critic, are visiting the English countryside. Tietjens, preoccupied with his disastrous marriage, meets Valentine Wannop, a suffragette, during a round of golf. As their love story develops, the novel explores the horrors of the war without the narrative ever entering the battlefield.",
+    "The characters are complex and nuanced. Tietjens is an old-fashioned man even by the standards of his day; he's concerned with honor and doing the right thing, but he lives in a society that only pays those values lip service. Yet he himself isn't free of a thread of hypocrisy: he won't leave his deeply unhappy marriage because that would be the wrong way to act, but the reader is left wondering if he tolerates his situation simply because he married up in class. He wants to do to the noble and right thing, but does that mean going to war?",
+    "The men and women around him each have their individual motivations, and they are often conniving and unlikable in their aspirations even as the propaganda of England at war paints the country as a moral and heroic one. The delicate interplay of each character's subtleties paints a rich portrait of 1920s English society, as the romantic ideals of right and wrong clash with notions of ambition and practicality.",
+    "The prose is unapologetically modernist: unannounced time shifts combine with a stream-of-consciousness style that can often be dense. Yet Ford's portrayal of shell shock, the politics of women in the 1920s, and the moral greyness of wartime is groundbreaking. The book, and its complete tetralogy - called Parade's End - has garnered praise from critics and authors alike, with Anthony Burgess calling it \"the finest novel about the First World War\" and William Carlos Williams stating that the novels \"constitute the English prose masterpiece of their time.\""
+  ],
+  "year": 1924,
+  "genres": [
+    "classics",
+    "fiction",
+    "history"
+  ],
+  "topics": [
+    "war",
+    "warfare"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Parade's End",
+  "part": 1,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/ford-madox-ford/some-do-not"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Some Do Not...",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1201,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Part I - I",
+      "length": 43268,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Part I - II",
+      "length": 45671,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Part I - III",
+      "length": 45207,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Part I - IV",
+      "length": 38103,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Part I - V",
+      "length": 55586,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Part I - VI",
+      "length": 46458,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Part I - VII",
+      "length": 44333,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Part II - I",
+      "length": 76104,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Part II - II",
+      "length": 54105,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Part II - III",
+      "length": 55282,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Part II - IV",
+      "length": 86351,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Part II - V",
+      "length": 42300,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Part II - VI",
+      "length": 16332,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Colophon",
+      "length": 1098,
+      "mode": "hide"
+    },
+    {
+      "id": "017",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL24299437W",
+  "goodreadsId": "8701589",
+  "rating": 0.762,
+  "popularity": 891,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489667084
+}

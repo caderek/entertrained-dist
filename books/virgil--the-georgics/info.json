@@ -1,1 +1,88 @@
-{"id":"virgil--the-georgics","title":"The Georgics","titleAlpha":"georgics","author":"Virgil","language":"en","description":"Virgil explores rural life, providing practical advice on agriculture, arboriculture, viticulture, animal husbandry, and beekeeping.","longDescription":["Virgil's Georgics is a didactic poem consisting of four books, originally written in Latin. The title is derived from the Greek word georgika, meaning \"agricultural things.\" The poem is an exploration of rural life, providing practical advice on agriculture, arboriculture, viticulture, animal husbandry, and beekeeping. Roman Emperor Augustus commissioned the work to address the social, moral, and cultural challenges facing Rome in the aftermath of civil conflict. The writing was intended to promote agricultural virtues, revive traditional Roman values, and contribute to the broader narrative of Augustan rule and the cultural renewal of the Roman state.","Virgil frequently incorporates myths and legends into the narrative, drawing on classical Greek and Roman mythology. For example, in the first book, he refers to the story of Orpheus and Eurydice to illustrate the power of music and the consequences of not heeding divine warnings. The poem frequently portrays mystical intervention and the influence of gods on earthly affairs. The appeal to divine forces underscores the importance of piety and the acknowledgment of the gods in agricultural practices.","The first book of the Georgics is dedicated to agriculture, the seasons, and labor. Virgil begins by invoking the muse to guide him in celebrating the work of farmers. He discusses the choice of land for farming, proper plowing techniques, and the effects of climate and astronomical bodies on agriculture. He then elaborates on the importance of observing the seasons and planetary movements for successful farming. The book also includes a vivid description of the catastrophic effects of the eruption of Mount Etna. Virgil underscores the value of hard work and labor in agriculture, stating that success in farming requires diligence and commitment."],"year":1806,"genres":["classics","poetry"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/virgil/the-georgics/john-dryden"},"openlibraryId":"OL16280229W","goodreadsId":"682744","rating":0.55556392,"popularity":30,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Georgics","length":38,"mode":"hide"},{"id":"002","title":"Imprint","length":1148,"mode":"hide"},{"id":"003","title":"Book I","length":31836,"mode":"type"},{"id":"004","title":"Book II","length":35853,"mode":"type"},{"id":"005","title":"Book III","length":38262,"mode":"type"},{"id":"006","title":"Book IV","length":37546,"mode":"type"},{"id":"007","title":"Colophon","length":1011,"mode":"hide"},{"id":"008","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338310542}
+{
+  "id": "virgil--the-georgics",
+  "title": "The Georgics",
+  "titleAlpha": "georgics",
+  "author": "Virgil",
+  "language": "en",
+  "description": "Virgil explores rural life, providing practical advice on agriculture, arboriculture, viticulture, animal husbandry, and beekeeping.",
+  "longDescription": [
+    "Virgil's Georgics is a didactic poem consisting of four books, originally written in Latin. The title is derived from the Greek word geōrgiká, meaning \"agricultural things.\" The poem is an exploration of rural life, providing practical advice on agriculture, arboriculture, viticulture, animal husbandry, and beekeeping. Roman Emperor Augustus commissioned the work to address the social, moral, and cultural challenges facing Rome in the aftermath of civil conflict. The writing was intended to promote agricultural virtues, revive traditional Roman values, and contribute to the broader narrative of Augustan rule and the cultural renewal of the Roman state.",
+    "Virgil frequently incorporates myths and legends into the narrative, drawing on classical Greek and Roman mythology. For example, in the first book, he refers to the story of Orpheus and Eurydice to illustrate the power of music and the consequences of not heeding divine warnings. The poem frequently portrays mystical intervention and the influence of gods on earthly affairs. The appeal to divine forces underscores the importance of piety and the acknowledgment of the gods in agricultural practices.",
+    "The first book of the Georgics is dedicated to agriculture, the seasons, and labor. Virgil begins by invoking the muse to guide him in celebrating the work of farmers. He discusses the choice of land for farming, proper plowing techniques, and the effects of climate and astronomical bodies on agriculture. He then elaborates on the importance of observing the seasons and planetary movements for successful farming. The book also includes a vivid description of the catastrophic effects of the eruption of Mount Etna. Virgil underscores the value of hard work and labor in agriculture, stating that success in farming requires diligence and commitment."
+  ],
+  "year": -29,
+  "genres": [
+    "classics",
+    "poetry"
+  ],
+  "topics": [
+    "country",
+    "animals"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/virgil/the-georgics/john-dryden"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Georgics",
+      "length": 38,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1148,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Book I",
+      "length": 31836,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Book II",
+      "length": 35853,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Book III",
+      "length": 38262,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book IV",
+      "length": 37546,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Colophon",
+      "length": 1011,
+      "mode": "hide"
+    },
+    {
+      "id": "008",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL37820386W",
+  "goodreadsId": "978053",
+  "rating": 0.764,
+  "popularity": 2126,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490200397
+}

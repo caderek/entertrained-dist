@@ -1,1 +1,473 @@
-{"id":"j-sheridan-le-fanu--uncle-silas","title":"Uncle Silas","titleAlpha":"uncle silas","author":"J. Sheridan Le Fanu","language":"en","description":"An heiress becomes ward to her disreputable uncle with an unsavory past, tainted by the apparent suicide of a man to whom he owed a large gambling debt, and must help clear his name.","longDescription":["Uncle Silas is told from the account of Maud Ruthyn, an heiress living with her reclusive father, Austin Ruthyn. She learns about her uncle, Silas Ruthyn, and his past reputation marred by gambling and the apparent suicide of a man to which Silas owed a large gambling debt that occurred in a locked room in Silas' residence.","In order to clear the Ruthyn name of the rumors of Silas' past, Austin names Silas as Maud's guardian through Austin's will upon his death. Also noted in Austin's will, Silas would inherit the fortune left to Maud should she die while under his ward. Maud befriends her cousin Millicent and quickly adjusts to life under Silas' care, despite his often frightening demeanor. Although Silas has proclaimed that he's a newly reformed Christian, Maud becomes increasingly suspicious of her uncle's motives as life for her becomes increasingly unpleasant.","The story of Maud Ruthyn and her uncle Silas evolved through multiple iterations, beginning with the short story \"A Passage in the Secret History of an Irish Countess\" in 1839, before ultimately becoming the three-volume novel published in 1864. This ebook reproduces a revised, two-volume version released a year later."],"year":1864,"genres":["classics","crime","fiction","gothic","mystery","psychological"],"topics":["murder"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/j-sheridan-le-fanu/uncle-silas"},"openlibraryId":"OL2895543W","goodreadsId":"2820995","rating":0.748,"popularity":6660,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Uncle Silas","length":24,"mode":"hide"},{"id":"002","title":"Imprint","length":1176,"mode":"hide"},{"id":"003","title":"Dedication","length":130,"mode":"hide"},{"id":"004","title":"A Preliminary Word","length":2773,"mode":"type"},{"id":"005","title":"Volume I - I: Austin Ruthyn, of Knowl, and His Daughter","length":13130,"mode":"type"},{"id":"006","title":"Volume I - II: Uncle Silas","length":9189,"mode":"type"},{"id":"007","title":"Volume I - III: A New Face","length":9976,"mode":"type"},{"id":"008","title":"Volume I - IV: Madame de la Rougierre","length":7240,"mode":"type"},{"id":"009","title":"Volume I - V: Sights and Noises","length":9062,"mode":"type"},{"id":"010","title":"Volume I - VI: A Walk in the Wood","length":10184,"mode":"type"},{"id":"011","title":"Volume I - VII: Church Scarsdale","length":10010,"mode":"type"},{"id":"012","title":"Volume I - VIII: The Smoker","length":9152,"mode":"type"},{"id":"013","title":"Volume I - IX: Monica Knollys","length":10605,"mode":"type"},{"id":"014","title":"Volume I - X: Lady Knollys Removes a Coverlet","length":10165,"mode":"type"},{"id":"015","title":"Volume I - XI: Lady Knollys Sees the Features","length":9650,"mode":"type"},{"id":"016","title":"Volume I - XII: A Curious Conversation","length":9298,"mode":"type"},{"id":"017","title":"Volume I - XIII: Before and After Breakfast","length":11291,"mode":"type"},{"id":"018","title":"Volume I - XIV: Angry Words","length":13611,"mode":"type"},{"id":"019","title":"Volume I - XV: A Warning","length":12636,"mode":"type"},{"id":"020","title":"Volume I - XVI: Doctor Bryerly Looks In","length":12643,"mode":"type"},{"id":"021","title":"Volume I - XVII: An Adventure","length":14942,"mode":"type"},{"id":"022","title":"Volume I - XVIII: A Midnight Visitor","length":16245,"mode":"type"},{"id":"023","title":"Volume I - XIX: Au Revoir","length":13244,"mode":"type"},{"id":"024","title":"Volume I - XX: Austin Ruthyn Sets Out on His Journey","length":13056,"mode":"type"},{"id":"025","title":"Volume I - XXI: Arrivals","length":15110,"mode":"type"},{"id":"026","title":"Volume I - XXII: Somebody in the Room with the Coffin","length":11662,"mode":"type"},{"id":"027","title":"Volume I - XXIII: I Talk with Doctor Bryerly","length":12864,"mode":"type"},{"id":"028","title":"Volume I - XXIV: The Opening of the Will","length":18107,"mode":"type"},{"id":"029","title":"Volume I - XXV: I Hear from Uncle Silas","length":16806,"mode":"type"},{"id":"030","title":"Volume I - XXVI: The Story of Uncle Silas","length":13137,"mode":"type"},{"id":"031","title":"Volume I - XXVII: More About Tom Charke's Suicide","length":12977,"mode":"type"},{"id":"032","title":"Volume I - XXVIII: I Am Persuaded","length":17279,"mode":"type"},{"id":"033","title":"Volume I - XXIX: How the Ambassador Fared","length":16715,"mode":"type"},{"id":"034","title":"Volume I - XXX: On the Road","length":14514,"mode":"type"},{"id":"035","title":"Volume I - XXXI: Bartram-Haugh","length":19349,"mode":"type"},{"id":"036","title":"Volume I - XXXII: Uncle Silas","length":15617,"mode":"type"},{"id":"037","title":"Volume I - XXXIII: The Windmill Wood","length":12052,"mode":"type"},{"id":"038","title":"Volume I - XXXIV: Zamiel","length":16211,"mode":"type"},{"id":"039","title":"Volume I - XXXV: We Visit a Room in the Second Storey","length":13171,"mode":"type"},{"id":"040","title":"Volume II - I: An Arrival at Dead of Night","length":14155,"mode":"type"},{"id":"041","title":"Volume II - II: Doctor Bryerly Emerges","length":14587,"mode":"type"},{"id":"042","title":"Volume II - III: A Midnight Departure","length":14798,"mode":"type"},{"id":"043","title":"Volume II - IV: Cousin Monica and Uncle Silas Meet","length":16768,"mode":"type"},{"id":"044","title":"Volume II - V: In Which I Make Another Cousin's Acquaintance","length":13691,"mode":"type"},{"id":"045","title":"Volume II - VI: My Cousin Dudley","length":13254,"mode":"type"},{"id":"046","title":"Volume II - VII: Elverston and Its People","length":18838,"mode":"type"},{"id":"047","title":"Volume II - VIII: News at Bartram Gate","length":18655,"mode":"type"},{"id":"048","title":"Volume II - IX: A Friend Arises","length":19757,"mode":"type"},{"id":"049","title":"Volume II - X: A Chapter-Full of Lovers","length":14877,"mode":"type"},{"id":"050","title":"Volume II - XI: The Rivals","length":15372,"mode":"type"},{"id":"051","title":"Volume II - XII: Doctor Bryerly Reappears","length":13033,"mode":"type"},{"id":"052","title":"Volume II - XIII: Question and Answer","length":13329,"mode":"type"},{"id":"053","title":"Volume II - XIV: An Apparition","length":16821,"mode":"type"},{"id":"054","title":"Volume II - XV: Milly's Farewell","length":16977,"mode":"type"},{"id":"055","title":"Volume II - XVI: Sarah Matilda Comes to Light","length":16014,"mode":"type"},{"id":"056","title":"Volume II - XVII: The Picture of a Wolf","length":15735,"mode":"type"},{"id":"057","title":"Volume II - XVIII: An Odd Proposal","length":17166,"mode":"type"},{"id":"058","title":"Volume II - XIX: In Search of Mr. Charke's Skeleton","length":18449,"mode":"type"},{"id":"059","title":"Volume II - XX: The Foot of Hercules","length":12515,"mode":"type"},{"id":"060","title":"Volume II - XXI: I Conspire","length":11161,"mode":"type"},{"id":"061","title":"Volume II - XXII: The Letter","length":13566,"mode":"type"},{"id":"062","title":"Volume II - XXIII: Lady Knollys' Carriage","length":13923,"mode":"type"},{"id":"063","title":"Volume II - XXIV: A Sudden Departure","length":15718,"mode":"type"},{"id":"064","title":"Volume II - XXV: The Journey","length":11878,"mode":"type"},{"id":"065","title":"Volume II - XXVI: Our Bedchamber","length":12888,"mode":"type"},{"id":"066","title":"Volume II - XXVII: A Well-Known Face Looks In","length":13250,"mode":"type"},{"id":"067","title":"Volume II - XXVIII: Spiced Claret","length":13407,"mode":"type"},{"id":"068","title":"Volume II - XXIX: The Hour of Death","length":10593,"mode":"type"},{"id":"069","title":"Volume II - XXX: In the Oak Parlour","length":3812,"mode":"type"},{"id":"070","title":"Volume II - Conclusion","length":8643,"mode":"type"},{"id":"071","title":"Colophon","length":1079,"mode":"hide"},{"id":"072","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337918053}
+{
+  "id": "j-sheridan-le-fanu--uncle-silas",
+  "title": "Uncle Silas",
+  "titleAlpha": "uncle silas",
+  "author": "J. Sheridan Le Fanu",
+  "language": "en",
+  "description": "An heiress becomes ward to her disreputable uncle with an unsavory past, tainted by the apparent suicide of a man to whom he owed a large gambling debt, and must help clear his name.",
+  "longDescription": [
+    "Uncle Silas is told from the account of Maud Ruthyn, an heiress living with her reclusive father, Austin Ruthyn. She learns about her uncle, Silas Ruthyn, and his past reputation marred by gambling and the apparent suicide of a man to which Silas owed a large gambling debt that occurred in a locked room in Silas' residence.",
+    "In order to clear the Ruthyn name of the rumors of Silas' past, Austin names Silas as Maud's guardian through Austin's will upon his death. Also noted in Austin's will, Silas would inherit the fortune left to Maud should she die while under his ward. Maud befriends her cousin Millicent and quickly adjusts to life under Silas' care, despite his often frightening demeanor. Although Silas has proclaimed that he's a newly reformed Christian, Maud becomes increasingly suspicious of her uncle's motives as life for her becomes increasingly unpleasant.",
+    "The story of Maud Ruthyn and her uncle Silas evolved through multiple iterations, beginning with the short story \"A Passage in the Secret History of an Irish Countess\" in 1839, before ultimately becoming the three-volume novel published in 1864. This ebook reproduces a revised, two-volume version released a year later."
+  ],
+  "year": 1864,
+  "genres": [
+    "classics",
+    "crime",
+    "fiction",
+    "gothic",
+    "mystery",
+    "psychological"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/uncle-silas"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Uncle Silas",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 130,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "A Preliminary Word",
+      "length": 2773,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Volume I - I: Austin Ruthyn, of Knowl, and His Daughter",
+      "length": 13130,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Volume I - II: Uncle Silas",
+      "length": 9189,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Volume I - III: A New Face",
+      "length": 9976,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Volume I - IV: Madame de la Rougierre",
+      "length": 7240,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Volume I - V: Sights and Noises",
+      "length": 9062,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Volume I - VI: A Walk in the Wood",
+      "length": 10184,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Volume I - VII: Church Scarsdale",
+      "length": 10010,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Volume I - VIII: The Smoker",
+      "length": 9152,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Volume I - IX: Monica Knollys",
+      "length": 10605,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Volume I - X: Lady Knollys Removes a Coverlet",
+      "length": 10165,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Volume I - XI: Lady Knollys Sees the Features",
+      "length": 9650,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Volume I - XII: A Curious Conversation",
+      "length": 9297,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Volume I - XIII: Before and After Breakfast",
+      "length": 11291,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Volume I - XIV: Angry Words",
+      "length": 13611,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Volume I - XV: A Warning",
+      "length": 12636,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Volume I - XVI: Doctor Bryerly Looks In",
+      "length": 12643,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Volume I - XVII: An Adventure",
+      "length": 14942,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Volume I - XVIII: A Midnight Visitor",
+      "length": 16245,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Volume I - XIX: Au Revoir",
+      "length": 13244,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Volume I - XX: Austin Ruthyn Sets Out on His Journey",
+      "length": 13056,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Volume I - XXI: Arrivals",
+      "length": 15110,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Volume I - XXII: Somebody in the Room with the Coffin",
+      "length": 11662,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Volume I - XXIII: I Talk with Doctor Bryerly",
+      "length": 12864,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Volume I - XXIV: The Opening of the Will",
+      "length": 18107,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Volume I - XXV: I Hear from Uncle Silas",
+      "length": 16806,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Volume I - XXVI: The Story of Uncle Silas",
+      "length": 13137,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Volume I - XXVII: More About Tom Charke's Suicide",
+      "length": 12977,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Volume I - XXVIII: I Am Persuaded",
+      "length": 17279,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Volume I - XXIX: How the Ambassador Fared",
+      "length": 16715,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Volume I - XXX: On the Road",
+      "length": 14514,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Volume I - XXXI: Bartram-Haugh",
+      "length": 19349,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Volume I - XXXII: Uncle Silas",
+      "length": 15617,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Volume I - XXXIII: The Windmill Wood",
+      "length": 12052,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Volume I - XXXIV: Zamiel",
+      "length": 16211,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Volume I - XXXV: We Visit a Room in the Second Storey",
+      "length": 13171,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Volume II - I: An Arrival at Dead of Night",
+      "length": 14155,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Volume II - II: Doctor Bryerly Emerges",
+      "length": 14587,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Volume II - III: A Midnight Departure",
+      "length": 14798,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Volume II - IV: Cousin Monica and Uncle Silas Meet",
+      "length": 16768,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Volume II - V: In Which I Make Another Cousin's Acquaintance",
+      "length": 13691,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Volume II - VI: My Cousin Dudley",
+      "length": 13254,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Volume II - VII: Elverston and Its People",
+      "length": 18838,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Volume II - VIII: News at Bartram Gate",
+      "length": 18655,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Volume II - IX: A Friend Arises",
+      "length": 19757,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "Volume II - X: A Chapter-Full of Lovers",
+      "length": 14877,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Volume II - XI: The Rivals",
+      "length": 15372,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "Volume II - XII: Doctor Bryerly Reappears",
+      "length": 13033,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "Volume II - XIII: Question and Answer",
+      "length": 13329,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "Volume II - XIV: An Apparition",
+      "length": 16821,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "Volume II - XV: Milly's Farewell",
+      "length": 16977,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "Volume II - XVI: Sarah Matilda Comes to Light",
+      "length": 16014,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "Volume II - XVII: The Picture of a Wolf",
+      "length": 15735,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "Volume II - XVIII: An Odd Proposal",
+      "length": 17166,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "Volume II - XIX: In Search of Mr. Charke's Skeleton",
+      "length": 18449,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "Volume II - XX: The Foot of Hercules",
+      "length": 12515,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "Volume II - XXI: I Conspire",
+      "length": 11161,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "Volume II - XXII: The Letter",
+      "length": 13566,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "Volume II - XXIII: Lady Knollys' Carriage",
+      "length": 13923,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "Volume II - XXIV: A Sudden Departure",
+      "length": 15718,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "Volume II - XXV: The Journey",
+      "length": 11878,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "Volume II - XXVI: Our Bedchamber",
+      "length": 12888,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "Volume II - XXVII: A Well-Known Face Looks In",
+      "length": 13250,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "Volume II - XXVIII: Spiced Claret",
+      "length": 13407,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "Volume II - XXIX: The Hour of Death",
+      "length": 10593,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "Volume II - XXX: In the Oak Parlour",
+      "length": 3812,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "Volume II - Conclusion",
+      "length": 8643,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "Colophon",
+      "length": 1079,
+      "mode": "hide"
+    },
+    {
+      "id": "072",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL2895543W",
+  "goodreadsId": "2820995",
+  "rating": 0.748,
+  "popularity": 6660,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489806556
+}

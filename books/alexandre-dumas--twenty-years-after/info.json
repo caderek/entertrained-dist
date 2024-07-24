@@ -1,1 +1,609 @@
-{"id":"alexandre-dumas--twenty-years-after","title":"Twenty Years After","titleAlpha":"twenty years after","author":"Alexandre Dumas","language":"en","description":"Four musketeers are drawn back together by current events after many years apart, try to save Charles I from Cromwell, and are pursued by the now-grown son of a former female adversary.","longDescription":["Twenty years after Aramis, Athos, Porthos, and d'Artagnan went their separate ways, the new cardinal, Mazarin, asks d'Artagnan to find his three friends and enlist them to help Mazarin during the Fronde civil war. Only Porthos accepts, and the four musketeers soon find themselves on opposite sides of the conflict. This cannot, of course, last very long, and they ultimately join forces in England to try to rescue Charles I from Cromwell. Along the way, they are discovered and pursued by the son of Milady, their diabolical female adversary from The Three Musketeers.","Though not as well known as the first installment, Twenty Years After continues the wit, charm, friendship, and most of all the adventures that Dumas made famous in The Three Musketeers."],"year":1844,"genres":["adventure","classics","fiction","history"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/alexandre-dumas/twenty-years-after/estes-and-lauriat"},"openlibraryId":"OL36861W","goodreadsId":"4734697","rating":0.6848898,"popularity":362,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Twenty Years After","length":53,"mode":"hide"},{"id":"002","title":"Imprint","length":1176,"mode":"hide"},{"id":"003","title":"I: The Ghost of Cardinal Richelieu","length":20215,"mode":"type"},{"id":"004","title":"II: A Nightly Patrol","length":17002,"mode":"type"},{"id":"005","title":"III: Dead Animosities","length":26691,"mode":"type"},{"id":"006","title":"IV: Anne of Austria at the Age of Forty-Six","length":17638,"mode":"type"},{"id":"007","title":"V: The Gascon and the Italian","length":9477,"mode":"type"},{"id":"008","title":"VI: D'Artagnan in His Fortieth Year","length":25527,"mode":"type"},{"id":"009","title":"VII: Touches Upon the Strange Effects a Half-Pistole May Have Upon a Beadle and a Chorister","length":11737,"mode":"type"},{"id":"010","title":"VIII: How d'Artagnan, on Going to a Distance to Discover Aramis, Discovers His Old Friend on Horseback Behind His Own Planchet","length":13711,"mode":"type"},{"id":"011","title":"IX: The Abbe d'Herblay","length":32323,"mode":"type"},{"id":"012","title":"X: Monsieur Porthos du Vallon de Bracieux de Pierrefonds","length":11429,"mode":"type"},{"id":"013","title":"XI: How d'Artagnan, in Discovering the Retreat of Porthos, Perceives That Wealth Does Not Necessarily Produce Happiness","length":14544,"mode":"type"},{"id":"014","title":"XII: In Which It Is Shown That if Porthos Was Discontented with His Condition, Mousqueton Was Completely Satisfied with His","length":9724,"mode":"type"},{"id":"015","title":"XIII: Two Angelic Faces","length":13375,"mode":"type"},{"id":"016","title":"XIV: The Castle of Bragelonne","length":11736,"mode":"type"},{"id":"017","title":"XV: Athos as a Diplomatist","length":16856,"mode":"type"},{"id":"018","title":"XVI: The Duc de Beaufort","length":10130,"mode":"type"},{"id":"019","title":"XVII: Describes How the Duc de Beaufort Amused His Leisure Hours in the Donjon of Vincennes","length":15545,"mode":"type"},{"id":"020","title":"XVIII: Grimaud Begins His Functions","length":17657,"mode":"type"},{"id":"021","title":"XIX: In Which the Contents of the Pates Made by the Successor of Father Marteau Are Described","length":15263,"mode":"hide"},{"id":"022","title":"XX: One of Marie Michon's Adventures","length":21977,"mode":"type"},{"id":"023","title":"XXI: The Abbe Scarron","length":20004,"mode":"type"},{"id":"024","title":"XXII: Saint Denis","length":13785,"mode":"type"},{"id":"025","title":"XXIII: One of the Forty Methods of Escape of the Duc de Beaufort","length":19049,"mode":"type"},{"id":"026","title":"XXIV: The Timely Arrival of d'Artagnan in Paris","length":13643,"mode":"type"},{"id":"027","title":"XXV: An Adventure on the High Road","length":10445,"mode":"type"},{"id":"028","title":"XXVI: The Rencontre","length":14436,"mode":"type"},{"id":"029","title":"XXVII: The Four Old Friends Prepare to Meet Again","length":14516,"mode":"type"},{"id":"030","title":"XXVIII: The Place Royale","length":10417,"mode":"type"},{"id":"031","title":"XXIX: The Ferry Across the Oise","length":18700,"mode":"type"},{"id":"032","title":"XXX: Skirmishing","length":12385,"mode":"type"},{"id":"033","title":"XXXI: The Monk","length":18557,"mode":"type"},{"id":"034","title":"XXXII: The Absolution","length":10334,"mode":"type"},{"id":"035","title":"XXXIII: Grimaud Speaks","length":9265,"mode":"type"},{"id":"036","title":"XXXIV: On the Eve of Battle","length":20735,"mode":"type"},{"id":"037","title":"XXXV: A Dinner in the Old Style","length":13057,"mode":"type"},{"id":"038","title":"XXXVI: A Letter from Charles the First","length":9395,"mode":"type"},{"id":"039","title":"XXXVII: Cromwell's Letter","length":13681,"mode":"type"},{"id":"040","title":"XXXVIII: Henrietta Maria and Mazarin","length":11005,"mode":"type"},{"id":"041","title":"XXXIX: How, Sometimes, the Unhappy Mistake Chance for Providence","length":14377,"mode":"type"},{"id":"042","title":"XL: Uncle and Nephew","length":7831,"mode":"type"},{"id":"043","title":"XLI: Paternal Affection","length":14772,"mode":"type"},{"id":"044","title":"XLII: Another Queen in Want of Help","length":21244,"mode":"type"},{"id":"045","title":"XLIII: In Which It Is Proved That First Impulses Are Oftentimes the Best","length":12904,"mode":"type"},{"id":"046","title":"XLIV: Te Deum for the Victory of Lens","length":30923,"mode":"type"},{"id":"047","title":"XLV: The Beggar of St. Eustache","length":20019,"mode":"type"},{"id":"048","title":"XLVI: The Tower of St. Jacques de la Boucherie","length":10395,"mode":"type"},{"id":"049","title":"XLVII: The Riot","length":14612,"mode":"type"},{"id":"050","title":"XLVIII: The Riot Becomes a Revolution","length":22658,"mode":"type"},{"id":"051","title":"XLIX: Misfortune Refreshes the Memory","length":11718,"mode":"type"},{"id":"052","title":"L: The Interview","length":11777,"mode":"type"},{"id":"053","title":"LI: The Flight","length":19688,"mode":"type"},{"id":"054","title":"LII: The Carriage of Monsieur le Coadjuteur","length":25270,"mode":"type"},{"id":"055","title":"LIII: How d'Artagnan and Porthos Earned by Selling Straw, the One Two Hundred and Nineteen, and the Other Two Hundred and Fifteen Louis d'Or","length":15833,"mode":"type"},{"id":"056","title":"LIV: In Which We Hear Tidings of Aramis","length":18368,"mode":"type"},{"id":"057","title":"LV: The Scotchman","length":15376,"mode":"type"},{"id":"058","title":"LVI: The Avenger","length":15447,"mode":"type"},{"id":"059","title":"LVII: Oliver Cromwell","length":8495,"mode":"type"},{"id":"060","title":"LVIII: Jesus Seigneur","length":24177,"mode":"type"},{"id":"061","title":"LIX: In Which It Is Shown That Under the Most Trying Circumstances Noble Natures Never Lose Their Courage, nor Good Stomachs Their Appetites","length":14634,"mode":"type"},{"id":"062","title":"LX: Respect to Fallen Majesty","length":13619,"mode":"type"},{"id":"063","title":"LXI: D'Artagnan Hits on a Plan","length":28073,"mode":"type"},{"id":"064","title":"LXII: London","length":10156,"mode":"type"},{"id":"065","title":"LXIII: The Trial","length":15744,"mode":"type"},{"id":"066","title":"LXIV: Whitehall","length":15362,"mode":"type"},{"id":"067","title":"LXV: The Workmen","length":11683,"mode":"type"},{"id":"068","title":"LXVI: Remember!","length":9286,"mode":"type"},{"id":"069","title":"LXVII: The Man in the Mask","length":13256,"mode":"type"},{"id":"070","title":"LXVIII: Cromwell's House","length":9652,"mode":"type"},{"id":"071","title":"LXIX: Conversational","length":12723,"mode":"type"},{"id":"072","title":"LXX: The Skiff Lightning","length":16659,"mode":"type"},{"id":"073","title":"LXXI: Port Wine","length":14209,"mode":"type"},{"id":"074","title":"LXXII: End of the Port Wine Mystery","length":7555,"mode":"type"},{"id":"075","title":"LXXIII: Fatality","length":12126,"mode":"type"},{"id":"076","title":"LXXIV: How Mousqueton, After Being Very Nearly Roasted, Had a Narrow Escape of Being Eaten","length":11910,"mode":"type"},{"id":"077","title":"LXXV: The Return","length":11441,"mode":"type"},{"id":"078","title":"LXXVI: The Ambassadors","length":13271,"mode":"type"},{"id":"079","title":"LXXVII: The Three Lieutenants of the Generalissimo","length":18334,"mode":"type"},{"id":"080","title":"LXXVIII: The Battle of Charenton","length":14275,"mode":"type"},{"id":"081","title":"LXXIX: The Road to Picardy","length":13158,"mode":"type"},{"id":"082","title":"LXXX: The Gratitude of Anne of Austria","length":8697,"mode":"type"},{"id":"083","title":"LXXXI: Cardinal Mazarin as King","length":8535,"mode":"type"},{"id":"084","title":"LXXXII: Precautions","length":9969,"mode":"type"},{"id":"085","title":"LXXXIII: Strength and Sagacity","length":15870,"mode":"type"},{"id":"086","title":"LXXXIV: Strength and Sagacity - Continued","length":15069,"mode":"type"},{"id":"087","title":"LXXXV: The Oubliettes of Cardinal Mazarin","length":7244,"mode":"type"},{"id":"088","title":"LXXXVI: Conferences","length":9663,"mode":"type"},{"id":"089","title":"LXXXVII: In Which We Begin to Think That Porthos Will Be at Last a Baron, and d'Artagnan a Captain","length":15275,"mode":"type"},{"id":"090","title":"LXXXVIII: Shows How with Threat and Pen More Is Effected Than by the Sword","length":26613,"mode":"type"},{"id":"091","title":"LXXXIX: In Which It Is Shown That It Is Sometimes More Difficult for Kings to Return to the Capitals of Their Kingdoms, Than to Make an Exit","length":19411,"mode":"type"},{"id":"092","title":"XC: Conclusion","length":4125,"mode":"type"},{"id":"093","title":"Endnotes","length":512,"mode":"hide"},{"id":"094","title":"Colophon","length":1101,"mode":"hide"},{"id":"095","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337491969}
+{
+  "id": "alexandre-dumas--twenty-years-after",
+  "title": "Twenty Years After",
+  "titleAlpha": "twenty years after",
+  "author": "Alexandre Dumas",
+  "language": "en",
+  "description": "Four musketeers are drawn back together by current events after many years apart, try to save Charles I from Cromwell, and are pursued by the now-grown son of a former female adversary.",
+  "longDescription": [
+    "Twenty years after Aramis, Athos, Porthos, and d'Artagnan went their separate ways, the new cardinal, Mazarin, asks d'Artagnan to find his three friends and enlist them to help Mazarin during the Fronde civil war. Only Porthos accepts, and the four musketeers soon find themselves on opposite sides of the conflict. This cannot, of course, last very long, and they ultimately join forces in England to try to rescue Charles I from Cromwell. Along the way, they are discovered and pursued by the son of Milady, their diabolical female adversary from The Three Musketeers.",
+    "Though not as well known as the first installment, Twenty Years After continues the wit, charm, friendship, and most of all the adventures that Dumas made famous in The Three Musketeers."
+  ],
+  "year": 1845,
+  "genres": [
+    "adventure",
+    "classics",
+    "fiction",
+    "history",
+    "action"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Trilogie des Mousquetaires",
+  "part": 2,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/alexandre-dumas/twenty-years-after/estes-and-lauriat"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Twenty Years After",
+      "length": 53,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: The Ghost of Cardinal Richelieu",
+      "length": 20215,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: A Nightly Patrol",
+      "length": 17002,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: Dead Animosities",
+      "length": 26691,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: Anne of Austria at the Age of Forty-Six",
+      "length": 17638,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: The Gascon and the Italian",
+      "length": 9477,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: D'Artagnan in His Fortieth Year",
+      "length": 25527,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: Touches Upon the Strange Effects a Half-Pistole May Have Upon a Beadle and a Chorister",
+      "length": 11737,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: How d'Artagnan, on Going to a Distance to Discover Aramis, Discovers His Old Friend on Horseback Behind His Own Planchet",
+      "length": 13711,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: The Abbe d'Herblay",
+      "length": 32323,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: Monsieur Porthos du Vallon de Bracieux de Pierrefonds",
+      "length": 11429,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: How d'Artagnan, in Discovering the Retreat of Porthos, Perceives That Wealth Does Not Necessarily Produce Happiness",
+      "length": 14544,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: In Which It Is Shown That if Porthos Was Discontented with His Condition, Mousqueton Was Completely Satisfied with His",
+      "length": 9724,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: Two Angelic Faces",
+      "length": 13375,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: The Castle of Bragelonne",
+      "length": 11736,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: Athos as a Diplomatist",
+      "length": 16856,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI: The Duc de Beaufort",
+      "length": 10130,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII: Describes How the Duc de Beaufort Amused His Leisure Hours in the Donjon of Vincennes",
+      "length": 15545,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII: Grimaud Begins His Functions",
+      "length": 17657,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX: In Which the Contents of the Pates Made by the Successor of Father Marteau Are Described",
+      "length": 15263,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX: One of Marie Michon's Adventures",
+      "length": 21977,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI: The Abbe Scarron",
+      "length": 20004,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII: Saint Denis",
+      "length": 13785,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII: One of the Forty Methods of Escape of the Duc de Beaufort",
+      "length": 19049,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV: The Timely Arrival of d'Artagnan in Paris",
+      "length": 13643,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXV: An Adventure on the High Road",
+      "length": 10445,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXVI: The Rencontre",
+      "length": 14436,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVII: The Four Old Friends Prepare to Meet Again",
+      "length": 14516,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVIII: The Place Royale",
+      "length": 10417,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXIX: The Ferry Across the Oise",
+      "length": 18700,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXX: Skirmishing",
+      "length": 12385,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXXI: The Monk",
+      "length": 18557,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXXII: The Absolution",
+      "length": 10334,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXIII: Grimaud Speaks",
+      "length": 9265,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXIV: On the Eve of Battle",
+      "length": 20735,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXV: A Dinner in the Old Style",
+      "length": 13057,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXVI: A Letter from Charles the First",
+      "length": 9395,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXVII: Cromwell's Letter",
+      "length": 13681,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXVIII: Henrietta Maria and Mazarin",
+      "length": 11005,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XXXIX: How, Sometimes, the Unhappy Mistake Chance for Providence",
+      "length": 14377,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XL: Uncle and Nephew",
+      "length": 7831,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XLI: Paternal Affection",
+      "length": 14772,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XLII: Another Queen in Want of Help",
+      "length": 21244,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XLIII: In Which It Is Proved That First Impulses Are Oftentimes the Best",
+      "length": 12904,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "XLIV: Te Deum for the Victory of Lens",
+      "length": 30923,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "XLV: The Beggar of St. Eustache",
+      "length": 20019,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "XLVI: The Tower of St. Jacques de la Boucherie",
+      "length": 10395,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "XLVII: The Riot",
+      "length": 14612,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "XLVIII: The Riot Becomes a Revolution",
+      "length": 22658,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "XLIX: Misfortune Refreshes the Memory",
+      "length": 11718,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "L: The Interview",
+      "length": 11777,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "LI: The Flight",
+      "length": 19688,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "LII: The Carriage of Monsieur le Coadjuteur",
+      "length": 25270,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "LIII: How d'Artagnan and Porthos Earned by Selling Straw, the One Two Hundred and Nineteen, and the Other Two Hundred and Fifteen Louis d'Or",
+      "length": 15833,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "LIV: In Which We Hear Tidings of Aramis",
+      "length": 18368,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "LV: The Scotchman",
+      "length": 15376,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "LVI: The Avenger",
+      "length": 15447,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "LVII: Oliver Cromwell",
+      "length": 8495,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "LVIII: Jesus Seigneur",
+      "length": 24177,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "LIX: In Which It Is Shown That Under the Most Trying Circumstances Noble Natures Never Lose Their Courage, nor Good Stomachs Their Appetites",
+      "length": 14634,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "LX: Respect to Fallen Majesty",
+      "length": 13619,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "LXI: D'Artagnan Hits on a Plan",
+      "length": 28073,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "LXII: London",
+      "length": 10156,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "LXIII: The Trial",
+      "length": 15744,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "LXIV: Whitehall",
+      "length": 15362,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "LXV: The Workmen",
+      "length": 11683,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "LXVI: Remember!",
+      "length": 9286,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "LXVII: The Man in the Mask",
+      "length": 13256,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "LXVIII: Cromwell's House",
+      "length": 9652,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "LXIX: Conversational",
+      "length": 12723,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "LXX: The Skiff Lightning",
+      "length": 16659,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "LXXI: Port Wine",
+      "length": 14209,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "LXXII: End of the Port Wine Mystery",
+      "length": 7555,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "LXXIII: Fatality",
+      "length": 12126,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "LXXIV: How Mousqueton, After Being Very Nearly Roasted, Had a Narrow Escape of Being Eaten",
+      "length": 11910,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "LXXV: The Return",
+      "length": 11441,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "LXXVI: The Ambassadors",
+      "length": 13271,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "LXXVII: The Three Lieutenants of the Generalissimo",
+      "length": 18334,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "LXXVIII: The Battle of Charenton",
+      "length": 14275,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "LXXIX: The Road to Picardy",
+      "length": 13158,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "LXXX: The Gratitude of Anne of Austria",
+      "length": 8697,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "LXXXI: Cardinal Mazarin as King",
+      "length": 8535,
+      "mode": "type"
+    },
+    {
+      "id": "084",
+      "title": "LXXXII: Precautions",
+      "length": 9969,
+      "mode": "type"
+    },
+    {
+      "id": "085",
+      "title": "LXXXIII: Strength and Sagacity",
+      "length": 15870,
+      "mode": "type"
+    },
+    {
+      "id": "086",
+      "title": "LXXXIV: Strength and Sagacity - Continued",
+      "length": 15069,
+      "mode": "type"
+    },
+    {
+      "id": "087",
+      "title": "LXXXV: The Oubliettes of Cardinal Mazarin",
+      "length": 7244,
+      "mode": "type"
+    },
+    {
+      "id": "088",
+      "title": "LXXXVI: Conferences",
+      "length": 9663,
+      "mode": "type"
+    },
+    {
+      "id": "089",
+      "title": "LXXXVII: In Which We Begin to Think That Porthos Will Be at Last a Baron, and d'Artagnan a Captain",
+      "length": 15275,
+      "mode": "type"
+    },
+    {
+      "id": "090",
+      "title": "LXXXVIII: Shows How with Threat and Pen More Is Effected Than by the Sword",
+      "length": 26613,
+      "mode": "type"
+    },
+    {
+      "id": "091",
+      "title": "LXXXIX: In Which It Is Shown That It Is Sometimes More Difficult for Kings to Return to the Capitals of Their Kingdoms, Than to Make an Exit",
+      "length": 19411,
+      "mode": "type"
+    },
+    {
+      "id": "092",
+      "title": "XC: Conclusion",
+      "length": 4125,
+      "mode": "type"
+    },
+    {
+      "id": "093",
+      "title": "Endnotes",
+      "length": 512,
+      "mode": "hide"
+    },
+    {
+      "id": "094",
+      "title": "Colophon",
+      "length": 1101,
+      "mode": "hide"
+    },
+    {
+      "id": "095",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL38078144W",
+  "goodreadsId": "7184",
+  "rating": 0.8160000000000001,
+  "popularity": 24207,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721434396858
+}

@@ -1,1 +1,97 @@
-{"id":"thornton-wilder--the-bridge-of-san-luis-rey","title":"The Bridge of San Luis Rey","titleAlpha":"bridge of san luis rey","author":"Thornton Wilder","language":"en","description":"The story of five people who were killed by the collapse of a Peruvian rope bridge.","longDescription":["In Lima, Peru, an ancient Incan rope bridge breaks and plunges five people to their deaths. A Franciscan monk witnesses it and decides to investigate the lives of the five people, in order to prove that God is just, that He had a purpose in choosing those five to die, on that day, on that bridge.","And so we learn of the lives of the Marquesa de Santamayor and young Pepita her companion; of Esteban, a young man of the city; and of Uncle Pio and Don Jaime, the mentor and son, respectively, of a famous actress in Lima. We see how many of their lives intersect, we learn of their dreams, their struggles, and the events that led to them being on the bridge that day.","The Bridge of San Luis Rey earned Thornton Wilder the first of his three Pulitzers. The novel's structure, in which a major event is presented followed by the backstory of the people involved, has been duplicated countless times in books, plays, and movies. It was the best-selling book the year of its release, and has never been out of print since."],"year":1927,"genres":["classics","fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/thornton-wilder/the-bridge-of-san-luis-rey"},"openlibraryId":"OL482894W","goodreadsId":"92508","rating":0.758,"popularity":35569,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Bridge of San Luis Rey","length":20,"mode":"hide"},{"id":"002","title":"Imprint","length":1138,"mode":"hide"},{"id":"003","title":"Dedication","length":13,"mode":"hide"},{"id":"004","title":"Part One: Perhaps an Accident","length":8251,"mode":"type"},{"id":"005","title":"Part Two: The Marquesa de Montemayor; Pepita","length":50780,"mode":"type"},{"id":"006","title":"Part Three: Esteban","length":42565,"mode":"type"},{"id":"007","title":"Part Four: Uncle Pio; Don Jaime","length":55351,"mode":"type"},{"id":"008","title":"Part Five: Perhaps an Intention","length":20631,"mode":"type"},{"id":"009","title":"Colophon","length":964,"mode":"hide"},{"id":"010","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338294386}
+{
+  "id": "thornton-wilder--the-bridge-of-san-luis-rey",
+  "title": "The Bridge of San Luis Rey",
+  "titleAlpha": "bridge of san luis rey",
+  "author": "Thornton Wilder",
+  "language": "en",
+  "description": "The story of five people who were killed by the collapse of a Peruvian rope bridge.",
+  "longDescription": [
+    "In Lima, Peru, an ancient Incan rope bridge breaks and plunges five people to their deaths. A Franciscan monk witnesses it and decides to investigate the lives of the five people, in order to prove that God is just, that He had a purpose in choosing those five to die, on that day, on that bridge.",
+    "And so we learn of the lives of the Marquesa de Santamayor and young Pepita her companion; of Esteban, a young man of the city; and of Uncle Pio and Don Jaime, the mentor and son, respectively, of a famous actress in Lima. We see how many of their lives intersect, we learn of their dreams, their struggles, and the events that led to them being on the bridge that day.",
+    "The Bridge of San Luis Rey earned Thornton Wilder the first of his three Pulitzers. The novel's structure, in which a major event is presented followed by the backstory of the people involved, has been duplicated countless times in books, plays, and movies. It was the best-selling book the year of its release, and has never been out of print since."
+  ],
+  "year": 1927,
+  "genres": [
+    "classics",
+    "fiction"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/thornton-wilder/the-bridge-of-san-luis-rey"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Bridge of San Luis Rey",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1138,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 13,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Part One: Perhaps an Accident",
+      "length": 8251,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Part Two: The Marquesa de Montemayor; Pepita",
+      "length": 50780,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Part Three: Esteban",
+      "length": 42565,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Part Four: Uncle Pio; Don Jaime",
+      "length": 55351,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Part Five: Perhaps an Intention",
+      "length": 20631,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Colophon",
+      "length": 964,
+      "mode": "hide"
+    },
+    {
+      "id": "010",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL482894W",
+  "goodreadsId": "92508",
+  "rating": 0.758,
+  "popularity": 35569,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490183834
+}

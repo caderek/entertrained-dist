@@ -1,1 +1,355 @@
-{"id":"peter-watts--maelstrom","title":"Maelstrom","titleAlpha":"maelstrom","author":"Peter Watts","language":"en","description":"An enormous tidal wave on the west coast of North America has just killed thousands. Lenie Clarke, in a black wetsuit, walks out of the ocean onto a Pacific Northwest beach filled with the oppressed and drugged homeless of the Asian world who have gotten only this far in their attempt to reach America. Is she a monster, or a goddess? One thing is for all hell is breaking loose.","longDescription":[],"year":101,"genres":["classics"],"topics":[],"rights":null,"publisher":null,"source":null,"openlibraryId":"OL8514685W","goodreadsId":"886142","rating":0.77,"popularity":4113,"cover":null,"free":false,"custom":false,"series":"Rifters","part":2,"chapters":[{"id":"001","title":"Prelude: Messiah","length":6587,"mode":"type"},{"id":"002","title":"Volvox - Mermaid","length":3769,"mode":"type"},{"id":"003","title":"Volvox - Fables of the Reconstruction","length":14017,"mode":"type"},{"id":"004","title":"Volvox - Deathbed","length":9496,"mode":"type"},{"id":"005","title":"Volvox - 94 Megabytes: Breeder","length":7091,"mode":"type"},{"id":"006","title":"Volvox - Cascade","length":16845,"mode":"type"},{"id":"007","title":"Volvox - Backflash","length":10318,"mode":"type"},{"id":"008","title":"Volvox - Maps and Legends","length":4173,"mode":"type"},{"id":"009","title":"Volvox - Corpse","length":20634,"mode":"type"},{"id":"010","title":"Volvox - Bang","length":15315,"mode":"type"},{"id":"011","title":"Volvox - Stickman","length":7935,"mode":"type"},{"id":"012","title":"Volvox - An Invitation to Dance","length":5268,"mode":"type"},{"id":"013","title":"Volvox - Pixelpal","length":3472,"mode":"type"},{"id":"014","title":"Volvox - Third-person Limited","length":6286,"mode":"type"},{"id":"015","title":"Volvox - Remora","length":3901,"mode":"type"},{"id":"016","title":"Volvox - Firebug","length":8709,"mode":"type"},{"id":"017","title":"Volvox - Afterburn","length":6763,"mode":"type"},{"id":"018","title":"Volvox - Stockpile","length":5236,"mode":"type"},{"id":"019","title":"Volvox - Icarus","length":13927,"mode":"type"},{"id":"020","title":"Volvox - Jailbreak","length":9997,"mode":"type"},{"id":"021","title":"Volvox - The Next Best Thing","length":1305,"mode":"type"},{"id":"022","title":"Volvox - Beachhead","length":12462,"mode":"type"},{"id":"023","title":"Volvox - Drugstore","length":7475,"mode":"type"},{"id":"024","title":"Volvox - Source Code","length":6203,"mode":"type"},{"id":"025","title":"Volvox - Groundswell","length":2529,"mode":"type"},{"id":"026","title":"Volvox - 128 Megabytes: Hitchhiker","length":3803,"mode":"type"},{"id":"027","title":"Volvox - Animal Control","length":5612,"mode":"type"},{"id":"028","title":"Volvox - Ghost","length":14279,"mode":"type"},{"id":"029","title":"Volvox - Blip","length":1483,"mode":"type"},{"id":"030","title":"Volvox - Womb","length":3420,"mode":"type"},{"id":"031","title":"Volvox - Eclipse","length":2392,"mode":"type"},{"id":"032","title":"Volvox - Monster","length":8265,"mode":"type"},{"id":"033","title":"Volvox - Warhorse","length":12382,"mode":"type"},{"id":"034","title":"Physalia - 500 Megabytes: The Generals","length":3201,"mode":"type"},{"id":"035","title":"Physalia - Sparkler","length":15132,"mode":"type"},{"id":"036","title":"Physalia - Decoys","length":28619,"mode":"type"},{"id":"037","title":"Physalia - Crucifixion, with Spiders","length":20389,"mode":"type"},{"id":"038","title":"Anthopleura - Mug Shot","length":4633,"mode":"type"},{"id":"039","title":"Anthopleura - Anemone","length":7617,"mode":"type"},{"id":"040","title":"Anthopleura - Behind the Lines","length":11957,"mode":"type"},{"id":"041","title":"Anthopleura - Spartacus","length":5369,"mode":"type"},{"id":"042","title":"Anthopleura - TursiPops","length":37526,"mode":"type"},{"id":"043","title":"Anthopleura - Terrarium","length":13676,"mode":"type"},{"id":"044","title":"Anthopleura - Soul Mate","length":11697,"mode":"type"},{"id":"045","title":"Anthopleura - AWOL","length":6162,"mode":"type"},{"id":"046","title":"Anthopleura - Scheherezade","length":8262,"mode":"type"},{"id":"047","title":"Anthopleura - Adaptive Shatter","length":20629,"mode":"type"},{"id":"048","title":"Anthopleura - A Niche","length":13983,"mode":"type"},{"id":"049","title":"Epilog: Sleeping by firelight","length":6115,"mode":"type"},{"id":"050","title":"Acknowledgements","length":2906,"mode":"hide"},{"id":"051","title":"Notes and References","length":11168,"mode":"skip"},{"id":"052","title":"Creative Commons Licensing Information","length":19096,"mode":"hide"}],"createdAt":1721337455025}
+{
+  "id": "peter-watts--maelstrom",
+  "title": "Maelstrom",
+  "titleAlpha": "maelstrom",
+  "author": "Peter Watts",
+  "language": "en",
+  "description": "In this dark, fast-paced, hard science fiction novel, all human life faces peril from a primeval disease that survived in the deep ocean rift.",
+  "longDescription": [
+    "An enormous tidal wave on the west coast of North America has just killed thousands. Lenie Clarke, in a black wetsuit, walks out of the ocean onto a Pacific Northwest beach filled with the oppressed and drugged homeless of the Asian world who have gotten only this far in their attempt to reach America. Is she a monster, or a goddess? One thing is for sure: all hell is breaking loose.",
+    "This dark, fast-paced, hard SF novel returns to the story begun in Starfish: all human life is threatened by a disease (actually a primeval form of life) from the distant prehuman past. It survived only in the deep ocean rift where Clarke and her companions were stationed before the corporation that employed them tried to sterilize the threat with a secret underwater nuclear strike. But Clarke was far enough away that she was able to survive and tough enough to walk home, 300 miles across the ocean floor. She arrives carrying with her the potential death of the human race, and possessed by a desire for revenge.",
+    "This is the second novel in the Rifters trilogy."
+  ],
+  "year": 2001,
+  "genres": [
+    "fiction",
+    "science-fiction",
+    "contemporary",
+    "horror"
+  ],
+  "topics": [
+    "dystopia",
+    "cyberpunk",
+    "revenge"
+  ],
+  "rights": "CC BY-NC-SA 2.5",
+  "publisher": "Tor Publishing Group",
+  "series": "Rifters",
+  "part": 2,
+  "source": {
+    "value": "https://unglue.it/work/5485/",
+    "isUrl": true
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Prelude: Messiah",
+      "length": 6587,
+      "mode": "type"
+    },
+    {
+      "id": "002",
+      "title": "Volvox - Mermaid",
+      "length": 3769,
+      "mode": "type"
+    },
+    {
+      "id": "003",
+      "title": "Volvox - Fables of the Reconstruction",
+      "length": 14017,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Volvox - Deathbed",
+      "length": 9496,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Volvox - 94 Megabytes: Breeder",
+      "length": 7091,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Volvox - Cascade",
+      "length": 16845,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Volvox - Backflash",
+      "length": 10318,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Volvox - Maps and Legends",
+      "length": 4173,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Volvox - Corpse",
+      "length": 20634,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Volvox - Bang",
+      "length": 15315,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Volvox - Stickman",
+      "length": 7935,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Volvox - An Invitation to Dance",
+      "length": 5268,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Volvox - Pixelpal",
+      "length": 3472,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Volvox - Third-person Limited",
+      "length": 6286,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Volvox - Remora",
+      "length": 3901,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Volvox - Firebug",
+      "length": 8709,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Volvox - Afterburn",
+      "length": 6763,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Volvox - Stockpile",
+      "length": 5236,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Volvox - Icarus",
+      "length": 13927,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Volvox - Jailbreak",
+      "length": 9997,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Volvox - The Next Best Thing",
+      "length": 1305,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Volvox - Beachhead",
+      "length": 12462,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Volvox - Drugstore",
+      "length": 7475,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Volvox - Source Code",
+      "length": 6203,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Volvox - Groundswell",
+      "length": 2529,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Volvox - 128 Megabytes: Hitchhiker",
+      "length": 3803,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Volvox - Animal Control",
+      "length": 5612,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Volvox - Ghost",
+      "length": 14279,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Volvox - Blip",
+      "length": 1483,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Volvox - Womb",
+      "length": 3420,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Volvox - Eclipse",
+      "length": 2392,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Volvox - Monster",
+      "length": 8265,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Volvox - Warhorse",
+      "length": 12382,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Physalia - 500 Megabytes: The Generals",
+      "length": 3201,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Physalia - Sparkler",
+      "length": 15132,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Physalia - Decoys",
+      "length": 28619,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Physalia - Crucifixion, with Spiders",
+      "length": 20389,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Anthopleura - Mug Shot",
+      "length": 4633,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Anthopleura - Anemone",
+      "length": 7617,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Anthopleura - Behind the Lines",
+      "length": 11957,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Anthopleura - Spartacus",
+      "length": 5369,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Anthopleura - TursiPops",
+      "length": 37526,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Anthopleura - Terrarium",
+      "length": 13676,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Anthopleura - Soul Mate",
+      "length": 11697,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Anthopleura - AWOL",
+      "length": 6162,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Anthopleura - Scheherezade",
+      "length": 8262,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Anthopleura - Adaptive Shatter",
+      "length": 20629,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Anthopleura - A Niche",
+      "length": 13983,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "Epilog: Sleeping by firelight",
+      "length": 6115,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Acknowledgements",
+      "length": 2906,
+      "mode": "hide"
+    },
+    {
+      "id": "051",
+      "title": "Notes and References",
+      "length": 11168,
+      "mode": "hide"
+    },
+    {
+      "id": "052",
+      "title": "Creative Commons Licensing Information",
+      "length": 19096,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL8514685W",
+  "goodreadsId": "886142",
+  "rating": 0.77,
+  "popularity": 4113,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721434367072
+}

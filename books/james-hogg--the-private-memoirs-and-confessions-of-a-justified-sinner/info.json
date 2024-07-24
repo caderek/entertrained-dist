@@ -1,1 +1,92 @@
-{"id":"james-hogg--the-private-memoirs-and-confessions-of-a-justified-sinner","title":"The Private Memoirs and Confessions of a Justified Sinner","titleAlpha":"private memoirs and confessions of a justified sinner","author":"James Hogg","language":"en","description":"A religious fanatic's mysterious friend helps turn him into a killer.","longDescription":["The \"sinner\" in this engrossing and strange novel is Robert Wringham, the son of a Scottish laird and a much more religious mother, who quickly separates from her free-living husband under the encouragement of an influential minister. When it's time to be baptized, Robert takes the preacher's last name, and a bit later the reverend decides that Robert is also one of God's chosen. Robert believes that as a member of the elect he can never be damned, no matter what he does.","One day Robert becomes fast friends with a man with mysterious powers and a strange name. This Gil-Martin takes on the appearance of different people, and can even learn their \"most secret thoughts.\" He's also good at arguing Scripture - and capitalizing on Robert's pride, and other faults. Soon they're scheming together to get the better of their enemies - and their plans include murder.","The Private Memoirs and Confessions of a Justified Sinner was a failure when it was first published anonymously in 1824, though it was ahead of its time in its blend of mystery, psychological horror, tall tales, comedy, metafiction, and social criticism. It was only in the twentieth century that it became more broadly known, gaining admirers that included the writers Andre Gide, Muriel Spark, Philip Pullman, and Ian Rankin."],"year":1824,"genres":["classics","crime","fiction","horror","psychological"],"topics":["murder"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner"},"openlibraryId":"OL937938W","goodreadsId":"341172","rating":0.734,"popularity":8924,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Private Memoirs and Confessions of a Justified Sinner","length":15,"mode":"hide"},{"id":"002","title":"Imprint","length":1179,"mode":"hide"},{"id":"003","title":"The Editor's Narrative","length":165863,"mode":"type"},{"id":"004","title":"Private Memoirs and Confessions of a Sinner: Written by Himself","length":261486,"mode":"type"},{"id":"005","title":"The Editor's Narrative","length":26698,"mode":"type"},{"id":"006","title":"Colophon","length":1182,"mode":"hide"},{"id":"007","title":"Uncopyright","length":2050,"mode":"hide"},{"id":"008","title":"List of Illustrations","length":27,"mode":"hide"}],"createdAt":1721337959620}
+{
+  "id": "james-hogg--the-private-memoirs-and-confessions-of-a-justified-sinner",
+  "title": "The Private Memoirs and Confessions of a Justified Sinner",
+  "titleAlpha": "private memoirs and confessions of a justified sinner",
+  "author": "James Hogg",
+  "language": "en",
+  "description": "A religious fanatic's mysterious friend helps turn him into a killer.",
+  "longDescription": [
+    "The \"sinner\" in this engrossing and strange novel is Robert Wringham, the son of a Scottish laird and a much more religious mother, who quickly separates from her free-living husband under the encouragement of an influential minister. When it's time to be baptized, Robert takes the preacher's last name, and a bit later the reverend decides that Robert is also one of God's chosen. Robert believes that as a member of the elect he can never be damned, no matter what he does.",
+    "One day Robert becomes fast friends with a man with mysterious powers and a strange name. This Gil-Martin takes on the appearance of different people, and can even learn their \"most secret thoughts.\" He's also good at arguing Scripture - and capitalizing on Robert's pride, and other faults. Soon they're scheming together to get the better of their enemies - and their plans include murder.",
+    "The Private Memoirs and Confessions of a Justified Sinner was a failure when it was first published anonymously in 1824, though it was ahead of its time in its blend of mystery, psychological horror, tall tales, comedy, metafiction, and social criticism. It was only in the twentieth century that it became more broadly known, gaining admirers that included the writers Andre Gide, Muriel Spark, Philip Pullman, and Ian Rankin."
+  ],
+  "year": 1824,
+  "genres": [
+    "classics",
+    "crime",
+    "fiction",
+    "horror",
+    "psychological",
+    "gothic",
+    "satire"
+  ],
+  "topics": [
+    "murder"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Private Memoirs and Confessions of a Justified Sinner",
+      "length": 15,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1179,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "The Editor's Narrative",
+      "length": 165863,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Private Memoirs and Confessions of a Sinner: Written by Himself",
+      "length": 261486,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "The Editor's Narrative",
+      "length": 26698,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Colophon",
+      "length": 1182,
+      "mode": "hide"
+    },
+    {
+      "id": "007",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    },
+    {
+      "id": "008",
+      "title": "List of Illustrations",
+      "length": 27,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL937938W",
+  "goodreadsId": "341172",
+  "rating": 0.734,
+  "popularity": 8924,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721434773779
+}

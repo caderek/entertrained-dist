@@ -1,1 +1,144 @@
-{"id":"dorothy-l-sayers--lord-peter-views-the-body","title":"Lord Peter Views the Body","titleAlpha":"lord peter views the body","author":"Dorothy L. Sayers","language":"en","description":"A collection of short stories in which an aristocratic amateur detective solves a variety of crimes.","longDescription":["Lord Peter Views the Body is the first collection of short stories by Dorothy L. Sayers featuring the aristocratic sleuth Lord Peter Wimsey. The character of Wimsey had become so popular that Sayers started writing short stories about him, which were then published in magazines like Pearson's.","There are twelve stories in this collection about mysteries as varied as the consequences of several peculiar wills, to the hazardous breakup of a secret society."],"year":1928,"genres":["classics","crime","fiction","mystery","shorts"],"topics":["detective","murder"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/dorothy-l-sayers/lord-peter-views-the-body"},"openlibraryId":"OL2234993W","goodreadsId":"320460","rating":0.828,"popularity":14852,"cover":null,"free":false,"custom":false,"series":"Lord Peter Wimsey","part":4,"chapters":[{"id":"001","title":"Titlepage - Lord Peter Views the Body","length":22,"mode":"hide"},{"id":"002","title":"Imprint","length":1138,"mode":"hide"},{"id":"003","title":"The Abominable History of the Man with Copper Fingers","length":41130,"mode":"type"},{"id":"004","title":"The Entertaining Episode of the Article in Question","length":22052,"mode":"type"},{"id":"005","title":"The Fascinating Problem of Uncle Meleager's Will","length":32996,"mode":"type"},{"id":"006","title":"The Fantastic Horror of the Cat in the Bag","length":26764,"mode":"type"},{"id":"007","title":"The Unprincipled Affair of the Practical Joker","length":23062,"mode":"type"},{"id":"008","title":"The Undignified Melodrama of the Bone of Contention","length":115525,"mode":"type"},{"id":"009","title":"The Vindictive Story of the Footsteps That Ran","length":32064,"mode":"type"},{"id":"010","title":"The Bibulous Business of a Matter of Taste","length":28009,"mode":"type"},{"id":"011","title":"The Learned Adventure of the Dragon's Head","length":42798,"mode":"type"},{"id":"012","title":"The Piscatorial Farce of the Stolen Stomach","length":41163,"mode":"type"},{"id":"013","title":"The Unsolved Puzzle of the Man with No Face","length":57293,"mode":"type"},{"id":"014","title":"The Adventurous Exploit of the Cave of Ali Baba","length":58324,"mode":"type"},{"id":"015","title":"List of Illustrations","length":1122,"mode":"hide"},{"id":"016","title":"Colophon","length":975,"mode":"hide"},{"id":"017","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337646679}
+{
+  "id": "dorothy-l-sayers--lord-peter-views-the-body",
+  "title": "Lord Peter Views the Body",
+  "titleAlpha": "lord peter views the body",
+  "author": "Dorothy L. Sayers",
+  "language": "en",
+  "description": "A collection of short stories in which an aristocratic amateur detective solves a variety of crimes.",
+  "longDescription": [
+    "Lord Peter Views the Body is the first collection of short stories by Dorothy L. Sayers featuring the aristocratic sleuth Lord Peter Wimsey. The character of Wimsey had become so popular that Sayers started writing short stories about him, which were then published in magazines like Pearson's.",
+    "There are twelve stories in this collection about mysteries as varied as the consequences of several peculiar wills, to the hazardous breakup of a secret society."
+  ],
+  "year": 1928,
+  "genres": [
+    "classics",
+    "crime",
+    "fiction",
+    "mystery",
+    "shorts"
+  ],
+  "topics": [
+    "detective",
+    "murder"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Lord Peter Wimsey",
+  "part": 4,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/dorothy-l-sayers/lord-peter-views-the-body"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Lord Peter Views the Body",
+      "length": 22,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1138,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "The Abominable History of the Man with Copper Fingers",
+      "length": 41130,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "The Entertaining Episode of the Article in Question",
+      "length": 22052,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "The Fascinating Problem of Uncle Meleager's Will",
+      "length": 32996,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "The Fantastic Horror of the Cat in the Bag",
+      "length": 26764,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "The Unprincipled Affair of the Practical Joker",
+      "length": 23062,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "The Undignified Melodrama of the Bone of Contention",
+      "length": 115525,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "The Vindictive Story of the Footsteps That Ran",
+      "length": 32064,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "The Bibulous Business of a Matter of Taste",
+      "length": 28009,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "The Learned Adventure of the Dragon's Head",
+      "length": 42798,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "The Piscatorial Farce of the Stolen Stomach",
+      "length": 41163,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "The Unsolved Puzzle of the Man with No Face",
+      "length": 57293,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "The Adventurous Exploit of the Cave of Ali Baba",
+      "length": 58324,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "List of Illustrations",
+      "length": 1122,
+      "mode": "hide"
+    },
+    {
+      "id": "016",
+      "title": "Colophon",
+      "length": 975,
+      "mode": "hide"
+    },
+    {
+      "id": "017",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL2234993W",
+  "goodreadsId": "320460",
+  "rating": 0.828,
+  "popularity": 14852,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721337646679
+}

@@ -1,1 +1,262 @@
-{"id":"mary-shelley--the-last-man","title":"The Last Man","titleAlpha":"last man","author":"Mary Shelley","language":"en","description":"Love and war in future Europe are thrown into confusion by a global pandemic that obliterates humanity.","longDescription":["The Last Man chronicles the last days of humanity in the 21st century as it is slowly obliterated by a global pandemic. Radical changes and events across Europe - the king abdicates, turning England into a Republic; war erupts between Greece and Turkey - weaken the fabric of society, allowing an unknown and deadly disease to quickly spread across the world. Political leaders are disorganized; spiritual figures offer little comfort; science yields no answers. Previously distinguished individuals abandon their people in their time of need out of cowardice, while others admirably rise up to the occasion. Yet, none of this matters at all when humanity comes to its end.","Mary Shelley wrote this book during the darkest time of her life. Over the years, she had lost her husband, Percy Bysshe Shelley; her close friend, Lord Byron; and her children. Writing the novel became an instrument to process her own hopelessness and isolation - various characters are impressions of her departed loved ones.","Contemporary critics were not kind to The Last Man. While Frankenstein was lauded for its depiction of scientific presumption, humanity's impotence and subsequent extinction were deemed offensive. The book faded into near-obscurity and merely survived until its rediscovery in the 1960s. After two World Wars, several epidemics, and the threat of nuclear annihilation, humanity's end may not have seemed as absurd any more."],"year":1826,"genres":["classics","fiction","science-fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/mary-shelley/the-last-man"},"openlibraryId":"OL450124W","goodreadsId":"1415900","rating":0.674,"popularity":5917,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Last Man","length":17,"mode":"hide"},{"id":"002","title":"Imprint","length":1194,"mode":"hide"},{"id":"003","title":"Epigraph","length":81,"mode":"skip"},{"id":"004","title":"Introduction","length":9781,"mode":"type"},{"id":"005","title":"Volume I - I","length":23923,"mode":"type"},{"id":"006","title":"Volume I - II","length":34831,"mode":"type"},{"id":"007","title":"Volume I - III","length":24602,"mode":"type"},{"id":"008","title":"Volume I - IV","length":30715,"mode":"type"},{"id":"009","title":"Volume I - V","length":33311,"mode":"type"},{"id":"010","title":"Volume I - VI","length":27041,"mode":"type"},{"id":"011","title":"Volume I - VII","length":32321,"mode":"type"},{"id":"012","title":"Volume I - VIII","length":27579,"mode":"type"},{"id":"013","title":"Volume I - IX","length":40819,"mode":"type"},{"id":"014","title":"Volume I - X","length":38719,"mode":"type"},{"id":"015","title":"Volume I - XI","length":24203,"mode":"type"},{"id":"016","title":"Volume II - I","length":34058,"mode":"type"},{"id":"017","title":"Volume II - II","length":40384,"mode":"type"},{"id":"018","title":"Volume II - III","length":35196,"mode":"type"},{"id":"019","title":"Volume II - IV","length":23807,"mode":"type"},{"id":"020","title":"Volume II - V","length":20288,"mode":"type"},{"id":"021","title":"Volume II - VI","length":37787,"mode":"type"},{"id":"022","title":"Volume II - VII","length":19898,"mode":"type"},{"id":"023","title":"Volume II - VIII","length":59760,"mode":"type"},{"id":"024","title":"Volume II - IX","length":42903,"mode":"type"},{"id":"025","title":"Volume III - I","length":20748,"mode":"type"},{"id":"026","title":"Volume III - II","length":37696,"mode":"type"},{"id":"027","title":"Volume III - III","length":44069,"mode":"type"},{"id":"028","title":"Volume III - IV","length":45397,"mode":"type"},{"id":"029","title":"Volume III - V","length":23322,"mode":"type"},{"id":"030","title":"Volume III - VI","length":29975,"mode":"type"},{"id":"031","title":"Volume III - VII","length":32281,"mode":"type"},{"id":"032","title":"Volume III - VIII","length":29773,"mode":"type"},{"id":"033","title":"Volume III - IX","length":29732,"mode":"type"},{"id":"034","title":"Volume III - X","length":43242,"mode":"type"},{"id":"035","title":"Endnotes","length":892,"mode":"hide"},{"id":"036","title":"Colophon","length":1040,"mode":"hide"},{"id":"037","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338100923}
+{
+  "id": "mary-shelley--the-last-man",
+  "title": "The Last Man",
+  "titleAlpha": "last man",
+  "author": "Mary Shelley",
+  "language": "en",
+  "description": "Love and war in future Europe are thrown into confusion by a global pandemic that obliterates humanity.",
+  "longDescription": [
+    "The Last Man chronicles the last days of humanity in the 21st century as it is slowly obliterated by a global pandemic. Radical changes and events across Europe - the king abdicates, turning England into a Republic; war erupts between Greece and Turkey - weaken the fabric of society, allowing an unknown and deadly disease to quickly spread across the world. Political leaders are disorganized; spiritual figures offer little comfort; science yields no answers. Previously distinguished individuals abandon their people in their time of need out of cowardice, while others admirably rise up to the occasion. Yet, none of this matters at all when humanity comes to its end.",
+    "Mary Shelley wrote this book during the darkest time of her life. Over the years, she had lost her husband, Percy Bysshe Shelley; her close friend, Lord Byron; and her children. Writing the novel became an instrument to process her own hopelessness and isolation - various characters are impressions of her departed loved ones.",
+    "Contemporary critics were not kind to The Last Man. While Frankenstein was lauded for its depiction of scientific presumption, humanity's impotence and subsequent extinction were deemed offensive. The book faded into near-obscurity and merely survived until its rediscovery in the 1960s. After two World Wars, several epidemics, and the threat of nuclear annihilation, humanity's end may not have seemed as absurd any more."
+  ],
+  "year": 1826,
+  "genres": [
+    "classics",
+    "fiction",
+    "science-fiction"
+  ],
+  "topics": [
+    "dystopia"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/mary-shelley/the-last-man"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Last Man",
+      "length": 17,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Epigraph",
+      "length": 81,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Introduction",
+      "length": 9781,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Volume I - I",
+      "length": 23923,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Volume I - II",
+      "length": 34831,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Volume I - III",
+      "length": 24602,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Volume I - IV",
+      "length": 30715,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Volume I - V",
+      "length": 33311,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Volume I - VI",
+      "length": 27041,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Volume I - VII",
+      "length": 32321,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Volume I - VIII",
+      "length": 27579,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Volume I - IX",
+      "length": 40819,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Volume I - X",
+      "length": 38719,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Volume I - XI",
+      "length": 24203,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Volume II - I",
+      "length": 34058,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Volume II - II",
+      "length": 40384,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Volume II - III",
+      "length": 35196,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Volume II - IV",
+      "length": 23807,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Volume II - V",
+      "length": 20288,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Volume II - VI",
+      "length": 37787,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Volume II - VII",
+      "length": 19898,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Volume II - VIII",
+      "length": 59760,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Volume II - IX",
+      "length": 42903,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Volume III - I",
+      "length": 20748,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Volume III - II",
+      "length": 37696,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Volume III - III",
+      "length": 44069,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Volume III - IV",
+      "length": 45397,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Volume III - V",
+      "length": 23322,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Volume III - VI",
+      "length": 29975,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Volume III - VII",
+      "length": 32281,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Volume III - VIII",
+      "length": 29773,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Volume III - IX",
+      "length": 29732,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Volume III - X",
+      "length": 43242,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Endnotes",
+      "length": 892,
+      "mode": "hide"
+    },
+    {
+      "id": "036",
+      "title": "Colophon",
+      "length": 1040,
+      "mode": "hide"
+    },
+    {
+      "id": "037",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL450124W",
+  "goodreadsId": "966835",
+  "rating": 0.674,
+  "popularity": 5936,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489969054
+}

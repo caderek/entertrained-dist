@@ -1,1 +1,842 @@
-{"id":"t-e-lawrence--seven-pillars-of-wisdom","title":"Seven Pillars of Wisdom","titleAlpha":"seven pillars of wisdom","author":"T. E. Lawrence","language":"en","description":"T. E. Lawrence's memoir of leading the Arab revolt against the Ottoman empire during World War I.","longDescription":["Seven Pillars of Wisdom is T. E. Lawrence's memoir of his involvement in leading a portion of the Arab revolt against the Ottoman empire during World War I. The empire had joined the side of Germany and the Central Powers in the war, and Britain hoped that a successful revolt would take the empire out of the war effort. Britain had also promised the Arabs that, if they were successful, England would recognize a single Arab state.","Lawrence convinced the Arab leaders, who had historically not shown a willingness to work together, to join forces in supporting Britain's strategy in the area. His memoir is part travelogue, part philosophy treatise, and part action novel. It details his movements and actions during his two year involvement, his relationships with the various Arab leaders and men who fought with him, and his thoughts - and doubts - during that time. It's a gripping tale made famous by the movie Lawrence of Arabia, and one that Winston Churchill called \"unsurpassable\" as a \"narrative of war and adventure.\"","The manuscript of Seven Pillars of Wisdom has a rich history. Lawrence finished his first draft in 1919 from his notes during the war, but lost most of it when changing trains in England (it was never found). The next year, he started working on a new version from memory that ended up being sixty percent longer than the original. He then edited that version (although it was still a third longer than the original draft), finishing it in early 1922, and had eight copies of it printed to give to friends so they could review it and offer editing suggestions (and to prevent a repeat of losing his only copy). About this time he re-enlisted in the service, but friends convinced him to work on a version he could publish. In 1926, he had a first edition of approximately 200 copies published that included 125 black-and-white and color illustrations from sixteen different artists. The first edition lost money, and it was the only edition published during his lifetime. This edition uses the first edition text and includes all 125 of the original illustrations, including both endpapers."],"year":1926,"genres":["adventure","classics","history","memoir","nonfiction"],"topics":["war"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom"},"openlibraryId":"OL830532W","goodreadsId":"1529257","rating":0.78,"popularity":11191,"cover":null,"free":false,"custom":false,"series":"Seven Pillars of Wisdom: A Triumph","part":0,"chapters":[{"id":"001","title":"Titlepage - Seven Pillars of Wisdom","length":19,"mode":"hide"},{"id":"002","title":"Imprint","length":1197,"mode":"hide"},{"id":"003","title":"Dedication","length":778,"mode":"hide"},{"id":"004","title":"Preface","length":2238,"mode":"skip"},{"id":"005","title":"Introduction: Foundations of Revolt - I","length":8253,"mode":"type"},{"id":"006","title":"Introduction: Foundations of Revolt - II","length":11396,"mode":"type"},{"id":"007","title":"Introduction: Foundations of Revolt - III","length":13407,"mode":"type"},{"id":"008","title":"Introduction: Foundations of Revolt - IV","length":12176,"mode":"type"},{"id":"009","title":"Introduction: Foundations of Revolt - V","length":13157,"mode":"type"},{"id":"010","title":"Introduction: Foundations of Revolt - VI","length":14928,"mode":"type"},{"id":"011","title":"Introduction: Foundations of Revolt - VII","length":7721,"mode":"type"},{"id":"012","title":"Book I: The Discovery of Feisal - VIII","length":15900,"mode":"type"},{"id":"013","title":"Book I: The Discovery of Feisal - IX","length":8903,"mode":"type"},{"id":"014","title":"Book I: The Discovery of Feisal - X","length":17045,"mode":"type"},{"id":"015","title":"Book I: The Discovery of Feisal - XI","length":13452,"mode":"type"},{"id":"016","title":"Book I: The Discovery of Feisal - XII","length":6587,"mode":"type"},{"id":"017","title":"Book I: The Discovery of Feisal - XIII","length":15115,"mode":"type"},{"id":"018","title":"Book I: The Discovery of Feisal - XIV","length":8765,"mode":"type"},{"id":"019","title":"Book I: The Discovery of Feisal - XV","length":11333,"mode":"type"},{"id":"020","title":"Book I: The Discovery of Feisal - XVI","length":15681,"mode":"type"},{"id":"021","title":"Book II: Opening the Arab Offensive - XVII","length":6173,"mode":"type"},{"id":"022","title":"Book II: Opening the Arab Offensive - XVIII","length":10920,"mode":"type"},{"id":"023","title":"Book II: Opening the Arab Offensive - XIX","length":8835,"mode":"type"},{"id":"024","title":"Book II: Opening the Arab Offensive - XX","length":12563,"mode":"type"},{"id":"025","title":"Book II: Opening the Arab Offensive - XXI","length":10576,"mode":"type"},{"id":"026","title":"Book II: Opening the Arab Offensive - XXII","length":8032,"mode":"type"},{"id":"027","title":"Book II: Opening the Arab Offensive - XXIII","length":13733,"mode":"type"},{"id":"028","title":"Book II: Opening the Arab Offensive - XXIV","length":16221,"mode":"type"},{"id":"029","title":"Book II: Opening the Arab Offensive - XXV","length":14066,"mode":"type"},{"id":"030","title":"Book II: Opening the Arab Offensive - XXVI","length":9039,"mode":"type"},{"id":"031","title":"Book II: Opening the Arab Offensive - XXVII","length":5437,"mode":"type"},{"id":"032","title":"Book III: A Railway Diversion - XXVIII","length":9054,"mode":"type"},{"id":"033","title":"Book III: A Railway Diversion - XXIX","length":6760,"mode":"type"},{"id":"034","title":"Book III: A Railway Diversion - XXX","length":8865,"mode":"type"},{"id":"035","title":"Book III: A Railway Diversion - XXXI","length":13235,"mode":"type"},{"id":"036","title":"Book III: A Railway Diversion - XXXII","length":11274,"mode":"type"},{"id":"037","title":"Book III: A Railway Diversion - XXXIII","length":22867,"mode":"type"},{"id":"038","title":"Book III: A Railway Diversion - XXXIV","length":15986,"mode":"type"},{"id":"039","title":"Book III: A Railway Diversion - XXXV","length":19622,"mode":"type"},{"id":"040","title":"Book III: A Railway Diversion - XXXVI","length":9013,"mode":"type"},{"id":"041","title":"Book III: A Railway Diversion - XXXVII","length":11038,"mode":"type"},{"id":"042","title":"Book III: A Railway Diversion - XXXVIII","length":14001,"mode":"type"},{"id":"043","title":"Book IV: Extending to Akaba - XXXIX","length":11330,"mode":"type"},{"id":"044","title":"Book IV: Extending to Akaba - XL","length":11554,"mode":"type"},{"id":"045","title":"Book IV: Extending to Akaba - XLI","length":13977,"mode":"type"},{"id":"046","title":"Book IV: Extending to Akaba - XLII","length":10957,"mode":"type"},{"id":"047","title":"Book IV: Extending to Akaba - XLIII","length":8889,"mode":"type"},{"id":"048","title":"Book IV: Extending to Akaba - XLIV","length":11419,"mode":"type"},{"id":"049","title":"Book IV: Extending to Akaba - XLV","length":13588,"mode":"type"},{"id":"050","title":"Book IV: Extending to Akaba - XLVI","length":11159,"mode":"type"},{"id":"051","title":"Book IV: Extending to Akaba - XLVII","length":9060,"mode":"type"},{"id":"052","title":"Book IV: Extending to Akaba - XLVIII","length":17858,"mode":"type"},{"id":"053","title":"Book IV: Extending to Akaba - XLIX","length":11398,"mode":"type"},{"id":"054","title":"Book IV: Extending to Akaba - L","length":13795,"mode":"type"},{"id":"055","title":"Book IV: Extending to Akaba - LI","length":6748,"mode":"type"},{"id":"056","title":"Book IV: Extending to Akaba - LII","length":10721,"mode":"type"},{"id":"057","title":"Book IV: Extending to Akaba - LIII","length":13346,"mode":"type"},{"id":"058","title":"Book IV: Extending to Akaba - LIV","length":14243,"mode":"type"},{"id":"059","title":"Book V: Marking Time - LV","length":8988,"mode":"type"},{"id":"060","title":"Book V: Marking Time - LVI","length":9512,"mode":"type"},{"id":"061","title":"Book V: Marking Time - LVII","length":10772,"mode":"type"},{"id":"062","title":"Book V: Marking Time - LVIII","length":11294,"mode":"type"},{"id":"063","title":"Book V: Marking Time - LIX","length":17678,"mode":"type"},{"id":"064","title":"Book V: Marking Time - LX","length":8986,"mode":"type"},{"id":"065","title":"Book V: Marking Time - LXI","length":11377,"mode":"type"},{"id":"066","title":"Book V: Marking Time - LXII","length":9207,"mode":"type"},{"id":"067","title":"Book V: Marking Time - LXIII","length":9786,"mode":"type"},{"id":"068","title":"Book V: Marking Time - LXIV","length":8997,"mode":"type"},{"id":"069","title":"Book V: Marking Time - LXV","length":8199,"mode":"type"},{"id":"070","title":"Book V: Marking Time - LXVI","length":10920,"mode":"type"},{"id":"071","title":"Book V: Marking Time - LXVII","length":13600,"mode":"type"},{"id":"072","title":"Book V: Marking Time - LXVIII","length":11920,"mode":"type"},{"id":"073","title":"Book VI: The Raid Upon the Bridges - LXIX","length":9156,"mode":"type"},{"id":"074","title":"Book VI: The Raid Upon the Bridges - LXX","length":8847,"mode":"type"},{"id":"075","title":"Book VI: The Raid Upon the Bridges - LXXI","length":9127,"mode":"type"},{"id":"076","title":"Book VI: The Raid Upon the Bridges - LXXII","length":13929,"mode":"type"},{"id":"077","title":"Book VI: The Raid Upon the Bridges - LXXIII","length":13677,"mode":"type"},{"id":"078","title":"Book VI: The Raid Upon the Bridges - LXXIV","length":15770,"mode":"type"},{"id":"079","title":"Book VI: The Raid Upon the Bridges - LXXV","length":10843,"mode":"type"},{"id":"080","title":"Book VI: The Raid Upon the Bridges - LXXVI","length":14010,"mode":"type"},{"id":"081","title":"Book VI: The Raid Upon the Bridges - LXXVII","length":10122,"mode":"type"},{"id":"082","title":"Book VI: The Raid Upon the Bridges - LXXVIII","length":10275,"mode":"type"},{"id":"083","title":"Book VI: The Raid Upon the Bridges - LXXIX","length":13999,"mode":"type"},{"id":"084","title":"Book VI: The Raid Upon the Bridges - LXXX","length":15817,"mode":"type"},{"id":"085","title":"Book VI: The Raid Upon the Bridges - LXXXI","length":14064,"mode":"type"},{"id":"086","title":"Book VII: The Dead Sea Campaign - LXXXII","length":13582,"mode":"type"},{"id":"087","title":"Book VII: The Dead Sea Campaign - LXXXIII","length":16365,"mode":"type"},{"id":"088","title":"Book VII: The Dead Sea Campaign - LXXXIV","length":11505,"mode":"type"},{"id":"089","title":"Book VII: The Dead Sea Campaign - LXXXV","length":10495,"mode":"type"},{"id":"090","title":"Book VII: The Dead Sea Campaign - LXXXVI","length":10535,"mode":"type"},{"id":"091","title":"Book VII: The Dead Sea Campaign - LXXXVII","length":14168,"mode":"type"},{"id":"092","title":"Book VII: The Dead Sea Campaign - LXXXVIII","length":9970,"mode":"type"},{"id":"093","title":"Book VII: The Dead Sea Campaign - LXXXIX","length":12398,"mode":"type"},{"id":"094","title":"Book VII: The Dead Sea Campaign - XC","length":9167,"mode":"type"},{"id":"095","title":"Book VII: The Dead Sea Campaign - XCI","length":7090,"mode":"type"},{"id":"096","title":"Book VIII: The Ruin of High Hope - XCII","length":11490,"mode":"type"},{"id":"097","title":"Book VIII: The Ruin of High Hope - XCIII","length":13982,"mode":"type"},{"id":"098","title":"Book VIII: The Ruin of High Hope - XCIV","length":16933,"mode":"type"},{"id":"099","title":"Book VIII: The Ruin of High Hope - XCV","length":12206,"mode":"type"},{"id":"100","title":"Book VIII: The Ruin of High Hope - XCVI","length":6506,"mode":"type"},{"id":"101","title":"Book VIII: The Ruin of High Hope - XCVII","length":5766,"mode":"type"},{"id":"102","title":"Book IX: Balancing for a Last Effort - XCVIII","length":13559,"mode":"type"},{"id":"103","title":"Book IX: Balancing for a Last Effort - XCIX","length":16916,"mode":"type"},{"id":"104","title":"Book IX: Balancing for a Last Effort - C","length":5738,"mode":"type"},{"id":"105","title":"Book IX: Balancing for a Last Effort - CI","length":9143,"mode":"type"},{"id":"106","title":"Book IX: Balancing for a Last Effort - CII","length":11512,"mode":"type"},{"id":"107","title":"Book IX: Balancing for a Last Effort - CIII","length":12018,"mode":"type"},{"id":"108","title":"Book IX: Balancing for a Last Effort - CIV","length":8139,"mode":"type"},{"id":"109","title":"Book IX: Balancing for a Last Effort - CV","length":11979,"mode":"type"},{"id":"110","title":"Book IX: Balancing for a Last Effort - CVI","length":10452,"mode":"type"},{"id":"111","title":"Book X: The House Is Perfected - CVII","length":15299,"mode":"type"},{"id":"112","title":"Book X: The House Is Perfected - CVIII","length":11277,"mode":"type"},{"id":"113","title":"Book X: The House Is Perfected - CIX","length":11002,"mode":"type"},{"id":"114","title":"Book X: The House Is Perfected - CX","length":7920,"mode":"type"},{"id":"115","title":"Book X: The House Is Perfected - CXI","length":8153,"mode":"type"},{"id":"116","title":"Book X: The House Is Perfected - CXII","length":7648,"mode":"type"},{"id":"117","title":"Book X: The House Is Perfected - CXIII","length":16913,"mode":"type"},{"id":"118","title":"Book X: The House Is Perfected - CXIV","length":9027,"mode":"type"},{"id":"119","title":"Book X: The House Is Perfected - CXV","length":10219,"mode":"type"},{"id":"120","title":"Book X: The House Is Perfected - CXVI","length":8917,"mode":"type"},{"id":"121","title":"Book X: The House Is Perfected - CXVII","length":18075,"mode":"type"},{"id":"122","title":"Book X: The House Is Perfected - CXVIII","length":11113,"mode":"type"},{"id":"123","title":"Book X: The House Is Perfected - CXIX","length":12381,"mode":"type"},{"id":"124","title":"Book X: The House Is Perfected - CXX","length":9972,"mode":"type"},{"id":"125","title":"Book X: The House Is Perfected - CXXI","length":9409,"mode":"type"},{"id":"126","title":"Book X: The House Is Perfected - CXXII","length":5768,"mode":"type"},{"id":"127","title":"Epilogue","length":1397,"mode":"type"},{"id":"128","title":"Endnotes","length":1533,"mode":"hide"},{"id":"129","title":"Appendix 1","length":1543,"mode":"type"},{"id":"130","title":"Appendix 2","length":6827,"mode":"type"},{"id":"131","title":"List of Illustrations","length":4616,"mode":"hide"},{"id":"132","title":"Colophon","length":1053,"mode":"hide"},{"id":"133","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338264148}
+{
+  "id": "t-e-lawrence--seven-pillars-of-wisdom",
+  "title": "Seven Pillars of Wisdom",
+  "titleAlpha": "seven pillars of wisdom",
+  "author": "T. E. Lawrence",
+  "language": "en",
+  "description": "T. E. Lawrence's memoir of leading the Arab revolt against the Ottoman empire during World War I.",
+  "longDescription": [
+    "Seven Pillars of Wisdom is T. E. Lawrence's memoir of his involvement in leading a portion of the Arab revolt against the Ottoman empire during World War I. The empire had joined the side of Germany and the Central Powers in the war, and Britain hoped that a successful revolt would take the empire out of the war effort. Britain had also promised the Arabs that, if they were successful, England would recognize a single Arab state.",
+    "Lawrence convinced the Arab leaders, who had historically not shown a willingness to work together, to join forces in supporting Britain's strategy in the area. His memoir is part travelogue, part philosophy treatise, and part action novel. It details his movements and actions during his two year involvement, his relationships with the various Arab leaders and men who fought with him, and his thoughts - and doubts - during that time. It's a gripping tale made famous by the movie Lawrence of Arabia, and one that Winston Churchill called \"unsurpassable\" as a \"narrative of war and adventure.\"",
+    "The manuscript of Seven Pillars of Wisdom has a rich history. Lawrence finished his first draft in 1919 from his notes during the war, but lost most of it when changing trains in England (it was never found). The next year, he started working on a new version from memory that ended up being sixty percent longer than the original. He then edited that version (although it was still a third longer than the original draft), finishing it in early 1922, and had eight copies of it printed to give to friends so they could review it and offer editing suggestions (and to prevent a repeat of losing his only copy). About this time he re-enlisted in the service, but friends convinced him to work on a version he could publish. In 1926, he had a first edition of approximately 200 copies published that included 125 black-and-white and color illustrations from sixteen different artists. The first edition lost money, and it was the only edition published during his lifetime. This edition uses the first edition text and includes all 125 of the original illustrations, including both endpapers."
+  ],
+  "year": 1926,
+  "genres": [
+    "adventure",
+    "classics",
+    "history",
+    "memoir",
+    "nonfiction"
+  ],
+  "topics": [
+    "war",
+    "warfare",
+    "revolution"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "",
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Seven Pillars of Wisdom",
+      "length": 19,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1197,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 778,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Preface",
+      "length": 2238,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Introduction: Foundations of Revolt - I",
+      "length": 8253,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Introduction: Foundations of Revolt - II",
+      "length": 11396,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Introduction: Foundations of Revolt - III",
+      "length": 13407,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Introduction: Foundations of Revolt - IV",
+      "length": 12176,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Introduction: Foundations of Revolt - V",
+      "length": 13157,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Introduction: Foundations of Revolt - VI",
+      "length": 14928,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Introduction: Foundations of Revolt - VII",
+      "length": 7721,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book I: The Discovery of Feisal - VIII",
+      "length": 15900,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book I: The Discovery of Feisal - IX",
+      "length": 8903,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book I: The Discovery of Feisal - X",
+      "length": 17045,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book I: The Discovery of Feisal - XI",
+      "length": 13452,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Book I: The Discovery of Feisal - XII",
+      "length": 6587,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book I: The Discovery of Feisal - XIII",
+      "length": 15115,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book I: The Discovery of Feisal - XIV",
+      "length": 8765,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Book I: The Discovery of Feisal - XV",
+      "length": 11333,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Book I: The Discovery of Feisal - XVI",
+      "length": 15681,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Book II: Opening the Arab Offensive - XVII",
+      "length": 6173,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Book II: Opening the Arab Offensive - XVIII",
+      "length": 10920,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Book II: Opening the Arab Offensive - XIX",
+      "length": 8835,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Book II: Opening the Arab Offensive - XX",
+      "length": 12563,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Book II: Opening the Arab Offensive - XXI",
+      "length": 10576,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Book II: Opening the Arab Offensive - XXII",
+      "length": 8032,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Book II: Opening the Arab Offensive - XXIII",
+      "length": 13733,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Book II: Opening the Arab Offensive - XXIV",
+      "length": 16221,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Book II: Opening the Arab Offensive - XXV",
+      "length": 14066,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Book II: Opening the Arab Offensive - XXVI",
+      "length": 9039,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Book II: Opening the Arab Offensive - XXVII",
+      "length": 5437,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Book III: A Railway Diversion - XXVIII",
+      "length": 9054,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Book III: A Railway Diversion - XXIX",
+      "length": 6760,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Book III: A Railway Diversion - XXX",
+      "length": 8865,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Book III: A Railway Diversion - XXXI",
+      "length": 13235,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Book III: A Railway Diversion - XXXII",
+      "length": 11274,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Book III: A Railway Diversion - XXXIII",
+      "length": 22867,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Book III: A Railway Diversion - XXXIV",
+      "length": 15986,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Book III: A Railway Diversion - XXXV",
+      "length": 19622,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Book III: A Railway Diversion - XXXVI",
+      "length": 9013,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Book III: A Railway Diversion - XXXVII",
+      "length": 11038,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Book III: A Railway Diversion - XXXVIII",
+      "length": 14001,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Book IV: Extending to Akaba - XXXIX",
+      "length": 11330,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Book IV: Extending to Akaba - XL",
+      "length": 11554,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Book IV: Extending to Akaba - XLI",
+      "length": 13977,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Book IV: Extending to Akaba - XLII",
+      "length": 10957,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Book IV: Extending to Akaba - XLIII",
+      "length": 8889,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Book IV: Extending to Akaba - XLIV",
+      "length": 11419,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "Book IV: Extending to Akaba - XLV",
+      "length": 13588,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Book IV: Extending to Akaba - XLVI",
+      "length": 11159,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "Book IV: Extending to Akaba - XLVII",
+      "length": 9060,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "Book IV: Extending to Akaba - XLVIII",
+      "length": 17858,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "Book IV: Extending to Akaba - XLIX",
+      "length": 11398,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "Book IV: Extending to Akaba - L",
+      "length": 13795,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "Book IV: Extending to Akaba - LI",
+      "length": 6748,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "Book IV: Extending to Akaba - LII",
+      "length": 10721,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "Book IV: Extending to Akaba - LIII",
+      "length": 13346,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "Book IV: Extending to Akaba - LIV",
+      "length": 14243,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "Book V: Marking Time - LV",
+      "length": 8988,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "Book V: Marking Time - LVI",
+      "length": 9512,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "Book V: Marking Time - LVII",
+      "length": 10772,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "Book V: Marking Time - LVIII",
+      "length": 11294,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "Book V: Marking Time - LIX",
+      "length": 17678,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "Book V: Marking Time - LX",
+      "length": 8986,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "Book V: Marking Time - LXI",
+      "length": 11377,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "Book V: Marking Time - LXII",
+      "length": 9207,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "Book V: Marking Time - LXIII",
+      "length": 9786,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "Book V: Marking Time - LXIV",
+      "length": 8997,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "Book V: Marking Time - LXV",
+      "length": 8199,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "Book V: Marking Time - LXVI",
+      "length": 10920,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "Book V: Marking Time - LXVII",
+      "length": 13600,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "Book V: Marking Time - LXVIII",
+      "length": 11920,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "Book VI: The Raid Upon the Bridges - LXIX",
+      "length": 9156,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "Book VI: The Raid Upon the Bridges - LXX",
+      "length": 8847,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "Book VI: The Raid Upon the Bridges - LXXI",
+      "length": 9127,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "Book VI: The Raid Upon the Bridges - LXXII",
+      "length": 13929,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "Book VI: The Raid Upon the Bridges - LXXIII",
+      "length": 13677,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "Book VI: The Raid Upon the Bridges - LXXIV",
+      "length": 15770,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "Book VI: The Raid Upon the Bridges - LXXV",
+      "length": 10843,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "Book VI: The Raid Upon the Bridges - LXXVI",
+      "length": 14010,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "Book VI: The Raid Upon the Bridges - LXXVII",
+      "length": 10122,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "Book VI: The Raid Upon the Bridges - LXXVIII",
+      "length": 10275,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "Book VI: The Raid Upon the Bridges - LXXIX",
+      "length": 13999,
+      "mode": "type"
+    },
+    {
+      "id": "084",
+      "title": "Book VI: The Raid Upon the Bridges - LXXX",
+      "length": 15817,
+      "mode": "type"
+    },
+    {
+      "id": "085",
+      "title": "Book VI: The Raid Upon the Bridges - LXXXI",
+      "length": 14064,
+      "mode": "type"
+    },
+    {
+      "id": "086",
+      "title": "Book VII: The Dead Sea Campaign - LXXXII",
+      "length": 13582,
+      "mode": "type"
+    },
+    {
+      "id": "087",
+      "title": "Book VII: The Dead Sea Campaign - LXXXIII",
+      "length": 16365,
+      "mode": "type"
+    },
+    {
+      "id": "088",
+      "title": "Book VII: The Dead Sea Campaign - LXXXIV",
+      "length": 11505,
+      "mode": "type"
+    },
+    {
+      "id": "089",
+      "title": "Book VII: The Dead Sea Campaign - LXXXV",
+      "length": 10495,
+      "mode": "type"
+    },
+    {
+      "id": "090",
+      "title": "Book VII: The Dead Sea Campaign - LXXXVI",
+      "length": 10535,
+      "mode": "type"
+    },
+    {
+      "id": "091",
+      "title": "Book VII: The Dead Sea Campaign - LXXXVII",
+      "length": 14168,
+      "mode": "type"
+    },
+    {
+      "id": "092",
+      "title": "Book VII: The Dead Sea Campaign - LXXXVIII",
+      "length": 9970,
+      "mode": "type"
+    },
+    {
+      "id": "093",
+      "title": "Book VII: The Dead Sea Campaign - LXXXIX",
+      "length": 12398,
+      "mode": "type"
+    },
+    {
+      "id": "094",
+      "title": "Book VII: The Dead Sea Campaign - XC",
+      "length": 9167,
+      "mode": "type"
+    },
+    {
+      "id": "095",
+      "title": "Book VII: The Dead Sea Campaign - XCI",
+      "length": 7090,
+      "mode": "type"
+    },
+    {
+      "id": "096",
+      "title": "Book VIII: The Ruin of High Hope - XCII",
+      "length": 11490,
+      "mode": "type"
+    },
+    {
+      "id": "097",
+      "title": "Book VIII: The Ruin of High Hope - XCIII",
+      "length": 13982,
+      "mode": "type"
+    },
+    {
+      "id": "098",
+      "title": "Book VIII: The Ruin of High Hope - XCIV",
+      "length": 16933,
+      "mode": "type"
+    },
+    {
+      "id": "099",
+      "title": "Book VIII: The Ruin of High Hope - XCV",
+      "length": 12206,
+      "mode": "type"
+    },
+    {
+      "id": "100",
+      "title": "Book VIII: The Ruin of High Hope - XCVI",
+      "length": 6506,
+      "mode": "type"
+    },
+    {
+      "id": "101",
+      "title": "Book VIII: The Ruin of High Hope - XCVII",
+      "length": 5766,
+      "mode": "type"
+    },
+    {
+      "id": "102",
+      "title": "Book IX: Balancing for a Last Effort - XCVIII",
+      "length": 13559,
+      "mode": "type"
+    },
+    {
+      "id": "103",
+      "title": "Book IX: Balancing for a Last Effort - XCIX",
+      "length": 16916,
+      "mode": "type"
+    },
+    {
+      "id": "104",
+      "title": "Book IX: Balancing for a Last Effort - C",
+      "length": 5738,
+      "mode": "type"
+    },
+    {
+      "id": "105",
+      "title": "Book IX: Balancing for a Last Effort - CI",
+      "length": 9143,
+      "mode": "type"
+    },
+    {
+      "id": "106",
+      "title": "Book IX: Balancing for a Last Effort - CII",
+      "length": 11512,
+      "mode": "type"
+    },
+    {
+      "id": "107",
+      "title": "Book IX: Balancing for a Last Effort - CIII",
+      "length": 12018,
+      "mode": "type"
+    },
+    {
+      "id": "108",
+      "title": "Book IX: Balancing for a Last Effort - CIV",
+      "length": 8139,
+      "mode": "type"
+    },
+    {
+      "id": "109",
+      "title": "Book IX: Balancing for a Last Effort - CV",
+      "length": 11979,
+      "mode": "type"
+    },
+    {
+      "id": "110",
+      "title": "Book IX: Balancing for a Last Effort - CVI",
+      "length": 10452,
+      "mode": "type"
+    },
+    {
+      "id": "111",
+      "title": "Book X: The House Is Perfected - CVII",
+      "length": 15299,
+      "mode": "type"
+    },
+    {
+      "id": "112",
+      "title": "Book X: The House Is Perfected - CVIII",
+      "length": 11277,
+      "mode": "type"
+    },
+    {
+      "id": "113",
+      "title": "Book X: The House Is Perfected - CIX",
+      "length": 11002,
+      "mode": "type"
+    },
+    {
+      "id": "114",
+      "title": "Book X: The House Is Perfected - CX",
+      "length": 7920,
+      "mode": "type"
+    },
+    {
+      "id": "115",
+      "title": "Book X: The House Is Perfected - CXI",
+      "length": 8153,
+      "mode": "type"
+    },
+    {
+      "id": "116",
+      "title": "Book X: The House Is Perfected - CXII",
+      "length": 7648,
+      "mode": "type"
+    },
+    {
+      "id": "117",
+      "title": "Book X: The House Is Perfected - CXIII",
+      "length": 16913,
+      "mode": "type"
+    },
+    {
+      "id": "118",
+      "title": "Book X: The House Is Perfected - CXIV",
+      "length": 9027,
+      "mode": "type"
+    },
+    {
+      "id": "119",
+      "title": "Book X: The House Is Perfected - CXV",
+      "length": 10219,
+      "mode": "type"
+    },
+    {
+      "id": "120",
+      "title": "Book X: The House Is Perfected - CXVI",
+      "length": 8917,
+      "mode": "type"
+    },
+    {
+      "id": "121",
+      "title": "Book X: The House Is Perfected - CXVII",
+      "length": 18075,
+      "mode": "type"
+    },
+    {
+      "id": "122",
+      "title": "Book X: The House Is Perfected - CXVIII",
+      "length": 11113,
+      "mode": "type"
+    },
+    {
+      "id": "123",
+      "title": "Book X: The House Is Perfected - CXIX",
+      "length": 12381,
+      "mode": "type"
+    },
+    {
+      "id": "124",
+      "title": "Book X: The House Is Perfected - CXX",
+      "length": 9972,
+      "mode": "type"
+    },
+    {
+      "id": "125",
+      "title": "Book X: The House Is Perfected - CXXI",
+      "length": 9409,
+      "mode": "type"
+    },
+    {
+      "id": "126",
+      "title": "Book X: The House Is Perfected - CXXII",
+      "length": 5768,
+      "mode": "type"
+    },
+    {
+      "id": "127",
+      "title": "Epilogue",
+      "length": 1397,
+      "mode": "type"
+    },
+    {
+      "id": "128",
+      "title": "Endnotes",
+      "length": 1533,
+      "mode": "hide"
+    },
+    {
+      "id": "129",
+      "title": "Appendix 1",
+      "length": 1543,
+      "mode": "skip"
+    },
+    {
+      "id": "130",
+      "title": "Appendix 2",
+      "length": 6827,
+      "mode": "skip"
+    },
+    {
+      "id": "131",
+      "title": "List of Illustrations",
+      "length": 4616,
+      "mode": "hide"
+    },
+    {
+      "id": "132",
+      "title": "Colophon",
+      "length": 1053,
+      "mode": "hide"
+    },
+    {
+      "id": "133",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL830532W",
+  "goodreadsId": "1529257",
+  "rating": 0.78,
+  "popularity": 11191,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721435048116
+}

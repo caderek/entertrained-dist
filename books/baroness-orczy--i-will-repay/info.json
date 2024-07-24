@@ -1,1 +1,263 @@
-{"id":"baroness-orczy--i-will-repay","title":"I Will Repay","titleAlpha":"i will repay","author":"Baroness Orczy","language":"en","description":"A young woman pursues revenge against the man who killed her brother in a duel years before.","longDescription":["The young Vicomte de Marny rashly challenges a French official to a duel, and dies as a result. The Vicomte's father, the ancient Duc de Marny, insists that his daughter, Juliette, swear an oath before God to seek revenge on the man who killed her brother. Years later, as the French Revolution rages, Juliette insinuates herself into the official's household, and quickly discovers a way to anonymously accuse him before the National Convention. It will take all of the Scarlet Pimpernel's ingenuity to rescue his friend from the guillotine.","I Will Repay is the first of the many sequels that Baroness Orczy wrote after the phenomenal success of the book and play versions of The Scarlet Pimpernel. In this first sequel, she leaves him mostly in the background until the denouement, when the Pimpernel once more must use all of his skills in disguise and subterfuge to rescue a friend and his household."],"year":1906,"genres":["adventure","classics","fiction","history"],"topics":["revolution"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/baroness-orczy/i-will-repay"},"openlibraryId":"OL286343W","goodreadsId":"2209896","rating":0.758,"popularity":1441,"cover":null,"free":false,"custom":false,"series":"The Scarlet Pimpernel (chronological order)","part":3,"chapters":[{"id":"001","title":"Titlepage - I Will Repay","length":19,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Dedication","length":10,"mode":"hide"},{"id":"004","title":"Prologue - I: Paris: 1783","length":18279,"mode":"type"},{"id":"005","title":"Prologue - II","length":16027,"mode":"type"},{"id":"006","title":"I: Paris: 1793 - The Outrage","length":15898,"mode":"type"},{"id":"007","title":"II: Citizen-Deputy","length":11350,"mode":"type"},{"id":"008","title":"III: Hospitality","length":9066,"mode":"type"},{"id":"009","title":"IV: The Faithful House-Dog","length":4171,"mode":"type"},{"id":"010","title":"V: A Day in the Woods","length":14570,"mode":"type"},{"id":"011","title":"VI: The Scarlet Pimpernel","length":11463,"mode":"type"},{"id":"012","title":"VII: A Warning","length":5641,"mode":"type"},{"id":"013","title":"VIII: Anne Mie","length":11175,"mode":"type"},{"id":"014","title":"IX: Jealousy","length":3970,"mode":"type"},{"id":"015","title":"X: Denunciation","length":11950,"mode":"type"},{"id":"016","title":"XI: \"Vengeance Is Mine\"","length":16638,"mode":"type"},{"id":"017","title":"XII: The Sword of Damocles","length":23059,"mode":"type"},{"id":"018","title":"XIII: Tangled Meshes","length":7829,"mode":"type"},{"id":"019","title":"XIV: A Happy Moment","length":7759,"mode":"type"},{"id":"020","title":"XV: Detected","length":14295,"mode":"type"},{"id":"021","title":"XVI: Under Arrest","length":9613,"mode":"type"},{"id":"022","title":"XVII: Atonement","length":7554,"mode":"type"},{"id":"023","title":"XVIII: In the Luxembourg Prison","length":6777,"mode":"type"},{"id":"024","title":"XIX: Complexities","length":9313,"mode":"type"},{"id":"025","title":"XX: The Cheval Borgne","length":13774,"mode":"type"},{"id":"026","title":"XXI: A Jacobin Orator","length":13524,"mode":"type"},{"id":"027","title":"XXII: The Close of Day","length":12425,"mode":"type"},{"id":"028","title":"XXIII: Justice","length":8678,"mode":"type"},{"id":"029","title":"XXIV: The Trial of Juliette","length":11176,"mode":"type"},{"id":"030","title":"XXV: The Defence","length":17900,"mode":"type"},{"id":"031","title":"XXVI: Sentence of Death","length":4808,"mode":"type"},{"id":"032","title":"XXVII: The Fructidor Riots","length":10246,"mode":"type"},{"id":"033","title":"XXVIII: The Unexpected","length":13119,"mode":"type"},{"id":"034","title":"XXIX: Pere Lachaise","length":14712,"mode":"type"},{"id":"035","title":"XXX: Conclusion","length":6243,"mode":"type"},{"id":"036","title":"Colophon","length":1045,"mode":"hide"},{"id":"037","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337561311}
+{
+  "id": "baroness-orczy--i-will-repay",
+  "title": "I Will Repay",
+  "titleAlpha": "i will repay",
+  "author": "Baroness Orczy",
+  "language": "en",
+  "description": "A young woman pursues revenge against the man who killed her brother in a duel years before.",
+  "longDescription": [
+    "The young Vicomte de Marny rashly challenges a French official to a duel, and dies as a result. The Vicomte's father, the ancient Duc de Marny, insists that his daughter, Juliette, swear an oath before God to seek revenge on the man who killed her brother. Years later, as the French Revolution rages, Juliette insinuates herself into the official's household, and quickly discovers a way to anonymously accuse him before the National Convention. It will take all of the Scarlet Pimpernel's ingenuity to rescue his friend from the guillotine.",
+    "I Will Repay is the first of the many sequels that Baroness Orczy wrote after the phenomenal success of the book and play versions of The Scarlet Pimpernel. In this first sequel, she leaves him mostly in the background until the denouement, when the Pimpernel once more must use all of his skills in disguise and subterfuge to rescue a friend and his household."
+  ],
+  "year": 1906,
+  "genres": [
+    "adventure",
+    "classics",
+    "fiction",
+    "history",
+    "action"
+  ],
+  "topics": [
+    "revolution"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "The Scarlet Pimpernel",
+  "part": 8,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/baroness-orczy/i-will-repay"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - I Will Repay",
+      "length": 19,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 10,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Prologue - I: Paris: 1783",
+      "length": 18279,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Prologue - II",
+      "length": 16027,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "I: Paris: 1793 - The Outrage",
+      "length": 15898,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "II: Citizen-Deputy",
+      "length": 11350,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "III: Hospitality",
+      "length": 9066,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "IV: The Faithful House-Dog",
+      "length": 4171,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "V: A Day in the Woods",
+      "length": 14570,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VI: The Scarlet Pimpernel",
+      "length": 11463,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VII: A Warning",
+      "length": 5641,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "VIII: Anne Mie",
+      "length": 11175,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "IX: Jealousy",
+      "length": 3970,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "X: Denunciation",
+      "length": 11950,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XI: \"Vengeance Is Mine\"",
+      "length": 16638,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XII: The Sword of Damocles",
+      "length": 23059,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIII: Tangled Meshes",
+      "length": 7829,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XIV: A Happy Moment",
+      "length": 7759,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XV: Detected",
+      "length": 14295,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVI: Under Arrest",
+      "length": 9613,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVII: Atonement",
+      "length": 7554,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XVIII: In the Luxembourg Prison",
+      "length": 6777,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XIX: Complexities",
+      "length": 9313,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XX: The Cheval Borgne",
+      "length": 13774,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXI: A Jacobin Orator",
+      "length": 13524,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXII: The Close of Day",
+      "length": 12425,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXIII: Justice",
+      "length": 8678,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXIV: The Trial of Juliette",
+      "length": 11176,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXV: The Defence",
+      "length": 17900,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVI: Sentence of Death",
+      "length": 4808,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXVII: The Fructidor Riots",
+      "length": 10246,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXVIII: The Unexpected",
+      "length": 13119,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXIX: Pere Lachaise",
+      "length": 14712,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXX: Conclusion",
+      "length": 6243,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Colophon",
+      "length": 1045,
+      "mode": "hide"
+    },
+    {
+      "id": "037",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL286343W",
+  "goodreadsId": "2209896",
+  "rating": 0.758,
+  "popularity": 1441,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721337561311
+}

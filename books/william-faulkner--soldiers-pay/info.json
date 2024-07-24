@@ -1,1 +1,569 @@
-{"id":"william-faulkner--soldiers-pay","title":"Soldiers' Pay","titleAlpha":"soldiers' pay","author":"William Faulkner","language":"en","description":"American soldiers returning from the First World War meet a scarred and lethargic comrade and help him reach home.","longDescription":["Soldiers' Pay is William Faulkner's first published novel. It begins with a train journey on which two American soldiers, Joe Gilligan and Julian Lowe, are returning from the First World War. They meet a scarred, lethargic, and withdrawn fighter pilot, Donald Mahon, who was presumed dead by his family. The novel continues to focus on Mahon and his slow deterioration, and the various romantic complications that arise upon his return home.","Faulkner drew inspiration for this novel from his own experience of the First World War. In the spring of 1918, he moved from his hometown, Oxford, Mississippi, to Yale and worked as an accountant until meeting a Canadian Royal Air Force pilot who encouraged him to join the R. A. F. He then traveled to Toronto, pretended to be British (he affected a British accent and forged letters from British officers and a made-up Reverend), and joined the R. A. F. in the hopes of becoming a hero. But the war ended before he was able to complete his flight training, and, like Julian Lowe, he never witnessed actual combat. Upon returning to Mississippi, he began fabricating various heroic stories about his time in the air force (like narrowly surviving a plane crash with broken legs and metal plates under the skin), and proudly strode around Oxford in his uniform.","Faulkner was encouraged to write Soldiers' Pay by his close friend and fellow writer Sherwood Anderson, whom Faulkner met in New Orleans. Anderson wrote in his Memoirs that he went \"personally to Horace Liveright\" - Soldiers' Pay was originally published by Boni & Liveright - \"to plead for the book.\"","Though the novel was a commercial failure at the time of its publication, Faulkner's subsequent fame has ensured its long-term success."],"year":null,"genres":["classics","fiction"],"topics":["war"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/william-faulkner/soldiers-pay"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Soldiers' Pay","length":21,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Soldier","length":155,"mode":"type"},{"id":"004","title":"I - I","length":25676,"mode":"type"},{"id":"005","title":"I - II","length":19723,"mode":"type"},{"id":"006","title":"I - III","length":14730,"mode":"type"},{"id":"007","title":"I - IV","length":1404,"mode":"type"},{"id":"008","title":"I - V","length":14831,"mode":"type"},{"id":"009","title":"II - I","length":22707,"mode":"type"},{"id":"010","title":"II - II","length":18822,"mode":"type"},{"id":"011","title":"II - III","length":8755,"mode":"type"},{"id":"012","title":"II - IV","length":3960,"mode":"type"},{"id":"013","title":"II - V","length":8649,"mode":"type"},{"id":"014","title":"III - I","length":8131,"mode":"type"},{"id":"015","title":"III - II","length":4675,"mode":"type"},{"id":"016","title":"III - III","length":11919,"mode":"type"},{"id":"017","title":"III - IV","length":14862,"mode":"type"},{"id":"018","title":"III - V","length":461,"mode":"type"},{"id":"019","title":"III - VI","length":2965,"mode":"type"},{"id":"020","title":"III - VII","length":2577,"mode":"type"},{"id":"021","title":"III - VIII","length":10091,"mode":"type"},{"id":"022","title":"III - IX","length":6225,"mode":"type"},{"id":"023","title":"III - X","length":8089,"mode":"type"},{"id":"024","title":"III - XI","length":3458,"mode":"type"},{"id":"025","title":"III - XII","length":3182,"mode":"type"},{"id":"026","title":"III - XIII","length":719,"mode":"type"},{"id":"027","title":"III - XIV","length":4530,"mode":"type"},{"id":"028","title":"IV - I","length":3282,"mode":"type"},{"id":"029","title":"IV - II","length":6219,"mode":"type"},{"id":"030","title":"IV - III","length":7180,"mode":"type"},{"id":"031","title":"IV - IV","length":13234,"mode":"type"},{"id":"032","title":"IV - V","length":808,"mode":"type"},{"id":"033","title":"IV - VI","length":1084,"mode":"type"},{"id":"034","title":"IV - VII","length":9327,"mode":"type"},{"id":"035","title":"V - I","length":5602,"mode":"type"},{"id":"036","title":"V - II","length":4858,"mode":"type"},{"id":"037","title":"V - III","length":800,"mode":"type"},{"id":"038","title":"V - IV","length":8302,"mode":"type"},{"id":"039","title":"V - V","length":2873,"mode":"type"},{"id":"040","title":"V - VI","length":875,"mode":"type"},{"id":"041","title":"V - VII","length":1080,"mode":"type"},{"id":"042","title":"V - VIII","length":11763,"mode":"type"},{"id":"043","title":"V - IX","length":1953,"mode":"type"},{"id":"044","title":"V - X","length":9606,"mode":"type"},{"id":"045","title":"V - XI","length":4252,"mode":"type"},{"id":"046","title":"V - XII","length":6348,"mode":"type"},{"id":"047","title":"V - XIII","length":906,"mode":"type"},{"id":"048","title":"V - XIV","length":3045,"mode":"type"},{"id":"049","title":"V - XV","length":2125,"mode":"type"},{"id":"050","title":"VI - I","length":8784,"mode":"type"},{"id":"051","title":"VI - II","length":24284,"mode":"type"},{"id":"052","title":"VI - III - Nine-Thirty","length":749,"mode":"type"},{"id":"053","title":"VI - III - Ten O'Clock","length":918,"mode":"type"},{"id":"054","title":"VI - III - Ten-Thirty","length":715,"mode":"type"},{"id":"055","title":"VI - III - Eleven O'Clock","length":14952,"mode":"type"},{"id":"056","title":"VI - IV","length":467,"mode":"type"},{"id":"057","title":"VI - V","length":961,"mode":"type"},{"id":"058","title":"VII - I","length":666,"mode":"type"},{"id":"059","title":"VII - II","length":1013,"mode":"type"},{"id":"060","title":"VII - III","length":7535,"mode":"type"},{"id":"061","title":"VII - IV","length":8199,"mode":"type"},{"id":"062","title":"VII - V","length":3151,"mode":"type"},{"id":"063","title":"VII - VI","length":3199,"mode":"type"},{"id":"064","title":"VII - VII: Voices","length":2249,"mode":"type"},{"id":"065","title":"VII - VIII","length":7737,"mode":"type"},{"id":"066","title":"VII - IX","length":3961,"mode":"type"},{"id":"067","title":"VII - X","length":7097,"mode":"type"},{"id":"068","title":"VII - XI","length":4235,"mode":"type"},{"id":"069","title":"VII - XII","length":1400,"mode":"type"},{"id":"070","title":"VII - XIII","length":2435,"mode":"type"},{"id":"071","title":"VIII - I","length":496,"mode":"type"},{"id":"072","title":"VIII - II","length":3826,"mode":"type"},{"id":"073","title":"VIII - III","length":1168,"mode":"type"},{"id":"074","title":"VIII - IV","length":1969,"mode":"type"},{"id":"075","title":"VIII - V","length":1467,"mode":"type"},{"id":"076","title":"VIII - VI","length":199,"mode":"type"},{"id":"077","title":"VIII - VII","length":10430,"mode":"type"},{"id":"078","title":"VIII - VIII","length":4099,"mode":"type"},{"id":"079","title":"IX - I","length":5577,"mode":"type"},{"id":"080","title":"IX - II","length":1803,"mode":"type"},{"id":"081","title":"IX - III","length":1897,"mode":"type"},{"id":"082","title":"IX - IV","length":1313,"mode":"type"},{"id":"083","title":"IX - V","length":13194,"mode":"type"},{"id":"084","title":"IX - VI","length":11175,"mode":"type"},{"id":"085","title":"IX - VII","length":246,"mode":"type"},{"id":"086","title":"IX - VIII","length":6866,"mode":"type"},{"id":"087","title":"Colophon","length":1085,"mode":"hide"},{"id":"088","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338383912}
+{
+  "id": "william-faulkner--soldiers-pay",
+  "title": "Soldiers' Pay",
+  "titleAlpha": "soldiers' pay",
+  "author": "William Faulkner",
+  "language": "en",
+  "description": "American soldiers returning from the First World War meet a scarred and lethargic comrade and help him reach home.",
+  "longDescription": [
+    "Soldiers' Pay is William Faulkner's first published novel. It begins with a train journey on which two American soldiers, Joe Gilligan and Julian Lowe, are returning from the First World War. They meet a scarred, lethargic, and withdrawn fighter pilot, Donald Mahon, who was presumed dead by his family. The novel continues to focus on Mahon and his slow deterioration, and the various romantic complications that arise upon his return home.",
+    "Faulkner drew inspiration for this novel from his own experience of the First World War. In the spring of 1918, he moved from his hometown, Oxford, Mississippi, to Yale and worked as an accountant until meeting a Canadian Royal Air Force pilot who encouraged him to join the R. A. F. He then traveled to Toronto, pretended to be British (he affected a British accent and forged letters from British officers and a made-up Reverend), and joined the R. A. F. in the hopes of becoming a hero. But the war ended before he was able to complete his flight training, and, like Julian Lowe, he never witnessed actual combat. Upon returning to Mississippi, he began fabricating various heroic stories about his time in the air force (like narrowly surviving a plane crash with broken legs and metal plates under the skin), and proudly strode around Oxford in his uniform.",
+    "Faulkner was encouraged to write Soldiers' Pay by his close friend and fellow writer Sherwood Anderson, whom Faulkner met in New Orleans. Anderson wrote in his Memoirs that he went \"personally to Horace Liveright\" - Soldiers' Pay was originally published by Boni & Liveright - \"to plead for the book.\"",
+    "Though the novel was a commercial failure at the time of its publication, Faulkner's subsequent fame has ensured its long-term success."
+  ],
+  "year": 1926,
+  "genres": [
+    "classics",
+    "fiction",
+    "history"
+  ],
+  "topics": [
+    "war"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/william-faulkner/soldiers-pay"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Soldiers' Pay",
+      "length": 21,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Soldier",
+      "length": 155,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "I - I",
+      "length": 25676,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "I - II",
+      "length": 19723,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "I - III",
+      "length": 14730,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "I - IV",
+      "length": 1404,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "I - V",
+      "length": 14831,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "II - I",
+      "length": 22707,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "II - II",
+      "length": 18822,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "II - III",
+      "length": 8755,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "II - IV",
+      "length": 3960,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "II - V",
+      "length": 8649,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "III - I",
+      "length": 8131,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "III - II",
+      "length": 4675,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "III - III",
+      "length": 11919,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "III - IV",
+      "length": 14862,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "III - V",
+      "length": 461,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "III - VI",
+      "length": 2965,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "III - VII",
+      "length": 2577,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "III - VIII",
+      "length": 10091,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "III - IX",
+      "length": 6225,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "III - X",
+      "length": 8089,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "III - XI",
+      "length": 3458,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "III - XII",
+      "length": 3182,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "III - XIII",
+      "length": 719,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "III - XIV",
+      "length": 4530,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "IV - I",
+      "length": 3282,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "IV - II",
+      "length": 6219,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "IV - III",
+      "length": 7180,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "IV - IV",
+      "length": 13234,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "IV - V",
+      "length": 808,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "IV - VI",
+      "length": 1084,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "IV - VII",
+      "length": 9327,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "V - I",
+      "length": 5602,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "V - II",
+      "length": 4858,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "V - III",
+      "length": 800,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "V - IV",
+      "length": 8302,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "V - V",
+      "length": 2873,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "V - VI",
+      "length": 875,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "V - VII",
+      "length": 1080,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "V - VIII",
+      "length": 11763,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "V - IX",
+      "length": 1953,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "V - X",
+      "length": 9606,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "V - XI",
+      "length": 4252,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "V - XII",
+      "length": 6348,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "V - XIII",
+      "length": 906,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "V - XIV",
+      "length": 3045,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "V - XV",
+      "length": 2125,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "VI - I",
+      "length": 8784,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "VI - II",
+      "length": 24284,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "VI - III - Nine-Thirty",
+      "length": 749,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "VI - III - Ten O'Clock",
+      "length": 918,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "VI - III - Ten-Thirty",
+      "length": 715,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "VI - III - Eleven O'Clock",
+      "length": 14952,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "VI - IV",
+      "length": 467,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "VI - V",
+      "length": 961,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "VII - I",
+      "length": 666,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "VII - II",
+      "length": 1013,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "VII - III",
+      "length": 7535,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "VII - IV",
+      "length": 8199,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "VII - V",
+      "length": 3151,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "VII - VI",
+      "length": 3199,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "VII - VII: Voices",
+      "length": 2249,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "VII - VIII",
+      "length": 7737,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "VII - IX",
+      "length": 3961,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "VII - X",
+      "length": 7097,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "VII - XI",
+      "length": 4235,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "VII - XII",
+      "length": 1400,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "VII - XIII",
+      "length": 2435,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "VIII - I",
+      "length": 496,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "VIII - II",
+      "length": 3826,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "VIII - III",
+      "length": 1168,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "VIII - IV",
+      "length": 1969,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "VIII - V",
+      "length": 1467,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "VIII - VI",
+      "length": 199,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "VIII - VII",
+      "length": 10430,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "VIII - VIII",
+      "length": 4099,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "IX - I",
+      "length": 5577,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "IX - II",
+      "length": 1803,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "IX - III",
+      "length": 1897,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "IX - IV",
+      "length": 1313,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "IX - V",
+      "length": 13194,
+      "mode": "type"
+    },
+    {
+      "id": "084",
+      "title": "IX - VI",
+      "length": 11175,
+      "mode": "type"
+    },
+    {
+      "id": "085",
+      "title": "IX - VII",
+      "length": 246,
+      "mode": "type"
+    },
+    {
+      "id": "086",
+      "title": "IX - VIII",
+      "length": 6866,
+      "mode": "type"
+    },
+    {
+      "id": "087",
+      "title": "Colophon",
+      "length": 1085,
+      "mode": "hide"
+    },
+    {
+      "id": "088",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL82927W",
+  "goodreadsId": "432324",
+  "rating": 0.6799999999999999,
+  "popularity": 1747,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490258829
+}

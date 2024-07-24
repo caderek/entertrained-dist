@@ -1,1 +1,238 @@
-{"id":"john-dewey--human-nature-and-conduct","title":"Human Nature and Conduct","titleAlpha":"human nature and conduct","author":"John Dewey","language":"en","description":"Dewey applies the theory of pragmatism to morality, reason, and society.","longDescription":["Delivered as a series of lectures at Stanford University in the spring of 1918, the pragmatist John Dewey introduces a theory of morals that draws upon the observation that social environment plays a prominent role in the development of human thought and society.","Dewey takes issue with the then-popular religious view that morality is an internal quality that can be separated from personal conduct and its effects on society. But, in classic pragmatic tradition, he also takes issue with the opposite extreme viewpoint: that observable outcomes are the only way to judge human conduct - or in other words, that \"the end justifies the means.\" Mechanically following instructions to produce a desired outcome misses something vitally human. These extreme views can be reconciled with the claim that while concrete material ends are important, the separation from intention is artificial.","There is a constant evolution of the material environment, which leads to an evolution in the psychological environment and new desires. A society creates an environment, and this environment creates new feelings which lead to new customs and a new society. Thus, in a very real sense we are all connected to everyone else, not through feelings but though actions and their impacts - whether intentional, or much more often, unintentional and unobserved. This motivates us to take much more responsibility for our actions than their immediately observable effects.","Dewey maintains that understanding how society, habits, impulses, and customs co-exist and evolve is the challenge for anyone who wants to create a fairer society. There may be ways to control these various factors to create that society, but those controls will not be static and must be updated based on observation. Touching upon his work in Democracy and Education he stresses again the importance of education in shaping how society functions."],"year":1921,"genres":["classics","nonfiction","philosophy","psychological"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct"},"openlibraryId":"OL111354W","goodreadsId":"159688","rating":0.774,"popularity":301,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Human Nature and Conduct","length":15,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Preface","length":1389,"mode":"skip"},{"id":"004","title":"Introduction","length":19278,"mode":"type"},{"id":"005","title":"Part I: The Place of Habit in Conduct - I: Habits as Social Functions","length":13873,"mode":"type"},{"id":"006","title":"Part I: The Place of Habit in Conduct - II: Habits and Will","length":28734,"mode":"type"},{"id":"007","title":"Part I: The Place of Habit in Conduct - III: Character and Conduct","length":22480,"mode":"type"},{"id":"008","title":"Part I: The Place of Habit in Conduct - IV: Custom and Habit","length":24904,"mode":"type"},{"id":"009","title":"Part I: The Place of Habit in Conduct - V: Custom and Morality","length":13763,"mode":"type"},{"id":"010","title":"Part I: The Place of Habit in Conduct - VI: Habit and Social Psychology","length":6104,"mode":"type"},{"id":"011","title":"Part II: The Place of Impulse in Conduct - I: Impulses and Change of Habit","length":8911,"mode":"type"},{"id":"012","title":"Part II: The Place of Impulse in Conduct - II: Plasticity of Impulse","length":15846,"mode":"type"},{"id":"013","title":"Part II: The Place of Impulse in Conduct - III: Changing Human Nature","length":29205,"mode":"type"},{"id":"014","title":"Part II: The Place of Impulse in Conduct - IV: Impulse and Conflict of Habits","length":9017,"mode":"type"},{"id":"015","title":"Part II: The Place of Impulse in Conduct - V: Classification of Instincts","length":27505,"mode":"type"},{"id":"016","title":"Part II: The Place of Impulse in Conduct - VI: No Separate Instincts","length":30337,"mode":"type"},{"id":"017","title":"Part II: The Place of Impulse in Conduct - VII: Impulse and Thought","length":3876,"mode":"type"},{"id":"018","title":"Part III: The Place of Intelligence in Conduct - I: Habit and Intelligence","length":13022,"mode":"type"},{"id":"019","title":"Part III: The Place of Intelligence in Conduct - II: The Psychology of Thinking","length":11714,"mode":"type"},{"id":"020","title":"Part III: The Place of Intelligence in Conduct - III: The Nature of Deliberation","length":15304,"mode":"type"},{"id":"021","title":"Part III: The Place of Intelligence in Conduct - IV: Deliberation and Calculation","length":15740,"mode":"type"},{"id":"022","title":"Part III: The Place of Intelligence in Conduct - V: The Uniqueness of Good","length":19370,"mode":"type"},{"id":"023","title":"Part III: The Place of Intelligence in Conduct - VI: The Nature of Aims","length":22936,"mode":"type"},{"id":"024","title":"Part III: The Place of Intelligence in Conduct - VII: The Nature of Principles","length":15139,"mode":"type"},{"id":"025","title":"Part III: The Place of Intelligence in Conduct - VIII: Desire and Intelligence","length":26118,"mode":"type"},{"id":"026","title":"Part III: The Place of Intelligence in Conduct - IX: The Present and Future","length":19786,"mode":"type"},{"id":"027","title":"Part IV: Conclusion - I: The Good of Activity","length":25417,"mode":"type"},{"id":"028","title":"Part IV: Conclusion - II: Morals Are Human","length":11020,"mode":"type"},{"id":"029","title":"Part IV: Conclusion - III: What Is Freedom?","length":16264,"mode":"type"},{"id":"030","title":"Part IV: Conclusion - IV: Morality Is Social","length":28286,"mode":"type"},{"id":"031","title":"Endnotes","length":3600,"mode":"hide"},{"id":"032","title":"Colophon","length":1067,"mode":"hide"},{"id":"033","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337977898}
+{
+  "id": "john-dewey--human-nature-and-conduct",
+  "title": "Human Nature and Conduct",
+  "titleAlpha": "human nature and conduct",
+  "author": "John Dewey",
+  "language": "en",
+  "description": "Dewey applies the theory of pragmatism to morality, reason, and society.",
+  "longDescription": [
+    "Delivered as a series of lectures at Stanford University in the spring of 1918, the pragmatist John Dewey introduces a theory of morals that draws upon the observation that social environment plays a prominent role in the development of human thought and society.",
+    "Dewey takes issue with the then-popular religious view that morality is an internal quality that can be separated from personal conduct and its effects on society. But, in classic pragmatic tradition, he also takes issue with the opposite extreme viewpoint: that observable outcomes are the only way to judge human conduct - or in other words, that \"the end justifies the means.\" Mechanically following instructions to produce a desired outcome misses something vitally human. These extreme views can be reconciled with the claim that while concrete material ends are important, the separation from intention is artificial.",
+    "There is a constant evolution of the material environment, which leads to an evolution in the psychological environment and new desires. A society creates an environment, and this environment creates new feelings which lead to new customs and a new society. Thus, in a very real sense we are all connected to everyone else, not through feelings but though actions and their impacts - whether intentional, or much more often, unintentional and unobserved. This motivates us to take much more responsibility for our actions than their immediately observable effects.",
+    "Dewey maintains that understanding how society, habits, impulses, and customs co-exist and evolve is the challenge for anyone who wants to create a fairer society. There may be ways to control these various factors to create that society, but those controls will not be static and must be updated based on observation. Touching upon his work in Democracy and Education he stresses again the importance of education in shaping how society functions."
+  ],
+  "year": 1921,
+  "genres": [
+    "classics",
+    "nonfiction",
+    "philosophy",
+    "psychological"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Human Nature and Conduct",
+      "length": 15,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Preface",
+      "length": 1389,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Introduction",
+      "length": 19278,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Part I: The Place of Habit in Conduct - I: Habits as Social Functions",
+      "length": 13873,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Part I: The Place of Habit in Conduct - II: Habits and Will",
+      "length": 28734,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Part I: The Place of Habit in Conduct - III: Character and Conduct",
+      "length": 22480,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Part I: The Place of Habit in Conduct - IV: Custom and Habit",
+      "length": 24904,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Part I: The Place of Habit in Conduct - V: Custom and Morality",
+      "length": 13763,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Part I: The Place of Habit in Conduct - VI: Habit and Social Psychology",
+      "length": 6104,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Part II: The Place of Impulse in Conduct - I: Impulses and Change of Habit",
+      "length": 8911,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Part II: The Place of Impulse in Conduct - II: Plasticity of Impulse",
+      "length": 15846,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Part II: The Place of Impulse in Conduct - III: Changing Human Nature",
+      "length": 29205,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Part II: The Place of Impulse in Conduct - IV: Impulse and Conflict of Habits",
+      "length": 9017,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Part II: The Place of Impulse in Conduct - V: Classification of Instincts",
+      "length": 27505,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Part II: The Place of Impulse in Conduct - VI: No Separate Instincts",
+      "length": 30337,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Part II: The Place of Impulse in Conduct - VII: Impulse and Thought",
+      "length": 3876,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Part III: The Place of Intelligence in Conduct - I: Habit and Intelligence",
+      "length": 13022,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Part III: The Place of Intelligence in Conduct - II: The Psychology of Thinking",
+      "length": 11714,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Part III: The Place of Intelligence in Conduct - III: The Nature of Deliberation",
+      "length": 15304,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Part III: The Place of Intelligence in Conduct - IV: Deliberation and Calculation",
+      "length": 15740,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Part III: The Place of Intelligence in Conduct - V: The Uniqueness of Good",
+      "length": 19370,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Part III: The Place of Intelligence in Conduct - VI: The Nature of Aims",
+      "length": 22936,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Part III: The Place of Intelligence in Conduct - VII: The Nature of Principles",
+      "length": 15139,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Part III: The Place of Intelligence in Conduct - VIII: Desire and Intelligence",
+      "length": 26118,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Part III: The Place of Intelligence in Conduct - IX: The Present and Future",
+      "length": 19786,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Part IV: Conclusion - I: The Good of Activity",
+      "length": 25417,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Part IV: Conclusion - II: Morals Are Human",
+      "length": 11020,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Part IV: Conclusion - III: What Is Freedom?",
+      "length": 16264,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Part IV: Conclusion - IV: Morality Is Social",
+      "length": 28286,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Endnotes",
+      "length": 3600,
+      "mode": "hide"
+    },
+    {
+      "id": "032",
+      "title": "Colophon",
+      "length": 1067,
+      "mode": "hide"
+    },
+    {
+      "id": "033",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL111354W",
+  "goodreadsId": "159688",
+  "rating": 0.774,
+  "popularity": 301,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489846566
+}

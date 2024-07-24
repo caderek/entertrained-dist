@@ -1,1 +1,747 @@
-{"id":"giovanni-boccaccio--the-decameron","title":"The Decameron","titleAlpha":"decameron","author":"Giovanni Boccaccio","language":"en","description":"Seven women and three men each tell a story a day for ten days while sheltering to avoid the black plague.","longDescription":["In the time of a devastating pandemic, seven women and three men withdraw to a country estate outside Florence to give themselves a diversion from the death around them. Once there, they decide to spend some time each day telling stories, each of the ten to tell one story each day. They do this for ten days, with a few other days of rest in between, resulting in the 100 stories of the Decameron.","The Decameron was written after the Black Plague spread through Italy in 1348. Most of the tales did not originate with Boccaccio; some of them were centuries old already in his time, but Boccaccio imbued them all with his distinctive style. The stories run the gamut from tragedy to comedy, from lewd to inspiring, and sometimes all of those at once. They also provide a detailed picture of daily life in fourteenth-century Italy."],"year":1349,"genres":["classics","fiction","history"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/giovanni-boccaccio/the-decameron/john-payne"},"openlibraryId":"OL7180368W","goodreadsId":"51808","rating":0.776,"popularity":40396,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Decameron","length":49,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Proem","length":5938,"mode":"type"},{"id":"004","title":"Day the First - Day the First Introduction","length":42346,"mode":"type"},{"id":"005","title":"Day the First - The First Story","length":27567,"mode":"type"},{"id":"006","title":"Day the First - The Second Story","length":9324,"mode":"type"},{"id":"007","title":"Day the First - The Third Story","length":5987,"mode":"type"},{"id":"008","title":"Day the First - The Fourth Story","length":8031,"mode":"type"},{"id":"009","title":"Day the First - The Fifth Story","length":6141,"mode":"type"},{"id":"010","title":"Day the First - The Sixth Story","length":5419,"mode":"type"},{"id":"011","title":"Day the First - The Seventh Story","length":9832,"mode":"type"},{"id":"012","title":"Day the First - The Eighth Story","length":5177,"mode":"type"},{"id":"013","title":"Day the First - The Ninth Story","length":2382,"mode":"type"},{"id":"014","title":"Day the First - The Tenth Story","length":13754,"mode":"type"},{"id":"015","title":"Day the Second - Day the Second Introduction","length":1220,"mode":"type"},{"id":"016","title":"Day the Second - The First Story","length":10216,"mode":"type"},{"id":"017","title":"Day the Second - The Second Story","length":13440,"mode":"type"},{"id":"018","title":"Day the Second - The Third Story","length":18727,"mode":"type"},{"id":"019","title":"Day the Second - The Fourth Story","length":11249,"mode":"type"},{"id":"020","title":"Day the Second - The Fifth Story","length":27274,"mode":"type"},{"id":"021","title":"Day the Second - The Sixth Story","length":29241,"mode":"type"},{"id":"022","title":"Day the Second - The Seventh Story","length":46740,"mode":"type"},{"id":"023","title":"Day the Second - The Eighth Story","length":33954,"mode":"type"},{"id":"024","title":"Day the Second - The Ninth Story","length":27709,"mode":"type"},{"id":"025","title":"Day the Second - The Tenth Story","length":20673,"mode":"type"},{"id":"026","title":"Day the Third - Day the Third Introduction","length":6959,"mode":"type"},{"id":"027","title":"Day the Third - The First Story","length":13992,"mode":"type"},{"id":"028","title":"Day the Third - The Second Story","length":11085,"mode":"type"},{"id":"029","title":"Day the Third - The Third Story","length":19985,"mode":"type"},{"id":"030","title":"Day the Third - The Fourth Story","length":11029,"mode":"type"},{"id":"031","title":"Day the Third - The Fifth Story","length":12382,"mode":"type"},{"id":"032","title":"Day the Third - The Sixth Story","length":18043,"mode":"type"},{"id":"033","title":"Day the Third - The Seventh Story","length":35536,"mode":"type"},{"id":"034","title":"Day the Third - The Eighth Story","length":20592,"mode":"type"},{"id":"035","title":"Day the Third - The Ninth Story","length":20180,"mode":"type"},{"id":"036","title":"Day the Third - The Tenth Story","length":16647,"mode":"type"},{"id":"037","title":"Day the Fourth - Day the Fourth Introduction","length":14937,"mode":"type"},{"id":"038","title":"Day the Fourth - The First Story","length":22137,"mode":"type"},{"id":"039","title":"Day the Fourth - The Second Story","length":20629,"mode":"type"},{"id":"040","title":"Day the Fourth - The Third Story","length":14934,"mode":"type"},{"id":"041","title":"Day the Fourth - The Fourth Story","length":10755,"mode":"type"},{"id":"042","title":"Day the Fourth - The Fifth Story","length":8123,"mode":"type"},{"id":"043","title":"Day the Fourth - The Sixth Story","length":15599,"mode":"type"},{"id":"044","title":"Day the Fourth - The Seventh Story","length":8765,"mode":"type"},{"id":"045","title":"Day the Fourth - The Eighth Story","length":11707,"mode":"type"},{"id":"046","title":"Day the Fourth - The Ninth Story","length":7326,"mode":"type"},{"id":"047","title":"Day the Fourth - The Tenth Story","length":25039,"mode":"type"},{"id":"048","title":"Day the Fifth - Day the Fifth Introduction","length":1873,"mode":"type"},{"id":"049","title":"Day the Fifth - The First Story","length":24089,"mode":"type"},{"id":"050","title":"Day the Fifth - The Second Story","length":13448,"mode":"type"},{"id":"051","title":"Day the Fifth - The Third Story","length":15224,"mode":"type"},{"id":"052","title":"Day the Fifth - The Fourth Story","length":11219,"mode":"type"},{"id":"053","title":"Day the Fifth - The Fifth Story","length":12255,"mode":"type"},{"id":"054","title":"Day the Fifth - The Sixth Story","length":12108,"mode":"type"},{"id":"055","title":"Day the Fifth - The Seventh Story","length":15361,"mode":"type"},{"id":"056","title":"Day the Fifth - The Eighth Story","length":12629,"mode":"type"},{"id":"057","title":"Day the Fifth - The Ninth Story","length":13538,"mode":"type"},{"id":"058","title":"Day the Fifth - The Tenth Story","length":22915,"mode":"type"},{"id":"059","title":"Day the Sixth - Day the Sixth Introduction","length":4851,"mode":"type"},{"id":"060","title":"Day the Sixth - The First Story","length":3303,"mode":"type"},{"id":"061","title":"Day the Sixth - The Second Story","length":7323,"mode":"type"},{"id":"062","title":"Day the Sixth - The Third Story","length":3824,"mode":"type"},{"id":"063","title":"Day the Sixth - The Fourth Story","length":5037,"mode":"type"},{"id":"064","title":"Day the Sixth - The Fifth Story","length":4276,"mode":"type"},{"id":"065","title":"Day the Sixth - The Sixth Story","length":4629,"mode":"type"},{"id":"066","title":"Day the Sixth - The Seventh Story","length":5786,"mode":"type"},{"id":"067","title":"Day the Sixth - The Eighth Story","length":3080,"mode":"type"},{"id":"068","title":"Day the Sixth - The Ninth Story","length":4763,"mode":"type"},{"id":"069","title":"Day the Sixth - The Tenth Story","length":30173,"mode":"type"},{"id":"070","title":"Day the Seventh - Day the Seventh Introduction","length":2754,"mode":"type"},{"id":"071","title":"Day the Seventh - The First Story","length":9433,"mode":"type"},{"id":"072","title":"Day the Seventh - The Second Story","length":9255,"mode":"type"},{"id":"073","title":"Day the Seventh - The Third Story","length":11188,"mode":"type"},{"id":"074","title":"Day the Seventh - The Fourth Story","length":9106,"mode":"type"},{"id":"075","title":"Day the Seventh - The Fifth Story","length":17177,"mode":"type"},{"id":"076","title":"Day the Seventh - The Sixth Story","length":7952,"mode":"type"},{"id":"077","title":"Day the Seventh - The Seventh Story","length":12568,"mode":"type"},{"id":"078","title":"Day the Seventh - The Eighth Story","length":16613,"mode":"type"},{"id":"079","title":"Day the Seventh - The Ninth Story","length":22733,"mode":"type"},{"id":"080","title":"Day the Seventh - The Tenth Story","length":13337,"mode":"type"},{"id":"081","title":"Day the Eighth - Day the Eighth Introduction","length":908,"mode":"type"},{"id":"082","title":"Day the Eighth - The First Story","length":5966,"mode":"type"},{"id":"083","title":"Day the Eighth - The Second Story","length":11272,"mode":"type"},{"id":"084","title":"Day the Eighth - The Third Story","length":17693,"mode":"type"},{"id":"085","title":"Day the Eighth - The Fourth Story","length":10989,"mode":"type"},{"id":"086","title":"Day the Eighth - The Fifth Story","length":6789,"mode":"type"},{"id":"087","title":"Day the Eighth - The Sixth Story","length":12756,"mode":"type"},{"id":"088","title":"Day the Eighth - The Seventh Story","length":51349,"mode":"type"},{"id":"089","title":"Day the Eighth - The Eighth Story","length":8847,"mode":"type"},{"id":"090","title":"Day the Eighth - The Ninth Story","length":35276,"mode":"type"},{"id":"091","title":"Day the Eighth - The Tenth Story","length":29664,"mode":"type"},{"id":"092","title":"Day the Ninth - Day the Ninth Introduction","length":2176,"mode":"type"},{"id":"093","title":"Day the Ninth - The First Story","length":12402,"mode":"type"},{"id":"094","title":"Day the Ninth - The Second Story","length":6605,"mode":"type"},{"id":"095","title":"Day the Ninth - The Third Story","length":8901,"mode":"type"},{"id":"096","title":"Day the Ninth - The Fourth Story","length":8959,"mode":"type"},{"id":"097","title":"Day the Ninth - The Fifth Story","length":17418,"mode":"type"},{"id":"098","title":"Day the Ninth - The Sixth Story","length":10332,"mode":"type"},{"id":"099","title":"Day the Ninth - The Seventh Story","length":4466,"mode":"type"},{"id":"100","title":"Day the Ninth - The Eighth Story","length":7503,"mode":"type"},{"id":"101","title":"Day the Ninth - The Ninth Story","length":11077,"mode":"type"},{"id":"102","title":"Day the Ninth - The Tenth Story","length":11704,"mode":"type"},{"id":"103","title":"Day the Tenth - Day the Tenth Introduction","length":1195,"mode":"type"},{"id":"104","title":"Day the Tenth - The First Story","length":6419,"mode":"type"},{"id":"105","title":"Day the Tenth - The Second Story","length":10350,"mode":"type"},{"id":"106","title":"Day the Tenth - The Third Story","length":14660,"mode":"type"},{"id":"107","title":"Day the Tenth - The Fourth Story","length":15662,"mode":"type"},{"id":"108","title":"Day the Tenth - The Fifth Story","length":9976,"mode":"type"},{"id":"109","title":"Day the Tenth - The Sixth Story","length":13337,"mode":"type"},{"id":"110","title":"Day the Tenth - The Seventh Story","length":15121,"mode":"type"},{"id":"111","title":"Day the Tenth - The Eighth Story","length":39942,"mode":"type"},{"id":"112","title":"Day the Tenth - The Ninth Story","length":38678,"mode":"type"},{"id":"113","title":"Day the Tenth - The Tenth Story","length":29402,"mode":"type"},{"id":"114","title":"Conclusion of the Author","length":10162,"mode":"type"},{"id":"115","title":"Endnotes","length":56076,"mode":"hide"},{"id":"116","title":"Glossary","length":498,"mode":"type"},{"id":"117","title":"Colophon","length":1160,"mode":"hide"},{"id":"118","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337824260}
+{
+  "id": "giovanni-boccaccio--the-decameron",
+  "title": "The Decameron",
+  "titleAlpha": "decameron",
+  "author": "Giovanni Boccaccio",
+  "language": "en",
+  "description": "Seven women and three men each tell a story a day for ten days while sheltering to avoid the black plague.",
+  "longDescription": [
+    "In the time of a devastating pandemic, seven women and three men withdraw to a country estate outside Florence to give themselves a diversion from the death around them. Once there, they decide to spend some time each day telling stories, each of the ten to tell one story each day. They do this for ten days, with a few other days of rest in between, resulting in the 100 stories of the Decameron.",
+    "The Decameron was written after the Black Plague spread through Italy in 1348. Most of the tales did not originate with Boccaccio; some of them were centuries old already in his time, but Boccaccio imbued them all with his distinctive style. The stories run the gamut from tragedy to comedy, from lewd to inspiring, and sometimes all of those at once. They also provide a detailed picture of daily life in fourteenth-century Italy."
+  ],
+  "year": 1349,
+  "genres": [
+    "classics",
+    "fiction",
+    "shorts"
+  ],
+  "topics": [
+    "medieval"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/giovanni-boccaccio/the-decameron/john-payne"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Decameron",
+      "length": 49,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Proem",
+      "length": 5938,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Day the First - Day the First Introduction",
+      "length": 42346,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Day the First - The First Story",
+      "length": 27567,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Day the First - The Second Story",
+      "length": 9324,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Day the First - The Third Story",
+      "length": 5987,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Day the First - The Fourth Story",
+      "length": 8031,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Day the First - The Fifth Story",
+      "length": 6141,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Day the First - The Sixth Story",
+      "length": 5419,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Day the First - The Seventh Story",
+      "length": 9832,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Day the First - The Eighth Story",
+      "length": 5177,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Day the First - The Ninth Story",
+      "length": 2382,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Day the First - The Tenth Story",
+      "length": 13754,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Day the Second - Day the Second Introduction",
+      "length": 1220,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Day the Second - The First Story",
+      "length": 10216,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Day the Second - The Second Story",
+      "length": 13440,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Day the Second - The Third Story",
+      "length": 18727,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Day the Second - The Fourth Story",
+      "length": 11249,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Day the Second - The Fifth Story",
+      "length": 27274,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Day the Second - The Sixth Story",
+      "length": 29241,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Day the Second - The Seventh Story",
+      "length": 46740,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Day the Second - The Eighth Story",
+      "length": 33954,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Day the Second - The Ninth Story",
+      "length": 27709,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Day the Second - The Tenth Story",
+      "length": 20673,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Day the Third - Day the Third Introduction",
+      "length": 6959,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Day the Third - The First Story",
+      "length": 13992,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Day the Third - The Second Story",
+      "length": 11085,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Day the Third - The Third Story",
+      "length": 19985,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Day the Third - The Fourth Story",
+      "length": 11029,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Day the Third - The Fifth Story",
+      "length": 12382,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Day the Third - The Sixth Story",
+      "length": 18043,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Day the Third - The Seventh Story",
+      "length": 35536,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Day the Third - The Eighth Story",
+      "length": 20592,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Day the Third - The Ninth Story",
+      "length": 20180,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Day the Third - The Tenth Story",
+      "length": 16647,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Day the Fourth - Day the Fourth Introduction",
+      "length": 14937,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Day the Fourth - The First Story",
+      "length": 22137,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Day the Fourth - The Second Story",
+      "length": 20629,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Day the Fourth - The Third Story",
+      "length": 14934,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Day the Fourth - The Fourth Story",
+      "length": 10755,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Day the Fourth - The Fifth Story",
+      "length": 8123,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Day the Fourth - The Sixth Story",
+      "length": 15599,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Day the Fourth - The Seventh Story",
+      "length": 8765,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Day the Fourth - The Eighth Story",
+      "length": 11707,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Day the Fourth - The Ninth Story",
+      "length": 7326,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Day the Fourth - The Tenth Story",
+      "length": 25039,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Day the Fifth - Day the Fifth Introduction",
+      "length": 1873,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "Day the Fifth - The First Story",
+      "length": 24089,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Day the Fifth - The Second Story",
+      "length": 13448,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "Day the Fifth - The Third Story",
+      "length": 15224,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "Day the Fifth - The Fourth Story",
+      "length": 11219,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "Day the Fifth - The Fifth Story",
+      "length": 12255,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "Day the Fifth - The Sixth Story",
+      "length": 12108,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "Day the Fifth - The Seventh Story",
+      "length": 15361,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "Day the Fifth - The Eighth Story",
+      "length": 12629,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "Day the Fifth - The Ninth Story",
+      "length": 13538,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "Day the Fifth - The Tenth Story",
+      "length": 22915,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "Day the Sixth - Day the Sixth Introduction",
+      "length": 4851,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "Day the Sixth - The First Story",
+      "length": 3303,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "Day the Sixth - The Second Story",
+      "length": 7323,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "Day the Sixth - The Third Story",
+      "length": 3824,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "Day the Sixth - The Fourth Story",
+      "length": 5037,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "Day the Sixth - The Fifth Story",
+      "length": 4276,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "Day the Sixth - The Sixth Story",
+      "length": 4629,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "Day the Sixth - The Seventh Story",
+      "length": 5786,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "Day the Sixth - The Eighth Story",
+      "length": 3080,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "Day the Sixth - The Ninth Story",
+      "length": 4763,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "Day the Sixth - The Tenth Story",
+      "length": 30173,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "Day the Seventh - Day the Seventh Introduction",
+      "length": 2754,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "Day the Seventh - The First Story",
+      "length": 9433,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "Day the Seventh - The Second Story",
+      "length": 9255,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "Day the Seventh - The Third Story",
+      "length": 11188,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "Day the Seventh - The Fourth Story",
+      "length": 9106,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "Day the Seventh - The Fifth Story",
+      "length": 17177,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "Day the Seventh - The Sixth Story",
+      "length": 7952,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "Day the Seventh - The Seventh Story",
+      "length": 12568,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "Day the Seventh - The Eighth Story",
+      "length": 16613,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "Day the Seventh - The Ninth Story",
+      "length": 22733,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "Day the Seventh - The Tenth Story",
+      "length": 13337,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "Day the Eighth - Day the Eighth Introduction",
+      "length": 908,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "Day the Eighth - The First Story",
+      "length": 5966,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "Day the Eighth - The Second Story",
+      "length": 11272,
+      "mode": "type"
+    },
+    {
+      "id": "084",
+      "title": "Day the Eighth - The Third Story",
+      "length": 17693,
+      "mode": "type"
+    },
+    {
+      "id": "085",
+      "title": "Day the Eighth - The Fourth Story",
+      "length": 10989,
+      "mode": "type"
+    },
+    {
+      "id": "086",
+      "title": "Day the Eighth - The Fifth Story",
+      "length": 6789,
+      "mode": "type"
+    },
+    {
+      "id": "087",
+      "title": "Day the Eighth - The Sixth Story",
+      "length": 12756,
+      "mode": "type"
+    },
+    {
+      "id": "088",
+      "title": "Day the Eighth - The Seventh Story",
+      "length": 51349,
+      "mode": "type"
+    },
+    {
+      "id": "089",
+      "title": "Day the Eighth - The Eighth Story",
+      "length": 8847,
+      "mode": "type"
+    },
+    {
+      "id": "090",
+      "title": "Day the Eighth - The Ninth Story",
+      "length": 35276,
+      "mode": "type"
+    },
+    {
+      "id": "091",
+      "title": "Day the Eighth - The Tenth Story",
+      "length": 29664,
+      "mode": "type"
+    },
+    {
+      "id": "092",
+      "title": "Day the Ninth - Day the Ninth Introduction",
+      "length": 2176,
+      "mode": "type"
+    },
+    {
+      "id": "093",
+      "title": "Day the Ninth - The First Story",
+      "length": 12402,
+      "mode": "type"
+    },
+    {
+      "id": "094",
+      "title": "Day the Ninth - The Second Story",
+      "length": 6605,
+      "mode": "type"
+    },
+    {
+      "id": "095",
+      "title": "Day the Ninth - The Third Story",
+      "length": 8901,
+      "mode": "type"
+    },
+    {
+      "id": "096",
+      "title": "Day the Ninth - The Fourth Story",
+      "length": 8959,
+      "mode": "type"
+    },
+    {
+      "id": "097",
+      "title": "Day the Ninth - The Fifth Story",
+      "length": 17418,
+      "mode": "type"
+    },
+    {
+      "id": "098",
+      "title": "Day the Ninth - The Sixth Story",
+      "length": 10332,
+      "mode": "type"
+    },
+    {
+      "id": "099",
+      "title": "Day the Ninth - The Seventh Story",
+      "length": 4466,
+      "mode": "type"
+    },
+    {
+      "id": "100",
+      "title": "Day the Ninth - The Eighth Story",
+      "length": 7503,
+      "mode": "type"
+    },
+    {
+      "id": "101",
+      "title": "Day the Ninth - The Ninth Story",
+      "length": 11077,
+      "mode": "type"
+    },
+    {
+      "id": "102",
+      "title": "Day the Ninth - The Tenth Story",
+      "length": 11704,
+      "mode": "type"
+    },
+    {
+      "id": "103",
+      "title": "Day the Tenth - Day the Tenth Introduction",
+      "length": 1195,
+      "mode": "type"
+    },
+    {
+      "id": "104",
+      "title": "Day the Tenth - The First Story",
+      "length": 6419,
+      "mode": "type"
+    },
+    {
+      "id": "105",
+      "title": "Day the Tenth - The Second Story",
+      "length": 10350,
+      "mode": "type"
+    },
+    {
+      "id": "106",
+      "title": "Day the Tenth - The Third Story",
+      "length": 14660,
+      "mode": "type"
+    },
+    {
+      "id": "107",
+      "title": "Day the Tenth - The Fourth Story",
+      "length": 15662,
+      "mode": "type"
+    },
+    {
+      "id": "108",
+      "title": "Day the Tenth - The Fifth Story",
+      "length": 9976,
+      "mode": "type"
+    },
+    {
+      "id": "109",
+      "title": "Day the Tenth - The Sixth Story",
+      "length": 13337,
+      "mode": "type"
+    },
+    {
+      "id": "110",
+      "title": "Day the Tenth - The Seventh Story",
+      "length": 15121,
+      "mode": "type"
+    },
+    {
+      "id": "111",
+      "title": "Day the Tenth - The Eighth Story",
+      "length": 39942,
+      "mode": "type"
+    },
+    {
+      "id": "112",
+      "title": "Day the Tenth - The Ninth Story",
+      "length": 38678,
+      "mode": "type"
+    },
+    {
+      "id": "113",
+      "title": "Day the Tenth - The Tenth Story",
+      "length": 29402,
+      "mode": "type"
+    },
+    {
+      "id": "114",
+      "title": "Conclusion of the Author",
+      "length": 10162,
+      "mode": "type"
+    },
+    {
+      "id": "115",
+      "title": "Endnotes",
+      "length": 56076,
+      "mode": "hide"
+    },
+    {
+      "id": "116",
+      "title": "Glossary",
+      "length": 498,
+      "mode": "hide"
+    },
+    {
+      "id": "117",
+      "title": "Colophon",
+      "length": 1160,
+      "mode": "hide"
+    },
+    {
+      "id": "118",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL7180368W",
+  "goodreadsId": "51808",
+  "rating": 0.776,
+  "popularity": 40396,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489725430
+}

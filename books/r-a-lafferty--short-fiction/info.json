@@ -1,1 +1,148 @@
-{"id":"r-a-lafferty--short-fiction","title":"Short Fiction","titleAlpha":"short fiction","author":"R. A. Lafferty","language":"en","description":"A collection of science fiction and fantasy stories by R. A. Lafferty ordered by date of publication.","longDescription":["Though often packed into the genre of science fiction, R. A. Lafferty might fit better into a category of the bizarre. Through a blend of folk storytelling, American tall tales, science fiction, and fantasy, all infused with his devout Catholicism, he has created an inimitable, genre-bending, sui generis style.","Lafferty has received many Hugo and Nebula Award nominations and won the Best Short Story Hugo in 1973.","Collected here are all of his public domain short stories, all of which were originally published in science fiction pulp magazines in the 1960s."],"year":null,"genres":["classics","fantasy","fiction","mystery","science-fiction","shorts","travel"],"topics":["aliens","detective","space"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/r-a-lafferty/short-fiction"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Short Fiction","length":19,"mode":"hide"},{"id":"002","title":"Imprint","length":1183,"mode":"hide"},{"id":"003","title":"The Six Fingers of Time","length":51125,"mode":"type"},{"id":"004","title":"McGonigal's Worm","length":16088,"mode":"type"},{"id":"005","title":"The Polite People of Pudibundia","length":17852,"mode":"type"},{"id":"006","title":"In the Garden","length":18007,"mode":"type"},{"id":"007","title":"All the People","length":20364,"mode":"type"},{"id":"008","title":"The Weirdest World - I","length":9706,"mode":"type"},{"id":"009","title":"The Weirdest World - II","length":8152,"mode":"type"},{"id":"010","title":"The Weirdest World - III","length":8266,"mode":"type"},{"id":"011","title":"The Weirdest World - IV","length":4174,"mode":"type"},{"id":"012","title":"Aloys","length":14658,"mode":"type"},{"id":"013","title":"Seven-Day Terror","length":12528,"mode":"type"},{"id":"014","title":"Dream World","length":12800,"mode":"type"},{"id":"015","title":"Sodom and Gomorrah, Texas","length":13507,"mode":"type"},{"id":"016","title":"Colophon","length":1174,"mode":"hide"},{"id":"017","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338177359}
+{
+  "id": "r-a-lafferty--short-fiction",
+  "title": "Short Fiction",
+  "titleAlpha": "short fiction",
+  "author": "R. A. Lafferty",
+  "language": "en",
+  "description": "A collection of science fiction and fantasy stories by R. A. Lafferty ordered by date of publication.",
+  "longDescription": [
+    "Though often packed into the genre of science fiction, R. A. Lafferty might fit better into a category of the bizarre. Through a blend of folk storytelling, American tall tales, science fiction, and fantasy, all infused with his devout Catholicism, he has created an inimitable, genre-bending, sui generis style.",
+    "Lafferty has received many Hugo and Nebula Award nominations and won the Best Short Story Hugo in 1973.",
+    "Collected here are all of his public domain short stories, all of which were originally published in science fiction pulp magazines in the 1960s."
+  ],
+  "year": 2019,
+  "genres": [
+    "classics",
+    "fantasy",
+    "fiction",
+    "mystery",
+    "science-fiction",
+    "shorts",
+    "travel"
+  ],
+  "topics": [
+    "aliens",
+    "detective",
+    "space"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Short Fiction",
+      "length": 19,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1183,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "The Six Fingers of Time",
+      "length": 51125,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "McGonigal's Worm",
+      "length": 16088,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "The Polite People of Pudibundia",
+      "length": 17852,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "In the Garden",
+      "length": 18007,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "All the People",
+      "length": 20364,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "The Weirdest World - I",
+      "length": 9706,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "The Weirdest World - II",
+      "length": 8152,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "The Weirdest World - III",
+      "length": 8266,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "The Weirdest World - IV",
+      "length": 4174,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Aloys",
+      "length": 14658,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Seven-Day Terror",
+      "length": 12528,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Dream World",
+      "length": 12800,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Sodom and Gomorrah, Texas",
+      "length": 13507,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Colophon",
+      "length": 1174,
+      "mode": "hide"
+    },
+    {
+      "id": "017",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL27292262W",
+  "goodreadsId": "42114304",
+  "rating": 0.778,
+  "popularity": 450,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490052662
+}

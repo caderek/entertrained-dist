@@ -1,1 +1,208 @@
-{"id":"robert-louis-stevenson--prince-otto","title":"Prince Otto","titleAlpha":"prince otto","author":"Robert Louis Stevenson","language":"en","description":"A prince who neglects to rule his kingdom finds that he is about to be deposed.","longDescription":["Otto likes to hunt and enjoy life, while leaving the rule of his small kingdom in the hands of his wife and her trusted advisor. He hears talk of socialist revolution in his land, and when he tries to take charge, he finds that it's not so easy to resume his rule. With intrigue and betrayal at every corner, all the players must figure out where they really stand.","Prince Otto was one of Robert Louis Stevenson's earlier works. It didn't have the success of Treasure Island, but it was, according to Stevenson, his hardest effort of any work, before or after."],"year":1885,"genres":["classics","fiction"],"topics":["nobility"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/robert-louis-stevenson/prince-otto"},"openlibraryId":"OL24149W","goodreadsId":"2660090","rating":0.6719999999999999,"popularity":307,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Prince Otto","length":27,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Dedication","length":2515,"mode":"hide"},{"id":"004","title":"Book I: Prince Errant - I: In Which the Prince Departs on an Adventure","length":7115,"mode":"type"},{"id":"005","title":"Book I: Prince Errant - II: In Which the Prince Plays Haroun-al-Raschid","length":17943,"mode":"type"},{"id":"006","title":"Book I: Prince Errant - III: In Which the Prince Comforts Age and Beauty and Delivers a Lecture on Discretion in Love","length":18749,"mode":"type"},{"id":"007","title":"Book I: Prince Errant - IV: In Which the Prince Collects Opinions by the Way","length":22132,"mode":"type"},{"id":"008","title":"Book II: Of Love and Politics - I: What Happened in the Library","length":18730,"mode":"type"},{"id":"009","title":"Book II: Of Love and Politics - II: \"On the Court of Grunewald,\" Being a Portion of the Traveller's Manuscript","length":12215,"mode":"type"},{"id":"010","title":"Book II: Of Love and Politics - III: The Prince and the English Traveller","length":12624,"mode":"type"},{"id":"011","title":"Book II: Of Love and Politics - IV: While the Prince Is in the Anteroom...","length":8890,"mode":"type"},{"id":"012","title":"Book II: Of Love and Politics - V:... Gondremark Is in My Lady's Chamber","length":11956,"mode":"type"},{"id":"013","title":"Book II: Of Love and Politics - VI: The Prince Delivers a Lecture on Marriage, with Practical Illustrations of Divorce","length":15070,"mode":"type"},{"id":"014","title":"Book II: Of Love and Politics - VII: The Prince Dissolves the Council","length":15979,"mode":"type"},{"id":"015","title":"Book II: Of Love and Politics - VIII: The Party of War Takes Action","length":11702,"mode":"type"},{"id":"016","title":"Book II: Of Love and Politics - IX: The Price of the River Farm; in Which Vainglory Goes Before a Fall","length":20186,"mode":"type"},{"id":"017","title":"Book II: Of Love and Politics - X: Gotthold's Revised Opinion; and the Fall Completed","length":14926,"mode":"type"},{"id":"018","title":"Book II: Of Love and Politics - XI: Providence von Rosen: Act the First - She Beguiles the Baron","length":10612,"mode":"type"},{"id":"019","title":"Book II: Of Love and Politics - XII: Providence von Rosen: Act the Second - She Informs the Prince","length":18005,"mode":"type"},{"id":"020","title":"Book II: Of Love and Politics - XIII: Providence von Rosen: Act the Third - She Enlightens Seraphina","length":11943,"mode":"type"},{"id":"021","title":"Book II: Of Love and Politics - XIV: Relates the Cause and Outbreak of the Revolution","length":17795,"mode":"type"},{"id":"022","title":"Book III: Fortunate Misfortune - I: Princess Cinderella","length":31074,"mode":"type"},{"id":"023","title":"Book III: Fortunate Misfortune - II: Treats of a Christian Virtue","length":9659,"mode":"type"},{"id":"024","title":"Book III: Fortunate Misfortune - III: Providence von Rosen: Act the Last - In Which She Gallops Off","length":14906,"mode":"type"},{"id":"025","title":"Book III: Fortunate Misfortune - IV: Babes in the Wood","length":13280,"mode":"type"},{"id":"026","title":"Bibliographical Postscript to Complete the Story","length":4305,"mode":"type"},{"id":"027","title":"Colophon","length":1012,"mode":"hide"},{"id":"028","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338207122}
+{
+  "id": "robert-louis-stevenson--prince-otto",
+  "title": "Prince Otto",
+  "titleAlpha": "prince otto",
+  "author": "Robert Louis Stevenson",
+  "language": "en",
+  "description": "A prince who neglects to rule his kingdom finds that he is about to be deposed.",
+  "longDescription": [
+    "Otto likes to hunt and enjoy life, while leaving the rule of his small kingdom in the hands of his wife and her trusted advisor. He hears talk of socialist revolution in his land, and when he tries to take charge, he finds that it's not so easy to resume his rule. With intrigue and betrayal at every corner, all the players must figure out where they really stand.",
+    "Prince Otto was one of Robert Louis Stevenson's earlier works. It didn't have the success of Treasure Island, but it was, according to Stevenson, his hardest effort of any work, before or after."
+  ],
+  "year": 1885,
+  "genres": [
+    "classics",
+    "fiction",
+    "adventure"
+  ],
+  "topics": [
+    "nobility",
+    "conspiracy"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/robert-louis-stevenson/prince-otto"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Prince Otto",
+      "length": 27,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 2515,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Book I: Prince Errant - I: In Which the Prince Departs on an Adventure",
+      "length": 7115,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Book I: Prince Errant - II: In Which the Prince Plays Haroun-al-Raschid",
+      "length": 17943,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book I: Prince Errant - III: In Which the Prince Comforts Age and Beauty and Delivers a Lecture on Discretion in Love",
+      "length": 18749,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Book I: Prince Errant - IV: In Which the Prince Collects Opinions by the Way",
+      "length": 22132,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Book II: Of Love and Politics - I: What Happened in the Library",
+      "length": 18730,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book II: Of Love and Politics - II: \"On the Court of Grünewald,\" Being a Portion of the Traveller's Manuscript",
+      "length": 12215,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Book II: Of Love and Politics - III: The Prince and the English Traveller",
+      "length": 12624,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book II: Of Love and Politics - IV: While the Prince Is in the Anteroom...",
+      "length": 8890,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book II: Of Love and Politics - V:... Gondremark Is in My Lady's Chamber",
+      "length": 11955,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book II: Of Love and Politics - VI: The Prince Delivers a Lecture on Marriage, with Practical Illustrations of Divorce",
+      "length": 15070,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book II: Of Love and Politics - VII: The Prince Dissolves the Council",
+      "length": 15979,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book II: Of Love and Politics - VIII: The Party of War Takes Action",
+      "length": 11702,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Book II: Of Love and Politics - IX: The Price of the River Farm; in Which Vainglory Goes Before a Fall",
+      "length": 20186,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book II: Of Love and Politics - X: Gotthold's Revised Opinion; and the Fall Completed",
+      "length": 14926,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book II: Of Love and Politics - XI: Providence von Rosen: Act the First - She Beguiles the Baron",
+      "length": 10612,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Book II: Of Love and Politics - XII: Providence von Rosen: Act the Second - She Informs the Prince",
+      "length": 18005,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Book II: Of Love and Politics - XIII: Providence von Rosen: Act the Third - She Enlightens Seraphina",
+      "length": 11943,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Book II: Of Love and Politics - XIV: Relates the Cause and Outbreak of the Revolution",
+      "length": 17795,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Book III: Fortunate Misfortune - I: Princess Cinderella",
+      "length": 31074,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Book III: Fortunate Misfortune - II: Treats of a Christian Virtue",
+      "length": 9659,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Book III: Fortunate Misfortune - III: Providence von Rosen: Act the Last - In Which She Gallops Off",
+      "length": 14906,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Book III: Fortunate Misfortune - IV: Babes in the Wood",
+      "length": 13280,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Bibliographical Postscript to Complete the Story",
+      "length": 4305,
+      "mode": "skip"
+    },
+    {
+      "id": "027",
+      "title": "Colophon",
+      "length": 1012,
+      "mode": "hide"
+    },
+    {
+      "id": "028",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL24149W",
+  "goodreadsId": "2414796",
+  "rating": 0.67,
+  "popularity": 308,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490080009
+}

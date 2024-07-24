@@ -1,1 +1,357 @@
-{"id":"george-macdonald--lilith","title":"Lilith","titleAlpha":"lilith","author":"George MacDonald","language":"en","description":"After inheriting his ancestral home, a young man discovers another world inside his library and embarks on an allegorical journey.","longDescription":["Lilith, first published in 1895, tells the story of Mr. Vane, the owner of a library that seems to be haunted by a raven - the ghost of the library's former owner. Mr. Vane eventually follows this strange figure through a mirror and into another world, the \"region of seven dimensions.\" There Vane meets a number of characters, including Biblical characters like Adam and his first wife Lilith. Thus begins a battle of good versus evil that reverberates through dimensions. The narrative is heavy with Christian allegory, and MacDonald uses the world to expound on his Christian universalist philosophy while telling a story of life, death and ultimately salvation.","Critics consider Lilith to be one of MacDonald's darker works, but opinion on it is divided. Despite this, some critics praise it for its rich imagery, with scholar Neil Barron claiming that the novel is the \"obvious parent of David Lindsay's A Voyage to Arcturus,\" itself a highly influential work of fantasy."],"year":1895,"genres":["classics","fantasy","fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/george-macdonald/lilith"},"openlibraryId":"OL15437W","goodreadsId":"1690826","rating":0.776,"popularity":6694,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Lilith","length":21,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Epigraph","length":2134,"mode":"skip"},{"id":"004","title":"I: The Library","length":9647,"mode":"type"},{"id":"005","title":"II: The Mirror","length":4312,"mode":"type"},{"id":"006","title":"III: The Raven","length":12329,"mode":"type"},{"id":"007","title":"IV: Somewhere or Nowhere?","length":12373,"mode":"type"},{"id":"008","title":"V: The Old Church","length":4706,"mode":"type"},{"id":"009","title":"VI: The Sexton's Cottage","length":9799,"mode":"type"},{"id":"010","title":"VII: The Cemetery","length":11684,"mode":"type"},{"id":"011","title":"VIII: My Father's Manuscript","length":9636,"mode":"type"},{"id":"012","title":"IX: I Repent","length":9723,"mode":"type"},{"id":"013","title":"X: The Bad Burrow","length":8621,"mode":"type"},{"id":"014","title":"XI: The Evil Wood","length":9063,"mode":"type"},{"id":"015","title":"XII: Friends and Foes","length":6730,"mode":"type"},{"id":"016","title":"XIII: The Little Ones","length":16058,"mode":"type"},{"id":"017","title":"XIV: A Crisis","length":9137,"mode":"type"},{"id":"018","title":"XV: A Strange Hostess","length":18259,"mode":"type"},{"id":"019","title":"XVI: A Gruesome Dance","length":16275,"mode":"type"},{"id":"020","title":"XVII: A Grotesque Tragedy","length":13120,"mode":"type"},{"id":"021","title":"XVIII: Dead or Alive?","length":16619,"mode":"type"},{"id":"022","title":"XIX: The White Leech","length":10147,"mode":"type"},{"id":"023","title":"XX: Gone! - But How?","length":7942,"mode":"type"},{"id":"024","title":"XXI: The Fugitive Mother","length":6494,"mode":"type"},{"id":"025","title":"XXII: Bulika","length":7868,"mode":"type"},{"id":"026","title":"XXIII: A Woman of Bulika","length":4351,"mode":"type"},{"id":"027","title":"XXIV: The White Leopardess","length":6495,"mode":"type"},{"id":"028","title":"XXV: The Princess","length":15073,"mode":"type"},{"id":"029","title":"XXVI: A Battle Royal","length":8159,"mode":"type"},{"id":"030","title":"XXVII: The Silent Fountain","length":6634,"mode":"type"},{"id":"031","title":"XXVIII: I Am Silenced","length":5858,"mode":"type"},{"id":"032","title":"XXIX: The Persian Cat","length":13440,"mode":"type"},{"id":"033","title":"XXX: Adam Explains","length":8790,"mode":"type"},{"id":"034","title":"XXXI: The Sexton's Old Horse","length":9394,"mode":"type"},{"id":"035","title":"XXXII: The Lovers and the Bags","length":10461,"mode":"type"},{"id":"036","title":"XXXIII: Lona's Narrative","length":16070,"mode":"type"},{"id":"037","title":"XXXIV: Preparation","length":11364,"mode":"type"},{"id":"038","title":"XXXV: The Little Ones in Bulika","length":9834,"mode":"type"},{"id":"039","title":"XXXVI: Mother and Daughter","length":8918,"mode":"type"},{"id":"040","title":"XXXVII: The Shadow","length":5455,"mode":"type"},{"id":"041","title":"XXXVIII: To the House of Bitterness","length":15053,"mode":"type"},{"id":"042","title":"XXXIX: That Night","length":22276,"mode":"type"},{"id":"043","title":"XL: The House of Death","length":23480,"mode":"type"},{"id":"044","title":"XLI: I Am Sent","length":7427,"mode":"type"},{"id":"045","title":"XLII: I Sleep the Sleep","length":11061,"mode":"type"},{"id":"046","title":"XLIII: The Dreams That Came","length":16334,"mode":"type"},{"id":"047","title":"XLIV: The Waking","length":9557,"mode":"type"},{"id":"048","title":"XLV: The Journey Home","length":8164,"mode":"type"},{"id":"049","title":"XLVI: The City","length":7584,"mode":"type"},{"id":"050","title":"XLVII: The \"Endless Ending\"","length":2936,"mode":"type"},{"id":"051","title":"Endnotes","length":130,"mode":"hide"},{"id":"052","title":"Colophon","length":1009,"mode":"hide"},{"id":"053","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337816896}
+{
+  "id": "george-macdonald--lilith",
+  "title": "Lilith",
+  "titleAlpha": "lilith",
+  "author": "George MacDonald",
+  "language": "en",
+  "description": "After inheriting his ancestral home, a young man discovers another world inside his library and embarks on an allegorical journey.",
+  "longDescription": [
+    "Lilith, first published in 1895, tells the story of Mr. Vane, the owner of a library that seems to be haunted by a raven - the ghost of the library's former owner. Mr. Vane eventually follows this strange figure through a mirror and into another world, the \"region of seven dimensions.\" There Vane meets a number of characters, including Biblical characters like Adam and his first wife Lilith. Thus begins a battle of good versus evil that reverberates through dimensions. The narrative is heavy with Christian allegory, and MacDonald uses the world to expound on his Christian universalist philosophy while telling a story of life, death and ultimately salvation.",
+    "Critics consider Lilith to be one of MacDonald's darker works, but opinion on it is divided. Despite this, some critics praise it for its rich imagery, with scholar Neil Barron claiming that the novel is the \"obvious parent of David Lindsay's A Voyage to Arcturus,\" itself a highly influential work of fantasy."
+  ],
+  "year": 1895,
+  "genres": [
+    "classics",
+    "fantasy",
+    "fiction"
+  ],
+  "topics": [
+    "religion"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/george-macdonald/lilith"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Lilith",
+      "length": 21,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Epigraph",
+      "length": 2134,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "I: The Library",
+      "length": 9647,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II: The Mirror",
+      "length": 4312,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III: The Raven",
+      "length": 12329,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "IV: Somewhere or Nowhere?",
+      "length": 12373,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "V: The Old Church",
+      "length": 4706,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VI: The Sexton's Cottage",
+      "length": 9799,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VII: The Cemetery",
+      "length": 11684,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VIII: My Father's Manuscript",
+      "length": 9636,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "IX: I Repent",
+      "length": 9723,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "X: The Bad Burrow",
+      "length": 8621,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XI: The Evil Wood",
+      "length": 9063,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XII: Friends and Foes",
+      "length": 6730,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIII: The Little Ones",
+      "length": 16058,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIV: A Crisis",
+      "length": 9137,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XV: A Strange Hostess",
+      "length": 18259,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVI: A Gruesome Dance",
+      "length": 16275,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVII: A Grotesque Tragedy",
+      "length": 13120,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVIII: Dead or Alive?",
+      "length": 16619,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XIX: The White Leech",
+      "length": 10147,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XX: Gone! - But How?",
+      "length": 7942,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXI: The Fugitive Mother",
+      "length": 6494,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXII: Bulika",
+      "length": 7868,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIII: A Woman of Bulika",
+      "length": 4351,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXIV: The White Leopardess",
+      "length": 6495,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXV: The Princess",
+      "length": 15073,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVI: A Battle Royal",
+      "length": 8159,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVII: The Silent Fountain",
+      "length": 6634,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVIII: I Am Silenced",
+      "length": 5858,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXIX: The Persian Cat",
+      "length": 13440,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXX: Adam Explains",
+      "length": 8790,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXXI: The Sexton's Old Horse",
+      "length": 9394,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXII: The Lovers and the Bags",
+      "length": 10461,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXIII: Lona's Narrative",
+      "length": 16070,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXIV: Preparation",
+      "length": 11364,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXV: The Little Ones in Bulika",
+      "length": 9834,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXVI: Mother and Daughter",
+      "length": 8918,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXVII: The Shadow",
+      "length": 5455,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XXXVIII: To the House of Bitterness",
+      "length": 15053,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XXXIX: That Night",
+      "length": 22276,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XL: The House of Death",
+      "length": 23480,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XLI: I Am Sent",
+      "length": 7427,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XLII: I Sleep the Sleep",
+      "length": 11061,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "XLIII: The Dreams That Came",
+      "length": 16334,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "XLIV: The Waking",
+      "length": 9557,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "XLV: The Journey Home",
+      "length": 8164,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "XLVI: The City",
+      "length": 7584,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "XLVII: The \"Endless Ending\"",
+      "length": 2936,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "Endnotes",
+      "length": 130,
+      "mode": "hide"
+    },
+    {
+      "id": "052",
+      "title": "Colophon",
+      "length": 1009,
+      "mode": "hide"
+    },
+    {
+      "id": "053",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL15437W",
+  "goodreadsId": "1690826",
+  "rating": 0.776,
+  "popularity": 6694,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489720910
+}

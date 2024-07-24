@@ -1,1 +1,195 @@
-{"id":"elizabeth-von-arnim--the-enchanted-april","title":"The Enchanted April","titleAlpha":"enchanted april","author":"Elizabeth von Arnim","language":"en","description":"Four women spend a month-long holiday at a medieval Italian castle, where they find themselves renewed and transformed by the beauty around them.","longDescription":["Four strangers, each enchanted by an advertisement addressed \"To Those who Appreciate Wistaria and Sunshine,\" impulsively pool their savings to lease a medieval Italian castle for the month of April. All are deeply dissatisfied with life and in need of escape: awkward Mrs. Wilkins, increasingly resentful of a husband who largely ignores her; proper Mrs. Arbuthnot, whose own marriage seems headed toward estrangement; beautiful and unmarried Lady Caroline Dester, tired of men constantly \"grabbing\" at her; and elderly Mrs. Fisher, widowed and walled off in memories of the past. As they come to know one another, each woman finds herself gradually transformed by the beauty of San Salvatore - a magical place where conflict just might turn to friendship, and even the most soured relationship has a chance of being salvaged.","Later adapted into an Academy Award-nominated film, The Enchanted April was an instant bestseller upon its publication in 1922. It continues to enchant readers today as a lighthearted, often comedic exploration of friendship and romance that is steeped in vibrant, intoxicating descriptions of wistaria and sunshine."],"year":1922,"genres":["classics","fiction","romance"],"topics":["friendship"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/elizabeth-von-arnim/the-enchanted-april"},"openlibraryId":"OL8202750W","goodreadsId":"6619188","rating":0.782,"popularity":32410,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Enchanted April","length":24,"mode":"hide"},{"id":"002","title":"Imprint","length":1194,"mode":"hide"},{"id":"003","title":"I","length":28057,"mode":"type"},{"id":"004","title":"II","length":14663,"mode":"type"},{"id":"005","title":"III","length":19649,"mode":"type"},{"id":"006","title":"IV","length":11323,"mode":"type"},{"id":"007","title":"V","length":18066,"mode":"type"},{"id":"008","title":"VI","length":24392,"mode":"type"},{"id":"009","title":"VII","length":15041,"mode":"type"},{"id":"010","title":"VIII","length":27444,"mode":"type"},{"id":"011","title":"IX","length":19702,"mode":"type"},{"id":"012","title":"X","length":17569,"mode":"type"},{"id":"013","title":"XI","length":15866,"mode":"type"},{"id":"014","title":"XII","length":24479,"mode":"type"},{"id":"015","title":"XIII","length":29656,"mode":"type"},{"id":"016","title":"XIV","length":20854,"mode":"type"},{"id":"017","title":"XV","length":22329,"mode":"type"},{"id":"018","title":"XVI","length":22105,"mode":"type"},{"id":"019","title":"XVII","length":16543,"mode":"type"},{"id":"020","title":"XVIII","length":18493,"mode":"type"},{"id":"021","title":"XIX","length":21167,"mode":"type"},{"id":"022","title":"XX","length":11105,"mode":"type"},{"id":"023","title":"XXI","length":18284,"mode":"type"},{"id":"024","title":"XXII","length":21593,"mode":"type"},{"id":"025","title":"Colophon","length":1091,"mode":"hide"},{"id":"026","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337723489}
+{
+  "id": "elizabeth-von-arnim--the-enchanted-april",
+  "title": "The Enchanted April",
+  "titleAlpha": "enchanted april",
+  "author": "Elizabeth von Arnim",
+  "language": "en",
+  "description": "Four women spend a month-long holiday at a medieval Italian castle, where they find themselves renewed and transformed by the beauty around them.",
+  "longDescription": [
+    "Four strangers, each enchanted by an advertisement addressed \"To Those who Appreciate Wistaria and Sunshine,\" impulsively pool their savings to lease a medieval Italian castle for the month of April. All are deeply dissatisfied with life and in need of escape: awkward Mrs. Wilkins, increasingly resentful of a husband who largely ignores her; proper Mrs. Arbuthnot, whose own marriage seems headed toward estrangement; beautiful and unmarried Lady Caroline Dester, tired of men constantly \"grabbing\" at her; and elderly Mrs. Fisher, widowed and walled off in memories of the past. As they come to know one another, each woman finds herself gradually transformed by the beauty of San Salvatore - a magical place where conflict just might turn to friendship, and even the most soured relationship has a chance of being salvaged.",
+    "Later adapted into an Academy Award-nominated film, The Enchanted April was an instant bestseller upon its publication in 1922. It continues to enchant readers today as a lighthearted, often comedic exploration of friendship and romance that is steeped in vibrant, intoxicating descriptions of wistaria and sunshine."
+  ],
+  "year": 1922,
+  "genres": [
+    "classics",
+    "fiction",
+    "romance"
+  ],
+  "topics": [
+    "friendship"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/elizabeth-von-arnim/the-enchanted-april"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Enchanted April",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I",
+      "length": 28057,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II",
+      "length": 14663,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III",
+      "length": 19649,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV",
+      "length": 11323,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V",
+      "length": 18066,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI",
+      "length": 24392,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII",
+      "length": 15041,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII",
+      "length": 27444,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX",
+      "length": 19702,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X",
+      "length": 17569,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI",
+      "length": 15866,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII",
+      "length": 24479,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII",
+      "length": 29656,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV",
+      "length": 20854,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV",
+      "length": 22329,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI",
+      "length": 22105,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII",
+      "length": 16543,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII",
+      "length": 18493,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX",
+      "length": 21167,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX",
+      "length": 11105,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI",
+      "length": 18284,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII",
+      "length": 21593,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Colophon",
+      "length": 1091,
+      "mode": "hide"
+    },
+    {
+      "id": "026",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL8202750W",
+  "goodreadsId": "6619188",
+  "rating": 0.782,
+  "popularity": 32410,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489635148
+}

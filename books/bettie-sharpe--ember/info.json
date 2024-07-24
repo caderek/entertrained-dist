@@ -1,1 +1,112 @@
-{"id":"bettie-sharpe--ember","title":"Ember","titleAlpha":"ember","author":"Bettie Sharpe","language":"en","description":null,"longDescription":[],"year":101,"genres":["classics"],"topics":[],"rights":null,"publisher":null,"source":null,"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Dedication","length":282,"mode":"hide"},{"id":"002","title":"1. The Witch","length":19836,"mode":"type"},{"id":"003","title":"2. The Courtesans","length":23470,"mode":"type"},{"id":"004","title":"3. The Cinder Girl","length":14803,"mode":"type"},{"id":"005","title":"4. The Stableman","length":28411,"mode":"type"},{"id":"006","title":"5. The Loup","length":14306,"mode":"type"},{"id":"007","title":"6. The Prince","length":13592,"mode":"type"},{"id":"008","title":"7. The Return","length":13323,"mode":"type"},{"id":"009","title":"8. The Ball","length":19120,"mode":"type"},{"id":"010","title":"9. The Happily","length":22987,"mode":"type"},{"id":"011","title":"10. The Ever After","length":6336,"mode":"type"},{"id":"012","title":"Note from the Author","length":1456,"mode":"type"}],"createdAt":1721337448924}
+{
+  "id": "bettie-sharpe--ember",
+  "title": "Ember",
+  "titleAlpha": "ember",
+  "author": "Bettie Sharpe",
+  "language": "en",
+  "description": "In a kingdom where everyone adores Prince Charming, Ember uses dark arts to resist his charm, but little does she know that desire knows no bounds.",
+  "longDescription": [
+    "Everyone loves Prince Charming. They have to - he’s cursed. Every man must respect him. Every woman must desire him. One look, and all is lost.",
+    "Ember would rather carve out a piece of her soul than be enslaved by passions not her own. She turns to the dark arts to save her heart and becomes the one woman in the kingdom able to resist the Prince’s Charm.",
+    "Poor girl. If Ember had spent less time studying magic and more time studying human nature, she might have guessed that a man who gets everything and everyone he wants will come to want the one woman he cannot have.",
+    "This story contains sex, violence, and naughty words.It’s based on a fairytale, but it isn’t for kids."
+  ],
+  "year": 2007,
+  "genres": [
+    "erotica",
+    "romance",
+    "contemporary",
+    "fiction"
+  ],
+  "topics": [],
+  "rights": "Bettie Sharpe, free e-book",
+  "publisher": "Bettie Sharpe",
+  "series": null,
+  "part": 0,
+  "source": {
+    "value": "https://epdf.tips/ember9bbc1df765afac3eae886ad631c1ce0140705.html",
+    "isUrl": true
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Dedication",
+      "length": 282,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "1. The Witch",
+      "length": 19836,
+      "mode": "type"
+    },
+    {
+      "id": "003",
+      "title": "2. The Courtesans",
+      "length": 23470,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "3. The Cinder Girl",
+      "length": 14803,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "4. The Stableman",
+      "length": 28411,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "5. The Loup",
+      "length": 14306,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "6. The Prince",
+      "length": 13592,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "7. The Return",
+      "length": 13323,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "8. The Ball",
+      "length": 19120,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "9. The Happily",
+      "length": 22987,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "10. The Ever After",
+      "length": 6336,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Note from the Author",
+      "length": 1456,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL38738390W",
+  "goodreadsId": "10780513",
+  "rating": 0.728,
+  "popularity": 2967,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489354856
+}

@@ -1,1 +1,174 @@
-{"id":"andre-norton--key-out-of-time","title":"Key Out of Time","titleAlpha":"key out of time","author":"Andre Norton","language":"en","description":"While searching a distant world of shallow seas and archipelagos for traces of a galactic civilization, a group of explorers get stranded in the past and face a dangerous enemy.","longDescription":["The fourth novel in Andre Norton's Time Traders series, Key Out of Time follows Ross Murdock, Gordon Ashe, Karara Trehern, and the rest of a Terran settlement team as they search the planet Hawaika for traces of a galactic civilization.","All of the knowledge they had about Hawaika before embarking on their exploratory mission had been obtained from an ancient space-navigation guide. Yet, the world it described was nowhere in sight. Surrounded on all sides by shallow seas and archipelagos instead of the major landmasses they had expected to find, the Terrans must now try to reconcile the planet's past with its present. What could have transformed the planet so dramatically and what happened to the intelligent beings who had once colonized the planet? The key to this mystery lies somewhere in time."],"year":1963,"genres":["classics","fiction","science-fiction","travel"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/andre-norton/key-out-of-time"},"openlibraryId":"OL473474W","goodreadsId":"1183856","rating":0.768,"popularity":1492,"cover":null,"free":false,"custom":false,"series":"Time Traders/Ross Murdock","part":4,"chapters":[{"id":"001","title":"Titlepage - Key Out of Time","length":17,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I: Lotus World","length":18338,"mode":"type"},{"id":"004","title":"II: Lair of Mano-Nui","length":18574,"mode":"type"},{"id":"005","title":"III: The Ancient Mariners","length":17032,"mode":"type"},{"id":"006","title":"IV: Storm Menace","length":15919,"mode":"type"},{"id":"007","title":"V: Time Wrecked","length":16853,"mode":"type"},{"id":"008","title":"VI: Loketh the Useless","length":14845,"mode":"type"},{"id":"009","title":"VII: Witches' Meat","length":16796,"mode":"type"},{"id":"010","title":"VIII: The Free Rovers","length":17767,"mode":"type"},{"id":"011","title":"IX: Battle Test","length":17600,"mode":"type"},{"id":"012","title":"X: Death at Kyn Add","length":16890,"mode":"type"},{"id":"013","title":"XI: Weapon from the Depths","length":16944,"mode":"type"},{"id":"014","title":"XII: Baldies","length":18223,"mode":"type"},{"id":"015","title":"XIII: The Sea Gate of the Foanna","length":17482,"mode":"type"},{"id":"016","title":"XIV: The Foanna","length":16597,"mode":"type"},{"id":"017","title":"XV: Return to the Battle","length":17667,"mode":"type"},{"id":"018","title":"XVI: The Opening of the Great Door","length":16685,"mode":"type"},{"id":"019","title":"XVII: Shades Against Shadow","length":16957,"mode":"type"},{"id":"020","title":"XVIII: World in Doubt?","length":22123,"mode":"type"},{"id":"021","title":"Colophon","length":1065,"mode":"hide"},{"id":"022","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337500741}
+{
+  "id": "andre-norton--key-out-of-time",
+  "title": "Key Out of Time",
+  "titleAlpha": "key out of time",
+  "author": "Andre Norton",
+  "language": "en",
+  "description": "While searching a distant world of shallow seas and archipelagos for traces of a galactic civilization, a group of explorers get stranded in the past and face a dangerous enemy.",
+  "longDescription": [
+    "The fourth novel in Andre Norton's Time Traders series, Key Out of Time follows Ross Murdock, Gordon Ashe, Karara Trehern, and the rest of a Terran settlement team as they search the planet Hawaika for traces of a galactic civilization.",
+    "All of the knowledge they had about Hawaika before embarking on their exploratory mission had been obtained from an ancient space-navigation guide. Yet, the world it described was nowhere in sight. Surrounded on all sides by shallow seas and archipelagos instead of the major landmasses they had expected to find, the Terrans must now try to reconcile the planet's past with its present. What could have transformed the planet so dramatically and what happened to the intelligent beings who had once colonized the planet? The key to this mystery lies somewhere in time."
+  ],
+  "year": 1963,
+  "genres": [
+    "classics",
+    "fiction",
+    "science-fiction",
+    "travel",
+    "adventure"
+  ],
+  "topics": [
+    "space",
+    "aliens"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Time Traders / Ross Murdock",
+  "part": 4,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/andre-norton/key-out-of-time"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Key Out of Time",
+      "length": 17,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: Lotus World",
+      "length": 18338,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: Lair of Mano-Nui",
+      "length": 18574,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: The Ancient Mariners",
+      "length": 17032,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: Storm Menace",
+      "length": 15919,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: Time Wrecked",
+      "length": 16853,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: Loketh the Useless",
+      "length": 14845,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: Witches' Meat",
+      "length": 16796,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: The Free Rovers",
+      "length": 17767,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: Battle Test",
+      "length": 17600,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: Death at Kyn Add",
+      "length": 16890,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: Weapon from the Depths",
+      "length": 16944,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: Baldies",
+      "length": 18223,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: The Sea Gate of the Foanna",
+      "length": 17482,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: The Foanna",
+      "length": 16597,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: Return to the Battle",
+      "length": 17667,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI: The Opening of the Great Door",
+      "length": 16685,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII: Shades Against Shadow",
+      "length": 16957,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII: World in Doubt?",
+      "length": 22123,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Colophon",
+      "length": 1065,
+      "mode": "hide"
+    },
+    {
+      "id": "022",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL473474W",
+  "goodreadsId": "1183822",
+  "rating": 0.768,
+  "popularity": 1492,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489401633
+}

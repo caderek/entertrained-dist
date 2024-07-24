@@ -1,1 +1,778 @@
-{"id":"aristotle--nicomachean-ethics","title":"Nicomachean Ethics","titleAlpha":"nicomachean ethics","author":"Aristotle","language":"en","description":"Aristotle examines how one may live in the most thriving, excellent manner.","longDescription":["Aristotle examines how best to live by looking at the nature of those virtues that characterize the most thriving human beings, and then at how to acquire and develop such virtues. This book is considered the founding document of what is now known as the \"virtue ethics\" tradition.","Along the way, Aristotle delves into pleasure, happiness, justice, friendship, and willpower. He intended the Nicomachean Ethics to be the foundation on which to build his Politics.","Nicomachean Ethics is based on Aristotle's lectures at the Lyceum and was originally collected as a series of ten scrolls. In translation it was hugely influential in the development of Western philosophic tradition, quickly becoming one of the core works of medieval philosophy."],"year":1558,"genres":["classics","philosophy"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters"},"openlibraryId":"OL8273964W","goodreadsId":"5000320","rating":0.798,"popularity":50798,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Nicomachean Ethics","length":42,"mode":"hide"},{"id":"002","title":"Imprint","length":1138,"mode":"hide"},{"id":"003","title":"Preface","length":1520,"mode":"skip"},{"id":"004","title":"Editor's Note","length":267,"mode":"type"},{"id":"005","title":"Book I - The End - I","length":1169,"mode":"type"},{"id":"006","title":"Book I - The End - II","length":1626,"mode":"type"},{"id":"007","title":"Book I - The End - III","length":2364,"mode":"type"},{"id":"008","title":"Book I - The End - IV","length":2579,"mode":"type"},{"id":"009","title":"Book I - The End - V","length":2427,"mode":"type"},{"id":"010","title":"Book I - The End - VI","length":6594,"mode":"type"},{"id":"011","title":"Book I - The End - VII","length":7905,"mode":"type"},{"id":"012","title":"Book I - The End - VIII","length":5361,"mode":"type"},{"id":"013","title":"Book I - The End - IX","length":2713,"mode":"type"},{"id":"014","title":"Book I - The End - X","length":5714,"mode":"type"},{"id":"015","title":"Book I - The End - XI","length":1668,"mode":"type"},{"id":"016","title":"Book I - The End - XII","length":2249,"mode":"type"},{"id":"017","title":"Book I - The End - XIII","length":5801,"mode":"type"},{"id":"018","title":"Book II - Moral Virtue - I","length":3175,"mode":"type"},{"id":"019","title":"Book II - Moral Virtue - II","length":3055,"mode":"type"},{"id":"020","title":"Book II - Moral Virtue - III","length":3736,"mode":"type"},{"id":"021","title":"Book II - Moral Virtue - IV","length":2394,"mode":"type"},{"id":"022","title":"Book II - Moral Virtue - V","length":2176,"mode":"type"},{"id":"023","title":"Book II - Moral Virtue - VI","length":6383,"mode":"type"},{"id":"024","title":"Book II - Moral Virtue - VII","length":6748,"mode":"type"},{"id":"025","title":"Book II - Moral Virtue - VIII","length":3567,"mode":"type"},{"id":"026","title":"Book II - Moral Virtue - IX","length":3229,"mode":"type"},{"id":"027","title":"Book III - The Will - I","length":9803,"mode":"type"},{"id":"028","title":"Book III - The Will - II","length":3822,"mode":"type"},{"id":"029","title":"Book III - The Will - III","length":5367,"mode":"type"},{"id":"030","title":"Book III - The Will - IV","length":1757,"mode":"type"},{"id":"031","title":"Book III - The Will - V","length":8471,"mode":"type"},{"id":"032","title":"Book III - The Several Moral Virtues and Vices - VI","length":2920,"mode":"type"},{"id":"033","title":"Book III - The Several Moral Virtues and Vices - VII","length":3700,"mode":"type"},{"id":"034","title":"Book III - The Several Moral Virtues and Vices - VIII","length":6606,"mode":"type"},{"id":"035","title":"Book III - The Several Moral Virtues and Vices - IX","length":2217,"mode":"type"},{"id":"036","title":"Book III - The Several Moral Virtues and Vices - X","length":4193,"mode":"type"},{"id":"037","title":"Book III - The Several Moral Virtues and Vices - XI","length":3931,"mode":"type"},{"id":"038","title":"Book III - The Several Moral Virtues and Vices - XII","length":2868,"mode":"type"},{"id":"039","title":"Book IV - The Several Moral Virtues and Vices - Continued - I","length":12856,"mode":"type"},{"id":"040","title":"Book IV - The Several Moral Virtues and Vices - Continued - II","length":7179,"mode":"type"},{"id":"041","title":"Book IV - The Several Moral Virtues and Vices - Continued - III","length":11652,"mode":"type"},{"id":"042","title":"Book IV - The Several Moral Virtues and Vices - Continued - IV","length":2262,"mode":"type"},{"id":"043","title":"Book IV - The Several Moral Virtues and Vices - Continued - V","length":4761,"mode":"type"},{"id":"044","title":"Book IV - The Several Moral Virtues and Vices - Continued - VI","length":3443,"mode":"type"},{"id":"045","title":"Book IV - The Several Moral Virtues and Vices - Continued - VII","length":4794,"mode":"type"},{"id":"046","title":"Book IV - The Several Moral Virtues and Vices - Continued - VIII","length":3955,"mode":"type"},{"id":"047","title":"Book IV - The Several Moral Virtues and Vices - Continued - IX","length":2161,"mode":"type"},{"id":"048","title":"Book V - Justice - I","length":6519,"mode":"type"},{"id":"049","title":"Book V - Justice - II","length":5486,"mode":"type"},{"id":"050","title":"Book V - Justice - III","length":4391,"mode":"type"},{"id":"051","title":"Book V - Justice - IV","length":5219,"mode":"type"},{"id":"052","title":"Book V - Justice - V","length":9106,"mode":"type"},{"id":"053","title":"Book V - Justice - VI","length":3497,"mode":"type"},{"id":"054","title":"Book V - Justice - VII","length":2905,"mode":"type"},{"id":"055","title":"Book V - Justice - VIII","length":5457,"mode":"type"},{"id":"056","title":"Book V - Justice - IX","length":7899,"mode":"type"},{"id":"057","title":"Book V - Justice - X","length":3723,"mode":"type"},{"id":"058","title":"Book V - Justice - XI","length":4528,"mode":"type"},{"id":"059","title":"Book VI - The Intellectual Virtues - I","length":2640,"mode":"type"},{"id":"060","title":"Book VI - The Intellectual Virtues - II","length":2810,"mode":"type"},{"id":"061","title":"Book VI - The Intellectual Virtues - III","length":1846,"mode":"type"},{"id":"062","title":"Book VI - The Intellectual Virtues - IV","length":1697,"mode":"type"},{"id":"063","title":"Book VI - The Intellectual Virtues - V","length":3679,"mode":"type"},{"id":"064","title":"Book VI - The Intellectual Virtues - VI","length":1028,"mode":"type"},{"id":"065","title":"Book VI - The Intellectual Virtues - VII","length":4133,"mode":"type"},{"id":"066","title":"Book VI - The Intellectual Virtues - VIII","length":3658,"mode":"type"},{"id":"067","title":"Book VI - The Intellectual Virtues - IX","length":3378,"mode":"type"},{"id":"068","title":"Book VI - The Intellectual Virtues - X","length":1513,"mode":"type"},{"id":"069","title":"Book VI - The Intellectual Virtues - XI","length":3171,"mode":"type"},{"id":"070","title":"Book VI - The Intellectual Virtues - XII","length":4309,"mode":"type"},{"id":"071","title":"Book VI - The Intellectual Virtues - XIII","length":3928,"mode":"type"},{"id":"072","title":"Book VII - Characters Other Than Virtue and Vice - I","length":3392,"mode":"type"},{"id":"073","title":"Book VII - Characters Other Than Virtue and Vice - II","length":4903,"mode":"type"},{"id":"074","title":"Book VII - Characters Other Than Virtue and Vice - III","length":7559,"mode":"type"},{"id":"075","title":"Book VII - Characters Other Than Virtue and Vice - IV","length":5540,"mode":"type"},{"id":"076","title":"Book VII - Characters Other Than Virtue and Vice - V","length":3818,"mode":"type"},{"id":"077","title":"Book VII - Characters Other Than Virtue and Vice - VI","length":4191,"mode":"type"},{"id":"078","title":"Book VII - Characters Other Than Virtue and Vice - VII","length":4465,"mode":"type"},{"id":"079","title":"Book VII - Characters Other Than Virtue and Vice - VIII","length":3092,"mode":"type"},{"id":"080","title":"Book VII - Characters Other Than Virtue and Vice - IX","length":3764,"mode":"type"},{"id":"081","title":"Book VII - Characters Other Than Virtue and Vice - X","length":2300,"mode":"type"},{"id":"082","title":"Book VII - Of Pleasure - XI","length":1822,"mode":"type"},{"id":"083","title":"Book VII - Of Pleasure - XII","length":4383,"mode":"type"},{"id":"084","title":"Book VII - Of Pleasure - XIII","length":3389,"mode":"type"},{"id":"085","title":"Book VII - Of Pleasure - XIV","length":4960,"mode":"type"},{"id":"086","title":"Book VIII - Friendship or Love - I","length":3708,"mode":"type"},{"id":"087","title":"Book VIII - Friendship or Love - II","length":2021,"mode":"type"},{"id":"088","title":"Book VIII - Friendship or Love - III","length":5522,"mode":"type"},{"id":"089","title":"Book VIII - Friendship or Love - IV","length":3345,"mode":"type"},{"id":"090","title":"Book VIII - Friendship or Love - V","length":2494,"mode":"type"},{"id":"091","title":"Book VIII - Friendship or Love - VI","length":3925,"mode":"type"},{"id":"092","title":"Book VIII - Friendship or Love - VII","length":3019,"mode":"type"},{"id":"093","title":"Book VIII - Friendship or Love - VIII","length":3703,"mode":"type"},{"id":"094","title":"Book VIII - Friendship or Love - IX","length":3233,"mode":"type"},{"id":"095","title":"Book VIII - Friendship or Love - X","length":3987,"mode":"type"},{"id":"096","title":"Book VIII - Friendship or Love - XI","length":3080,"mode":"type"},{"id":"097","title":"Book VIII - Friendship or Love - XII","length":4805,"mode":"type"},{"id":"098","title":"Book VIII - Friendship or Love - XIII","length":5632,"mode":"type"},{"id":"099","title":"Book VIII - Friendship or Love - XIV","length":3266,"mode":"type"},{"id":"100","title":"Book IX - Friendship or Love - Continued - I","length":5003,"mode":"type"},{"id":"101","title":"Book IX - Friendship or Love - Continued - II","length":4206,"mode":"type"},{"id":"102","title":"Book IX - Friendship or Love - Continued - III","length":3338,"mode":"type"},{"id":"103","title":"Book IX - Friendship or Love - Continued - IV","length":5170,"mode":"type"},{"id":"104","title":"Book IX - Friendship or Love - Continued - V","length":2303,"mode":"type"},{"id":"105","title":"Book IX - Friendship or Love - Continued - VI","length":2553,"mode":"type"},{"id":"106","title":"Book IX - Friendship or Love - Continued - VII","length":3890,"mode":"type"},{"id":"107","title":"Book IX - Friendship or Love - Continued - VIII","length":6761,"mode":"type"},{"id":"108","title":"Book IX - Friendship or Love - Continued - IX","length":6745,"mode":"type"},{"id":"109","title":"Book IX - Friendship or Love - Continued - X","length":3060,"mode":"type"},{"id":"110","title":"Book IX - Friendship or Love - Continued - XI","length":3260,"mode":"type"},{"id":"111","title":"Book IX - Friendship or Love - Continued - XII","length":1879,"mode":"type"},{"id":"112","title":"Book X - Pleasure - I","length":2049,"mode":"type"},{"id":"113","title":"Book X - Pleasure - II","length":3645,"mode":"type"},{"id":"114","title":"Book X - Pleasure - III","length":5554,"mode":"type"},{"id":"115","title":"Book X - Pleasure - IV","length":6865,"mode":"type"},{"id":"116","title":"Book X - Pleasure - V","length":7045,"mode":"type"},{"id":"117","title":"Book X - Conclusion - VI","length":4163,"mode":"type"},{"id":"118","title":"Book X - Conclusion - VII","length":5326,"mode":"type"},{"id":"119","title":"Book X - Conclusion - VIII","length":7319,"mode":"type"},{"id":"120","title":"Book X - Conclusion - IX","length":12812,"mode":"type"},{"id":"121","title":"Endnotes","length":52088,"mode":"hide"},{"id":"122","title":"Colophon","length":1025,"mode":"hide"},{"id":"123","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337541678}
+{
+  "id": "aristotle--nicomachean-ethics",
+  "title": "Nicomachean Ethics",
+  "titleAlpha": "nicomachean ethics",
+  "author": "Aristotle",
+  "language": "en",
+  "description": "Aristotle examines how one may live in the most thriving, excellent manner.",
+  "longDescription": [
+    "Aristotle examines how best to live by looking at the nature of those virtues that characterize the most thriving human beings, and then at how to acquire and develop such virtues. This book is considered the founding document of what is now known as the \"virtue ethics\" tradition.",
+    "Along the way, Aristotle delves into pleasure, happiness, justice, friendship, and willpower. He intended the Nicomachean Ethics to be the foundation on which to build his Politics.",
+    "Nicomachean Ethics is based on Aristotle's lectures at the Lyceum and was originally collected as a series of ten scrolls. In translation it was hugely influential in the development of Western philosophic tradition, quickly becoming one of the core works of medieval philosophy."
+  ],
+  "year": -330,
+  "genres": [
+    "classics",
+    "philosophy",
+    "nonfiction"
+  ],
+  "topics": [
+    "politics"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Nicomachean Ethics",
+      "length": 42,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1138,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Preface",
+      "length": 1520,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Editor's Note",
+      "length": 267,
+      "mode": "hide"
+    },
+    {
+      "id": "005",
+      "title": "Book I - The End - I",
+      "length": 1169,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book I - The End - II",
+      "length": 1626,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Book I - The End - III",
+      "length": 2364,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Book I - The End - IV",
+      "length": 2579,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book I - The End - V",
+      "length": 2427,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Book I - The End - VI",
+      "length": 6594,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book I - The End - VII",
+      "length": 7905,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book I - The End - VIII",
+      "length": 5361,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book I - The End - IX",
+      "length": 2713,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book I - The End - X",
+      "length": 5714,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book I - The End - XI",
+      "length": 1668,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Book I - The End - XII",
+      "length": 2249,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book I - The End - XIII",
+      "length": 5801,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book II - Moral Virtue - I",
+      "length": 3175,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Book II - Moral Virtue - II",
+      "length": 3055,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Book II - Moral Virtue - III",
+      "length": 3736,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Book II - Moral Virtue - IV",
+      "length": 2394,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Book II - Moral Virtue - V",
+      "length": 2176,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Book II - Moral Virtue - VI",
+      "length": 6383,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Book II - Moral Virtue - VII",
+      "length": 6748,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Book II - Moral Virtue - VIII",
+      "length": 3567,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Book II - Moral Virtue - IX",
+      "length": 3229,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Book III - The Will - I",
+      "length": 9803,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Book III - The Will - II",
+      "length": 3822,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Book III - The Will - III",
+      "length": 5367,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Book III - The Will - IV",
+      "length": 1757,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Book III - The Will - V",
+      "length": 8471,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Book III - The Several Moral Virtues and Vices - VI",
+      "length": 2920,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Book III - The Several Moral Virtues and Vices - VII",
+      "length": 3700,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Book III - The Several Moral Virtues and Vices - VIII",
+      "length": 6606,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Book III - The Several Moral Virtues and Vices - IX",
+      "length": 2217,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Book III - The Several Moral Virtues and Vices - X",
+      "length": 4193,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Book III - The Several Moral Virtues and Vices - XI",
+      "length": 3931,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Book III - The Several Moral Virtues and Vices - XII",
+      "length": 2868,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Book IV - The Several Moral Virtues and Vices - Continued - I",
+      "length": 12856,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Book IV - The Several Moral Virtues and Vices - Continued - II",
+      "length": 7179,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Book IV - The Several Moral Virtues and Vices - Continued - III",
+      "length": 11652,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Book IV - The Several Moral Virtues and Vices - Continued - IV",
+      "length": 2262,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Book IV - The Several Moral Virtues and Vices - Continued - V",
+      "length": 4761,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Book IV - The Several Moral Virtues and Vices - Continued - VI",
+      "length": 3443,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Book IV - The Several Moral Virtues and Vices - Continued - VII",
+      "length": 4794,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Book IV - The Several Moral Virtues and Vices - Continued - VIII",
+      "length": 3955,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Book IV - The Several Moral Virtues and Vices - Continued - IX",
+      "length": 2161,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Book V - Justice - I",
+      "length": 6519,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "Book V - Justice - II",
+      "length": 5486,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Book V - Justice - III",
+      "length": 4391,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "Book V - Justice - IV",
+      "length": 5219,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "Book V - Justice - V",
+      "length": 9106,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "Book V - Justice - VI",
+      "length": 3497,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "Book V - Justice - VII",
+      "length": 2905,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "Book V - Justice - VIII",
+      "length": 5457,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "Book V - Justice - IX",
+      "length": 7899,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "Book V - Justice - X",
+      "length": 3723,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "Book V - Justice - XI",
+      "length": 4528,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "Book VI - The Intellectual Virtues - I",
+      "length": 2640,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "Book VI - The Intellectual Virtues - II",
+      "length": 2810,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "Book VI - The Intellectual Virtues - III",
+      "length": 1846,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "Book VI - The Intellectual Virtues - IV",
+      "length": 1697,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "Book VI - The Intellectual Virtues - V",
+      "length": 3679,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "Book VI - The Intellectual Virtues - VI",
+      "length": 1028,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "Book VI - The Intellectual Virtues - VII",
+      "length": 4133,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "Book VI - The Intellectual Virtues - VIII",
+      "length": 3658,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "Book VI - The Intellectual Virtues - IX",
+      "length": 3378,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "Book VI - The Intellectual Virtues - X",
+      "length": 1513,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "Book VI - The Intellectual Virtues - XI",
+      "length": 3171,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "Book VI - The Intellectual Virtues - XII",
+      "length": 4309,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "Book VI - The Intellectual Virtues - XIII",
+      "length": 3928,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "Book VII - Characters Other Than Virtue and Vice - I",
+      "length": 3392,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "Book VII - Characters Other Than Virtue and Vice - II",
+      "length": 4903,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "Book VII - Characters Other Than Virtue and Vice - III",
+      "length": 7559,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "Book VII - Characters Other Than Virtue and Vice - IV",
+      "length": 5540,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "Book VII - Characters Other Than Virtue and Vice - V",
+      "length": 3818,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "Book VII - Characters Other Than Virtue and Vice - VI",
+      "length": 4191,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "Book VII - Characters Other Than Virtue and Vice - VII",
+      "length": 4465,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "Book VII - Characters Other Than Virtue and Vice - VIII",
+      "length": 3092,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "Book VII - Characters Other Than Virtue and Vice - IX",
+      "length": 3764,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "Book VII - Characters Other Than Virtue and Vice - X",
+      "length": 2300,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "Book VII - Of Pleasure - XI",
+      "length": 1822,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "Book VII - Of Pleasure - XII",
+      "length": 4383,
+      "mode": "type"
+    },
+    {
+      "id": "084",
+      "title": "Book VII - Of Pleasure - XIII",
+      "length": 3389,
+      "mode": "type"
+    },
+    {
+      "id": "085",
+      "title": "Book VII - Of Pleasure - XIV",
+      "length": 4960,
+      "mode": "type"
+    },
+    {
+      "id": "086",
+      "title": "Book VIII - Friendship or Love - I",
+      "length": 3708,
+      "mode": "type"
+    },
+    {
+      "id": "087",
+      "title": "Book VIII - Friendship or Love - II",
+      "length": 2021,
+      "mode": "type"
+    },
+    {
+      "id": "088",
+      "title": "Book VIII - Friendship or Love - III",
+      "length": 5522,
+      "mode": "type"
+    },
+    {
+      "id": "089",
+      "title": "Book VIII - Friendship or Love - IV",
+      "length": 3345,
+      "mode": "type"
+    },
+    {
+      "id": "090",
+      "title": "Book VIII - Friendship or Love - V",
+      "length": 2494,
+      "mode": "type"
+    },
+    {
+      "id": "091",
+      "title": "Book VIII - Friendship or Love - VI",
+      "length": 3925,
+      "mode": "type"
+    },
+    {
+      "id": "092",
+      "title": "Book VIII - Friendship or Love - VII",
+      "length": 3019,
+      "mode": "type"
+    },
+    {
+      "id": "093",
+      "title": "Book VIII - Friendship or Love - VIII",
+      "length": 3703,
+      "mode": "type"
+    },
+    {
+      "id": "094",
+      "title": "Book VIII - Friendship or Love - IX",
+      "length": 3233,
+      "mode": "type"
+    },
+    {
+      "id": "095",
+      "title": "Book VIII - Friendship or Love - X",
+      "length": 3987,
+      "mode": "type"
+    },
+    {
+      "id": "096",
+      "title": "Book VIII - Friendship or Love - XI",
+      "length": 3080,
+      "mode": "type"
+    },
+    {
+      "id": "097",
+      "title": "Book VIII - Friendship or Love - XII",
+      "length": 4805,
+      "mode": "type"
+    },
+    {
+      "id": "098",
+      "title": "Book VIII - Friendship or Love - XIII",
+      "length": 5632,
+      "mode": "type"
+    },
+    {
+      "id": "099",
+      "title": "Book VIII - Friendship or Love - XIV",
+      "length": 3266,
+      "mode": "type"
+    },
+    {
+      "id": "100",
+      "title": "Book IX - Friendship or Love - Continued - I",
+      "length": 5003,
+      "mode": "type"
+    },
+    {
+      "id": "101",
+      "title": "Book IX - Friendship or Love - Continued - II",
+      "length": 4206,
+      "mode": "type"
+    },
+    {
+      "id": "102",
+      "title": "Book IX - Friendship or Love - Continued - III",
+      "length": 3338,
+      "mode": "type"
+    },
+    {
+      "id": "103",
+      "title": "Book IX - Friendship or Love - Continued - IV",
+      "length": 5170,
+      "mode": "type"
+    },
+    {
+      "id": "104",
+      "title": "Book IX - Friendship or Love - Continued - V",
+      "length": 2303,
+      "mode": "type"
+    },
+    {
+      "id": "105",
+      "title": "Book IX - Friendship or Love - Continued - VI",
+      "length": 2552,
+      "mode": "type"
+    },
+    {
+      "id": "106",
+      "title": "Book IX - Friendship or Love - Continued - VII",
+      "length": 3890,
+      "mode": "type"
+    },
+    {
+      "id": "107",
+      "title": "Book IX - Friendship or Love - Continued - VIII",
+      "length": 6761,
+      "mode": "type"
+    },
+    {
+      "id": "108",
+      "title": "Book IX - Friendship or Love - Continued - IX",
+      "length": 6745,
+      "mode": "type"
+    },
+    {
+      "id": "109",
+      "title": "Book IX - Friendship or Love - Continued - X",
+      "length": 3060,
+      "mode": "type"
+    },
+    {
+      "id": "110",
+      "title": "Book IX - Friendship or Love - Continued - XI",
+      "length": 3260,
+      "mode": "type"
+    },
+    {
+      "id": "111",
+      "title": "Book IX - Friendship or Love - Continued - XII",
+      "length": 1879,
+      "mode": "type"
+    },
+    {
+      "id": "112",
+      "title": "Book X - Pleasure - I",
+      "length": 2049,
+      "mode": "type"
+    },
+    {
+      "id": "113",
+      "title": "Book X - Pleasure - II",
+      "length": 3645,
+      "mode": "type"
+    },
+    {
+      "id": "114",
+      "title": "Book X - Pleasure - III",
+      "length": 5554,
+      "mode": "type"
+    },
+    {
+      "id": "115",
+      "title": "Book X - Pleasure - IV",
+      "length": 6865,
+      "mode": "type"
+    },
+    {
+      "id": "116",
+      "title": "Book X - Pleasure - V",
+      "length": 7045,
+      "mode": "type"
+    },
+    {
+      "id": "117",
+      "title": "Book X - Conclusion - VI",
+      "length": 4163,
+      "mode": "type"
+    },
+    {
+      "id": "118",
+      "title": "Book X - Conclusion - VII",
+      "length": 5326,
+      "mode": "type"
+    },
+    {
+      "id": "119",
+      "title": "Book X - Conclusion - VIII",
+      "length": 7319,
+      "mode": "type"
+    },
+    {
+      "id": "120",
+      "title": "Book X - Conclusion - IX",
+      "length": 12812,
+      "mode": "type"
+    },
+    {
+      "id": "121",
+      "title": "Endnotes",
+      "length": 52088,
+      "mode": "hide"
+    },
+    {
+      "id": "122",
+      "title": "Colophon",
+      "length": 1025,
+      "mode": "hide"
+    },
+    {
+      "id": "123",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL8273964W",
+  "goodreadsId": "19068",
+  "rating": 0.798,
+  "popularity": 51016,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489441203
+}

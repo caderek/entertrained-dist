@@ -1,1 +1,252 @@
-{"id":"edgar-rice-burroughs--a-princess-of-mars","title":"A Princess of Mars","titleAlpha":"princess of mars","author":"Edgar Rice Burroughs","language":"en","description":"An adventurer finds himself battling alien civilizations on the strange surface of Mars.","longDescription":["In A Princess of Mars, John Carter is transported to a Mars inhabited by strange civilizations and embarks on various adventures on his quest home. Often held up as a seminal example of pulp science fiction, A Princess of Mars is the first entry in Burroughs' epic Martian series, and the first to feature the character of John Carter.","Though often categorized as just a pulp adventure tale, A Princess of Mars was hugely influential on many budding science fiction writers, professional scientists, and explorers of the day. The novel remains a light, fast-paced, and enjoyable read, and continues to inspire adaptations nearly a hundred years after its publication."],"year":1912,"genres":["classics","fantasy","fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars"},"openlibraryId":"OL1418187W","goodreadsId":"57978","rating":0.762,"popularity":57980,"cover":null,"free":false,"custom":false,"series":"Barsoom","part":1,"chapters":[{"id":"001","title":"Titlepage - A Princess of Mars","length":25,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Dedication","length":15,"mode":"hide"},{"id":"004","title":"Foreword","length":6458,"mode":"type"},{"id":"005","title":"I: On the Arizona Hills","length":14127,"mode":"type"},{"id":"006","title":"II: The Escape of the Dead","length":9085,"mode":"type"},{"id":"007","title":"III: My Advent on Mars","length":14351,"mode":"type"},{"id":"008","title":"IV: A Prisoner","length":11968,"mode":"type"},{"id":"009","title":"V: I Elude My Watch Dog","length":8466,"mode":"type"},{"id":"010","title":"VI: A Fight That Won Friends","length":8943,"mode":"type"},{"id":"011","title":"VII: Child-Raising on Mars","length":11337,"mode":"type"},{"id":"012","title":"VIII: A Fair Captive from the Sky","length":11406,"mode":"type"},{"id":"013","title":"IX: I Learn the Language","length":7845,"mode":"type"},{"id":"014","title":"X: Champion and Chief","length":19333,"mode":"type"},{"id":"015","title":"XI: With Dejah Thoris","length":13306,"mode":"type"},{"id":"016","title":"XII: A Prisoner with Power","length":10600,"mode":"type"},{"id":"017","title":"XIII: Lovemaking on Mars","length":12292,"mode":"type"},{"id":"018","title":"XIV: A Duel to the Death","length":17415,"mode":"type"},{"id":"019","title":"XV: Sola Tells Me Her Story","length":17113,"mode":"type"},{"id":"020","title":"XVI: We Plan Escape","length":20465,"mode":"type"},{"id":"021","title":"XVII: A Costly Recapture","length":16136,"mode":"type"},{"id":"022","title":"XVIII: Chained in Warhoon","length":8195,"mode":"type"},{"id":"023","title":"XIX: Battling in the Arena","length":9521,"mode":"type"},{"id":"024","title":"XX: In the Atmosphere Factory","length":17836,"mode":"type"},{"id":"025","title":"XXI: An Air Scout for Zodanga","length":19599,"mode":"type"},{"id":"026","title":"XXII: I Find Dejah","length":18951,"mode":"type"},{"id":"027","title":"XXIII: Lost in the Sky","length":12017,"mode":"type"},{"id":"028","title":"XXIV: Tars Tarkas Finds a Friend","length":14320,"mode":"type"},{"id":"029","title":"XXV: The Looting of Zodanga","length":9805,"mode":"type"},{"id":"030","title":"XXVI: Through Carnage to Joy","length":12422,"mode":"type"},{"id":"031","title":"XXVII: From Joy to Death","length":10103,"mode":"type"},{"id":"032","title":"XXVIII: At the Arizona Cave","length":3495,"mode":"type"},{"id":"033","title":"Endnotes","length":365,"mode":"hide"},{"id":"034","title":"Colophon","length":1105,"mode":"hide"},{"id":"035","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337675226}
+{
+  "id": "edgar-rice-burroughs--a-princess-of-mars",
+  "title": "A Princess of Mars",
+  "titleAlpha": "princess of mars",
+  "author": "Edgar Rice Burroughs",
+  "language": "en",
+  "description": "An adventurer finds himself battling alien civilizations on the strange surface of Mars.",
+  "longDescription": [
+    "In A Princess of Mars, John Carter is transported to a Mars inhabited by strange civilizations and embarks on various adventures on his quest home. Often held up as a seminal example of pulp science fiction, A Princess of Mars is the first entry in Burroughs' epic Martian series, and the first to feature the character of John Carter.",
+    "Though often categorized as just a pulp adventure tale, A Princess of Mars was hugely influential on many budding science fiction writers, professional scientists, and explorers of the day. The novel remains a light, fast-paced, and enjoyable read, and continues to inspire adaptations nearly a hundred years after its publication."
+  ],
+  "year": 1912,
+  "genres": [
+    "classics",
+    "fiction",
+    "adventure",
+    "action",
+    "science-fiction"
+  ],
+  "topics": [
+    "aliens",
+    "space"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Barsoom",
+  "part": 1,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - A Princess of Mars",
+      "length": 25,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 15,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Foreword",
+      "length": 6458,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "I: On the Arizona Hills",
+      "length": 14127,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "II: The Escape of the Dead",
+      "length": 9085,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "III: My Advent on Mars",
+      "length": 14351,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "IV: A Prisoner",
+      "length": 11968,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "V: I Elude My Watch Dog",
+      "length": 8466,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VI: A Fight That Won Friends",
+      "length": 8943,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VII: Child-Raising on Mars",
+      "length": 11337,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VIII: A Fair Captive from the Sky",
+      "length": 11406,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "IX: I Learn the Language",
+      "length": 7845,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "X: Champion and Chief",
+      "length": 19333,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XI: With Dejah Thoris",
+      "length": 13306,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XII: A Prisoner with Power",
+      "length": 10600,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIII: Lovemaking on Mars",
+      "length": 12292,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIV: A Duel to the Death",
+      "length": 17415,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XV: Sola Tells Me Her Story",
+      "length": 17113,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVI: We Plan Escape",
+      "length": 20465,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVII: A Costly Recapture",
+      "length": 16136,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVIII: Chained in Warhoon",
+      "length": 8195,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XIX: Battling in the Arena",
+      "length": 9521,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XX: In the Atmosphere Factory",
+      "length": 17836,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXI: An Air Scout for Zodanga",
+      "length": 19599,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXII: I Find Dejah",
+      "length": 18951,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXIII: Lost in the Sky",
+      "length": 12017,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXIV: Tars Tarkas Finds a Friend",
+      "length": 14320,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXV: The Looting of Zodanga",
+      "length": 9805,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVI: Through Carnage to Joy",
+      "length": 12422,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVII: From Joy to Death",
+      "length": 10103,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXVIII: At the Arizona Cave",
+      "length": 3495,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Endnotes",
+      "length": 365,
+      "mode": "hide"
+    },
+    {
+      "id": "034",
+      "title": "Colophon",
+      "length": 1105,
+      "mode": "hide"
+    },
+    {
+      "id": "035",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1418187W",
+  "goodreadsId": "40395",
+  "rating": 0.762,
+  "popularity": 58064,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489573144
+}

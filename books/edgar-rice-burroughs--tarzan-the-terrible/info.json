@@ -1,1 +1,233 @@
-{"id":"edgar-rice-burroughs--tarzan-the-terrible","title":"Tarzan the Terrible","titleAlpha":"tarzan the terrible","author":"Edgar Rice Burroughs","language":"en","description":"Tarzan seeks to rescue his kidnapped wife from a lost city hidden in a prehistoric jungle.","longDescription":["The iconic Tarzan, a man raised by apes in the African jungle, finds himself in the treacherous land of Pal-ul-don while searching for his abducted wife Jane. There Tarzan faces new challenges and dangers, including savage dinosaurs and powerful prehistoric creatures. As he navigates through this perilous world, Tarzan becomes embroiled in the conflicts between different tribal factions, as well as the intrigues of the cities that dot the landscape. As Tarzan battles against hostile forces and navigates these intricate power dynamics, readers are taken on a roller-coaster ride of suspense and discovery.","Continuing on from the events of Tarzan the Untamed, Tarzan the Terrible was first published as a seven-part serial in Argosy All-Story Weekly in 1921 before being published as a book by A. C. McClurg & Co.. Standing as a testament to Edgar Rice Burroughs' imaginative storytelling with its mix of adventure, romance, and primal conflicts, the novel is considered by some to be the best entry in the Tarzan series."],"year":1921,"genres":["adventure","classics","fantasy","fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-the-terrible"},"openlibraryId":"OL1418108W","goodreadsId":"3199857","rating":0.762,"popularity":2630,"cover":null,"free":false,"custom":false,"series":"Tarzan","part":8,"chapters":[{"id":"001","title":"Titlepage - Tarzan the Terrible","length":25,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I: The Pithecanthropus","length":24484,"mode":"type"},{"id":"004","title":"II: \"To the Death!\"","length":24469,"mode":"type"},{"id":"005","title":"III: Pan-at-lee","length":23600,"mode":"type"},{"id":"006","title":"IV: Tarzan-jad-guru","length":19887,"mode":"type"},{"id":"007","title":"V: In the Kor-ul-gryf","length":23649,"mode":"type"},{"id":"008","title":"VI: Tor-o-don","length":26301,"mode":"type"},{"id":"009","title":"VII: Jungle Craft","length":19599,"mode":"type"},{"id":"010","title":"VIII: A-lur","length":22899,"mode":"type"},{"id":"011","title":"IX: Bloodstained Altars","length":18210,"mode":"type"},{"id":"012","title":"X: The Forbidden Garden","length":21329,"mode":"type"},{"id":"013","title":"XI: The Sentence of Death","length":19792,"mode":"type"},{"id":"014","title":"XII: The Giant Stranger","length":19824,"mode":"type"},{"id":"015","title":"XIII: The Masquerader","length":19268,"mode":"type"},{"id":"016","title":"XIV: The Temple of the Gryf","length":22954,"mode":"type"},{"id":"017","title":"XV: \"The King Is Dead!\"","length":20466,"mode":"type"},{"id":"018","title":"XVI: The Secret Way","length":15618,"mode":"type"},{"id":"019","title":"XVII: By Jad-bal-lul","length":22371,"mode":"type"},{"id":"020","title":"XVIII: The Lion Pit of Tu-lur","length":20916,"mode":"type"},{"id":"021","title":"XIX: Diana of the Jungle","length":19759,"mode":"type"},{"id":"022","title":"XX: Silently in the Night","length":22949,"mode":"type"},{"id":"023","title":"XXI: The Maniac","length":25305,"mode":"type"},{"id":"024","title":"XXII: A Journey on a Gryf","length":18006,"mode":"type"},{"id":"025","title":"XXIII: Taken Alive","length":19568,"mode":"type"},{"id":"026","title":"XXIV: The Messenger of Death","length":18711,"mode":"type"},{"id":"027","title":"XXV: Home","length":7943,"mode":"type"},{"id":"028","title":"Glossary","length":3571,"mode":"type"},{"id":"029","title":"Endnotes","length":630,"mode":"hide"},{"id":"030","title":"List of Illustrations","length":271,"mode":"hide"},{"id":"031","title":"Colophon","length":1027,"mode":"hide"},{"id":"032","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337677910}
+{
+  "id": "edgar-rice-burroughs--tarzan-the-terrible",
+  "title": "Tarzan the Terrible",
+  "titleAlpha": "tarzan the terrible",
+  "author": "Edgar Rice Burroughs",
+  "language": "en",
+  "description": "Tarzan seeks to rescue his kidnapped wife from a lost city hidden in a prehistoric jungle.",
+  "longDescription": [
+    "The iconic Tarzan, a man raised by apes in the African jungle, finds himself in the treacherous land of Pal-ul-don while searching for his abducted wife Jane. There Tarzan faces new challenges and dangers, including savage dinosaurs and powerful prehistoric creatures. As he navigates through this perilous world, Tarzan becomes embroiled in the conflicts between different tribal factions, as well as the intrigues of the cities that dot the landscape. As Tarzan battles against hostile forces and navigates these intricate power dynamics, readers are taken on a roller-coaster ride of suspense and discovery.",
+    "Continuing on from the events of Tarzan the Untamed, Tarzan the Terrible was first published as a seven-part serial in Argosy All-Story Weekly in 1921 before being published as a book by A. C. McClurg & Co.. Standing as a testament to Edgar Rice Burroughs' imaginative storytelling with its mix of adventure, romance, and primal conflicts, the novel is considered by some to be the best entry in the Tarzan series."
+  ],
+  "year": 1921,
+  "genres": [
+    "adventure",
+    "classics",
+    "fantasy",
+    "fiction",
+    "action"
+  ],
+  "topics": [
+    "animals"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Tarzan",
+  "part": 8,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-the-terrible"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Tarzan the Terrible",
+      "length": 25,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: The Pithecanthropus",
+      "length": 24484,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: \"To the Death!\"",
+      "length": 24469,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: Pan-at-lee",
+      "length": 23600,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: Tarzan-jad-guru",
+      "length": 19887,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: In the Kor-ul-gryf",
+      "length": 23649,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: Tor-o-don",
+      "length": 26301,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: Jungle Craft",
+      "length": 19599,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: A-lur",
+      "length": 22899,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: Bloodstained Altars",
+      "length": 18210,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: The Forbidden Garden",
+      "length": 21329,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: The Sentence of Death",
+      "length": 19792,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: The Giant Stranger",
+      "length": 19824,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: The Masquerader",
+      "length": 19268,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: The Temple of the Gryf",
+      "length": 22954,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: \"The King Is Dead!\"",
+      "length": 20466,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI: The Secret Way",
+      "length": 15618,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII: By Jad-bal-lul",
+      "length": 22371,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII: The Lion Pit of Tu-lur",
+      "length": 20916,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX: Diana of the Jungle",
+      "length": 19759,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX: Silently in the Night",
+      "length": 22949,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI: The Maniac",
+      "length": 25305,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII: A Journey on a Gryf",
+      "length": 18006,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII: Taken Alive",
+      "length": 19568,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV: The Messenger of Death",
+      "length": 18711,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXV: Home",
+      "length": 7943,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Glossary",
+      "length": 3571,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Endnotes",
+      "length": 630,
+      "mode": "hide"
+    },
+    {
+      "id": "030",
+      "title": "List of Illustrations",
+      "length": 271,
+      "mode": "hide"
+    },
+    {
+      "id": "031",
+      "title": "Colophon",
+      "length": 1027,
+      "mode": "hide"
+    },
+    {
+      "id": "032",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1418108W",
+  "goodreadsId": "3199857",
+  "rating": 0.762,
+  "popularity": 2630,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489576517
+}

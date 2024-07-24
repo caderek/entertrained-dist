@@ -1,1 +1,255 @@
-{"id":"walter-pater--marius-the-epicurean","title":"Marius the Epicurean","titleAlpha":"marius the epicurean","author":"Walter Pater","language":"en","description":"A young man in the second-century Roman empire explores philosophy and religion as he travels through life.","longDescription":["Marius is born in the second-century Roman Empire to a patrician family. In his youth he takes in the rituals, religion, and surroundings of his native land, and when his parents die, he's sent away to a boarding school.","As young Marius develops into manhood, he explores various schools of philosophy and ways of life, until he lands into the position of amanuensis to the emperor Marcus Aurelius - who of course is not just the head of the largest empire the world had yet seen, but also a respected thinker and philosopher of Stoicism. Marius dips into Stoicism himself, until a fledgling new religion catches his attention: Christianity.","Marius's search for meaning gives Pater a broad canvas on which to expound on some of the central theses he would return to often in his career: how childhood experiences are essential to the personality of the adult, and how a carefully-curated, aesthetic life - but not one of pure hedonic abandon - is one of the most satisfying ways to live. Indeed, Pater is careful to distinguish Epicureanism and its emphasis on modest sensory pleasures and limiting desire, from hedonism and the ruin a life of pure consumption can bring.","Despite this focus on philosophical searching, Pater also puts the conflict Marius feels over religion at the story's forefront. Like Pater himself, who yearned for the simpler atmosphere of religion he had experienced in youth, Marius finds himself bouncing from paganism, to philosophy, to the new religion of Christianity, in search of the comfort of the lost rituals of his youth. In the end, a satisfactory peace seems elusive.","Marius the Epicurean remains an important milestone in 19th century investigations of religion and philosophy, while also being a rich example of a text brought alive with allusion and experiments in form. The story isn't a straightforward narrative, but rather features frame narratives, epistolary fragments, orations, and dialogues. This structure looks forward to the modernism that would emerge in 20th century literature. Literary critic Harold Bloom called it \"one of the more remarkable fictional experiments of the late nineteenth century.\""],"year":null,"genres":["classics","coming-of-age","fiction","history"],"topics":["religion"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/walter-pater/marius-the-epicurean"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Marius the Epicurean","length":17,"mode":"hide"},{"id":"002","title":"Imprint","length":1175,"mode":"hide"},{"id":"003","title":"Dedication","length":20,"mode":"hide"},{"id":"004","title":"Epigraph","length":42,"mode":"skip"},{"id":"005","title":"Part I - I: \"The Religion of Numa\"","length":13127,"mode":"type"},{"id":"006","title":"Part I - II: White-Nights","length":18779,"mode":"type"},{"id":"007","title":"Part I - III: Change of Air","length":20986,"mode":"type"},{"id":"008","title":"Part I - IV: The Tree of Knowledge","length":15979,"mode":"type"},{"id":"009","title":"Part I - V: The Golden Book","length":49969,"mode":"type"},{"id":"010","title":"Part I - VI: Euphuism","length":25677,"mode":"type"},{"id":"011","title":"Part I - VII: A Pagan End","length":13392,"mode":"type"},{"id":"012","title":"Part II - VIII: Animula Vagula","length":29004,"mode":"type"},{"id":"013","title":"Part II - IX: New Cyrenaicism","length":19687,"mode":"type"},{"id":"014","title":"Part II - X: On the Way","length":18355,"mode":"type"},{"id":"015","title":"Part II - XI: \"The Most Religious City in the World\"","length":21350,"mode":"type"},{"id":"016","title":"Part II - XII: The Divinity That Doth Hedge a King","length":33114,"mode":"type"},{"id":"017","title":"Part II - XIII: The \"Mistress and Mother\" of Palaces","length":25345,"mode":"type"},{"id":"018","title":"Part II - XIV: Manly Amusement","length":18361,"mode":"type"},{"id":"019","title":"Part III - XV: Stoicism at Court","length":14535,"mode":"type"},{"id":"020","title":"Part III - XVI: Second Thoughts","length":20220,"mode":"type"},{"id":"021","title":"Part III - XVII: Beata Urbs","length":16508,"mode":"type"},{"id":"022","title":"Part III - XVIII: \"The Ceremony of the Dart\"","length":22580,"mode":"type"},{"id":"023","title":"Part III - XIX: The Will as Vision","length":21282,"mode":"type"},{"id":"024","title":"Part IV - XX: Two Curious Houses - I: Guests","length":22445,"mode":"type"},{"id":"025","title":"Part IV - XXI: Two Curious Houses - II: The Church in Cecilia's House","length":22714,"mode":"type"},{"id":"026","title":"Part IV - XXII: \"The Minor Peace of the Church\"","length":25981,"mode":"type"},{"id":"027","title":"Part IV - XXIII: Divine Service","length":17397,"mode":"type"},{"id":"028","title":"Part IV - XXIV: A Conversation Not Imaginary","length":41199,"mode":"type"},{"id":"029","title":"Part IV - XXV: Sunt Lacrimae Rerum","length":18106,"mode":"type"},{"id":"030","title":"Part IV - XXVI: The Martyrs","length":14002,"mode":"type"},{"id":"031","title":"Part IV - XXVII: The Triumph of Marcus Aurelius","length":15065,"mode":"type"},{"id":"032","title":"Part IV - XXVIII: Anima Naturaliter Christiana","length":23573,"mode":"type"},{"id":"033","title":"Endnotes","length":2377,"mode":"hide"},{"id":"034","title":"Colophon","length":1003,"mode":"hide"},{"id":"035","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338351507}
+{
+  "id": "walter-pater--marius-the-epicurean",
+  "title": "Marius the Epicurean",
+  "titleAlpha": "marius the epicurean",
+  "author": "Walter Pater",
+  "language": "en",
+  "description": "A young man in the second-century Roman empire explores philosophy and religion as he travels through life.",
+  "longDescription": [
+    "Marius is born in the second-century Roman Empire to a patrician family. In his youth he takes in the rituals, religion, and surroundings of his native land, and when his parents die, he's sent away to a boarding school.",
+    "As young Marius develops into manhood, he explores various schools of philosophy and ways of life, until he lands into the position of amanuensis to the emperor Marcus Aurelius - who of course is not just the head of the largest empire the world had yet seen, but also a respected thinker and philosopher of Stoicism. Marius dips into Stoicism himself, until a fledgling new religion catches his attention: Christianity.",
+    "Marius's search for meaning gives Pater a broad canvas on which to expound on some of the central theses he would return to often in his career: how childhood experiences are essential to the personality of the adult, and how a carefully-curated, aesthetic life - but not one of pure hedonic abandon - is one of the most satisfying ways to live. Indeed, Pater is careful to distinguish Epicureanism and its emphasis on modest sensory pleasures and limiting desire, from hedonism and the ruin a life of pure consumption can bring.",
+    "Despite this focus on philosophical searching, Pater also puts the conflict Marius feels over religion at the story's forefront. Like Pater himself, who yearned for the simpler atmosphere of religion he had experienced in youth, Marius finds himself bouncing from paganism, to philosophy, to the new religion of Christianity, in search of the comfort of the lost rituals of his youth. In the end, a satisfactory peace seems elusive.",
+    "Marius the Epicurean remains an important milestone in 19th century investigations of religion and philosophy, while also being a rich example of a text brought alive with allusion and experiments in form. The story isn't a straightforward narrative, but rather features frame narratives, epistolary fragments, orations, and dialogues. This structure looks forward to the modernism that would emerge in 20th century literature. Literary critic Harold Bloom called it \"one of the more remarkable fictional experiments of the late nineteenth century.\""
+  ],
+  "year": 1885,
+  "genres": [
+    "classics",
+    "coming-of-age",
+    "fiction",
+    "history",
+    "philosophy"
+  ],
+  "topics": [
+    "religion",
+    "empires"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/walter-pater/marius-the-epicurean"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Marius the Epicurean",
+      "length": 17,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1175,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Epigraph",
+      "length": 42,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Part I - I: \"The Religion of Numa\"",
+      "length": 13127,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Part I - II: White-Nights",
+      "length": 18779,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Part I - III: Change of Air",
+      "length": 20986,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Part I - IV: The Tree of Knowledge",
+      "length": 15979,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Part I - V: The Golden Book",
+      "length": 49969,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Part I - VI: Euphuism",
+      "length": 25677,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Part I - VII: A Pagan End",
+      "length": 13392,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Part II - VIII: Animula Vagula",
+      "length": 29004,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Part II - IX: New Cyrenaicism",
+      "length": 19687,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Part II - X: On the Way",
+      "length": 18355,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Part II - XI: \"The Most Religious City in the World\"",
+      "length": 21350,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Part II - XII: The Divinity That Doth Hedge a King",
+      "length": 33114,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Part II - XIII: The \"Mistress and Mother\" of Palaces",
+      "length": 25345,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Part II - XIV: Manly Amusement",
+      "length": 18361,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Part III - XV: Stoicism at Court",
+      "length": 14535,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Part III - XVI: Second Thoughts",
+      "length": 20220,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Part III - XVII: Beata Urbs",
+      "length": 16508,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Part III - XVIII: \"The Ceremony of the Dart\"",
+      "length": 22580,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Part III - XIX: The Will as Vision",
+      "length": 21282,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Part IV - XX: Two Curious Houses - I: Guests",
+      "length": 22445,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Part IV - XXI: Two Curious Houses - II: The Church in Cecilia's House",
+      "length": 22714,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Part IV - XXII: \"The Minor Peace of the Church\"",
+      "length": 25981,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Part IV - XXIII: Divine Service",
+      "length": 17397,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Part IV - XXIV: A Conversation Not Imaginary",
+      "length": 41199,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Part IV - XXV: Sunt Lacrimae Rerum",
+      "length": 18106,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Part IV - XXVI: The Martyrs",
+      "length": 14002,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Part IV - XXVII: The Triumph of Marcus Aurelius",
+      "length": 15065,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Part IV - XXVIII: Anima Naturaliter Christiana",
+      "length": 23573,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Endnotes",
+      "length": 2377,
+      "mode": "hide"
+    },
+    {
+      "id": "034",
+      "title": "Colophon",
+      "length": 1003,
+      "mode": "hide"
+    },
+    {
+      "id": "035",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL43659W",
+  "goodreadsId": "626363",
+  "rating": 0.71,
+  "popularity": 673,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490221333
+}

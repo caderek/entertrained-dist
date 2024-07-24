@@ -1,1 +1,3404 @@
-{"id":"leo-tolstoy--short-fiction","title":"Short Fiction","titleAlpha":"short fiction","author":"Leo Tolstoy","language":"en","description":"A collection of all of the short stories and novellas written by Leo Tolstoy.","longDescription":["While perhaps best known for his novels War and Peace and Anna Karenina, the Russian author and religious thinker Leo Tolstoy was also a prolific author of short fiction. This Standard Ebooks edition compiles all of Tolstoy's short stories and novellas written from 1852 up to his death, arranged in order of their original publication.","The stories in this collection vary enormously in size and scope, from short, page-length fables composed for the education of schoolchildren, to full novellas like \"Family Happiness.\" Readers who are familiar with Tolstoy's life and religious experiences - as detailed, for example, in his spiritual memoir A Confession - may be able to trace the events of Tolstoy's life through the changing subjects of these stories. Some early stories, like \"The Raid\" and the \"Sevastopol\" sketches, draw from Tolstoy's experiences in the Caucasian War and the Crimean War when he served in the Imperial Russian Army, while other early stories like \"Recollections of a Scorer\" and \"Two Hussars\" reflect Tolstoy's personal struggle with gambling addiction.","Later stories in the collection, written during and after Tolstoy's 1870s conversion to Christian anarcho-pacifism (a spiritual and religious philosophy described in detail in his treatise The Kingdom of God Is Within You), frequently reflect either Tolstoy's own experiences in spiritual struggle (e.g. \"The Death of Ivan Ilyitch\") or his interpretation of the New Testament (e.g. \"The Forged Coupon\"), or both. Many later stories, like \"Three Questions\" and \"How Much Land Does a Man Need?\" are explicitly didactic in nature and are addressed to a popular audience to promote his religious ideals and views on social and economic justice."],"year":null,"genres":["classics","fiction","shorts"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/leo-tolstoy/short-fiction/louise-maude_aylmer-maude_nathan-haskell-dole_constance-garnett_j-d-duff_leo-weiner_r-s-townsend_hagberg-wright_benjamin-tucker_everymans-library_vladimir-chertkov_isabella-fyvie-mayo"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Short Fiction","length":235,"mode":"hide"},{"id":"002","title":"Imprint","length":1176,"mode":"hide"},{"id":"003","title":"The Raid - I","length":7783,"mode":"type"},{"id":"004","title":"The Raid - II","length":4623,"mode":"type"},{"id":"005","title":"The Raid - III","length":6021,"mode":"type"},{"id":"006","title":"The Raid - IV","length":2243,"mode":"type"},{"id":"007","title":"The Raid - V","length":4930,"mode":"type"},{"id":"008","title":"The Raid - VI","length":4544,"mode":"type"},{"id":"009","title":"The Raid - VII","length":3796,"mode":"type"},{"id":"010","title":"The Raid - VIII","length":5015,"mode":"type"},{"id":"011","title":"The Raid - IX","length":4745,"mode":"type"},{"id":"012","title":"The Raid - X","length":5522,"mode":"type"},{"id":"013","title":"The Raid - XI","length":1924,"mode":"type"},{"id":"014","title":"The Raid - XII","length":900,"mode":"type"},{"id":"015","title":"The Wood-Felling - I","length":7127,"mode":"type"},{"id":"016","title":"The Wood-Felling - II","length":5523,"mode":"type"},{"id":"017","title":"The Wood-Felling - III","length":8567,"mode":"type"},{"id":"018","title":"The Wood-Felling - IV","length":5811,"mode":"type"},{"id":"019","title":"The Wood-Felling - V","length":4415,"mode":"type"},{"id":"020","title":"The Wood-Felling - VI","length":6676,"mode":"type"},{"id":"021","title":"The Wood-Felling - VII","length":5160,"mode":"type"},{"id":"022","title":"The Wood-Felling - VIII","length":2693,"mode":"type"},{"id":"023","title":"The Wood-Felling - IX","length":2079,"mode":"type"},{"id":"024","title":"The Wood-Felling - X","length":4103,"mode":"type"},{"id":"025","title":"The Wood-Felling - XI","length":9285,"mode":"type"},{"id":"026","title":"The Wood-Felling - XII","length":6309,"mode":"type"},{"id":"027","title":"The Wood-Felling - XIII","length":10741,"mode":"type"},{"id":"028","title":"Recollections of a Scorer - A Story","length":35508,"mode":"type"},{"id":"029","title":"Sevastopol - In December 1854","length":32183,"mode":"type"},{"id":"030","title":"Sevastopol - In May 1855 - I","length":1321,"mode":"type"},{"id":"031","title":"Sevastopol - In May 1855 - II","length":5110,"mode":"type"},{"id":"032","title":"Sevastopol - In May 1855 - III","length":8744,"mode":"type"},{"id":"033","title":"Sevastopol - In May 1855 - IV","length":5730,"mode":"type"},{"id":"034","title":"Sevastopol - In May 1855 - V","length":8048,"mode":"type"},{"id":"035","title":"Sevastopol - In May 1855 - VI","length":2930,"mode":"type"},{"id":"036","title":"Sevastopol - In May 1855 - VII","length":3334,"mode":"type"},{"id":"037","title":"Sevastopol - In May 1855 - VIII","length":2388,"mode":"type"},{"id":"038","title":"Sevastopol - In May 1855 - IX","length":7698,"mode":"type"},{"id":"039","title":"Sevastopol - In May 1855 - X","length":4525,"mode":"type"},{"id":"040","title":"Sevastopol - In May 1855 - XI","length":4572,"mode":"type"},{"id":"041","title":"Sevastopol - In May 1855 - XII","length":5752,"mode":"type"},{"id":"042","title":"Sevastopol - In May 1855 - XIII","length":5737,"mode":"type"},{"id":"043","title":"Sevastopol - In May 1855 - XIV","length":882,"mode":"type"},{"id":"044","title":"Sevastopol - In May 1855 - XV","length":4478,"mode":"type"},{"id":"045","title":"Sevastopol - In May 1855 - XVI","length":6736,"mode":"type"},{"id":"046","title":"Sevastopol - In August 1855 - I","length":6886,"mode":"type"},{"id":"047","title":"Sevastopol - In August 1855 - II","length":1904,"mode":"type"},{"id":"048","title":"Sevastopol - In August 1855 - III","length":4585,"mode":"type"},{"id":"049","title":"Sevastopol - In August 1855 - IV","length":3770,"mode":"type"},{"id":"050","title":"Sevastopol - In August 1855 - V","length":4789,"mode":"type"},{"id":"051","title":"Sevastopol - In August 1855 - VI","length":3715,"mode":"type"},{"id":"052","title":"Sevastopol - In August 1855 - VII","length":4099,"mode":"type"},{"id":"053","title":"Sevastopol - In August 1855 - VIII","length":7635,"mode":"type"},{"id":"054","title":"Sevastopol - In August 1855 - IX","length":6882,"mode":"type"},{"id":"055","title":"Sevastopol - In August 1855 - X","length":3379,"mode":"type"},{"id":"056","title":"Sevastopol - In August 1855 - XI","length":4755,"mode":"type"},{"id":"057","title":"Sevastopol - In August 1855 - XII","length":4484,"mode":"type"},{"id":"058","title":"Sevastopol - In August 1855 - XIII","length":3280,"mode":"type"},{"id":"059","title":"Sevastopol - In August 1855 - XIV","length":4333,"mode":"type"},{"id":"060","title":"Sevastopol - In August 1855 - XV","length":3404,"mode":"type"},{"id":"061","title":"Sevastopol - In August 1855 - XVI","length":4109,"mode":"type"},{"id":"062","title":"Sevastopol - In August 1855 - XVII","length":5307,"mode":"type"},{"id":"063","title":"Sevastopol - In August 1855 - XVIII","length":4361,"mode":"type"},{"id":"064","title":"Sevastopol - In August 1855 - XIX","length":4906,"mode":"type"},{"id":"065","title":"Sevastopol - In August 1855 - XX","length":5947,"mode":"type"},{"id":"066","title":"Sevastopol - In August 1855 - XXI","length":6758,"mode":"type"},{"id":"067","title":"Sevastopol - In August 1855 - XXII","length":4288,"mode":"type"},{"id":"068","title":"Sevastopol - In August 1855 - XXIII","length":4090,"mode":"type"},{"id":"069","title":"Sevastopol - In August 1855 - XXIV","length":4181,"mode":"type"},{"id":"070","title":"Sevastopol - In August 1855 - XXV","length":3102,"mode":"type"},{"id":"071","title":"Sevastopol - In August 1855 - XVI","length":6881,"mode":"type"},{"id":"072","title":"Meeting a Moscow Acquaintance in the Detachment","length":55224,"mode":"type"},{"id":"073","title":"The Snowstorm - I","length":5651,"mode":"type"},{"id":"074","title":"The Snowstorm - II","length":4339,"mode":"type"},{"id":"075","title":"The Snowstorm - III","length":6407,"mode":"type"},{"id":"076","title":"The Snowstorm - IV","length":5166,"mode":"type"},{"id":"077","title":"The Snowstorm - V","length":4201,"mode":"type"},{"id":"078","title":"The Snowstorm - VI","length":16046,"mode":"type"},{"id":"079","title":"The Snowstorm - VII","length":6086,"mode":"type"},{"id":"080","title":"The Snowstorm - VIII","length":4817,"mode":"type"},{"id":"081","title":"The Snowstorm - IX","length":3516,"mode":"type"},{"id":"082","title":"The Snowstorm - X","length":3319,"mode":"type"},{"id":"083","title":"The Snowstorm - XI","length":4785,"mode":"type"},{"id":"084","title":"A Russian Proprietor - I","length":5629,"mode":"type"},{"id":"085","title":"A Russian Proprietor - II","length":9992,"mode":"type"},{"id":"086","title":"A Russian Proprietor - III","length":11178,"mode":"type"},{"id":"087","title":"A Russian Proprietor - IV","length":5389,"mode":"type"},{"id":"088","title":"A Russian Proprietor - V","length":5490,"mode":"type"},{"id":"089","title":"A Russian Proprietor - VI","length":2689,"mode":"type"},{"id":"090","title":"A Russian Proprietor - VII","length":4032,"mode":"type"},{"id":"091","title":"A Russian Proprietor - VIII","length":8601,"mode":"type"},{"id":"092","title":"A Russian Proprietor - IX","length":11886,"mode":"type"},{"id":"093","title":"A Russian Proprietor - X","length":4345,"mode":"type"},{"id":"094","title":"A Russian Proprietor - XI","length":4156,"mode":"type"},{"id":"095","title":"A Russian Proprietor - XII","length":3651,"mode":"type"},{"id":"096","title":"A Russian Proprietor - XIII","length":5197,"mode":"type"},{"id":"097","title":"A Russian Proprietor - XIV","length":4860,"mode":"type"},{"id":"098","title":"A Russian Proprietor - XV","length":6126,"mode":"type"},{"id":"099","title":"A Russian Proprietor - XVI","length":2799,"mode":"type"},{"id":"100","title":"A Russian Proprietor - XVII","length":3654,"mode":"type"},{"id":"101","title":"A Russian Proprietor - XVIII","length":5275,"mode":"type"},{"id":"102","title":"A Russian Proprietor - XIX","length":3940,"mode":"type"},{"id":"103","title":"A Russian Proprietor - XX","length":8552,"mode":"type"},{"id":"104","title":"Lucerne - From the Recollections of Prince Nekhliudof","length":58800,"mode":"type"},{"id":"105","title":"Albert - I","length":5816,"mode":"type"},{"id":"106","title":"Albert - II","length":7446,"mode":"type"},{"id":"107","title":"Albert - III","length":5642,"mode":"type"},{"id":"108","title":"Albert - IV","length":5519,"mode":"type"},{"id":"109","title":"Albert - V","length":12977,"mode":"type"},{"id":"110","title":"Albert - VI","length":9855,"mode":"type"},{"id":"111","title":"Albert - VII","length":13175,"mode":"type"},{"id":"112","title":"Two Hussars - I","length":10246,"mode":"type"},{"id":"113","title":"Two Hussars - II","length":9622,"mode":"type"},{"id":"114","title":"Two Hussars - III","length":5907,"mode":"type"},{"id":"115","title":"Two Hussars - IV","length":12771,"mode":"type"},{"id":"116","title":"Two Hussars - V","length":6322,"mode":"type"},{"id":"117","title":"Two Hussars - VI","length":8476,"mode":"type"},{"id":"118","title":"Two Hussars - VII","length":7455,"mode":"type"},{"id":"119","title":"Two Hussars - VIII","length":6146,"mode":"type"},{"id":"120","title":"Two Hussars - IX","length":12654,"mode":"type"},{"id":"121","title":"Two Hussars - X","length":9025,"mode":"type"},{"id":"122","title":"Two Hussars - XI","length":8415,"mode":"type"},{"id":"123","title":"Two Hussars - XII","length":2573,"mode":"type"},{"id":"124","title":"Two Hussars - XIII","length":11563,"mode":"type"},{"id":"125","title":"Two Hussars - XIV","length":10008,"mode":"type"},{"id":"126","title":"Two Hussars - XV","length":5284,"mode":"type"},{"id":"127","title":"Two Hussars - XVI","length":646,"mode":"type"},{"id":"128","title":"Three Deaths - I","length":9830,"mode":"type"},{"id":"129","title":"Three Deaths - II","length":6605,"mode":"type"},{"id":"130","title":"Three Deaths - III","length":7978,"mode":"type"},{"id":"131","title":"Three Deaths - IV","length":3694,"mode":"type"},{"id":"132","title":"Family Happiness - Part I - I","length":13302,"mode":"type"},{"id":"133","title":"Family Happiness - Part I - II","length":19190,"mode":"type"},{"id":"134","title":"Family Happiness - Part I - III","length":23147,"mode":"type"},{"id":"135","title":"Family Happiness - Part I - IV","length":17340,"mode":"type"},{"id":"136","title":"Family Happiness - Part I - V","length":16998,"mode":"type"},{"id":"137","title":"Family Happiness - Part II - I","length":24717,"mode":"type"},{"id":"138","title":"Family Happiness - Part II - II","length":21361,"mode":"type"},{"id":"139","title":"Family Happiness - Part II - III","length":21026,"mode":"type"},{"id":"140","title":"Family Happiness - Part II - IV","length":22041,"mode":"type"},{"id":"141","title":"Polikoushka - I","length":9805,"mode":"type"},{"id":"142","title":"Polikoushka - II","length":9608,"mode":"type"},{"id":"143","title":"Polikoushka - III","length":7294,"mode":"type"},{"id":"144","title":"Polikoushka - IV","length":3478,"mode":"type"},{"id":"145","title":"Polikoushka - V","length":12173,"mode":"type"},{"id":"146","title":"Polikoushka - VI","length":4674,"mode":"type"},{"id":"147","title":"Polikoushka - VII","length":9699,"mode":"type"},{"id":"148","title":"Polikoushka - VIII","length":9667,"mode":"type"},{"id":"149","title":"Polikoushka - IX","length":4979,"mode":"type"},{"id":"150","title":"Polikoushka - X","length":8510,"mode":"type"},{"id":"151","title":"Polikoushka - XI","length":6992,"mode":"type"},{"id":"152","title":"Polikoushka - XII","length":5313,"mode":"type"},{"id":"153","title":"Polikoushka - XIII","length":10236,"mode":"type"},{"id":"154","title":"Polikoushka - XIV","length":5944,"mode":"type"},{"id":"155","title":"Polikoushka - XV","length":21134,"mode":"type"},{"id":"156","title":"The Porcelain Doll","length":8270,"mode":"type"},{"id":"157","title":"The Decembrists - First Fragment - I","length":24125,"mode":"type"},{"id":"158","title":"The Decembrists - First Fragment - II","length":23062,"mode":"type"},{"id":"159","title":"The Decembrists - First Fragment - III","length":26215,"mode":"type"},{"id":"160","title":"The Decembrists - Second Fragment","length":22202,"mode":"type"},{"id":"161","title":"The Decembrists - Third Fragment","length":21259,"mode":"type"},{"id":"162","title":"Adaptations and Imitations of Hindu Fables - The Snake's Head and Tail","length":472,"mode":"type"},{"id":"163","title":"Adaptations and Imitations of Hindu Fables - Fine Thread","length":479,"mode":"type"},{"id":"164","title":"Adaptations and Imitations of Hindu Fables - The Partition of the Inheritance","length":559,"mode":"type"},{"id":"165","title":"Adaptations and Imitations of Hindu Fables - The Monkey","length":593,"mode":"type"},{"id":"166","title":"Adaptations and Imitations of Hindu Fables - The Monkey and the Peas","length":252,"mode":"type"},{"id":"167","title":"Adaptations and Imitations of Hindu Fables - The Milch Cow","length":307,"mode":"type"},{"id":"168","title":"Adaptations and Imitations of Hindu Fables - The Duck and the Moon","length":405,"mode":"type"},{"id":"169","title":"Adaptations and Imitations of Hindu Fables - The Wolf in the Dust","length":409,"mode":"type"},{"id":"170","title":"Adaptations and Imitations of Hindu Fables - The Mouse Under the Granary","length":470,"mode":"type"},{"id":"171","title":"Adaptations and Imitations of Hindu Fables - The Best Pears","length":425,"mode":"type"},{"id":"172","title":"Adaptations and Imitations of Hindu Fables - The Falcon and the Cock","length":668,"mode":"type"},{"id":"173","title":"Adaptations and Imitations of Hindu Fables - The Jackals and the Elephant","length":1139,"mode":"type"},{"id":"174","title":"Adaptations and Imitations of Hindu Fables - The Heron, the Fishes, and the Crab","length":1334,"mode":"type"},{"id":"175","title":"Adaptations and Imitations of Hindu Fables - The Water-Sprite and the Pearl","length":610,"mode":"type"},{"id":"176","title":"Adaptations and Imitations of Hindu Fables - The Blind Man and the Milk","length":712,"mode":"type"},{"id":"177","title":"Adaptations and Imitations of Hindu Fables - The Wolf and the Bow","length":1021,"mode":"type"},{"id":"178","title":"Adaptations and Imitations of Hindu Fables - The Birds in the Net","length":609,"mode":"type"},{"id":"179","title":"Adaptations and Imitations of Hindu Fables - The King and the Falcon","length":1430,"mode":"type"},{"id":"180","title":"Adaptations and Imitations of Hindu Fables - The King and the Elephants","length":1129,"mode":"type"},{"id":"181","title":"Adaptations and Imitations of Hindu Fables - Why There Is Evil in the World","length":3584,"mode":"type"},{"id":"182","title":"Adaptations and Imitations of Hindu Fables - The Wolf and the Hunters","length":263,"mode":"type"},{"id":"183","title":"Adaptations and Imitations of Hindu Fables - The Two Peasants","length":307,"mode":"type"},{"id":"184","title":"Adaptations and Imitations of Hindu Fables - The Peasant and the Horse","length":1159,"mode":"type"},{"id":"185","title":"Adaptations and Imitations of Hindu Fables - The Two Horses","length":563,"mode":"type"},{"id":"186","title":"Adaptations and Imitations of Hindu Fables - The Axe and the Saw","length":825,"mode":"type"},{"id":"187","title":"Adaptations and Imitations of Hindu Fables - The Dogs and the Cook","length":609,"mode":"type"},{"id":"188","title":"Adaptations and Imitations of Hindu Fables - The Hare and the Harrier","length":494,"mode":"type"},{"id":"189","title":"Adaptations and Imitations of Hindu Fables - The Oak and the Hazelbush","length":968,"mode":"type"},{"id":"190","title":"Adaptations and Imitations of Hindu Fables - The Hen and the Chicks","length":468,"mode":"type"},{"id":"191","title":"Adaptations and Imitations of Hindu Fables - The Corncrake and His Mate","length":1097,"mode":"type"},{"id":"192","title":"Adaptations and Imitations of Hindu Fables - The Cow and the Billy Goat","length":971,"mode":"type"},{"id":"193","title":"Adaptations and Imitations of Hindu Fables - The Fox's Tail","length":911,"mode":"type"},{"id":"194","title":"From the New Speller - I: The Wolf and the Kids","length":470,"mode":"type"},{"id":"195","title":"From the New Speller - II: The Farmer's Wife and the Cat","length":217,"mode":"type"},{"id":"196","title":"From the New Speller - III: The Crow and the Eagle","length":658,"mode":"type"},{"id":"197","title":"From the New Speller - IV: The Mouse and the Frog","length":275,"mode":"type"},{"id":"198","title":"From the New Speller - V: The Vainglorious Cockerel","length":568,"mode":"type"},{"id":"199","title":"From the New Speller - VI: The Ass and the Lion","length":552,"mode":"type"},{"id":"200","title":"From the New Speller - VII: The Fool and His Knife","length":381,"mode":"type"},{"id":"201","title":"From the New Speller - VIII: The Boy Driver","length":336,"mode":"type"},{"id":"202","title":"From the New Speller - IX: Life Dull Without Song","length":497,"mode":"type"},{"id":"203","title":"From the New Speller - X: The Squirrel and the Wolf","length":703,"mode":"type"},{"id":"204","title":"From the New Speller - XI: Uncle Mitya's Horse","length":649,"mode":"type"},{"id":"205","title":"From the New Speller - XII: The Book","length":319,"mode":"type"},{"id":"206","title":"From the New Speller - XIII: The Wolf and the Fox","length":354,"mode":"type"},{"id":"207","title":"From the New Speller - XIV: The Peasant and His Horse","length":529,"mode":"type"},{"id":"208","title":"From the New Speller - XV: The Eagle and the Sow","length":1142,"mode":"type"},{"id":"209","title":"From the New Speller - XVI: The Load","length":1642,"mode":"type"},{"id":"210","title":"From the New Speller - XVII: The Big Oven","length":1749,"mode":"type"},{"id":"211","title":"The Great Bear","length":1831,"mode":"type"},{"id":"212","title":"The Foundling","length":925,"mode":"type"},{"id":"213","title":"The Peasant and the Cucumbers","length":876,"mode":"type"},{"id":"214","title":"The Fire","length":2530,"mode":"type"},{"id":"215","title":"The Old Horse","length":3204,"mode":"type"},{"id":"216","title":"How I Learned to Ride","length":4310,"mode":"type"},{"id":"217","title":"The Willow","length":2782,"mode":"type"},{"id":"218","title":"Bulka","length":1958,"mode":"type"},{"id":"219","title":"Bulka and the Wild Boar","length":4357,"mode":"type"},{"id":"220","title":"Pheasants","length":2946,"mode":"type"},{"id":"221","title":"Milton and Bulka","length":1790,"mode":"type"},{"id":"222","title":"The Turtle","length":2591,"mode":"type"},{"id":"223","title":"Bulka and the Wolf","length":3528,"mode":"type"},{"id":"224","title":"What Happened to Bulka in Pyatigorsk","length":4388,"mode":"type"},{"id":"225","title":"Bulka's and Milton's End","length":1973,"mode":"type"},{"id":"226","title":"The Gray Hare","length":2892,"mode":"type"},{"id":"227","title":"Ermak","length":16073,"mode":"type"},{"id":"228","title":"Natural Science Stories - Stories from Physics - The Magnet - I","length":975,"mode":"type"},{"id":"229","title":"Natural Science Stories - Stories from Physics - The Magnet - II","length":1101,"mode":"type"},{"id":"230","title":"Natural Science Stories - Stories from Physics - The Magnet - III","length":1362,"mode":"type"},{"id":"231","title":"Natural Science Stories - Stories from Physics - Injurious Air","length":5260,"mode":"type"},{"id":"232","title":"Natural Science Stories - Stories from Physics - Galvanism","length":5620,"mode":"type"},{"id":"233","title":"Natural Science Stories - Stories from Physics - The Sun's Heat","length":4261,"mode":"type"},{"id":"234","title":"Natural Science Stories - Stories from Zoology - The Owl and the Hare","length":946,"mode":"type"},{"id":"235","title":"Natural Science Stories - Stories from Zoology - How the Wolves Teach Their Whelps","length":1084,"mode":"type"},{"id":"236","title":"Natural Science Stories - Stories from Zoology - Hares and Wolves","length":1297,"mode":"type"},{"id":"237","title":"Natural Science Stories - Stories from Zoology - The Scent","length":3236,"mode":"type"},{"id":"238","title":"Natural Science Stories - Stories from Zoology - The Silkworm","length":7960,"mode":"type"},{"id":"239","title":"Natural Science Stories - Stories from Botany - The Apple-Tree","length":2346,"mode":"type"},{"id":"240","title":"Natural Science Stories - Stories from Botany - The Old Poplar","length":1837,"mode":"type"},{"id":"241","title":"Natural Science Stories - Stories from Botany - The Bird-Cherry","length":1863,"mode":"type"},{"id":"242","title":"Natural Science Stories - Stories from Botany - How Trees Walk","length":1829,"mode":"type"},{"id":"243","title":"A Prisoner in the Caucasus - I","length":8037,"mode":"type"},{"id":"244","title":"A Prisoner in the Caucasus - II","length":11321,"mode":"type"},{"id":"245","title":"A Prisoner in the Caucasus - III","length":7720,"mode":"type"},{"id":"246","title":"A Prisoner in the Caucasus - IV","length":7344,"mode":"type"},{"id":"247","title":"A Prisoner in the Caucasus - V","length":10007,"mode":"type"},{"id":"248","title":"A Prisoner in the Caucasus - VI","length":9892,"mode":"type"},{"id":"249","title":"God Sees the Truth, but Waits","length":15876,"mode":"type"},{"id":"250","title":"The Bear-Hunt","length":18278,"mode":"type"},{"id":"251","title":"What Men Live By - I","length":4888,"mode":"type"},{"id":"252","title":"What Men Live By - II","length":3143,"mode":"type"},{"id":"253","title":"What Men Live By - III","length":4974,"mode":"type"},{"id":"254","title":"What Men Live By - IV","length":3628,"mode":"type"},{"id":"255","title":"What Men Live By - V","length":1613,"mode":"type"},{"id":"256","title":"What Men Live By - VI","length":4650,"mode":"type"},{"id":"257","title":"What Men Live By - VII","length":3111,"mode":"type"},{"id":"258","title":"What Men Live By - VIII","length":3417,"mode":"type"},{"id":"259","title":"What Men Live By - IX","length":2928,"mode":"type"},{"id":"260","title":"What Men Live By - X","length":3180,"mode":"type"},{"id":"261","title":"What Men Live By - XI","length":3911,"mode":"type"},{"id":"262","title":"What Men Live By - XII","length":1865,"mode":"type"},{"id":"263","title":"Memoirs of a Lunatic","length":29304,"mode":"type"},{"id":"264","title":"A Spark Neglected Burns the House","length":31944,"mode":"type"},{"id":"265","title":"Two Old Men - I","length":4476,"mode":"type"},{"id":"266","title":"Two Old Men - II","length":3138,"mode":"type"},{"id":"267","title":"Two Old Men - III","length":3639,"mode":"type"},{"id":"268","title":"Two Old Men - IV","length":3758,"mode":"type"},{"id":"269","title":"Two Old Men - V","length":3186,"mode":"type"},{"id":"270","title":"Two Old Men - VI","length":5538,"mode":"type"},{"id":"271","title":"Two Old Men - VII","length":2994,"mode":"type"},{"id":"272","title":"Two Old Men - VIII","length":5207,"mode":"type"},{"id":"273","title":"Two Old Men - IX","length":2763,"mode":"type"},{"id":"274","title":"Two Old Men - X","length":3702,"mode":"type"},{"id":"275","title":"Two Old Men - XI","length":4122,"mode":"type"},{"id":"276","title":"Two Old Men - XII","length":3657,"mode":"type"},{"id":"277","title":"Where Love Is, God Is","length":25330,"mode":"type"},{"id":"278","title":"The Story of Ivan the Fool - I","length":2552,"mode":"type"},{"id":"279","title":"The Story of Ivan the Fool - II","length":4199,"mode":"type"},{"id":"280","title":"The Story of Ivan the Fool - III","length":2606,"mode":"type"},{"id":"281","title":"The Story of Ivan the Fool - IV","length":5615,"mode":"type"},{"id":"282","title":"The Story of Ivan the Fool - V","length":3109,"mode":"type"},{"id":"283","title":"The Story of Ivan the Fool - VI","length":2296,"mode":"type"},{"id":"284","title":"The Story of Ivan the Fool - VII","length":4744,"mode":"type"},{"id":"285","title":"The Story of Ivan the Fool - VIII","length":2642,"mode":"type"},{"id":"286","title":"The Story of Ivan the Fool - IX","length":2588,"mode":"type"},{"id":"287","title":"The Story of Ivan the Fool - X","length":6176,"mode":"type"},{"id":"288","title":"The Story of Ivan the Fool - XI","length":4761,"mode":"type"},{"id":"289","title":"The Story of Ivan the Fool - XII","length":9884,"mode":"type"},{"id":"290","title":"Evil Allures, but Good Endures","length":4667,"mode":"type"},{"id":"291","title":"Little Girls Wiser Than Men","length":4119,"mode":"type"},{"id":"292","title":"Ilyas","length":9323,"mode":"type"},{"id":"293","title":"Croesus and Solon","length":4324,"mode":"type"},{"id":"294","title":"The Three Hermits - An Old Legend Current in the Volga District","length":13640,"mode":"type"},{"id":"295","title":"The Imp and the Crust","length":6808,"mode":"type"},{"id":"296","title":"How Much Land Does a Man Need? - I","length":2605,"mode":"type"},{"id":"297","title":"How Much Land Does a Man Need? - II","length":3619,"mode":"type"},{"id":"298","title":"How Much Land Does a Man Need? - III","length":4634,"mode":"type"},{"id":"299","title":"How Much Land Does a Man Need? - IV","length":4438,"mode":"type"},{"id":"300","title":"How Much Land Does a Man Need? - V","length":3080,"mode":"type"},{"id":"301","title":"How Much Land Does a Man Need? - VI","length":3030,"mode":"type"},{"id":"302","title":"How Much Land Does a Man Need? - VII","length":2190,"mode":"type"},{"id":"303","title":"How Much Land Does a Man Need? - VIII","length":4843,"mode":"type"},{"id":"304","title":"How Much Land Does a Man Need? - IX","length":3428,"mode":"type"},{"id":"305","title":"A Grain as Big as a Hen's Egg","length":5166,"mode":"type"},{"id":"306","title":"The Godson - I","length":2139,"mode":"type"},{"id":"307","title":"The Godson - II","length":999,"mode":"type"},{"id":"308","title":"The Godson - III","length":1580,"mode":"type"},{"id":"309","title":"The Godson - IV","length":1934,"mode":"type"},{"id":"310","title":"The Godson - V","length":3902,"mode":"type"},{"id":"311","title":"The Godson - VI","length":3302,"mode":"type"},{"id":"312","title":"The Godson - VII","length":1795,"mode":"type"},{"id":"313","title":"The Godson - VIII","length":3128,"mode":"type"},{"id":"314","title":"The Godson - IX","length":2182,"mode":"type"},{"id":"315","title":"The Godson - X","length":3825,"mode":"type"},{"id":"316","title":"The Godson - XI","length":2531,"mode":"type"},{"id":"317","title":"The Godson - XII","length":2720,"mode":"type"},{"id":"318","title":"The Godson - XIII","length":3160,"mode":"type"},{"id":"319","title":"The Repentant Sinner","length":4577,"mode":"type"},{"id":"320","title":"The Candle","length":19661,"mode":"type"},{"id":"321","title":"The Death of Ivan Ilyitch - I","length":19394,"mode":"type"},{"id":"322","title":"The Death of Ivan Ilyitch - II","length":18749,"mode":"type"},{"id":"323","title":"The Death of Ivan Ilyitch - III","length":17578,"mode":"type"},{"id":"324","title":"The Death of Ivan Ilyitch - IV","length":16881,"mode":"type"},{"id":"325","title":"The Death of Ivan Ilyitch - V","length":8816,"mode":"type"},{"id":"326","title":"The Death of Ivan Ilyitch - VI","length":6502,"mode":"type"},{"id":"327","title":"The Death of Ivan Ilyitch - VII","length":9451,"mode":"type"},{"id":"328","title":"The Death of Ivan Ilyitch - VIII","length":14478,"mode":"type"},{"id":"329","title":"The Death of Ivan Ilyitch - IX","length":5490,"mode":"type"},{"id":"330","title":"The Death of Ivan Ilyitch - X","length":4630,"mode":"type"},{"id":"331","title":"The Death of Ivan Ilyitch - XI","length":5712,"mode":"type"},{"id":"332","title":"The Death of Ivan Ilyitch - XII","length":4549,"mode":"type"},{"id":"333","title":"Kholstomir - I","length":6604,"mode":"type"},{"id":"334","title":"Kholstomir - II","length":6564,"mode":"type"},{"id":"335","title":"Kholstomir - III","length":7578,"mode":"type"},{"id":"336","title":"Kholstomir - IV","length":5375,"mode":"type"},{"id":"337","title":"Kholstomir - V","length":8248,"mode":"type"},{"id":"338","title":"Kholstomir - VI: Second Night","length":12813,"mode":"type"},{"id":"339","title":"Kholstomir - VII: Third Night","length":2008,"mode":"type"},{"id":"340","title":"Kholstomir - VIII: Fourth Night","length":7525,"mode":"type"},{"id":"341","title":"Kholstomir - IX: Fifth Night","length":3444,"mode":"type"},{"id":"342","title":"Kholstomir - X","length":3183,"mode":"type"},{"id":"343","title":"Kholstomir - XI","length":7824,"mode":"type"},{"id":"344","title":"Kholstomir - XII","length":6957,"mode":"type"},{"id":"345","title":"Kholstomir - XIII","length":5901,"mode":"type"},{"id":"346","title":"Walk in the Light While There Is Light - I","length":13048,"mode":"type"},{"id":"347","title":"Walk in the Light While There Is Light - II","length":9365,"mode":"type"},{"id":"348","title":"Walk in the Light While There Is Light - III","length":11020,"mode":"type"},{"id":"349","title":"Walk in the Light While There Is Light - IV","length":17047,"mode":"type"},{"id":"350","title":"Walk in the Light While There Is Light - V","length":12666,"mode":"type"},{"id":"351","title":"Walk in the Light While There Is Light - VI","length":11978,"mode":"type"},{"id":"352","title":"Walk in the Light While There Is Light - VII","length":5783,"mode":"type"},{"id":"353","title":"Walk in the Light While There Is Light - VIII","length":8946,"mode":"type"},{"id":"354","title":"Walk in the Light While There Is Light - IX","length":5752,"mode":"type"},{"id":"355","title":"Walk in the Light While There Is Light - X","length":9020,"mode":"type"},{"id":"356","title":"The Kreutzer Sonata - I","length":11094,"mode":"type"},{"id":"357","title":"The Kreutzer Sonata - II","length":8453,"mode":"type"},{"id":"358","title":"The Kreutzer Sonata - III","length":2691,"mode":"type"},{"id":"359","title":"The Kreutzer Sonata - IV","length":5046,"mode":"type"},{"id":"360","title":"The Kreutzer Sonata - V","length":5476,"mode":"type"},{"id":"361","title":"The Kreutzer Sonata - VI","length":2629,"mode":"type"},{"id":"362","title":"The Kreutzer Sonata - VII","length":2213,"mode":"type"},{"id":"363","title":"The Kreutzer Sonata - VIII","length":2531,"mode":"type"},{"id":"364","title":"The Kreutzer Sonata - IX","length":3608,"mode":"type"},{"id":"365","title":"The Kreutzer Sonata - X","length":3033,"mode":"type"},{"id":"366","title":"The Kreutzer Sonata - XI","length":6554,"mode":"type"},{"id":"367","title":"The Kreutzer Sonata - XII","length":6229,"mode":"type"},{"id":"368","title":"The Kreutzer Sonata - XIII","length":6325,"mode":"type"},{"id":"369","title":"The Kreutzer Sonata - XIV","length":5949,"mode":"type"},{"id":"370","title":"The Kreutzer Sonata - XV","length":4759,"mode":"type"},{"id":"371","title":"The Kreutzer Sonata - XVI","length":8038,"mode":"type"},{"id":"372","title":"The Kreutzer Sonata - XVII","length":4803,"mode":"type"},{"id":"373","title":"The Kreutzer Sonata - XVIII","length":3745,"mode":"type"},{"id":"374","title":"The Kreutzer Sonata - XIX","length":6472,"mode":"type"},{"id":"375","title":"The Kreutzer Sonata - XX","length":6992,"mode":"type"},{"id":"376","title":"The Kreutzer Sonata - XXI","length":11750,"mode":"type"},{"id":"377","title":"The Kreutzer Sonata - XXII","length":5782,"mode":"type"},{"id":"378","title":"The Kreutzer Sonata - XXIII","length":7285,"mode":"type"},{"id":"379","title":"The Kreutzer Sonata - XXIV","length":4827,"mode":"type"},{"id":"380","title":"The Kreutzer Sonata - XXV","length":8921,"mode":"type"},{"id":"381","title":"The Kreutzer Sonata - XXVI","length":7884,"mode":"type"},{"id":"382","title":"The Kreutzer Sonata - XXVII","length":10476,"mode":"type"},{"id":"383","title":"The Kreutzer Sonata - XXVIII","length":5520,"mode":"type"},{"id":"384","title":"The Devil - I","length":5670,"mode":"type"},{"id":"385","title":"The Devil - II","length":2276,"mode":"type"},{"id":"386","title":"The Devil - III","length":9299,"mode":"type"},{"id":"387","title":"The Devil - IV","length":6945,"mode":"type"},{"id":"388","title":"The Devil - V","length":3088,"mode":"type"},{"id":"389","title":"The Devil - VI","length":5884,"mode":"type"},{"id":"390","title":"The Devil - VII","length":5440,"mode":"type"},{"id":"391","title":"The Devil - XIII","length":1672,"mode":"type"},{"id":"392","title":"The Devil - IX","length":5112,"mode":"type"},{"id":"393","title":"The Devil - X","length":3132,"mode":"type"},{"id":"394","title":"The Devil - XI","length":3604,"mode":"type"},{"id":"395","title":"The Devil - XII","length":4251,"mode":"type"},{"id":"396","title":"The Devil - XIII","length":4761,"mode":"type"},{"id":"397","title":"The Devil - XIV","length":7113,"mode":"type"},{"id":"398","title":"The Devil - XV","length":4109,"mode":"type"},{"id":"399","title":"The Devil - XVI","length":4692,"mode":"type"},{"id":"400","title":"The Devil - XVII","length":4994,"mode":"type"},{"id":"401","title":"The Devil - XVIII","length":2858,"mode":"type"},{"id":"402","title":"The Devil - XIX","length":2969,"mode":"type"},{"id":"403","title":"The Devil - XX","length":4345,"mode":"type"},{"id":"404","title":"The Devil - XXI","length":2316,"mode":"type"},{"id":"405","title":"The Devil - Variation of the Conclusion of \"The Devil\"","length":4799,"mode":"type"},{"id":"406","title":"Francoise - I","length":4447,"mode":"type"},{"id":"407","title":"Francoise - II","length":9124,"mode":"type"},{"id":"408","title":"The Empty Drum","length":15984,"mode":"type"},{"id":"409","title":"A Dialogue Among Clever People","length":9197,"mode":"type"},{"id":"410","title":"The Coffeehouse of Surat","length":14977,"mode":"type"},{"id":"411","title":"The Young Tsar","length":28646,"mode":"type"},{"id":"412","title":"Master and Man - I","length":14537,"mode":"type"},{"id":"413","title":"Master and Man - II","length":11090,"mode":"type"},{"id":"414","title":"Master and Man - III","length":12462,"mode":"type"},{"id":"415","title":"Master and Man - IV","length":11595,"mode":"type"},{"id":"416","title":"Master and Man - V","length":11614,"mode":"type"},{"id":"417","title":"Master and Man - VI","length":18556,"mode":"type"},{"id":"418","title":"Master and Man - VII","length":4536,"mode":"type"},{"id":"419","title":"Master and Man - VIII","length":7148,"mode":"type"},{"id":"420","title":"Master and Man - IX","length":9319,"mode":"type"},{"id":"421","title":"Master and Man - X","length":4588,"mode":"type"},{"id":"422","title":"Three Parables - I: Parable the First","length":6500,"mode":"type"},{"id":"423","title":"Three Parables - II: Parable the Second","length":7175,"mode":"type"},{"id":"424","title":"Three Parables - III: Parable the Third","length":6256,"mode":"type"},{"id":"425","title":"Too Dear!","length":9765,"mode":"type"},{"id":"426","title":"Father Sergius - I","length":14542,"mode":"type"},{"id":"427","title":"Father Sergius - II","length":14079,"mode":"type"},{"id":"428","title":"Father Sergius - III","length":21853,"mode":"type"},{"id":"429","title":"Father Sergius - IV","length":3271,"mode":"type"},{"id":"430","title":"Father Sergius - V","length":25042,"mode":"type"},{"id":"431","title":"Father Sergius - VI","length":17234,"mode":"type"},{"id":"432","title":"The Overthrow of Hell and Its Restoration - I","length":2047,"mode":"type"},{"id":"433","title":"The Overthrow of Hell and Its Restoration - II","length":1652,"mode":"type"},{"id":"434","title":"The Overthrow of Hell and Its Restoration - III","length":3618,"mode":"type"},{"id":"435","title":"Three Questions","length":8215,"mode":"type"},{"id":"436","title":"After the Dance","length":20708,"mode":"type"},{"id":"437","title":"Esarhaddon, King of Assyria","length":12204,"mode":"type"},{"id":"438","title":"Work, Death, and Sickness - A Legend","length":4946,"mode":"type"},{"id":"439","title":"Alyosha the Pot","length":14050,"mode":"type"},{"id":"440","title":"The Posthumous Papers of the Hermit, Fedor Kusmich - I","length":14202,"mode":"type"},{"id":"441","title":"The Posthumous Papers of the Hermit, Fedor Kusmich - II: The Story of My Life","length":10055,"mode":"type"},{"id":"442","title":"The Posthumous Papers of the Hermit, Fedor Kusmich - III","length":10117,"mode":"type"},{"id":"443","title":"The Posthumous Papers of the Hermit, Fedor Kusmich - IV","length":6244,"mode":"type"},{"id":"444","title":"A Prayer","length":13010,"mode":"type"},{"id":"445","title":"Korney Vasilyef - I","length":14696,"mode":"type"},{"id":"446","title":"Korney Vasilyef - II","length":5961,"mode":"type"},{"id":"447","title":"Korney Vasilyef - III","length":3815,"mode":"type"},{"id":"448","title":"Korney Vasilyef - IV","length":5896,"mode":"type"},{"id":"449","title":"Korney Vasilyef - V","length":3792,"mode":"type"},{"id":"450","title":"Strawberries","length":24614,"mode":"type"},{"id":"451","title":"Why? - I","length":5776,"mode":"type"},{"id":"452","title":"Why? - II","length":2790,"mode":"type"},{"id":"453","title":"Why? - III","length":2768,"mode":"type"},{"id":"454","title":"Why? - IV","length":1930,"mode":"type"},{"id":"455","title":"Why? - V","length":4555,"mode":"type"},{"id":"456","title":"Why? - VI","length":6474,"mode":"type"},{"id":"457","title":"Why? - VII","length":4030,"mode":"type"},{"id":"458","title":"Why? - VIII","length":4054,"mode":"type"},{"id":"459","title":"Why? - IX","length":4227,"mode":"type"},{"id":"460","title":"Why? - X","length":3742,"mode":"type"},{"id":"461","title":"Why? - XI","length":4400,"mode":"type"},{"id":"462","title":"Why? - XII","length":7415,"mode":"type"},{"id":"463","title":"God's Way and Man's - I","length":5837,"mode":"type"},{"id":"464","title":"God's Way and Man's - II","length":2972,"mode":"type"},{"id":"465","title":"God's Way and Man's - III","length":6720,"mode":"type"},{"id":"466","title":"God's Way and Man's - IV","length":5371,"mode":"type"},{"id":"467","title":"God's Way and Man's - V","length":11920,"mode":"type"},{"id":"468","title":"God's Way and Man's - VI","length":2449,"mode":"type"},{"id":"469","title":"God's Way and Man's - VII","length":9054,"mode":"type"},{"id":"470","title":"God's Way and Man's - VIII","length":4496,"mode":"type"},{"id":"471","title":"God's Way and Man's - IX","length":6729,"mode":"type"},{"id":"472","title":"God's Way and Man's - X","length":3894,"mode":"type"},{"id":"473","title":"God's Way and Man's - XI","length":5451,"mode":"type"},{"id":"474","title":"God's Way and Man's - XII","length":3160,"mode":"type"},{"id":"475","title":"God's Way and Man's - XIII","length":7610,"mode":"type"},{"id":"476","title":"There Are No Guilty People - I","length":3432,"mode":"type"},{"id":"477","title":"There Are No Guilty People - II","length":21319,"mode":"type"},{"id":"478","title":"The Wisdom of Children - On Religion","length":1474,"mode":"type"},{"id":"479","title":"The Wisdom of Children - On War","length":1368,"mode":"type"},{"id":"480","title":"The Wisdom of Children - On State and Fatherland","length":1630,"mode":"type"},{"id":"481","title":"The Wisdom of Children - On Taxes","length":1792,"mode":"type"},{"id":"482","title":"The Wisdom of Children - On Judging","length":1388,"mode":"type"},{"id":"483","title":"The Wisdom of Children - On Kindness","length":1853,"mode":"type"},{"id":"484","title":"The Wisdom of Children - On Renumeration of Labour","length":1513,"mode":"type"},{"id":"485","title":"The Wisdom of Children - On Drink","length":3064,"mode":"type"},{"id":"486","title":"The Wisdom of Children - On Capital Punishment","length":4020,"mode":"type"},{"id":"487","title":"The Wisdom of Children - On Prisons","length":3455,"mode":"type"},{"id":"488","title":"The Wisdom of Children - On Wealth","length":3602,"mode":"type"},{"id":"489","title":"The Wisdom of Children - On Those Who Offend You","length":1764,"mode":"type"},{"id":"490","title":"The Wisdom of Children - On the Press","length":3165,"mode":"type"},{"id":"491","title":"The Wisdom of Children - On Repentance","length":2212,"mode":"type"},{"id":"492","title":"The Wisdom of Children - On Art","length":4113,"mode":"type"},{"id":"493","title":"The Wisdom of Children - On Science","length":3079,"mode":"type"},{"id":"494","title":"The Wisdom of Children - On Going to Law","length":2396,"mode":"type"},{"id":"495","title":"The Wisdom of Children - On the Criminal Court","length":1183,"mode":"type"},{"id":"496","title":"The Wisdom of Children - On Property","length":2561,"mode":"type"},{"id":"497","title":"The Wisdom of Children - On Children","length":4856,"mode":"type"},{"id":"498","title":"The Wisdom of Children - On Education","length":4951,"mode":"type"},{"id":"499","title":"Two Wayfarers","length":5451,"mode":"type"},{"id":"500","title":"Khodinka - An Incident of the Coronation of Nicholas II","length":16823,"mode":"type"},{"id":"501","title":"The Memoirs of a Mother","length":24712,"mode":"type"},{"id":"502","title":"Father Vasily - I","length":4497,"mode":"type"},{"id":"503","title":"Father Vasily - II","length":2233,"mode":"type"},{"id":"504","title":"Father Vasily - III","length":4082,"mode":"type"},{"id":"505","title":"Father Vasily - IV","length":2480,"mode":"type"},{"id":"506","title":"Three Days in the Village - First Day - Tramps","length":15290,"mode":"type"},{"id":"507","title":"Three Days in the Village - Second Day - The Living and the Dying","length":15675,"mode":"type"},{"id":"508","title":"Three Days in the Village - Third Day - Taxes","length":9901,"mode":"type"},{"id":"509","title":"Three Days in the Village - Conclusion - A Dream","length":17385,"mode":"type"},{"id":"510","title":"Singing in the Village","length":9279,"mode":"type"},{"id":"511","title":"Traveller and Peasant","length":13810,"mode":"type"},{"id":"512","title":"A Talk with a Wayfarer","length":3384,"mode":"type"},{"id":"513","title":"From the Diary","length":10360,"mode":"type"},{"id":"514","title":"The Forged Coupon - Part I - I","length":6541,"mode":"type"},{"id":"515","title":"The Forged Coupon - Part I - II","length":1865,"mode":"type"},{"id":"516","title":"The Forged Coupon - Part I - III","length":2271,"mode":"type"},{"id":"517","title":"The Forged Coupon - Part I - IV","length":1939,"mode":"type"},{"id":"518","title":"The Forged Coupon - Part I - V","length":1680,"mode":"type"},{"id":"519","title":"The Forged Coupon - Part I - VI","length":5791,"mode":"type"},{"id":"520","title":"The Forged Coupon - Part I - VII","length":3238,"mode":"type"},{"id":"521","title":"The Forged Coupon - Part I - VIII","length":4713,"mode":"type"},{"id":"522","title":"The Forged Coupon - Part I - IX","length":5152,"mode":"type"},{"id":"523","title":"The Forged Coupon - Part I - X","length":2558,"mode":"type"},{"id":"524","title":"The Forged Coupon - Part I - XI","length":3248,"mode":"type"},{"id":"525","title":"The Forged Coupon - Part I - XII","length":6981,"mode":"type"},{"id":"526","title":"The Forged Coupon - Part I - XIII","length":5440,"mode":"type"},{"id":"527","title":"The Forged Coupon - Part I - XIV","length":4631,"mode":"type"},{"id":"528","title":"The Forged Coupon - Part I - XV","length":6034,"mode":"type"},{"id":"529","title":"The Forged Coupon - Part I - XVI","length":2761,"mode":"type"},{"id":"530","title":"The Forged Coupon - Part I - XVII","length":3502,"mode":"type"},{"id":"531","title":"The Forged Coupon - Part I - XVIII","length":2222,"mode":"type"},{"id":"532","title":"The Forged Coupon - Part I - XIX","length":1959,"mode":"type"},{"id":"533","title":"The Forged Coupon - Part I - XX","length":3575,"mode":"type"},{"id":"534","title":"The Forged Coupon - Part I - XXI","length":4977,"mode":"type"},{"id":"535","title":"The Forged Coupon - Part I - XXII","length":2809,"mode":"type"},{"id":"536","title":"The Forged Coupon - Part I - XXIII","length":4674,"mode":"type"},{"id":"537","title":"The Forged Coupon - Part II - I","length":4308,"mode":"type"},{"id":"538","title":"The Forged Coupon - Part II - II","length":4500,"mode":"type"},{"id":"539","title":"The Forged Coupon - Part II - III","length":6449,"mode":"type"},{"id":"540","title":"The Forged Coupon - Part II - IV","length":2921,"mode":"type"},{"id":"541","title":"The Forged Coupon - Part II - V","length":1733,"mode":"type"},{"id":"542","title":"The Forged Coupon - Part II - VI","length":1504,"mode":"type"},{"id":"543","title":"The Forged Coupon - Part II - VII","length":2962,"mode":"type"},{"id":"544","title":"The Forged Coupon - Part II - VIII","length":1812,"mode":"type"},{"id":"545","title":"The Forged Coupon - Part II - IX","length":3812,"mode":"type"},{"id":"546","title":"The Forged Coupon - Part II - X","length":5817,"mode":"type"},{"id":"547","title":"The Forged Coupon - Part II - XI","length":4776,"mode":"type"},{"id":"548","title":"The Forged Coupon - Part II - XII","length":1269,"mode":"type"},{"id":"549","title":"The Forged Coupon - Part II - XIII","length":2530,"mode":"type"},{"id":"550","title":"The Forged Coupon - Part II - XIV","length":1309,"mode":"type"},{"id":"551","title":"The Forged Coupon - Part II - XV","length":3994,"mode":"type"},{"id":"552","title":"The Forged Coupon - Part II - XVI","length":2158,"mode":"type"},{"id":"553","title":"The Forged Coupon - Part II - XVII","length":1230,"mode":"type"},{"id":"554","title":"The Forged Coupon - Part II - XVIII","length":1287,"mode":"type"},{"id":"555","title":"The Forged Coupon - Part II - XIX","length":414,"mode":"type"},{"id":"556","title":"My Dream - I","length":11170,"mode":"type"},{"id":"557","title":"My Dream - II","length":8203,"mode":"type"},{"id":"558","title":"My Dream - III","length":5390,"mode":"type"},{"id":"559","title":"Endnotes","length":46122,"mode":"hide"},{"id":"560","title":"Colophon","length":1475,"mode":"hide"},{"id":"561","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338038944}
+{
+  "id": "leo-tolstoy--short-fiction",
+  "title": "Short Fiction",
+  "titleAlpha": "short fiction",
+  "author": "Leo Tolstoy",
+  "language": "en",
+  "description": "A collection of all of the short stories and novellas written by Leo Tolstoy.",
+  "longDescription": [
+    "While perhaps best known for his novels War and Peace and Anna Karenina, the Russian author and religious thinker Leo Tolstoy was also a prolific author of short fiction. This Standard Ebooks edition compiles all of Tolstoy's short stories and novellas written from 1852 up to his death, arranged in order of their original publication.",
+    "The stories in this collection vary enormously in size and scope, from short, page-length fables composed for the education of schoolchildren, to full novellas like \"Family Happiness.\" Readers who are familiar with Tolstoy's life and religious experiences - as detailed, for example, in his spiritual memoir A Confession - may be able to trace the events of Tolstoy's life through the changing subjects of these stories. Some early stories, like \"The Raid\" and the \"Sevastopol\" sketches, draw from Tolstoy's experiences in the Caucasian War and the Crimean War when he served in the Imperial Russian Army, while other early stories like \"Recollections of a Scorer\" and \"Two Hussars\" reflect Tolstoy's personal struggle with gambling addiction.",
+    "Later stories in the collection, written during and after Tolstoy's 1870s conversion to Christian anarcho-pacifism (a spiritual and religious philosophy described in detail in his treatise The Kingdom of God Is Within You), frequently reflect either Tolstoy's own experiences in spiritual struggle (e.g. \"The Death of Ivan Ilyitch\") or his interpretation of the New Testament (e.g. \"The Forged Coupon\"), or both. Many later stories, like \"Three Questions\" and \"How Much Land Does a Man Need?\" are explicitly didactic in nature and are addressed to a popular audience to promote his religious ideals and views on social and economic justice."
+  ],
+  "year": 1967,
+  "genres": [
+    "classics",
+    "fiction",
+    "shorts"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/leo-tolstoy/short-fiction/louise-maude_aylmer-maude_nathan-haskell-dole_constance-garnett_j-d-duff_leo-weiner_r-s-townsend_hagberg-wright_benjamin-tucker_everymans-library_vladimir-chertkov_isabella-fyvie-mayo"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Short Fiction",
+      "length": 235,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "The Raid - I",
+      "length": 7783,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "The Raid - II",
+      "length": 4623,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "The Raid - III",
+      "length": 6021,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "The Raid - IV",
+      "length": 2243,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "The Raid - V",
+      "length": 4930,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "The Raid - VI",
+      "length": 4544,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "The Raid - VII",
+      "length": 3796,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "The Raid - VIII",
+      "length": 5015,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "The Raid - IX",
+      "length": 4745,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "The Raid - X",
+      "length": 5522,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "The Raid - XI",
+      "length": 1924,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "The Raid - XII",
+      "length": 900,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "The Wood-Felling - I",
+      "length": 7127,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "The Wood-Felling - II",
+      "length": 5523,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "The Wood-Felling - III",
+      "length": 8567,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "The Wood-Felling - IV",
+      "length": 5811,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "The Wood-Felling - V",
+      "length": 4415,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "The Wood-Felling - VI",
+      "length": 6676,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "The Wood-Felling - VII",
+      "length": 5160,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "The Wood-Felling - VIII",
+      "length": 2693,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "The Wood-Felling - IX",
+      "length": 2079,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "The Wood-Felling - X",
+      "length": 4103,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "The Wood-Felling - XI",
+      "length": 9285,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "The Wood-Felling - XII",
+      "length": 6309,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "The Wood-Felling - XIII",
+      "length": 10741,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Recollections of a Scorer - A Story",
+      "length": 35508,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Sevastopol - In December 1854",
+      "length": 32183,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Sevastopol - In May 1855 - I",
+      "length": 1321,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Sevastopol - In May 1855 - II",
+      "length": 5110,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Sevastopol - In May 1855 - III",
+      "length": 8744,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Sevastopol - In May 1855 - IV",
+      "length": 5730,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Sevastopol - In May 1855 - V",
+      "length": 8048,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Sevastopol - In May 1855 - VI",
+      "length": 2930,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Sevastopol - In May 1855 - VII",
+      "length": 3334,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Sevastopol - In May 1855 - VIII",
+      "length": 2388,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Sevastopol - In May 1855 - IX",
+      "length": 7698,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Sevastopol - In May 1855 - X",
+      "length": 4525,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Sevastopol - In May 1855 - XI",
+      "length": 4572,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Sevastopol - In May 1855 - XII",
+      "length": 5752,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Sevastopol - In May 1855 - XIII",
+      "length": 5737,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Sevastopol - In May 1855 - XIV",
+      "length": 882,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Sevastopol - In May 1855 - XV",
+      "length": 4478,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Sevastopol - In May 1855 - XVI",
+      "length": 6736,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Sevastopol - In August 1855 - I",
+      "length": 6886,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Sevastopol - In August 1855 - II",
+      "length": 1904,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Sevastopol - In August 1855 - III",
+      "length": 4585,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "Sevastopol - In August 1855 - IV",
+      "length": 3770,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Sevastopol - In August 1855 - V",
+      "length": 4789,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "Sevastopol - In August 1855 - VI",
+      "length": 3715,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "Sevastopol - In August 1855 - VII",
+      "length": 4099,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "Sevastopol - In August 1855 - VIII",
+      "length": 7635,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "Sevastopol - In August 1855 - IX",
+      "length": 6882,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "Sevastopol - In August 1855 - X",
+      "length": 3379,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "Sevastopol - In August 1855 - XI",
+      "length": 4755,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "Sevastopol - In August 1855 - XII",
+      "length": 4484,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "Sevastopol - In August 1855 - XIII",
+      "length": 3280,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "Sevastopol - In August 1855 - XIV",
+      "length": 4333,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "Sevastopol - In August 1855 - XV",
+      "length": 3404,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "Sevastopol - In August 1855 - XVI",
+      "length": 4109,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "Sevastopol - In August 1855 - XVII",
+      "length": 5307,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "Sevastopol - In August 1855 - XVIII",
+      "length": 4361,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "Sevastopol - In August 1855 - XIX",
+      "length": 4906,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "Sevastopol - In August 1855 - XX",
+      "length": 5947,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "Sevastopol - In August 1855 - XXI",
+      "length": 6758,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "Sevastopol - In August 1855 - XXII",
+      "length": 4288,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "Sevastopol - In August 1855 - XXIII",
+      "length": 4090,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "Sevastopol - In August 1855 - XXIV",
+      "length": 4181,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "Sevastopol - In August 1855 - XXV",
+      "length": 3102,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "Sevastopol - In August 1855 - XVI",
+      "length": 6881,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "Meeting a Moscow Acquaintance in the Detachment",
+      "length": 55224,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "The Snowstorm - I",
+      "length": 5651,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "The Snowstorm - II",
+      "length": 4339,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "The Snowstorm - III",
+      "length": 6407,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "The Snowstorm - IV",
+      "length": 5166,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "The Snowstorm - V",
+      "length": 4201,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "The Snowstorm - VI",
+      "length": 16046,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "The Snowstorm - VII",
+      "length": 6086,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "The Snowstorm - VIII",
+      "length": 4817,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "The Snowstorm - IX",
+      "length": 3516,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "The Snowstorm - X",
+      "length": 3319,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "The Snowstorm - XI",
+      "length": 4785,
+      "mode": "type"
+    },
+    {
+      "id": "084",
+      "title": "A Russian Proprietor - I",
+      "length": 5629,
+      "mode": "type"
+    },
+    {
+      "id": "085",
+      "title": "A Russian Proprietor - II",
+      "length": 9992,
+      "mode": "type"
+    },
+    {
+      "id": "086",
+      "title": "A Russian Proprietor - III",
+      "length": 11178,
+      "mode": "type"
+    },
+    {
+      "id": "087",
+      "title": "A Russian Proprietor - IV",
+      "length": 5389,
+      "mode": "type"
+    },
+    {
+      "id": "088",
+      "title": "A Russian Proprietor - V",
+      "length": 5490,
+      "mode": "type"
+    },
+    {
+      "id": "089",
+      "title": "A Russian Proprietor - VI",
+      "length": 2689,
+      "mode": "type"
+    },
+    {
+      "id": "090",
+      "title": "A Russian Proprietor - VII",
+      "length": 4032,
+      "mode": "type"
+    },
+    {
+      "id": "091",
+      "title": "A Russian Proprietor - VIII",
+      "length": 8601,
+      "mode": "type"
+    },
+    {
+      "id": "092",
+      "title": "A Russian Proprietor - IX",
+      "length": 11886,
+      "mode": "type"
+    },
+    {
+      "id": "093",
+      "title": "A Russian Proprietor - X",
+      "length": 4345,
+      "mode": "type"
+    },
+    {
+      "id": "094",
+      "title": "A Russian Proprietor - XI",
+      "length": 4156,
+      "mode": "type"
+    },
+    {
+      "id": "095",
+      "title": "A Russian Proprietor - XII",
+      "length": 3651,
+      "mode": "type"
+    },
+    {
+      "id": "096",
+      "title": "A Russian Proprietor - XIII",
+      "length": 5197,
+      "mode": "type"
+    },
+    {
+      "id": "097",
+      "title": "A Russian Proprietor - XIV",
+      "length": 4860,
+      "mode": "type"
+    },
+    {
+      "id": "098",
+      "title": "A Russian Proprietor - XV",
+      "length": 6126,
+      "mode": "type"
+    },
+    {
+      "id": "099",
+      "title": "A Russian Proprietor - XVI",
+      "length": 2799,
+      "mode": "type"
+    },
+    {
+      "id": "100",
+      "title": "A Russian Proprietor - XVII",
+      "length": 3654,
+      "mode": "type"
+    },
+    {
+      "id": "101",
+      "title": "A Russian Proprietor - XVIII",
+      "length": 5275,
+      "mode": "type"
+    },
+    {
+      "id": "102",
+      "title": "A Russian Proprietor - XIX",
+      "length": 3940,
+      "mode": "type"
+    },
+    {
+      "id": "103",
+      "title": "A Russian Proprietor - XX",
+      "length": 8552,
+      "mode": "type"
+    },
+    {
+      "id": "104",
+      "title": "Lucerne - From the Recollections of Prince Nekhliudof",
+      "length": 58800,
+      "mode": "type"
+    },
+    {
+      "id": "105",
+      "title": "Albert - I",
+      "length": 5816,
+      "mode": "type"
+    },
+    {
+      "id": "106",
+      "title": "Albert - II",
+      "length": 7446,
+      "mode": "type"
+    },
+    {
+      "id": "107",
+      "title": "Albert - III",
+      "length": 5642,
+      "mode": "type"
+    },
+    {
+      "id": "108",
+      "title": "Albert - IV",
+      "length": 5519,
+      "mode": "type"
+    },
+    {
+      "id": "109",
+      "title": "Albert - V",
+      "length": 12977,
+      "mode": "type"
+    },
+    {
+      "id": "110",
+      "title": "Albert - VI",
+      "length": 9855,
+      "mode": "type"
+    },
+    {
+      "id": "111",
+      "title": "Albert - VII",
+      "length": 13175,
+      "mode": "type"
+    },
+    {
+      "id": "112",
+      "title": "Two Hussars - I",
+      "length": 10246,
+      "mode": "type"
+    },
+    {
+      "id": "113",
+      "title": "Two Hussars - II",
+      "length": 9622,
+      "mode": "type"
+    },
+    {
+      "id": "114",
+      "title": "Two Hussars - III",
+      "length": 5907,
+      "mode": "type"
+    },
+    {
+      "id": "115",
+      "title": "Two Hussars - IV",
+      "length": 12771,
+      "mode": "type"
+    },
+    {
+      "id": "116",
+      "title": "Two Hussars - V",
+      "length": 6322,
+      "mode": "type"
+    },
+    {
+      "id": "117",
+      "title": "Two Hussars - VI",
+      "length": 8476,
+      "mode": "type"
+    },
+    {
+      "id": "118",
+      "title": "Two Hussars - VII",
+      "length": 7455,
+      "mode": "type"
+    },
+    {
+      "id": "119",
+      "title": "Two Hussars - VIII",
+      "length": 6146,
+      "mode": "type"
+    },
+    {
+      "id": "120",
+      "title": "Two Hussars - IX",
+      "length": 12654,
+      "mode": "type"
+    },
+    {
+      "id": "121",
+      "title": "Two Hussars - X",
+      "length": 9025,
+      "mode": "type"
+    },
+    {
+      "id": "122",
+      "title": "Two Hussars - XI",
+      "length": 8415,
+      "mode": "type"
+    },
+    {
+      "id": "123",
+      "title": "Two Hussars - XII",
+      "length": 2573,
+      "mode": "type"
+    },
+    {
+      "id": "124",
+      "title": "Two Hussars - XIII",
+      "length": 11563,
+      "mode": "type"
+    },
+    {
+      "id": "125",
+      "title": "Two Hussars - XIV",
+      "length": 10008,
+      "mode": "type"
+    },
+    {
+      "id": "126",
+      "title": "Two Hussars - XV",
+      "length": 5284,
+      "mode": "type"
+    },
+    {
+      "id": "127",
+      "title": "Two Hussars - XVI",
+      "length": 646,
+      "mode": "type"
+    },
+    {
+      "id": "128",
+      "title": "Three Deaths - I",
+      "length": 9830,
+      "mode": "type"
+    },
+    {
+      "id": "129",
+      "title": "Three Deaths - II",
+      "length": 6605,
+      "mode": "type"
+    },
+    {
+      "id": "130",
+      "title": "Three Deaths - III",
+      "length": 7978,
+      "mode": "type"
+    },
+    {
+      "id": "131",
+      "title": "Three Deaths - IV",
+      "length": 3694,
+      "mode": "type"
+    },
+    {
+      "id": "132",
+      "title": "Family Happiness - Part I - I",
+      "length": 13302,
+      "mode": "type"
+    },
+    {
+      "id": "133",
+      "title": "Family Happiness - Part I - II",
+      "length": 19190,
+      "mode": "type"
+    },
+    {
+      "id": "134",
+      "title": "Family Happiness - Part I - III",
+      "length": 23147,
+      "mode": "type"
+    },
+    {
+      "id": "135",
+      "title": "Family Happiness - Part I - IV",
+      "length": 17340,
+      "mode": "type"
+    },
+    {
+      "id": "136",
+      "title": "Family Happiness - Part I - V",
+      "length": 16998,
+      "mode": "type"
+    },
+    {
+      "id": "137",
+      "title": "Family Happiness - Part II - I",
+      "length": 24717,
+      "mode": "type"
+    },
+    {
+      "id": "138",
+      "title": "Family Happiness - Part II - II",
+      "length": 21361,
+      "mode": "type"
+    },
+    {
+      "id": "139",
+      "title": "Family Happiness - Part II - III",
+      "length": 21026,
+      "mode": "type"
+    },
+    {
+      "id": "140",
+      "title": "Family Happiness - Part II - IV",
+      "length": 22041,
+      "mode": "type"
+    },
+    {
+      "id": "141",
+      "title": "Polikoushka - I",
+      "length": 9805,
+      "mode": "type"
+    },
+    {
+      "id": "142",
+      "title": "Polikoushka - II",
+      "length": 9608,
+      "mode": "type"
+    },
+    {
+      "id": "143",
+      "title": "Polikoushka - III",
+      "length": 7294,
+      "mode": "type"
+    },
+    {
+      "id": "144",
+      "title": "Polikoushka - IV",
+      "length": 3478,
+      "mode": "type"
+    },
+    {
+      "id": "145",
+      "title": "Polikoushka - V",
+      "length": 12173,
+      "mode": "type"
+    },
+    {
+      "id": "146",
+      "title": "Polikoushka - VI",
+      "length": 4674,
+      "mode": "type"
+    },
+    {
+      "id": "147",
+      "title": "Polikoushka - VII",
+      "length": 9699,
+      "mode": "type"
+    },
+    {
+      "id": "148",
+      "title": "Polikoushka - VIII",
+      "length": 9667,
+      "mode": "type"
+    },
+    {
+      "id": "149",
+      "title": "Polikoushka - IX",
+      "length": 4979,
+      "mode": "type"
+    },
+    {
+      "id": "150",
+      "title": "Polikoushka - X",
+      "length": 8510,
+      "mode": "type"
+    },
+    {
+      "id": "151",
+      "title": "Polikoushka - XI",
+      "length": 6992,
+      "mode": "type"
+    },
+    {
+      "id": "152",
+      "title": "Polikoushka - XII",
+      "length": 5313,
+      "mode": "type"
+    },
+    {
+      "id": "153",
+      "title": "Polikoushka - XIII",
+      "length": 10236,
+      "mode": "type"
+    },
+    {
+      "id": "154",
+      "title": "Polikoushka - XIV",
+      "length": 5944,
+      "mode": "type"
+    },
+    {
+      "id": "155",
+      "title": "Polikoushka - XV",
+      "length": 21134,
+      "mode": "type"
+    },
+    {
+      "id": "156",
+      "title": "The Porcelain Doll",
+      "length": 8270,
+      "mode": "type"
+    },
+    {
+      "id": "157",
+      "title": "The Decembrists - First Fragment - I",
+      "length": 24125,
+      "mode": "type"
+    },
+    {
+      "id": "158",
+      "title": "The Decembrists - First Fragment - II",
+      "length": 23062,
+      "mode": "type"
+    },
+    {
+      "id": "159",
+      "title": "The Decembrists - First Fragment - III",
+      "length": 26215,
+      "mode": "type"
+    },
+    {
+      "id": "160",
+      "title": "The Decembrists - Second Fragment",
+      "length": 22202,
+      "mode": "type"
+    },
+    {
+      "id": "161",
+      "title": "The Decembrists - Third Fragment",
+      "length": 21259,
+      "mode": "type"
+    },
+    {
+      "id": "162",
+      "title": "Adaptations and Imitations of Hindu Fables - The Snake's Head and Tail",
+      "length": 472,
+      "mode": "type"
+    },
+    {
+      "id": "163",
+      "title": "Adaptations and Imitations of Hindu Fables - Fine Thread",
+      "length": 479,
+      "mode": "type"
+    },
+    {
+      "id": "164",
+      "title": "Adaptations and Imitations of Hindu Fables - The Partition of the Inheritance",
+      "length": 559,
+      "mode": "type"
+    },
+    {
+      "id": "165",
+      "title": "Adaptations and Imitations of Hindu Fables - The Monkey",
+      "length": 593,
+      "mode": "type"
+    },
+    {
+      "id": "166",
+      "title": "Adaptations and Imitations of Hindu Fables - The Monkey and the Peas",
+      "length": 252,
+      "mode": "type"
+    },
+    {
+      "id": "167",
+      "title": "Adaptations and Imitations of Hindu Fables - The Milch Cow",
+      "length": 307,
+      "mode": "type"
+    },
+    {
+      "id": "168",
+      "title": "Adaptations and Imitations of Hindu Fables - The Duck and the Moon",
+      "length": 405,
+      "mode": "type"
+    },
+    {
+      "id": "169",
+      "title": "Adaptations and Imitations of Hindu Fables - The Wolf in the Dust",
+      "length": 409,
+      "mode": "type"
+    },
+    {
+      "id": "170",
+      "title": "Adaptations and Imitations of Hindu Fables - The Mouse Under the Granary",
+      "length": 470,
+      "mode": "type"
+    },
+    {
+      "id": "171",
+      "title": "Adaptations and Imitations of Hindu Fables - The Best Pears",
+      "length": 425,
+      "mode": "type"
+    },
+    {
+      "id": "172",
+      "title": "Adaptations and Imitations of Hindu Fables - The Falcon and the Cock",
+      "length": 668,
+      "mode": "type"
+    },
+    {
+      "id": "173",
+      "title": "Adaptations and Imitations of Hindu Fables - The Jackals and the Elephant",
+      "length": 1139,
+      "mode": "type"
+    },
+    {
+      "id": "174",
+      "title": "Adaptations and Imitations of Hindu Fables - The Heron, the Fishes, and the Crab",
+      "length": 1334,
+      "mode": "type"
+    },
+    {
+      "id": "175",
+      "title": "Adaptations and Imitations of Hindu Fables - The Water-Sprite and the Pearl",
+      "length": 610,
+      "mode": "type"
+    },
+    {
+      "id": "176",
+      "title": "Adaptations and Imitations of Hindu Fables - The Blind Man and the Milk",
+      "length": 712,
+      "mode": "type"
+    },
+    {
+      "id": "177",
+      "title": "Adaptations and Imitations of Hindu Fables - The Wolf and the Bow",
+      "length": 1021,
+      "mode": "type"
+    },
+    {
+      "id": "178",
+      "title": "Adaptations and Imitations of Hindu Fables - The Birds in the Net",
+      "length": 609,
+      "mode": "type"
+    },
+    {
+      "id": "179",
+      "title": "Adaptations and Imitations of Hindu Fables - The King and the Falcon",
+      "length": 1430,
+      "mode": "type"
+    },
+    {
+      "id": "180",
+      "title": "Adaptations and Imitations of Hindu Fables - The King and the Elephants",
+      "length": 1129,
+      "mode": "type"
+    },
+    {
+      "id": "181",
+      "title": "Adaptations and Imitations of Hindu Fables - Why There Is Evil in the World",
+      "length": 3584,
+      "mode": "type"
+    },
+    {
+      "id": "182",
+      "title": "Adaptations and Imitations of Hindu Fables - The Wolf and the Hunters",
+      "length": 263,
+      "mode": "type"
+    },
+    {
+      "id": "183",
+      "title": "Adaptations and Imitations of Hindu Fables - The Two Peasants",
+      "length": 307,
+      "mode": "type"
+    },
+    {
+      "id": "184",
+      "title": "Adaptations and Imitations of Hindu Fables - The Peasant and the Horse",
+      "length": 1159,
+      "mode": "type"
+    },
+    {
+      "id": "185",
+      "title": "Adaptations and Imitations of Hindu Fables - The Two Horses",
+      "length": 563,
+      "mode": "type"
+    },
+    {
+      "id": "186",
+      "title": "Adaptations and Imitations of Hindu Fables - The Axe and the Saw",
+      "length": 825,
+      "mode": "type"
+    },
+    {
+      "id": "187",
+      "title": "Adaptations and Imitations of Hindu Fables - The Dogs and the Cook",
+      "length": 609,
+      "mode": "type"
+    },
+    {
+      "id": "188",
+      "title": "Adaptations and Imitations of Hindu Fables - The Hare and the Harrier",
+      "length": 494,
+      "mode": "type"
+    },
+    {
+      "id": "189",
+      "title": "Adaptations and Imitations of Hindu Fables - The Oak and the Hazelbush",
+      "length": 968,
+      "mode": "type"
+    },
+    {
+      "id": "190",
+      "title": "Adaptations and Imitations of Hindu Fables - The Hen and the Chicks",
+      "length": 468,
+      "mode": "type"
+    },
+    {
+      "id": "191",
+      "title": "Adaptations and Imitations of Hindu Fables - The Corncrake and His Mate",
+      "length": 1097,
+      "mode": "type"
+    },
+    {
+      "id": "192",
+      "title": "Adaptations and Imitations of Hindu Fables - The Cow and the Billy Goat",
+      "length": 971,
+      "mode": "type"
+    },
+    {
+      "id": "193",
+      "title": "Adaptations and Imitations of Hindu Fables - The Fox's Tail",
+      "length": 911,
+      "mode": "type"
+    },
+    {
+      "id": "194",
+      "title": "From the New Speller - I: The Wolf and the Kids",
+      "length": 470,
+      "mode": "type"
+    },
+    {
+      "id": "195",
+      "title": "From the New Speller - II: The Farmer's Wife and the Cat",
+      "length": 217,
+      "mode": "type"
+    },
+    {
+      "id": "196",
+      "title": "From the New Speller - III: The Crow and the Eagle",
+      "length": 658,
+      "mode": "type"
+    },
+    {
+      "id": "197",
+      "title": "From the New Speller - IV: The Mouse and the Frog",
+      "length": 275,
+      "mode": "type"
+    },
+    {
+      "id": "198",
+      "title": "From the New Speller - V: The Vainglorious Cockerel",
+      "length": 568,
+      "mode": "type"
+    },
+    {
+      "id": "199",
+      "title": "From the New Speller - VI: The Ass and the Lion",
+      "length": 552,
+      "mode": "type"
+    },
+    {
+      "id": "200",
+      "title": "From the New Speller - VII: The Fool and His Knife",
+      "length": 381,
+      "mode": "type"
+    },
+    {
+      "id": "201",
+      "title": "From the New Speller - VIII: The Boy Driver",
+      "length": 336,
+      "mode": "type"
+    },
+    {
+      "id": "202",
+      "title": "From the New Speller - IX: Life Dull Without Song",
+      "length": 497,
+      "mode": "type"
+    },
+    {
+      "id": "203",
+      "title": "From the New Speller - X: The Squirrel and the Wolf",
+      "length": 703,
+      "mode": "type"
+    },
+    {
+      "id": "204",
+      "title": "From the New Speller - XI: Uncle Mitya's Horse",
+      "length": 649,
+      "mode": "type"
+    },
+    {
+      "id": "205",
+      "title": "From the New Speller - XII: The Book",
+      "length": 319,
+      "mode": "type"
+    },
+    {
+      "id": "206",
+      "title": "From the New Speller - XIII: The Wolf and the Fox",
+      "length": 354,
+      "mode": "type"
+    },
+    {
+      "id": "207",
+      "title": "From the New Speller - XIV: The Peasant and His Horse",
+      "length": 529,
+      "mode": "type"
+    },
+    {
+      "id": "208",
+      "title": "From the New Speller - XV: The Eagle and the Sow",
+      "length": 1142,
+      "mode": "type"
+    },
+    {
+      "id": "209",
+      "title": "From the New Speller - XVI: The Load",
+      "length": 1642,
+      "mode": "type"
+    },
+    {
+      "id": "210",
+      "title": "From the New Speller - XVII: The Big Oven",
+      "length": 1749,
+      "mode": "type"
+    },
+    {
+      "id": "211",
+      "title": "The Great Bear",
+      "length": 1831,
+      "mode": "type"
+    },
+    {
+      "id": "212",
+      "title": "The Foundling",
+      "length": 925,
+      "mode": "type"
+    },
+    {
+      "id": "213",
+      "title": "The Peasant and the Cucumbers",
+      "length": 876,
+      "mode": "type"
+    },
+    {
+      "id": "214",
+      "title": "The Fire",
+      "length": 2530,
+      "mode": "type"
+    },
+    {
+      "id": "215",
+      "title": "The Old Horse",
+      "length": 3204,
+      "mode": "type"
+    },
+    {
+      "id": "216",
+      "title": "How I Learned to Ride",
+      "length": 4310,
+      "mode": "type"
+    },
+    {
+      "id": "217",
+      "title": "The Willow",
+      "length": 2782,
+      "mode": "type"
+    },
+    {
+      "id": "218",
+      "title": "Bulka",
+      "length": 1958,
+      "mode": "type"
+    },
+    {
+      "id": "219",
+      "title": "Bulka and the Wild Boar",
+      "length": 4357,
+      "mode": "type"
+    },
+    {
+      "id": "220",
+      "title": "Pheasants",
+      "length": 2946,
+      "mode": "type"
+    },
+    {
+      "id": "221",
+      "title": "Milton and Bulka",
+      "length": 1790,
+      "mode": "type"
+    },
+    {
+      "id": "222",
+      "title": "The Turtle",
+      "length": 2591,
+      "mode": "type"
+    },
+    {
+      "id": "223",
+      "title": "Bulka and the Wolf",
+      "length": 3528,
+      "mode": "type"
+    },
+    {
+      "id": "224",
+      "title": "What Happened to Bulka in Pyatigorsk",
+      "length": 4388,
+      "mode": "type"
+    },
+    {
+      "id": "225",
+      "title": "Bulka's and Milton's End",
+      "length": 1973,
+      "mode": "type"
+    },
+    {
+      "id": "226",
+      "title": "The Gray Hare",
+      "length": 2892,
+      "mode": "type"
+    },
+    {
+      "id": "227",
+      "title": "Ermak",
+      "length": 16073,
+      "mode": "type"
+    },
+    {
+      "id": "228",
+      "title": "Natural Science Stories - Stories from Physics - The Magnet - I",
+      "length": 975,
+      "mode": "type"
+    },
+    {
+      "id": "229",
+      "title": "Natural Science Stories - Stories from Physics - The Magnet - II",
+      "length": 1101,
+      "mode": "type"
+    },
+    {
+      "id": "230",
+      "title": "Natural Science Stories - Stories from Physics - The Magnet - III",
+      "length": 1362,
+      "mode": "type"
+    },
+    {
+      "id": "231",
+      "title": "Natural Science Stories - Stories from Physics - Injurious Air",
+      "length": 5260,
+      "mode": "type"
+    },
+    {
+      "id": "232",
+      "title": "Natural Science Stories - Stories from Physics - Galvanism",
+      "length": 5620,
+      "mode": "type"
+    },
+    {
+      "id": "233",
+      "title": "Natural Science Stories - Stories from Physics - The Sun's Heat",
+      "length": 4261,
+      "mode": "type"
+    },
+    {
+      "id": "234",
+      "title": "Natural Science Stories - Stories from Zoology - The Owl and the Hare",
+      "length": 946,
+      "mode": "type"
+    },
+    {
+      "id": "235",
+      "title": "Natural Science Stories - Stories from Zoology - How the Wolves Teach Their Whelps",
+      "length": 1084,
+      "mode": "type"
+    },
+    {
+      "id": "236",
+      "title": "Natural Science Stories - Stories from Zoology - Hares and Wolves",
+      "length": 1297,
+      "mode": "type"
+    },
+    {
+      "id": "237",
+      "title": "Natural Science Stories - Stories from Zoology - The Scent",
+      "length": 3236,
+      "mode": "type"
+    },
+    {
+      "id": "238",
+      "title": "Natural Science Stories - Stories from Zoology - The Silkworm",
+      "length": 7960,
+      "mode": "type"
+    },
+    {
+      "id": "239",
+      "title": "Natural Science Stories - Stories from Botany - The Apple-Tree",
+      "length": 2346,
+      "mode": "type"
+    },
+    {
+      "id": "240",
+      "title": "Natural Science Stories - Stories from Botany - The Old Poplar",
+      "length": 1837,
+      "mode": "type"
+    },
+    {
+      "id": "241",
+      "title": "Natural Science Stories - Stories from Botany - The Bird-Cherry",
+      "length": 1863,
+      "mode": "type"
+    },
+    {
+      "id": "242",
+      "title": "Natural Science Stories - Stories from Botany - How Trees Walk",
+      "length": 1829,
+      "mode": "type"
+    },
+    {
+      "id": "243",
+      "title": "A Prisoner in the Caucasus - I",
+      "length": 8037,
+      "mode": "type"
+    },
+    {
+      "id": "244",
+      "title": "A Prisoner in the Caucasus - II",
+      "length": 11321,
+      "mode": "type"
+    },
+    {
+      "id": "245",
+      "title": "A Prisoner in the Caucasus - III",
+      "length": 7720,
+      "mode": "type"
+    },
+    {
+      "id": "246",
+      "title": "A Prisoner in the Caucasus - IV",
+      "length": 7344,
+      "mode": "type"
+    },
+    {
+      "id": "247",
+      "title": "A Prisoner in the Caucasus - V",
+      "length": 10007,
+      "mode": "type"
+    },
+    {
+      "id": "248",
+      "title": "A Prisoner in the Caucasus - VI",
+      "length": 9892,
+      "mode": "type"
+    },
+    {
+      "id": "249",
+      "title": "God Sees the Truth, but Waits",
+      "length": 15876,
+      "mode": "type"
+    },
+    {
+      "id": "250",
+      "title": "The Bear-Hunt",
+      "length": 18278,
+      "mode": "type"
+    },
+    {
+      "id": "251",
+      "title": "What Men Live By - I",
+      "length": 4888,
+      "mode": "type"
+    },
+    {
+      "id": "252",
+      "title": "What Men Live By - II",
+      "length": 3143,
+      "mode": "type"
+    },
+    {
+      "id": "253",
+      "title": "What Men Live By - III",
+      "length": 4974,
+      "mode": "type"
+    },
+    {
+      "id": "254",
+      "title": "What Men Live By - IV",
+      "length": 3628,
+      "mode": "type"
+    },
+    {
+      "id": "255",
+      "title": "What Men Live By - V",
+      "length": 1613,
+      "mode": "type"
+    },
+    {
+      "id": "256",
+      "title": "What Men Live By - VI",
+      "length": 4650,
+      "mode": "type"
+    },
+    {
+      "id": "257",
+      "title": "What Men Live By - VII",
+      "length": 3111,
+      "mode": "type"
+    },
+    {
+      "id": "258",
+      "title": "What Men Live By - VIII",
+      "length": 3417,
+      "mode": "type"
+    },
+    {
+      "id": "259",
+      "title": "What Men Live By - IX",
+      "length": 2928,
+      "mode": "type"
+    },
+    {
+      "id": "260",
+      "title": "What Men Live By - X",
+      "length": 3180,
+      "mode": "type"
+    },
+    {
+      "id": "261",
+      "title": "What Men Live By - XI",
+      "length": 3911,
+      "mode": "type"
+    },
+    {
+      "id": "262",
+      "title": "What Men Live By - XII",
+      "length": 1865,
+      "mode": "type"
+    },
+    {
+      "id": "263",
+      "title": "Memoirs of a Lunatic",
+      "length": 29304,
+      "mode": "type"
+    },
+    {
+      "id": "264",
+      "title": "A Spark Neglected Burns the House",
+      "length": 31944,
+      "mode": "type"
+    },
+    {
+      "id": "265",
+      "title": "Two Old Men - I",
+      "length": 4476,
+      "mode": "type"
+    },
+    {
+      "id": "266",
+      "title": "Two Old Men - II",
+      "length": 3138,
+      "mode": "type"
+    },
+    {
+      "id": "267",
+      "title": "Two Old Men - III",
+      "length": 3639,
+      "mode": "type"
+    },
+    {
+      "id": "268",
+      "title": "Two Old Men - IV",
+      "length": 3758,
+      "mode": "type"
+    },
+    {
+      "id": "269",
+      "title": "Two Old Men - V",
+      "length": 3186,
+      "mode": "type"
+    },
+    {
+      "id": "270",
+      "title": "Two Old Men - VI",
+      "length": 5538,
+      "mode": "type"
+    },
+    {
+      "id": "271",
+      "title": "Two Old Men - VII",
+      "length": 2994,
+      "mode": "type"
+    },
+    {
+      "id": "272",
+      "title": "Two Old Men - VIII",
+      "length": 5207,
+      "mode": "type"
+    },
+    {
+      "id": "273",
+      "title": "Two Old Men - IX",
+      "length": 2763,
+      "mode": "type"
+    },
+    {
+      "id": "274",
+      "title": "Two Old Men - X",
+      "length": 3702,
+      "mode": "type"
+    },
+    {
+      "id": "275",
+      "title": "Two Old Men - XI",
+      "length": 4122,
+      "mode": "type"
+    },
+    {
+      "id": "276",
+      "title": "Two Old Men - XII",
+      "length": 3657,
+      "mode": "type"
+    },
+    {
+      "id": "277",
+      "title": "Where Love Is, God Is",
+      "length": 25330,
+      "mode": "type"
+    },
+    {
+      "id": "278",
+      "title": "The Story of Ivan the Fool - I",
+      "length": 2552,
+      "mode": "type"
+    },
+    {
+      "id": "279",
+      "title": "The Story of Ivan the Fool - II",
+      "length": 4199,
+      "mode": "type"
+    },
+    {
+      "id": "280",
+      "title": "The Story of Ivan the Fool - III",
+      "length": 2606,
+      "mode": "type"
+    },
+    {
+      "id": "281",
+      "title": "The Story of Ivan the Fool - IV",
+      "length": 5615,
+      "mode": "type"
+    },
+    {
+      "id": "282",
+      "title": "The Story of Ivan the Fool - V",
+      "length": 3109,
+      "mode": "type"
+    },
+    {
+      "id": "283",
+      "title": "The Story of Ivan the Fool - VI",
+      "length": 2296,
+      "mode": "type"
+    },
+    {
+      "id": "284",
+      "title": "The Story of Ivan the Fool - VII",
+      "length": 4744,
+      "mode": "type"
+    },
+    {
+      "id": "285",
+      "title": "The Story of Ivan the Fool - VIII",
+      "length": 2642,
+      "mode": "type"
+    },
+    {
+      "id": "286",
+      "title": "The Story of Ivan the Fool - IX",
+      "length": 2588,
+      "mode": "type"
+    },
+    {
+      "id": "287",
+      "title": "The Story of Ivan the Fool - X",
+      "length": 6176,
+      "mode": "type"
+    },
+    {
+      "id": "288",
+      "title": "The Story of Ivan the Fool - XI",
+      "length": 4761,
+      "mode": "type"
+    },
+    {
+      "id": "289",
+      "title": "The Story of Ivan the Fool - XII",
+      "length": 9884,
+      "mode": "type"
+    },
+    {
+      "id": "290",
+      "title": "Evil Allures, but Good Endures",
+      "length": 4667,
+      "mode": "type"
+    },
+    {
+      "id": "291",
+      "title": "Little Girls Wiser Than Men",
+      "length": 4119,
+      "mode": "type"
+    },
+    {
+      "id": "292",
+      "title": "Ilyas",
+      "length": 9323,
+      "mode": "type"
+    },
+    {
+      "id": "293",
+      "title": "Croesus and Solon",
+      "length": 4324,
+      "mode": "type"
+    },
+    {
+      "id": "294",
+      "title": "The Three Hermits - An Old Legend Current in the Volga District",
+      "length": 13640,
+      "mode": "type"
+    },
+    {
+      "id": "295",
+      "title": "The Imp and the Crust",
+      "length": 6808,
+      "mode": "type"
+    },
+    {
+      "id": "296",
+      "title": "How Much Land Does a Man Need? - I",
+      "length": 2605,
+      "mode": "type"
+    },
+    {
+      "id": "297",
+      "title": "How Much Land Does a Man Need? - II",
+      "length": 3619,
+      "mode": "type"
+    },
+    {
+      "id": "298",
+      "title": "How Much Land Does a Man Need? - III",
+      "length": 4634,
+      "mode": "type"
+    },
+    {
+      "id": "299",
+      "title": "How Much Land Does a Man Need? - IV",
+      "length": 4438,
+      "mode": "type"
+    },
+    {
+      "id": "300",
+      "title": "How Much Land Does a Man Need? - V",
+      "length": 3080,
+      "mode": "type"
+    },
+    {
+      "id": "301",
+      "title": "How Much Land Does a Man Need? - VI",
+      "length": 3030,
+      "mode": "type"
+    },
+    {
+      "id": "302",
+      "title": "How Much Land Does a Man Need? - VII",
+      "length": 2190,
+      "mode": "type"
+    },
+    {
+      "id": "303",
+      "title": "How Much Land Does a Man Need? - VIII",
+      "length": 4843,
+      "mode": "type"
+    },
+    {
+      "id": "304",
+      "title": "How Much Land Does a Man Need? - IX",
+      "length": 3428,
+      "mode": "type"
+    },
+    {
+      "id": "305",
+      "title": "A Grain as Big as a Hen's Egg",
+      "length": 5166,
+      "mode": "type"
+    },
+    {
+      "id": "306",
+      "title": "The Godson - I",
+      "length": 2139,
+      "mode": "type"
+    },
+    {
+      "id": "307",
+      "title": "The Godson - II",
+      "length": 999,
+      "mode": "type"
+    },
+    {
+      "id": "308",
+      "title": "The Godson - III",
+      "length": 1580,
+      "mode": "type"
+    },
+    {
+      "id": "309",
+      "title": "The Godson - IV",
+      "length": 1934,
+      "mode": "type"
+    },
+    {
+      "id": "310",
+      "title": "The Godson - V",
+      "length": 3902,
+      "mode": "type"
+    },
+    {
+      "id": "311",
+      "title": "The Godson - VI",
+      "length": 3302,
+      "mode": "type"
+    },
+    {
+      "id": "312",
+      "title": "The Godson - VII",
+      "length": 1795,
+      "mode": "type"
+    },
+    {
+      "id": "313",
+      "title": "The Godson - VIII",
+      "length": 3128,
+      "mode": "type"
+    },
+    {
+      "id": "314",
+      "title": "The Godson - IX",
+      "length": 2182,
+      "mode": "type"
+    },
+    {
+      "id": "315",
+      "title": "The Godson - X",
+      "length": 3825,
+      "mode": "type"
+    },
+    {
+      "id": "316",
+      "title": "The Godson - XI",
+      "length": 2531,
+      "mode": "type"
+    },
+    {
+      "id": "317",
+      "title": "The Godson - XII",
+      "length": 2720,
+      "mode": "type"
+    },
+    {
+      "id": "318",
+      "title": "The Godson - XIII",
+      "length": 3160,
+      "mode": "type"
+    },
+    {
+      "id": "319",
+      "title": "The Repentant Sinner",
+      "length": 4577,
+      "mode": "type"
+    },
+    {
+      "id": "320",
+      "title": "The Candle",
+      "length": 19661,
+      "mode": "type"
+    },
+    {
+      "id": "321",
+      "title": "The Death of Ivan Ilyitch - I",
+      "length": 19394,
+      "mode": "type"
+    },
+    {
+      "id": "322",
+      "title": "The Death of Ivan Ilyitch - II",
+      "length": 18749,
+      "mode": "type"
+    },
+    {
+      "id": "323",
+      "title": "The Death of Ivan Ilyitch - III",
+      "length": 17578,
+      "mode": "type"
+    },
+    {
+      "id": "324",
+      "title": "The Death of Ivan Ilyitch - IV",
+      "length": 16881,
+      "mode": "type"
+    },
+    {
+      "id": "325",
+      "title": "The Death of Ivan Ilyitch - V",
+      "length": 8816,
+      "mode": "type"
+    },
+    {
+      "id": "326",
+      "title": "The Death of Ivan Ilyitch - VI",
+      "length": 6502,
+      "mode": "type"
+    },
+    {
+      "id": "327",
+      "title": "The Death of Ivan Ilyitch - VII",
+      "length": 9451,
+      "mode": "type"
+    },
+    {
+      "id": "328",
+      "title": "The Death of Ivan Ilyitch - VIII",
+      "length": 14478,
+      "mode": "type"
+    },
+    {
+      "id": "329",
+      "title": "The Death of Ivan Ilyitch - IX",
+      "length": 5490,
+      "mode": "type"
+    },
+    {
+      "id": "330",
+      "title": "The Death of Ivan Ilyitch - X",
+      "length": 4630,
+      "mode": "type"
+    },
+    {
+      "id": "331",
+      "title": "The Death of Ivan Ilyitch - XI",
+      "length": 5712,
+      "mode": "type"
+    },
+    {
+      "id": "332",
+      "title": "The Death of Ivan Ilyitch - XII",
+      "length": 4549,
+      "mode": "type"
+    },
+    {
+      "id": "333",
+      "title": "Kholstomir - I",
+      "length": 6604,
+      "mode": "type"
+    },
+    {
+      "id": "334",
+      "title": "Kholstomir - II",
+      "length": 6564,
+      "mode": "type"
+    },
+    {
+      "id": "335",
+      "title": "Kholstomir - III",
+      "length": 7578,
+      "mode": "type"
+    },
+    {
+      "id": "336",
+      "title": "Kholstomir - IV",
+      "length": 5375,
+      "mode": "type"
+    },
+    {
+      "id": "337",
+      "title": "Kholstomir - V",
+      "length": 8248,
+      "mode": "type"
+    },
+    {
+      "id": "338",
+      "title": "Kholstomir - VI: Second Night",
+      "length": 12813,
+      "mode": "type"
+    },
+    {
+      "id": "339",
+      "title": "Kholstomir - VII: Third Night",
+      "length": 2008,
+      "mode": "type"
+    },
+    {
+      "id": "340",
+      "title": "Kholstomir - VIII: Fourth Night",
+      "length": 7525,
+      "mode": "type"
+    },
+    {
+      "id": "341",
+      "title": "Kholstomir - IX: Fifth Night",
+      "length": 3444,
+      "mode": "type"
+    },
+    {
+      "id": "342",
+      "title": "Kholstomir - X",
+      "length": 3183,
+      "mode": "type"
+    },
+    {
+      "id": "343",
+      "title": "Kholstomir - XI",
+      "length": 7824,
+      "mode": "type"
+    },
+    {
+      "id": "344",
+      "title": "Kholstomir - XII",
+      "length": 6957,
+      "mode": "type"
+    },
+    {
+      "id": "345",
+      "title": "Kholstomir - XIII",
+      "length": 5901,
+      "mode": "type"
+    },
+    {
+      "id": "346",
+      "title": "Walk in the Light While There Is Light - I",
+      "length": 13048,
+      "mode": "type"
+    },
+    {
+      "id": "347",
+      "title": "Walk in the Light While There Is Light - II",
+      "length": 9365,
+      "mode": "type"
+    },
+    {
+      "id": "348",
+      "title": "Walk in the Light While There Is Light - III",
+      "length": 11020,
+      "mode": "type"
+    },
+    {
+      "id": "349",
+      "title": "Walk in the Light While There Is Light - IV",
+      "length": 17047,
+      "mode": "type"
+    },
+    {
+      "id": "350",
+      "title": "Walk in the Light While There Is Light - V",
+      "length": 12666,
+      "mode": "type"
+    },
+    {
+      "id": "351",
+      "title": "Walk in the Light While There Is Light - VI",
+      "length": 11978,
+      "mode": "type"
+    },
+    {
+      "id": "352",
+      "title": "Walk in the Light While There Is Light - VII",
+      "length": 5783,
+      "mode": "type"
+    },
+    {
+      "id": "353",
+      "title": "Walk in the Light While There Is Light - VIII",
+      "length": 8946,
+      "mode": "type"
+    },
+    {
+      "id": "354",
+      "title": "Walk in the Light While There Is Light - IX",
+      "length": 5752,
+      "mode": "type"
+    },
+    {
+      "id": "355",
+      "title": "Walk in the Light While There Is Light - X",
+      "length": 9020,
+      "mode": "type"
+    },
+    {
+      "id": "356",
+      "title": "The Kreutzer Sonata - I",
+      "length": 11094,
+      "mode": "type"
+    },
+    {
+      "id": "357",
+      "title": "The Kreutzer Sonata - II",
+      "length": 8453,
+      "mode": "type"
+    },
+    {
+      "id": "358",
+      "title": "The Kreutzer Sonata - III",
+      "length": 2691,
+      "mode": "type"
+    },
+    {
+      "id": "359",
+      "title": "The Kreutzer Sonata - IV",
+      "length": 5046,
+      "mode": "type"
+    },
+    {
+      "id": "360",
+      "title": "The Kreutzer Sonata - V",
+      "length": 5476,
+      "mode": "type"
+    },
+    {
+      "id": "361",
+      "title": "The Kreutzer Sonata - VI",
+      "length": 2629,
+      "mode": "type"
+    },
+    {
+      "id": "362",
+      "title": "The Kreutzer Sonata - VII",
+      "length": 2213,
+      "mode": "type"
+    },
+    {
+      "id": "363",
+      "title": "The Kreutzer Sonata - VIII",
+      "length": 2531,
+      "mode": "type"
+    },
+    {
+      "id": "364",
+      "title": "The Kreutzer Sonata - IX",
+      "length": 3608,
+      "mode": "type"
+    },
+    {
+      "id": "365",
+      "title": "The Kreutzer Sonata - X",
+      "length": 3033,
+      "mode": "type"
+    },
+    {
+      "id": "366",
+      "title": "The Kreutzer Sonata - XI",
+      "length": 6554,
+      "mode": "type"
+    },
+    {
+      "id": "367",
+      "title": "The Kreutzer Sonata - XII",
+      "length": 6229,
+      "mode": "type"
+    },
+    {
+      "id": "368",
+      "title": "The Kreutzer Sonata - XIII",
+      "length": 6325,
+      "mode": "type"
+    },
+    {
+      "id": "369",
+      "title": "The Kreutzer Sonata - XIV",
+      "length": 5949,
+      "mode": "type"
+    },
+    {
+      "id": "370",
+      "title": "The Kreutzer Sonata - XV",
+      "length": 4759,
+      "mode": "type"
+    },
+    {
+      "id": "371",
+      "title": "The Kreutzer Sonata - XVI",
+      "length": 8038,
+      "mode": "type"
+    },
+    {
+      "id": "372",
+      "title": "The Kreutzer Sonata - XVII",
+      "length": 4803,
+      "mode": "type"
+    },
+    {
+      "id": "373",
+      "title": "The Kreutzer Sonata - XVIII",
+      "length": 3745,
+      "mode": "type"
+    },
+    {
+      "id": "374",
+      "title": "The Kreutzer Sonata - XIX",
+      "length": 6472,
+      "mode": "type"
+    },
+    {
+      "id": "375",
+      "title": "The Kreutzer Sonata - XX",
+      "length": 6992,
+      "mode": "type"
+    },
+    {
+      "id": "376",
+      "title": "The Kreutzer Sonata - XXI",
+      "length": 11750,
+      "mode": "type"
+    },
+    {
+      "id": "377",
+      "title": "The Kreutzer Sonata - XXII",
+      "length": 5782,
+      "mode": "type"
+    },
+    {
+      "id": "378",
+      "title": "The Kreutzer Sonata - XXIII",
+      "length": 7285,
+      "mode": "type"
+    },
+    {
+      "id": "379",
+      "title": "The Kreutzer Sonata - XXIV",
+      "length": 4827,
+      "mode": "type"
+    },
+    {
+      "id": "380",
+      "title": "The Kreutzer Sonata - XXV",
+      "length": 8921,
+      "mode": "type"
+    },
+    {
+      "id": "381",
+      "title": "The Kreutzer Sonata - XXVI",
+      "length": 7884,
+      "mode": "type"
+    },
+    {
+      "id": "382",
+      "title": "The Kreutzer Sonata - XXVII",
+      "length": 10476,
+      "mode": "type"
+    },
+    {
+      "id": "383",
+      "title": "The Kreutzer Sonata - XXVIII",
+      "length": 5520,
+      "mode": "type"
+    },
+    {
+      "id": "384",
+      "title": "The Devil - I",
+      "length": 5670,
+      "mode": "type"
+    },
+    {
+      "id": "385",
+      "title": "The Devil - II",
+      "length": 2276,
+      "mode": "type"
+    },
+    {
+      "id": "386",
+      "title": "The Devil - III",
+      "length": 9299,
+      "mode": "type"
+    },
+    {
+      "id": "387",
+      "title": "The Devil - IV",
+      "length": 6945,
+      "mode": "type"
+    },
+    {
+      "id": "388",
+      "title": "The Devil - V",
+      "length": 3088,
+      "mode": "type"
+    },
+    {
+      "id": "389",
+      "title": "The Devil - VI",
+      "length": 5884,
+      "mode": "type"
+    },
+    {
+      "id": "390",
+      "title": "The Devil - VII",
+      "length": 5440,
+      "mode": "type"
+    },
+    {
+      "id": "391",
+      "title": "The Devil - XIII",
+      "length": 1672,
+      "mode": "type"
+    },
+    {
+      "id": "392",
+      "title": "The Devil - IX",
+      "length": 5112,
+      "mode": "type"
+    },
+    {
+      "id": "393",
+      "title": "The Devil - X",
+      "length": 3132,
+      "mode": "type"
+    },
+    {
+      "id": "394",
+      "title": "The Devil - XI",
+      "length": 3604,
+      "mode": "type"
+    },
+    {
+      "id": "395",
+      "title": "The Devil - XII",
+      "length": 4251,
+      "mode": "type"
+    },
+    {
+      "id": "396",
+      "title": "The Devil - XIII",
+      "length": 4761,
+      "mode": "type"
+    },
+    {
+      "id": "397",
+      "title": "The Devil - XIV",
+      "length": 7113,
+      "mode": "type"
+    },
+    {
+      "id": "398",
+      "title": "The Devil - XV",
+      "length": 4109,
+      "mode": "type"
+    },
+    {
+      "id": "399",
+      "title": "The Devil - XVI",
+      "length": 4692,
+      "mode": "type"
+    },
+    {
+      "id": "400",
+      "title": "The Devil - XVII",
+      "length": 4994,
+      "mode": "type"
+    },
+    {
+      "id": "401",
+      "title": "The Devil - XVIII",
+      "length": 2858,
+      "mode": "type"
+    },
+    {
+      "id": "402",
+      "title": "The Devil - XIX",
+      "length": 2969,
+      "mode": "type"
+    },
+    {
+      "id": "403",
+      "title": "The Devil - XX",
+      "length": 4345,
+      "mode": "type"
+    },
+    {
+      "id": "404",
+      "title": "The Devil - XXI",
+      "length": 2316,
+      "mode": "type"
+    },
+    {
+      "id": "405",
+      "title": "The Devil - Variation of the Conclusion of \"The Devil\"",
+      "length": 4799,
+      "mode": "type"
+    },
+    {
+      "id": "406",
+      "title": "Francoise - I",
+      "length": 4447,
+      "mode": "type"
+    },
+    {
+      "id": "407",
+      "title": "Francoise - II",
+      "length": 9124,
+      "mode": "type"
+    },
+    {
+      "id": "408",
+      "title": "The Empty Drum",
+      "length": 15984,
+      "mode": "type"
+    },
+    {
+      "id": "409",
+      "title": "A Dialogue Among Clever People",
+      "length": 9197,
+      "mode": "type"
+    },
+    {
+      "id": "410",
+      "title": "The Coffeehouse of Surat",
+      "length": 14977,
+      "mode": "type"
+    },
+    {
+      "id": "411",
+      "title": "The Young Tsar",
+      "length": 28646,
+      "mode": "type"
+    },
+    {
+      "id": "412",
+      "title": "Master and Man - I",
+      "length": 14537,
+      "mode": "type"
+    },
+    {
+      "id": "413",
+      "title": "Master and Man - II",
+      "length": 11090,
+      "mode": "type"
+    },
+    {
+      "id": "414",
+      "title": "Master and Man - III",
+      "length": 12462,
+      "mode": "type"
+    },
+    {
+      "id": "415",
+      "title": "Master and Man - IV",
+      "length": 11595,
+      "mode": "type"
+    },
+    {
+      "id": "416",
+      "title": "Master and Man - V",
+      "length": 11614,
+      "mode": "type"
+    },
+    {
+      "id": "417",
+      "title": "Master and Man - VI",
+      "length": 18556,
+      "mode": "type"
+    },
+    {
+      "id": "418",
+      "title": "Master and Man - VII",
+      "length": 4536,
+      "mode": "type"
+    },
+    {
+      "id": "419",
+      "title": "Master and Man - VIII",
+      "length": 7148,
+      "mode": "type"
+    },
+    {
+      "id": "420",
+      "title": "Master and Man - IX",
+      "length": 9319,
+      "mode": "type"
+    },
+    {
+      "id": "421",
+      "title": "Master and Man - X",
+      "length": 4588,
+      "mode": "type"
+    },
+    {
+      "id": "422",
+      "title": "Three Parables - I: Parable the First",
+      "length": 6500,
+      "mode": "type"
+    },
+    {
+      "id": "423",
+      "title": "Three Parables - II: Parable the Second",
+      "length": 7175,
+      "mode": "type"
+    },
+    {
+      "id": "424",
+      "title": "Three Parables - III: Parable the Third",
+      "length": 6256,
+      "mode": "type"
+    },
+    {
+      "id": "425",
+      "title": "Too Dear!",
+      "length": 9765,
+      "mode": "type"
+    },
+    {
+      "id": "426",
+      "title": "Father Sergius - I",
+      "length": 14542,
+      "mode": "type"
+    },
+    {
+      "id": "427",
+      "title": "Father Sergius - II",
+      "length": 14079,
+      "mode": "type"
+    },
+    {
+      "id": "428",
+      "title": "Father Sergius - III",
+      "length": 21853,
+      "mode": "type"
+    },
+    {
+      "id": "429",
+      "title": "Father Sergius - IV",
+      "length": 3271,
+      "mode": "type"
+    },
+    {
+      "id": "430",
+      "title": "Father Sergius - V",
+      "length": 25042,
+      "mode": "type"
+    },
+    {
+      "id": "431",
+      "title": "Father Sergius - VI",
+      "length": 17234,
+      "mode": "type"
+    },
+    {
+      "id": "432",
+      "title": "The Overthrow of Hell and Its Restoration - I",
+      "length": 2047,
+      "mode": "type"
+    },
+    {
+      "id": "433",
+      "title": "The Overthrow of Hell and Its Restoration - II",
+      "length": 1652,
+      "mode": "type"
+    },
+    {
+      "id": "434",
+      "title": "The Overthrow of Hell and Its Restoration - III",
+      "length": 3618,
+      "mode": "type"
+    },
+    {
+      "id": "435",
+      "title": "Three Questions",
+      "length": 8215,
+      "mode": "type"
+    },
+    {
+      "id": "436",
+      "title": "After the Dance",
+      "length": 20708,
+      "mode": "type"
+    },
+    {
+      "id": "437",
+      "title": "Esarhaddon, King of Assyria",
+      "length": 12204,
+      "mode": "type"
+    },
+    {
+      "id": "438",
+      "title": "Work, Death, and Sickness - A Legend",
+      "length": 4946,
+      "mode": "type"
+    },
+    {
+      "id": "439",
+      "title": "Alyosha the Pot",
+      "length": 14050,
+      "mode": "type"
+    },
+    {
+      "id": "440",
+      "title": "The Posthumous Papers of the Hermit, Fedor Kusmich - I",
+      "length": 14202,
+      "mode": "type"
+    },
+    {
+      "id": "441",
+      "title": "The Posthumous Papers of the Hermit, Fedor Kusmich - II: The Story of My Life",
+      "length": 10055,
+      "mode": "type"
+    },
+    {
+      "id": "442",
+      "title": "The Posthumous Papers of the Hermit, Fedor Kusmich - III",
+      "length": 10117,
+      "mode": "type"
+    },
+    {
+      "id": "443",
+      "title": "The Posthumous Papers of the Hermit, Fedor Kusmich - IV",
+      "length": 6244,
+      "mode": "type"
+    },
+    {
+      "id": "444",
+      "title": "A Prayer",
+      "length": 13010,
+      "mode": "type"
+    },
+    {
+      "id": "445",
+      "title": "Korney Vasilyef - I",
+      "length": 14696,
+      "mode": "type"
+    },
+    {
+      "id": "446",
+      "title": "Korney Vasilyef - II",
+      "length": 5961,
+      "mode": "type"
+    },
+    {
+      "id": "447",
+      "title": "Korney Vasilyef - III",
+      "length": 3815,
+      "mode": "type"
+    },
+    {
+      "id": "448",
+      "title": "Korney Vasilyef - IV",
+      "length": 5896,
+      "mode": "type"
+    },
+    {
+      "id": "449",
+      "title": "Korney Vasilyef - V",
+      "length": 3792,
+      "mode": "type"
+    },
+    {
+      "id": "450",
+      "title": "Strawberries",
+      "length": 24614,
+      "mode": "type"
+    },
+    {
+      "id": "451",
+      "title": "Why? - I",
+      "length": 5776,
+      "mode": "type"
+    },
+    {
+      "id": "452",
+      "title": "Why? - II",
+      "length": 2790,
+      "mode": "type"
+    },
+    {
+      "id": "453",
+      "title": "Why? - III",
+      "length": 2768,
+      "mode": "type"
+    },
+    {
+      "id": "454",
+      "title": "Why? - IV",
+      "length": 1930,
+      "mode": "type"
+    },
+    {
+      "id": "455",
+      "title": "Why? - V",
+      "length": 4555,
+      "mode": "type"
+    },
+    {
+      "id": "456",
+      "title": "Why? - VI",
+      "length": 6474,
+      "mode": "type"
+    },
+    {
+      "id": "457",
+      "title": "Why? - VII",
+      "length": 4030,
+      "mode": "type"
+    },
+    {
+      "id": "458",
+      "title": "Why? - VIII",
+      "length": 4054,
+      "mode": "type"
+    },
+    {
+      "id": "459",
+      "title": "Why? - IX",
+      "length": 4227,
+      "mode": "type"
+    },
+    {
+      "id": "460",
+      "title": "Why? - X",
+      "length": 3742,
+      "mode": "type"
+    },
+    {
+      "id": "461",
+      "title": "Why? - XI",
+      "length": 4400,
+      "mode": "type"
+    },
+    {
+      "id": "462",
+      "title": "Why? - XII",
+      "length": 7415,
+      "mode": "type"
+    },
+    {
+      "id": "463",
+      "title": "God's Way and Man's - I",
+      "length": 5837,
+      "mode": "type"
+    },
+    {
+      "id": "464",
+      "title": "God's Way and Man's - II",
+      "length": 2972,
+      "mode": "type"
+    },
+    {
+      "id": "465",
+      "title": "God's Way and Man's - III",
+      "length": 6720,
+      "mode": "type"
+    },
+    {
+      "id": "466",
+      "title": "God's Way and Man's - IV",
+      "length": 5371,
+      "mode": "type"
+    },
+    {
+      "id": "467",
+      "title": "God's Way and Man's - V",
+      "length": 11920,
+      "mode": "type"
+    },
+    {
+      "id": "468",
+      "title": "God's Way and Man's - VI",
+      "length": 2449,
+      "mode": "type"
+    },
+    {
+      "id": "469",
+      "title": "God's Way and Man's - VII",
+      "length": 9054,
+      "mode": "type"
+    },
+    {
+      "id": "470",
+      "title": "God's Way and Man's - VIII",
+      "length": 4496,
+      "mode": "type"
+    },
+    {
+      "id": "471",
+      "title": "God's Way and Man's - IX",
+      "length": 6729,
+      "mode": "type"
+    },
+    {
+      "id": "472",
+      "title": "God's Way and Man's - X",
+      "length": 3894,
+      "mode": "type"
+    },
+    {
+      "id": "473",
+      "title": "God's Way and Man's - XI",
+      "length": 5451,
+      "mode": "type"
+    },
+    {
+      "id": "474",
+      "title": "God's Way and Man's - XII",
+      "length": 3160,
+      "mode": "type"
+    },
+    {
+      "id": "475",
+      "title": "God's Way and Man's - XIII",
+      "length": 7610,
+      "mode": "type"
+    },
+    {
+      "id": "476",
+      "title": "There Are No Guilty People - I",
+      "length": 3432,
+      "mode": "type"
+    },
+    {
+      "id": "477",
+      "title": "There Are No Guilty People - II",
+      "length": 21319,
+      "mode": "type"
+    },
+    {
+      "id": "478",
+      "title": "The Wisdom of Children - On Religion",
+      "length": 1474,
+      "mode": "type"
+    },
+    {
+      "id": "479",
+      "title": "The Wisdom of Children - On War",
+      "length": 1368,
+      "mode": "type"
+    },
+    {
+      "id": "480",
+      "title": "The Wisdom of Children - On State and Fatherland",
+      "length": 1630,
+      "mode": "type"
+    },
+    {
+      "id": "481",
+      "title": "The Wisdom of Children - On Taxes",
+      "length": 1792,
+      "mode": "type"
+    },
+    {
+      "id": "482",
+      "title": "The Wisdom of Children - On Judging",
+      "length": 1388,
+      "mode": "type"
+    },
+    {
+      "id": "483",
+      "title": "The Wisdom of Children - On Kindness",
+      "length": 1853,
+      "mode": "type"
+    },
+    {
+      "id": "484",
+      "title": "The Wisdom of Children - On Renumeration of Labour",
+      "length": 1513,
+      "mode": "type"
+    },
+    {
+      "id": "485",
+      "title": "The Wisdom of Children - On Drink",
+      "length": 3064,
+      "mode": "type"
+    },
+    {
+      "id": "486",
+      "title": "The Wisdom of Children - On Capital Punishment",
+      "length": 4020,
+      "mode": "type"
+    },
+    {
+      "id": "487",
+      "title": "The Wisdom of Children - On Prisons",
+      "length": 3455,
+      "mode": "type"
+    },
+    {
+      "id": "488",
+      "title": "The Wisdom of Children - On Wealth",
+      "length": 3602,
+      "mode": "type"
+    },
+    {
+      "id": "489",
+      "title": "The Wisdom of Children - On Those Who Offend You",
+      "length": 1764,
+      "mode": "type"
+    },
+    {
+      "id": "490",
+      "title": "The Wisdom of Children - On the Press",
+      "length": 3165,
+      "mode": "type"
+    },
+    {
+      "id": "491",
+      "title": "The Wisdom of Children - On Repentance",
+      "length": 2212,
+      "mode": "type"
+    },
+    {
+      "id": "492",
+      "title": "The Wisdom of Children - On Art",
+      "length": 4113,
+      "mode": "type"
+    },
+    {
+      "id": "493",
+      "title": "The Wisdom of Children - On Science",
+      "length": 3079,
+      "mode": "type"
+    },
+    {
+      "id": "494",
+      "title": "The Wisdom of Children - On Going to Law",
+      "length": 2396,
+      "mode": "type"
+    },
+    {
+      "id": "495",
+      "title": "The Wisdom of Children - On the Criminal Court",
+      "length": 1183,
+      "mode": "type"
+    },
+    {
+      "id": "496",
+      "title": "The Wisdom of Children - On Property",
+      "length": 2561,
+      "mode": "type"
+    },
+    {
+      "id": "497",
+      "title": "The Wisdom of Children - On Children",
+      "length": 4856,
+      "mode": "type"
+    },
+    {
+      "id": "498",
+      "title": "The Wisdom of Children - On Education",
+      "length": 4951,
+      "mode": "type"
+    },
+    {
+      "id": "499",
+      "title": "Two Wayfarers",
+      "length": 5451,
+      "mode": "type"
+    },
+    {
+      "id": "500",
+      "title": "Khodinka - An Incident of the Coronation of Nicholas II",
+      "length": 16823,
+      "mode": "type"
+    },
+    {
+      "id": "501",
+      "title": "The Memoirs of a Mother",
+      "length": 24712,
+      "mode": "type"
+    },
+    {
+      "id": "502",
+      "title": "Father Vasily - I",
+      "length": 4497,
+      "mode": "type"
+    },
+    {
+      "id": "503",
+      "title": "Father Vasily - II",
+      "length": 2233,
+      "mode": "type"
+    },
+    {
+      "id": "504",
+      "title": "Father Vasily - III",
+      "length": 4082,
+      "mode": "type"
+    },
+    {
+      "id": "505",
+      "title": "Father Vasily - IV",
+      "length": 2480,
+      "mode": "type"
+    },
+    {
+      "id": "506",
+      "title": "Three Days in the Village - First Day - Tramps",
+      "length": 15290,
+      "mode": "type"
+    },
+    {
+      "id": "507",
+      "title": "Three Days in the Village - Second Day - The Living and the Dying",
+      "length": 15675,
+      "mode": "type"
+    },
+    {
+      "id": "508",
+      "title": "Three Days in the Village - Third Day - Taxes",
+      "length": 9901,
+      "mode": "type"
+    },
+    {
+      "id": "509",
+      "title": "Three Days in the Village - Conclusion - A Dream",
+      "length": 17385,
+      "mode": "type"
+    },
+    {
+      "id": "510",
+      "title": "Singing in the Village",
+      "length": 9279,
+      "mode": "type"
+    },
+    {
+      "id": "511",
+      "title": "Traveller and Peasant",
+      "length": 13810,
+      "mode": "type"
+    },
+    {
+      "id": "512",
+      "title": "A Talk with a Wayfarer",
+      "length": 3384,
+      "mode": "type"
+    },
+    {
+      "id": "513",
+      "title": "From the Diary",
+      "length": 10360,
+      "mode": "type"
+    },
+    {
+      "id": "514",
+      "title": "The Forged Coupon - Part I - I",
+      "length": 6541,
+      "mode": "type"
+    },
+    {
+      "id": "515",
+      "title": "The Forged Coupon - Part I - II",
+      "length": 1865,
+      "mode": "type"
+    },
+    {
+      "id": "516",
+      "title": "The Forged Coupon - Part I - III",
+      "length": 2271,
+      "mode": "type"
+    },
+    {
+      "id": "517",
+      "title": "The Forged Coupon - Part I - IV",
+      "length": 1939,
+      "mode": "type"
+    },
+    {
+      "id": "518",
+      "title": "The Forged Coupon - Part I - V",
+      "length": 1680,
+      "mode": "type"
+    },
+    {
+      "id": "519",
+      "title": "The Forged Coupon - Part I - VI",
+      "length": 5791,
+      "mode": "type"
+    },
+    {
+      "id": "520",
+      "title": "The Forged Coupon - Part I - VII",
+      "length": 3238,
+      "mode": "type"
+    },
+    {
+      "id": "521",
+      "title": "The Forged Coupon - Part I - VIII",
+      "length": 4713,
+      "mode": "type"
+    },
+    {
+      "id": "522",
+      "title": "The Forged Coupon - Part I - IX",
+      "length": 5152,
+      "mode": "type"
+    },
+    {
+      "id": "523",
+      "title": "The Forged Coupon - Part I - X",
+      "length": 2558,
+      "mode": "type"
+    },
+    {
+      "id": "524",
+      "title": "The Forged Coupon - Part I - XI",
+      "length": 3248,
+      "mode": "type"
+    },
+    {
+      "id": "525",
+      "title": "The Forged Coupon - Part I - XII",
+      "length": 6981,
+      "mode": "type"
+    },
+    {
+      "id": "526",
+      "title": "The Forged Coupon - Part I - XIII",
+      "length": 5440,
+      "mode": "type"
+    },
+    {
+      "id": "527",
+      "title": "The Forged Coupon - Part I - XIV",
+      "length": 4631,
+      "mode": "type"
+    },
+    {
+      "id": "528",
+      "title": "The Forged Coupon - Part I - XV",
+      "length": 6034,
+      "mode": "type"
+    },
+    {
+      "id": "529",
+      "title": "The Forged Coupon - Part I - XVI",
+      "length": 2761,
+      "mode": "type"
+    },
+    {
+      "id": "530",
+      "title": "The Forged Coupon - Part I - XVII",
+      "length": 3502,
+      "mode": "type"
+    },
+    {
+      "id": "531",
+      "title": "The Forged Coupon - Part I - XVIII",
+      "length": 2222,
+      "mode": "type"
+    },
+    {
+      "id": "532",
+      "title": "The Forged Coupon - Part I - XIX",
+      "length": 1959,
+      "mode": "type"
+    },
+    {
+      "id": "533",
+      "title": "The Forged Coupon - Part I - XX",
+      "length": 3575,
+      "mode": "type"
+    },
+    {
+      "id": "534",
+      "title": "The Forged Coupon - Part I - XXI",
+      "length": 4977,
+      "mode": "type"
+    },
+    {
+      "id": "535",
+      "title": "The Forged Coupon - Part I - XXII",
+      "length": 2809,
+      "mode": "type"
+    },
+    {
+      "id": "536",
+      "title": "The Forged Coupon - Part I - XXIII",
+      "length": 4674,
+      "mode": "type"
+    },
+    {
+      "id": "537",
+      "title": "The Forged Coupon - Part II - I",
+      "length": 4308,
+      "mode": "type"
+    },
+    {
+      "id": "538",
+      "title": "The Forged Coupon - Part II - II",
+      "length": 4500,
+      "mode": "type"
+    },
+    {
+      "id": "539",
+      "title": "The Forged Coupon - Part II - III",
+      "length": 6449,
+      "mode": "type"
+    },
+    {
+      "id": "540",
+      "title": "The Forged Coupon - Part II - IV",
+      "length": 2921,
+      "mode": "type"
+    },
+    {
+      "id": "541",
+      "title": "The Forged Coupon - Part II - V",
+      "length": 1733,
+      "mode": "type"
+    },
+    {
+      "id": "542",
+      "title": "The Forged Coupon - Part II - VI",
+      "length": 1504,
+      "mode": "type"
+    },
+    {
+      "id": "543",
+      "title": "The Forged Coupon - Part II - VII",
+      "length": 2962,
+      "mode": "type"
+    },
+    {
+      "id": "544",
+      "title": "The Forged Coupon - Part II - VIII",
+      "length": 1812,
+      "mode": "type"
+    },
+    {
+      "id": "545",
+      "title": "The Forged Coupon - Part II - IX",
+      "length": 3812,
+      "mode": "type"
+    },
+    {
+      "id": "546",
+      "title": "The Forged Coupon - Part II - X",
+      "length": 5817,
+      "mode": "type"
+    },
+    {
+      "id": "547",
+      "title": "The Forged Coupon - Part II - XI",
+      "length": 4776,
+      "mode": "type"
+    },
+    {
+      "id": "548",
+      "title": "The Forged Coupon - Part II - XII",
+      "length": 1269,
+      "mode": "type"
+    },
+    {
+      "id": "549",
+      "title": "The Forged Coupon - Part II - XIII",
+      "length": 2530,
+      "mode": "type"
+    },
+    {
+      "id": "550",
+      "title": "The Forged Coupon - Part II - XIV",
+      "length": 1309,
+      "mode": "type"
+    },
+    {
+      "id": "551",
+      "title": "The Forged Coupon - Part II - XV",
+      "length": 3994,
+      "mode": "type"
+    },
+    {
+      "id": "552",
+      "title": "The Forged Coupon - Part II - XVI",
+      "length": 2158,
+      "mode": "type"
+    },
+    {
+      "id": "553",
+      "title": "The Forged Coupon - Part II - XVII",
+      "length": 1230,
+      "mode": "type"
+    },
+    {
+      "id": "554",
+      "title": "The Forged Coupon - Part II - XVIII",
+      "length": 1287,
+      "mode": "type"
+    },
+    {
+      "id": "555",
+      "title": "The Forged Coupon - Part II - XIX",
+      "length": 414,
+      "mode": "type"
+    },
+    {
+      "id": "556",
+      "title": "My Dream - I",
+      "length": 11170,
+      "mode": "type"
+    },
+    {
+      "id": "557",
+      "title": "My Dream - II",
+      "length": 8203,
+      "mode": "type"
+    },
+    {
+      "id": "558",
+      "title": "My Dream - III",
+      "length": 5390,
+      "mode": "type"
+    },
+    {
+      "id": "559",
+      "title": "Endnotes",
+      "length": 46122,
+      "mode": "hide"
+    },
+    {
+      "id": "560",
+      "title": "Colophon",
+      "length": 1475,
+      "mode": "hide"
+    },
+    {
+      "id": "561",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL21388500W",
+  "goodreadsId": "654",
+  "rating": 0.8640000000000001,
+  "popularity": 2621,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721338038944
+}

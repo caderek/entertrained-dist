@@ -1,1 +1,622 @@
-{"id":"poul-anderson--short-fiction","title":"Short Fiction","titleAlpha":"short fiction","author":"Poul Anderson","language":"en","description":"A collection of science fiction short stories by Poul Anderson ordered by date of publication.","longDescription":["Poul Anderson's prolific writing career began in 1947, while still an undergraduate physics student at the University of Minnesota, and continued throughout his life. His works were primarily science fiction and fantasy, but he also produced mysteries and historical fiction.","Among his many honors, Anderson was a recipient of three Nebula awards, seven Hugo awards, three Prometheus awards, and an SFWA Grand Master award. He was inducted into the Science Fiction Hall of Fame in 2000.","This collection consists of short stories and novellas published in Worlds of If, Galaxy SF, Fantastic Universe, and other periodicals. Presented in order of publication, they include Innocent at Large, a 1958 story coauthored with his wife and noted author Karen Anderson."],"year":null,"genres":["adventure","classics","fantasy","fiction","psychological","science-fiction","shorts"],"topics":["espionage","revolution","space"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/poul-anderson/short-fiction"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Short Fiction","length":18,"mode":"hide"},{"id":"002","title":"Imprint","length":1183,"mode":"hide"},{"id":"003","title":"Star Ship - I","length":9363,"mode":"type"},{"id":"004","title":"Star Ship - II","length":12388,"mode":"type"},{"id":"005","title":"Star Ship - III","length":9437,"mode":"type"},{"id":"006","title":"Star Ship - IV","length":14020,"mode":"type"},{"id":"007","title":"Star Ship - V","length":16266,"mode":"type"},{"id":"008","title":"Star Ship - VI","length":10155,"mode":"type"},{"id":"009","title":"Tiger by the Tail - I","length":8380,"mode":"type"},{"id":"010","title":"Tiger by the Tail - II","length":15251,"mode":"type"},{"id":"011","title":"Tiger by the Tail - III","length":11983,"mode":"type"},{"id":"012","title":"Tiger by the Tail - IV","length":13723,"mode":"type"},{"id":"013","title":"Tiger by the Tail - V","length":11770,"mode":"type"},{"id":"014","title":"Witch of the Demon Seas - I","length":10497,"mode":"type"},{"id":"015","title":"Witch of the Demon Seas - II","length":15849,"mode":"type"},{"id":"016","title":"Witch of the Demon Seas - III","length":14717,"mode":"type"},{"id":"017","title":"Witch of the Demon Seas - IV","length":7185,"mode":"type"},{"id":"018","title":"Witch of the Demon Seas - V","length":17577,"mode":"type"},{"id":"019","title":"Witch of the Demon Seas - VI","length":8882,"mode":"type"},{"id":"020","title":"Witch of the Demon Seas - VII","length":16934,"mode":"type"},{"id":"021","title":"Witch of the Demon Seas - VIII","length":12982,"mode":"type"},{"id":"022","title":"Witch of the Demon Seas - IX","length":8529,"mode":"type"},{"id":"023","title":"Witch of the Demon Seas - X","length":2601,"mode":"type"},{"id":"024","title":"World of the Mad","length":43088,"mode":"type"},{"id":"025","title":"Duel on Syrtis","length":36505,"mode":"type"},{"id":"026","title":"Inside Earth - I","length":16513,"mode":"type"},{"id":"027","title":"Inside Earth - II","length":11674,"mode":"type"},{"id":"028","title":"Inside Earth - III","length":14625,"mode":"type"},{"id":"029","title":"Inside Earth - IV","length":8480,"mode":"type"},{"id":"030","title":"Inside Earth - V","length":9285,"mode":"type"},{"id":"031","title":"Inside Earth - VI","length":9584,"mode":"type"},{"id":"032","title":"Inside Earth - VII","length":15172,"mode":"type"},{"id":"033","title":"Inside Earth - VIII","length":10999,"mode":"type"},{"id":"034","title":"The Virgin of Valkarion - I","length":15191,"mode":"type"},{"id":"035","title":"The Virgin of Valkarion - II","length":13434,"mode":"type"},{"id":"036","title":"The Virgin of Valkarion - III","length":20507,"mode":"type"},{"id":"037","title":"The Virgin of Valkarion - IV","length":17765,"mode":"type"},{"id":"038","title":"The Virgin of Valkarion - V","length":11304,"mode":"type"},{"id":"039","title":"The Virgin of Valkarion - VI","length":10286,"mode":"type"},{"id":"040","title":"Lord of a Thousand Suns","length":64971,"mode":"type"},{"id":"041","title":"Swordsman of Lost Terra - I","length":11467,"mode":"type"},{"id":"042","title":"Swordsman of Lost Terra - II","length":10999,"mode":"type"},{"id":"043","title":"Swordsman of Lost Terra - III","length":12859,"mode":"type"},{"id":"044","title":"Swordsman of Lost Terra - IV","length":10494,"mode":"type"},{"id":"045","title":"Swordsman of Lost Terra - V","length":21077,"mode":"type"},{"id":"046","title":"Swordsman of Lost Terra - VI","length":14900,"mode":"type"},{"id":"047","title":"Swordsman of Lost Terra - VII","length":8629,"mode":"type"},{"id":"048","title":"Swordsman of Lost Terra - VIII","length":12050,"mode":"type"},{"id":"049","title":"Swordsman of Lost Terra - IX","length":2163,"mode":"type"},{"id":"050","title":"Sargasso of Lost Starships - I","length":13220,"mode":"type"},{"id":"051","title":"Sargasso of Lost Starships - II","length":17128,"mode":"type"},{"id":"052","title":"Sargasso of Lost Starships - III","length":17252,"mode":"type"},{"id":"053","title":"Sargasso of Lost Starships - IV","length":12353,"mode":"type"},{"id":"054","title":"Sargasso of Lost Starships - V","length":12316,"mode":"type"},{"id":"055","title":"Sargasso of Lost Starships - VI","length":16255,"mode":"type"},{"id":"056","title":"Sargasso of Lost Starships - VII","length":14583,"mode":"type"},{"id":"057","title":"Captive of the Centaurianess - I","length":15970,"mode":"type"},{"id":"058","title":"Captive of the Centaurianess - II","length":10329,"mode":"type"},{"id":"059","title":"Captive of the Centaurianess - III","length":16057,"mode":"type"},{"id":"060","title":"Captive of the Centaurianess - IV","length":15589,"mode":"type"},{"id":"061","title":"Captive of the Centaurianess - V","length":14785,"mode":"type"},{"id":"062","title":"Captive of the Centaurianess - VI","length":11950,"mode":"type"},{"id":"063","title":"Captive of the Centaurianess - VII","length":11087,"mode":"type"},{"id":"064","title":"Security","length":70239,"mode":"type"},{"id":"065","title":"Sentiment, Inc. - I","length":9600,"mode":"type"},{"id":"066","title":"Sentiment, Inc. - II","length":14879,"mode":"type"},{"id":"067","title":"Sentiment, Inc. - III","length":17234,"mode":"type"},{"id":"068","title":"Sentiment, Inc. - IV","length":13788,"mode":"type"},{"id":"069","title":"The Temple of Earth","length":60675,"mode":"type"},{"id":"070","title":"The Chapter Ends - I","length":8696,"mode":"type"},{"id":"071","title":"The Chapter Ends - II","length":10229,"mode":"type"},{"id":"072","title":"The Chapter Ends - III","length":14153,"mode":"type"},{"id":"073","title":"The Chapter Ends - IV","length":15037,"mode":"type"},{"id":"074","title":"The Sensitive Man - I","length":12197,"mode":"type"},{"id":"075","title":"The Sensitive Man - II","length":17768,"mode":"type"},{"id":"076","title":"The Sensitive Man - III","length":8088,"mode":"type"},{"id":"077","title":"The Sensitive Man - IV","length":18006,"mode":"type"},{"id":"078","title":"The Sensitive Man - V","length":12027,"mode":"type"},{"id":"079","title":"The Sensitive Man - VI","length":12981,"mode":"type"},{"id":"080","title":"The Sensitive Man - VII","length":15708,"mode":"type"},{"id":"081","title":"The Sensitive Man - VIII","length":13784,"mode":"type"},{"id":"082","title":"The Sensitive Man - IX","length":7494,"mode":"type"},{"id":"083","title":"Snowball","length":82539,"mode":"type"},{"id":"084","title":"Out of the Iron Womb - I","length":11078,"mode":"type"},{"id":"085","title":"Out of the Iron Womb - II","length":11918,"mode":"type"},{"id":"086","title":"Out of the Iron Womb - III","length":12389,"mode":"type"},{"id":"087","title":"Out of the Iron Womb - IV","length":12268,"mode":"type"},{"id":"088","title":"Out of the Iron Womb - V","length":10638,"mode":"type"},{"id":"089","title":"Out of the Iron Womb - VI","length":11062,"mode":"type"},{"id":"090","title":"Catalysis","length":42549,"mode":"type"},{"id":"091","title":"What Shall It Profit?","length":37088,"mode":"type"},{"id":"092","title":"The Valor of Cappen Varra","length":28373,"mode":"type"},{"id":"093","title":"Innocent at Large","length":39644,"mode":"type"},{"id":"094","title":"Industrial Revolution","length":94050,"mode":"type"},{"id":"095","title":"Colophon","length":1197,"mode":"hide"},{"id":"096","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338176520}
+{
+  "id": "poul-anderson--short-fiction",
+  "title": "Short Fiction",
+  "titleAlpha": "short fiction",
+  "author": "Poul Anderson",
+  "language": "en",
+  "description": "A collection of science fiction short stories by Poul Anderson ordered by date of publication.",
+  "longDescription": [
+    "Poul Anderson's prolific writing career began in 1947, while still an undergraduate physics student at the University of Minnesota, and continued throughout his life. His works were primarily science fiction and fantasy, but he also produced mysteries and historical fiction.",
+    "Among his many honors, Anderson was a recipient of three Nebula awards, seven Hugo awards, three Prometheus awards, and an SFWA Grand Master award. He was inducted into the Science Fiction Hall of Fame in 2000.",
+    "This collection consists of short stories and novellas published in Worlds of If, Galaxy SF, Fantastic Universe, and other periodicals. Presented in order of publication, they include Innocent at Large, a 1958 story coauthored with his wife and noted author Karen Anderson."
+  ],
+  "year": 1976,
+  "genres": [
+    "adventure",
+    "classics",
+    "fantasy",
+    "fiction",
+    "psychological",
+    "science-fiction",
+    "shorts"
+  ],
+  "topics": [
+    "espionage",
+    "revolution",
+    "space"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/poul-anderson/short-fiction"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Short Fiction",
+      "length": 18,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1183,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Star Ship - I",
+      "length": 9363,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Star Ship - II",
+      "length": 12388,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Star Ship - III",
+      "length": 9437,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Star Ship - IV",
+      "length": 14020,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Star Ship - V",
+      "length": 16266,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Star Ship - VI",
+      "length": 10155,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Tiger by the Tail - I",
+      "length": 8380,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Tiger by the Tail - II",
+      "length": 15251,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Tiger by the Tail - III",
+      "length": 11983,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Tiger by the Tail - IV",
+      "length": 13723,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Tiger by the Tail - V",
+      "length": 11770,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Witch of the Demon Seas - I",
+      "length": 10497,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Witch of the Demon Seas - II",
+      "length": 15849,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Witch of the Demon Seas - III",
+      "length": 14717,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Witch of the Demon Seas - IV",
+      "length": 7185,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Witch of the Demon Seas - V",
+      "length": 17577,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Witch of the Demon Seas - VI",
+      "length": 8882,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Witch of the Demon Seas - VII",
+      "length": 16934,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Witch of the Demon Seas - VIII",
+      "length": 12982,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Witch of the Demon Seas - IX",
+      "length": 8529,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Witch of the Demon Seas - X",
+      "length": 2601,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "World of the Mad",
+      "length": 43088,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Duel on Syrtis",
+      "length": 36505,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Inside Earth - I",
+      "length": 16513,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Inside Earth - II",
+      "length": 11674,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Inside Earth - III",
+      "length": 14625,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Inside Earth - IV",
+      "length": 8480,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Inside Earth - V",
+      "length": 9285,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Inside Earth - VI",
+      "length": 9584,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Inside Earth - VII",
+      "length": 15172,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Inside Earth - VIII",
+      "length": 10999,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "The Virgin of Valkarion - I",
+      "length": 15191,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "The Virgin of Valkarion - II",
+      "length": 13434,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "The Virgin of Valkarion - III",
+      "length": 20507,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "The Virgin of Valkarion - IV",
+      "length": 17765,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "The Virgin of Valkarion - V",
+      "length": 11304,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "The Virgin of Valkarion - VI",
+      "length": 10286,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Lord of a Thousand Suns",
+      "length": 64971,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Swordsman of Lost Terra - I",
+      "length": 11467,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Swordsman of Lost Terra - II",
+      "length": 10999,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Swordsman of Lost Terra - III",
+      "length": 12859,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Swordsman of Lost Terra - IV",
+      "length": 10494,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Swordsman of Lost Terra - V",
+      "length": 21077,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Swordsman of Lost Terra - VI",
+      "length": 14900,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Swordsman of Lost Terra - VII",
+      "length": 8629,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Swordsman of Lost Terra - VIII",
+      "length": 12050,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "Swordsman of Lost Terra - IX",
+      "length": 2163,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Sargasso of Lost Starships - I",
+      "length": 13220,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "Sargasso of Lost Starships - II",
+      "length": 17128,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "Sargasso of Lost Starships - III",
+      "length": 17252,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "Sargasso of Lost Starships - IV",
+      "length": 12353,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "Sargasso of Lost Starships - V",
+      "length": 12316,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "Sargasso of Lost Starships - VI",
+      "length": 16255,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "Sargasso of Lost Starships - VII",
+      "length": 14583,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "Captive of the Centaurianess - I",
+      "length": 15970,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "Captive of the Centaurianess - II",
+      "length": 10329,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "Captive of the Centaurianess - III",
+      "length": 16057,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "Captive of the Centaurianess - IV",
+      "length": 15589,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "Captive of the Centaurianess - V",
+      "length": 14785,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "Captive of the Centaurianess - VI",
+      "length": 11950,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "Captive of the Centaurianess - VII",
+      "length": 11087,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "Security",
+      "length": 70239,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "Sentiment, Inc. - I",
+      "length": 9600,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "Sentiment, Inc. - II",
+      "length": 14879,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "Sentiment, Inc. - III",
+      "length": 17234,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "Sentiment, Inc. - IV",
+      "length": 13788,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "The Temple of Earth",
+      "length": 60675,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "The Chapter Ends - I",
+      "length": 8696,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "The Chapter Ends - II",
+      "length": 10229,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "The Chapter Ends - III",
+      "length": 14153,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "The Chapter Ends - IV",
+      "length": 15037,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "The Sensitive Man - I",
+      "length": 12197,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "The Sensitive Man - II",
+      "length": 17768,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "The Sensitive Man - III",
+      "length": 8088,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "The Sensitive Man - IV",
+      "length": 18006,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "The Sensitive Man - V",
+      "length": 12027,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "The Sensitive Man - VI",
+      "length": 12981,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "The Sensitive Man - VII",
+      "length": 15708,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "The Sensitive Man - VIII",
+      "length": 13784,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "The Sensitive Man - IX",
+      "length": 7494,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "Snowball",
+      "length": 82539,
+      "mode": "type"
+    },
+    {
+      "id": "084",
+      "title": "Out of the Iron Womb - I",
+      "length": 11078,
+      "mode": "type"
+    },
+    {
+      "id": "085",
+      "title": "Out of the Iron Womb - II",
+      "length": 11918,
+      "mode": "type"
+    },
+    {
+      "id": "086",
+      "title": "Out of the Iron Womb - III",
+      "length": 12389,
+      "mode": "type"
+    },
+    {
+      "id": "087",
+      "title": "Out of the Iron Womb - IV",
+      "length": 12268,
+      "mode": "type"
+    },
+    {
+      "id": "088",
+      "title": "Out of the Iron Womb - V",
+      "length": 10638,
+      "mode": "type"
+    },
+    {
+      "id": "089",
+      "title": "Out of the Iron Womb - VI",
+      "length": 11062,
+      "mode": "type"
+    },
+    {
+      "id": "090",
+      "title": "Catalysis",
+      "length": 42549,
+      "mode": "type"
+    },
+    {
+      "id": "091",
+      "title": "What Shall It Profit?",
+      "length": 37088,
+      "mode": "type"
+    },
+    {
+      "id": "092",
+      "title": "The Valor of Cappen Varra",
+      "length": 28373,
+      "mode": "type"
+    },
+    {
+      "id": "093",
+      "title": "Innocent at Large",
+      "length": 39644,
+      "mode": "type"
+    },
+    {
+      "id": "094",
+      "title": "Industrial Revolution",
+      "length": 94050,
+      "mode": "type"
+    },
+    {
+      "id": "095",
+      "title": "Colophon",
+      "length": 1197,
+      "mode": "hide"
+    },
+    {
+      "id": "096",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL27292263W",
+  "goodreadsId": "1228334",
+  "rating": 0.79,
+  "popularity": 154,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490051752
+}

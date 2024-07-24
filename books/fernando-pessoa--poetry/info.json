@@ -1,1 +1,502 @@
-{"id":"fernando-pessoa--poetry","title":"Poetry","titleAlpha":"poetry","author":"Fernando Pessoa","language":"en","description":"A collection of Fernando Pessoa's poetry.","longDescription":["Fernando Pessoa is best known for his heteronyms, personas under which he wrote some of the most famous prose in Portuguese literature. Educated at an English-speaking school in Durban, South Africa, Pessoa developed a considerable command of English and continued to write privately in the language throughout his life.","Presented here are Pessoa's early collections 35 Sonnets and English Poems, as well as two poems published individually in periodicals before 1929. All were written and published in English under Pessoa's own name, and compared to Pessoa's later work in Portuguese, none of them are especially well-regarded by critics.","Pessoa's aim in 35 Sonnets is to scale the same heights that Shakespeare did with the form, but his efforts have been received less as an approximation of the latter's achievement than a pastiche of it. Among the strains and contortions characterizing Pessoa's imitation of Elizabethan English, there are nevertheless flashes of linguistic and metrical felicity as he surveys themes of despair, unrequited love, the fraughtness of human connection, and the mystery of the universe.","The sonnets stand in sharp thematic contrast to the poems in Pessoa's second collection, English Poems. The first of them, \"Antinous,\" imagines the Roman emperor Hadrian's perspective on his relationship with the Greek youth Antinous. Detailing Hadrian's devotion to Antinous after the latter's death, it has been called by Pessoa's most recent biographer Richard Zenith \"the most compelling love poem that Pessoa would ever write.\" \"Epithalamium\" has been understood by critics as a response to Pessoa's reading of Spenser's ode \"Epithalamion.\" The sexual elements latent in Spenser's poem are made aggressively explicit in Pessoa's version.","In his letters, Pessoa singled out the two longer poems in English Poems as \"clearly obscene,\" and claimed that they were the only works of his to qualify as such. He explained to his first biographer that composing them was a way of eliminating the ideas they contained from his mind. Of biographical interest is that the poems that Pessoa himself regarded as obscene are among the only works whose publication he took the trouble to self-finance during his lifetime; further, he was content to publish them under his own name.","Despite failing to achieve critical acclaim, the poems in this compilation provide insight into Pessoa's early literary concerns and establish that the beginning of his poetic career was marked by intense ambition and audacious self-assurance."],"year":1900,"genres":["classics","poetry"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/fernando-pessoa/poetry"},"openlibraryId":"OL847061W","goodreadsId":"855335","rating":0.5721915799999999,"popularity":373,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Poetry","length":20,"mode":"hide"},{"id":"002","title":"Imprint","length":1176,"mode":"hide"},{"id":"003","title":"35 Sonnets - I","length":585,"mode":"type"},{"id":"004","title":"35 Sonnets - II","length":628,"mode":"type"},{"id":"005","title":"35 Sonnets - III","length":594,"mode":"type"},{"id":"006","title":"35 Sonnets - IV","length":602,"mode":"type"},{"id":"007","title":"35 Sonnets - V","length":608,"mode":"type"},{"id":"008","title":"35 Sonnets - VI","length":608,"mode":"type"},{"id":"009","title":"35 Sonnets - VII","length":635,"mode":"type"},{"id":"010","title":"35 Sonnets - VIII","length":620,"mode":"type"},{"id":"011","title":"35 Sonnets - IX","length":599,"mode":"type"},{"id":"012","title":"35 Sonnets - X","length":603,"mode":"type"},{"id":"013","title":"35 Sonnets - XI","length":629,"mode":"type"},{"id":"014","title":"35 Sonnets - XII","length":594,"mode":"type"},{"id":"015","title":"35 Sonnets - XIII","length":623,"mode":"type"},{"id":"016","title":"35 Sonnets - XIV","length":657,"mode":"type"},{"id":"017","title":"35 Sonnets - XV","length":655,"mode":"type"},{"id":"018","title":"35 Sonnets - XVI","length":610,"mode":"type"},{"id":"019","title":"35 Sonnets - XVII","length":614,"mode":"type"},{"id":"020","title":"35 Sonnets - XVIII","length":628,"mode":"type"},{"id":"021","title":"35 Sonnets - XIX","length":610,"mode":"type"},{"id":"022","title":"35 Sonnets - XX","length":619,"mode":"type"},{"id":"023","title":"35 Sonnets - XXI","length":676,"mode":"type"},{"id":"024","title":"35 Sonnets - XXII","length":608,"mode":"type"},{"id":"025","title":"35 Sonnets - XXIII","length":615,"mode":"type"},{"id":"026","title":"35 Sonnets - XXIV","length":628,"mode":"type"},{"id":"027","title":"35 Sonnets - XXV","length":595,"mode":"type"},{"id":"028","title":"35 Sonnets - XXVI","length":652,"mode":"type"},{"id":"029","title":"35 Sonnets - XXVII","length":595,"mode":"type"},{"id":"030","title":"35 Sonnets - XXVIII","length":598,"mode":"type"},{"id":"031","title":"35 Sonnets - XXIX","length":598,"mode":"type"},{"id":"032","title":"35 Sonnets - XXX","length":622,"mode":"type"},{"id":"033","title":"35 Sonnets - XXXI","length":601,"mode":"type"},{"id":"034","title":"35 Sonnets - XXXII","length":614,"mode":"type"},{"id":"035","title":"35 Sonnets - XXXIII","length":630,"mode":"type"},{"id":"036","title":"35 Sonnets - XXXIV","length":621,"mode":"type"},{"id":"037","title":"35 Sonnets - XXXV","length":618,"mode":"type"},{"id":"038","title":"English Poems - Antinous","length":15350,"mode":"type"},{"id":"039","title":"English Poems - Inscriptions - I","length":184,"mode":"type"},{"id":"040","title":"English Poems - Inscriptions - II","length":183,"mode":"type"},{"id":"041","title":"English Poems - Inscriptions - III","length":211,"mode":"type"},{"id":"042","title":"English Poems - Inscriptions - IV","length":179,"mode":"type"},{"id":"043","title":"English Poems - Inscriptions - V","length":136,"mode":"type"},{"id":"044","title":"English Poems - Inscriptions - VI","length":165,"mode":"type"},{"id":"045","title":"English Poems - Inscriptions - VII","length":180,"mode":"type"},{"id":"046","title":"English Poems - Inscriptions - VIII","length":160,"mode":"type"},{"id":"047","title":"English Poems - Inscriptions - IX","length":183,"mode":"type"},{"id":"048","title":"English Poems - Inscriptions - X","length":184,"mode":"type"},{"id":"049","title":"English Poems - Inscriptions - XI","length":192,"mode":"type"},{"id":"050","title":"English Poems - Inscriptions - XII","length":175,"mode":"type"},{"id":"051","title":"English Poems - Inscriptions - XIII","length":265,"mode":"type"},{"id":"052","title":"English Poems - Inscriptions - XIV","length":187,"mode":"type"},{"id":"053","title":"English Poems - Epithalamium - I","length":996,"mode":"type"},{"id":"054","title":"English Poems - Epithalamium - II","length":887,"mode":"type"},{"id":"055","title":"English Poems - Epithalamium - III","length":749,"mode":"type"},{"id":"056","title":"English Poems - Epithalamium - IV","length":583,"mode":"type"},{"id":"057","title":"English Poems - Epithalamium - V","length":608,"mode":"type"},{"id":"058","title":"English Poems - Epithalamium - VI","length":543,"mode":"type"},{"id":"059","title":"English Poems - Epithalamium - VII","length":608,"mode":"type"},{"id":"060","title":"English Poems - Epithalamium - VIII","length":716,"mode":"type"},{"id":"061","title":"English Poems - Epithalamium - IX","length":294,"mode":"type"},{"id":"062","title":"English Poems - Epithalamium - X","length":313,"mode":"type"},{"id":"063","title":"English Poems - Epithalamium - XI","length":369,"mode":"type"},{"id":"064","title":"English Poems - Epithalamium - XII","length":640,"mode":"type"},{"id":"065","title":"English Poems - Epithalamium - XIII","length":834,"mode":"type"},{"id":"066","title":"English Poems - Epithalamium - XIV","length":693,"mode":"type"},{"id":"067","title":"English Poems - Epithalamium - XV","length":533,"mode":"type"},{"id":"068","title":"English Poems - Epithalamium - XVI","length":755,"mode":"type"},{"id":"069","title":"English Poems - Epithalamium - XVII","length":791,"mode":"type"},{"id":"070","title":"English Poems - Epithalamium - XVIII","length":860,"mode":"type"},{"id":"071","title":"English Poems - Epithalamium - XIX","length":1237,"mode":"type"},{"id":"072","title":"English Poems - Epithalamium - XX","length":617,"mode":"type"},{"id":"073","title":"English Poems - Epithalamium - XXI","length":1166,"mode":"type"},{"id":"074","title":"Meantime","length":472,"mode":"type"},{"id":"075","title":"Spell","length":483,"mode":"type"},{"id":"076","title":"Colophon","length":997,"mode":"hide"},{"id":"077","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337752603}
+{
+  "id": "fernando-pessoa--poetry",
+  "title": "Poetry",
+  "titleAlpha": "poetry",
+  "author": "Fernando Pessoa",
+  "language": "en",
+  "description": "A collection of Fernando Pessoa's poetry.",
+  "longDescription": [
+    "Fernando Pessoa is best known for his heteronyms, personas under which he wrote some of the most famous prose in Portuguese literature. Educated at an English-speaking school in Durban, South Africa, Pessoa developed a considerable command of English and continued to write privately in the language throughout his life.",
+    "Presented here are Pessoa's early collections 35 Sonnets and English Poems, as well as two poems published individually in periodicals before 1929. All were written and published in English under Pessoa's own name, and compared to Pessoa's later work in Portuguese, none of them are especially well-regarded by critics.",
+    "Pessoa's aim in 35 Sonnets is to scale the same heights that Shakespeare did with the form, but his efforts have been received less as an approximation of the latter's achievement than a pastiche of it. Among the strains and contortions characterizing Pessoa's imitation of Elizabethan English, there are nevertheless flashes of linguistic and metrical felicity as he surveys themes of despair, unrequited love, the fraughtness of human connection, and the mystery of the universe.",
+    "The sonnets stand in sharp thematic contrast to the poems in Pessoa's second collection, English Poems. The first of them, \"Antinous,\" imagines the Roman emperor Hadrian's perspective on his relationship with the Greek youth Antinous. Detailing Hadrian's devotion to Antinous after the latter's death, it has been called by Pessoa's most recent biographer Richard Zenith \"the most compelling love poem that Pessoa would ever write.\" \"Epithalamium\" has been understood by critics as a response to Pessoa's reading of Spenser's ode \"Epithalamion.\" The sexual elements latent in Spenser's poem are made aggressively explicit in Pessoa's version.",
+    "In his letters, Pessoa singled out the two longer poems in English Poems as \"clearly obscene,\" and claimed that they were the only works of his to qualify as such. He explained to his first biographer that composing them was a way of eliminating the ideas they contained from his mind. Of biographical interest is that the poems that Pessoa himself regarded as obscene are among the only works whose publication he took the trouble to self-finance during his lifetime; further, he was content to publish them under his own name.",
+    "Despite failing to achieve critical acclaim, the poems in this compilation provide insight into Pessoa's early literary concerns and establish that the beginning of his poetic career was marked by intense ambition and audacious self-assurance."
+  ],
+  "year": 1930,
+  "genres": [
+    "classics",
+    "poetry"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/fernando-pessoa/poetry"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Poetry",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "35 Sonnets - I",
+      "length": 585,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "35 Sonnets - II",
+      "length": 628,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "35 Sonnets - III",
+      "length": 594,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "35 Sonnets - IV",
+      "length": 602,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "35 Sonnets - V",
+      "length": 608,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "35 Sonnets - VI",
+      "length": 608,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "35 Sonnets - VII",
+      "length": 635,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "35 Sonnets - VIII",
+      "length": 620,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "35 Sonnets - IX",
+      "length": 599,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "35 Sonnets - X",
+      "length": 603,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "35 Sonnets - XI",
+      "length": 629,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "35 Sonnets - XII",
+      "length": 594,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "35 Sonnets - XIII",
+      "length": 623,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "35 Sonnets - XIV",
+      "length": 657,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "35 Sonnets - XV",
+      "length": 655,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "35 Sonnets - XVI",
+      "length": 610,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "35 Sonnets - XVII",
+      "length": 614,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "35 Sonnets - XVIII",
+      "length": 628,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "35 Sonnets - XIX",
+      "length": 610,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "35 Sonnets - XX",
+      "length": 619,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "35 Sonnets - XXI",
+      "length": 676,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "35 Sonnets - XXII",
+      "length": 608,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "35 Sonnets - XXIII",
+      "length": 615,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "35 Sonnets - XXIV",
+      "length": 628,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "35 Sonnets - XXV",
+      "length": 595,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "35 Sonnets - XXVI",
+      "length": 652,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "35 Sonnets - XXVII",
+      "length": 595,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "35 Sonnets - XXVIII",
+      "length": 598,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "35 Sonnets - XXIX",
+      "length": 598,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "35 Sonnets - XXX",
+      "length": 622,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "35 Sonnets - XXXI",
+      "length": 601,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "35 Sonnets - XXXII",
+      "length": 614,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "35 Sonnets - XXXIII",
+      "length": 630,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "35 Sonnets - XXXIV",
+      "length": 621,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "35 Sonnets - XXXV",
+      "length": 618,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "English Poems - Antinous",
+      "length": 15350,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "English Poems - Inscriptions - I",
+      "length": 184,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "English Poems - Inscriptions - II",
+      "length": 183,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "English Poems - Inscriptions - III",
+      "length": 211,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "English Poems - Inscriptions - IV",
+      "length": 179,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "English Poems - Inscriptions - V",
+      "length": 136,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "English Poems - Inscriptions - VI",
+      "length": 165,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "English Poems - Inscriptions - VII",
+      "length": 180,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "English Poems - Inscriptions - VIII",
+      "length": 160,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "English Poems - Inscriptions - IX",
+      "length": 183,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "English Poems - Inscriptions - X",
+      "length": 184,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "English Poems - Inscriptions - XI",
+      "length": 192,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "English Poems - Inscriptions - XII",
+      "length": 175,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "English Poems - Inscriptions - XIII",
+      "length": 265,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "English Poems - Inscriptions - XIV",
+      "length": 187,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "English Poems - Epithalamium - I",
+      "length": 996,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "English Poems - Epithalamium - II",
+      "length": 887,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "English Poems - Epithalamium - III",
+      "length": 749,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "English Poems - Epithalamium - IV",
+      "length": 583,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "English Poems - Epithalamium - V",
+      "length": 608,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "English Poems - Epithalamium - VI",
+      "length": 543,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "English Poems - Epithalamium - VII",
+      "length": 608,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "English Poems - Epithalamium - VIII",
+      "length": 716,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "English Poems - Epithalamium - IX",
+      "length": 294,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "English Poems - Epithalamium - X",
+      "length": 313,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "English Poems - Epithalamium - XI",
+      "length": 369,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "English Poems - Epithalamium - XII",
+      "length": 640,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "English Poems - Epithalamium - XIII",
+      "length": 834,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "English Poems - Epithalamium - XIV",
+      "length": 693,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "English Poems - Epithalamium - XV",
+      "length": 533,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "English Poems - Epithalamium - XVI",
+      "length": 755,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "English Poems - Epithalamium - XVII",
+      "length": 791,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "English Poems - Epithalamium - XVIII",
+      "length": 860,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "English Poems - Epithalamium - XIX",
+      "length": 1237,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "English Poems - Epithalamium - XX",
+      "length": 617,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "English Poems - Epithalamium - XXI",
+      "length": 1166,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "Meantime",
+      "length": 472,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "Spell",
+      "length": 483,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "Colophon",
+      "length": 997,
+      "mode": "hide"
+    },
+    {
+      "id": "077",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL38078271W",
+  "goodreadsId": "63114",
+  "rating": 0.898,
+  "popularity": 4073,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721434620009
+}

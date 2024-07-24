@@ -1,1 +1,264 @@
-{"id":"alexandre-dumas--the-black-tulip","title":"The Black Tulip","titleAlpha":"black tulip","author":"Alexandre Dumas","language":"en","description":"An unjustly imprisoned man longs after both his love and his tulips.","longDescription":["After the conviction of two prominent politicians for sedition, Dumas's story focuses on the trial of an accused collaborator: one Cornelius van Baerle, whose only wish is to grow his tulips in peace. His crowning achievement is set to be the impossible black tulip, a feat worth one hundred thousand guilders from the Horticultural Society of Haarlem, but before he can sprout the bulb he's imprisoned with only the daughter of the prison warden to give him a glimmer of hope.","Set a few decades after the tulip mania of the 1630s, Alexandre Dumas's novel opens with a historical incident: the mob killing of Johan and Cornelius de Witt, then high up in the government. Dumas successfully balances the romance of the protagonist's love for both the heroine and his precious tulip with a quest to prove his innocence and thwart the schemes of his rival tulip-fancier Boxtel. The Black Tulip was originally published in three volumes in French in 1850; presented here is the 1902 translation by publisher P. F. Collier & Son."],"year":1848,"genres":["classics","fiction","history"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/alexandre-dumas/the-black-tulip/p-f-collier-and-son"},"openlibraryId":"OL36738W","goodreadsId":"2523035","rating":0.5577061999999999,"popularity":59,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Black Tulip","length":55,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I: A Grateful People","length":18710,"mode":"type"},{"id":"004","title":"II: The Two Brothers","length":15256,"mode":"type"},{"id":"005","title":"III: The Pupil of John de Witt","length":16601,"mode":"type"},{"id":"006","title":"IV: The Murderers","length":17455,"mode":"type"},{"id":"007","title":"V: The Tulip-Fancier and His Neighbour","length":17410,"mode":"type"},{"id":"008","title":"VI: The Hatred of a Tulip-Fancier","length":14150,"mode":"type"},{"id":"009","title":"VII: The Happy Man Makes Acquaintance with Misfortune","length":19028,"mode":"type"},{"id":"010","title":"VIII: An Invasion","length":12858,"mode":"type"},{"id":"011","title":"IX: The Family Cell","length":8888,"mode":"type"},{"id":"012","title":"X: The Jailer's Daughter","length":8051,"mode":"type"},{"id":"013","title":"XI: Cornelius van Baerle's Will","length":21534,"mode":"type"},{"id":"014","title":"XII: The Execution","length":6165,"mode":"type"},{"id":"015","title":"XIII: What Was Going on All This Time in the Mind of One of the Spectators","length":7791,"mode":"type"},{"id":"016","title":"XIV: The Pigeons of Dort","length":8711,"mode":"type"},{"id":"017","title":"XV: The Little Grated Window","length":11405,"mode":"type"},{"id":"018","title":"XVI: Master and Pupil","length":11702,"mode":"type"},{"id":"019","title":"XVII: The First Bulb","length":13674,"mode":"type"},{"id":"020","title":"XVIII: Rosa's Lover","length":9911,"mode":"type"},{"id":"021","title":"XIX: The Maid and the Flower","length":11968,"mode":"type"},{"id":"022","title":"XX: The Events Which Took Place During Those Eight Days","length":14345,"mode":"type"},{"id":"023","title":"XXI: The Second Bulb","length":12612,"mode":"type"},{"id":"024","title":"XXII: The Opening of the Flower","length":10298,"mode":"type"},{"id":"025","title":"XXIII: The Rival","length":11418,"mode":"type"},{"id":"026","title":"XXIV: The Black Tulip Changes Masters","length":7597,"mode":"type"},{"id":"027","title":"XXV: The President Van Systens","length":10911,"mode":"type"},{"id":"028","title":"XXVI: A Member of the Horticultural Society","length":14062,"mode":"type"},{"id":"029","title":"XXVII: The Third Bulb","length":13466,"mode":"type"},{"id":"030","title":"XXVIII: The Hymn of the Flowers","length":12709,"mode":"type"},{"id":"031","title":"XXIX: In Which Van Baerle, Before Leaving Loewestein, Settles Accounts with Gryphus","length":11944,"mode":"type"},{"id":"032","title":"XXX: Wherein the Reader Begins to Guess the Kind of Execution That Was Awaiting Van Baerle","length":5617,"mode":"type"},{"id":"033","title":"XXXI: Haarlem","length":12809,"mode":"type"},{"id":"034","title":"XXXII: A Last Request","length":7974,"mode":"type"},{"id":"035","title":"XXXIII: Conclusion","length":9499,"mode":"type"},{"id":"036","title":"Colophon","length":1120,"mode":"hide"},{"id":"037","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337484505}
+{
+  "id": "alexandre-dumas--the-black-tulip",
+  "title": "The Black Tulip",
+  "titleAlpha": "black tulip",
+  "author": "Alexandre Dumas",
+  "language": "en",
+  "description": "An unjustly imprisoned man longs after both his love and his tulips.",
+  "longDescription": [
+    "After the conviction of two prominent politicians for sedition, Dumas's story focuses on the trial of an accused collaborator: one Cornelius van Baerle, whose only wish is to grow his tulips in peace. His crowning achievement is set to be the impossible black tulip, a feat worth one hundred thousand guilders from the Horticultural Society of Haarlem, but before he can sprout the bulb he's imprisoned with only the daughter of the prison warden to give him a glimmer of hope.",
+    "Set a few decades after the tulip mania of the 1630s, Alexandre Dumas's novel opens with a historical incident: the mob killing of Johan and Cornelius de Witt, then high up in the government. Dumas successfully balances the romance of the protagonist's love for both the heroine and his precious tulip with a quest to prove his innocence and thwart the schemes of his rival tulip-fancier Boxtel. The Black Tulip was originally published in three volumes in French in 1850; presented here is the 1902 translation by publisher P. F. Collier & Son."
+  ],
+  "year": 1850,
+  "genres": [
+    "classics",
+    "fiction",
+    "history",
+    "romance"
+  ],
+  "topics": [
+    "prison",
+    "trials",
+    "revenge"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/alexandre-dumas/the-black-tulip/p-f-collier-and-son"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Black Tulip",
+      "length": 55,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: A Grateful People",
+      "length": 18710,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: The Two Brothers",
+      "length": 15256,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: The Pupil of John de Witt",
+      "length": 16601,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: The Murderers",
+      "length": 17455,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: The Tulip-Fancier and His Neighbour",
+      "length": 17410,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: The Hatred of a Tulip-Fancier",
+      "length": 14150,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: The Happy Man Makes Acquaintance with Misfortune",
+      "length": 19028,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: An Invasion",
+      "length": 12858,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: The Family Cell",
+      "length": 8888,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: The Jailer's Daughter",
+      "length": 8051,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: Cornelius van Baerle's Will",
+      "length": 21534,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: The Execution",
+      "length": 6165,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: What Was Going on All This Time in the Mind of One of the Spectators",
+      "length": 7791,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: The Pigeons of Dort",
+      "length": 8711,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: The Little Grated Window",
+      "length": 11405,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI: Master and Pupil",
+      "length": 11702,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII: The First Bulb",
+      "length": 13674,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII: Rosa's Lover",
+      "length": 9911,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX: The Maid and the Flower",
+      "length": 11968,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX: The Events Which Took Place During Those Eight Days",
+      "length": 14345,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI: The Second Bulb",
+      "length": 12612,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII: The Opening of the Flower",
+      "length": 10298,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII: The Rival",
+      "length": 11418,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV: The Black Tulip Changes Masters",
+      "length": 7597,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXV: The President Van Systens",
+      "length": 10911,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXVI: A Member of the Horticultural Society",
+      "length": 14062,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVII: The Third Bulb",
+      "length": 13466,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVIII: The Hymn of the Flowers",
+      "length": 12709,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXIX: In Which Van Baerle, Before Leaving Loewestein, Settles Accounts with Gryphus",
+      "length": 11944,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXX: Wherein the Reader Begins to Guess the Kind of Execution That Was Awaiting Van Baerle",
+      "length": 5617,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXXI: Haarlem",
+      "length": 12809,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXXII: A Last Request",
+      "length": 7974,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXIII: Conclusion",
+      "length": 9499,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Colophon",
+      "length": 1120,
+      "mode": "hide"
+    },
+    {
+      "id": "037",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL36854W",
+  "goodreadsId": "7182",
+  "rating": 0.768,
+  "popularity": 20913,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721434390115
+}

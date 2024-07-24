@@ -1,1 +1,152 @@
-{"id":"voltairine-de-cleyre--short-fiction","title":"Short Fiction","titleAlpha":"short fiction","author":"Voltairine de Cleyre","language":"en","description":"A collection of all of the short stories written by Voltairine de Cleyre.","longDescription":["Although most of Voltairine de Cleyre's literary output was in the form of poetry, she also wrote several short stories and sketches in prose form. De Cleyre, whose life and career overlapped with the height of the Gilded Age in the United States, depicted the lives of the urban poor - especially women - in her stories, reflecting her social concerns and her radical politics as an anarchist feminist."],"year":null,"genres":["classics","fiction","shorts"],"topics":["feminism"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Short Fiction","length":25,"mode":"hide"},{"id":"002","title":"Imprint","length":1176,"mode":"hide"},{"id":"003","title":"A Rocket of Iron","length":6691,"mode":"type"},{"id":"004","title":"The Chain Gang","length":8765,"mode":"type"},{"id":"005","title":"The Heart of Angiolillo","length":21712,"mode":"type"},{"id":"006","title":"The Reward of an Apostate","length":5599,"mode":"type"},{"id":"007","title":"At the End of the Alley - I","length":7145,"mode":"type"},{"id":"008","title":"At the End of the Alley - II: Alone","length":7407,"mode":"type"},{"id":"009","title":"To Strive and Fail","length":8427,"mode":"type"},{"id":"010","title":"The Sorrows of the Body","length":4730,"mode":"type"},{"id":"011","title":"The Triumph of Youth","length":15823,"mode":"type"},{"id":"012","title":"The Old Shoemaker","length":2535,"mode":"type"},{"id":"013","title":"Where the White Rose Died","length":9505,"mode":"type"},{"id":"014","title":"The Individualist and the Communist - A Dialogue","length":15063,"mode":"type"},{"id":"015","title":"Some Nihilists I Have Met","length":20494,"mode":"type"},{"id":"016","title":"Between the Living and the Dead","length":6914,"mode":"type"},{"id":"017","title":"Endnotes","length":51,"mode":"hide"},{"id":"018","title":"Colophon","length":1018,"mode":"hide"},{"id":"019","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338326578}
+{
+  "id": "voltairine-de-cleyre--short-fiction",
+  "title": "Short Fiction",
+  "titleAlpha": "short fiction",
+  "author": "Voltairine de Cleyre",
+  "language": "en",
+  "description": "A collection of all of the short stories written by Voltairine de Cleyre.",
+  "longDescription": [
+    "Although most of Voltairine de Cleyre's literary output was in the form of poetry, she also wrote several short stories and sketches in prose form. De Cleyre, whose life and career overlapped with the height of the Gilded Age in the United States, depicted the lives of the urban poor - especially women - in her stories, reflecting her social concerns and her radical politics as an anarchist feminist."
+  ],
+  "year": 2004,
+  "genres": [
+    "classics",
+    "fiction",
+    "shorts"
+  ],
+  "topics": [
+    "feminism"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Short Fiction",
+      "length": 25,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "A Rocket of Iron",
+      "length": 6691,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "The Chain Gang",
+      "length": 8765,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "The Heart of Angiolillo",
+      "length": 21712,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "The Reward of an Apostate",
+      "length": 5599,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "At the End of the Alley - I",
+      "length": 7145,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "At the End of the Alley - II: Alone",
+      "length": 7407,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "To Strive and Fail",
+      "length": 8427,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "The Sorrows of the Body",
+      "length": 4730,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "The Triumph of Youth",
+      "length": 15823,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "The Old Shoemaker",
+      "length": 2535,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Where the White Rose Died",
+      "length": 9505,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "The Individualist and the Communist - A Dialogue",
+      "length": 15063,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Some Nihilists I Have Met",
+      "length": 20494,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Between the Living and the Dead",
+      "length": 6914,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Endnotes",
+      "length": 51,
+      "mode": "hide"
+    },
+    {
+      "id": "018",
+      "title": "Colophon",
+      "length": 1018,
+      "mode": "hide"
+    },
+    {
+      "id": "019",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL38078226W",
+  "goodreadsId": "431797",
+  "rating": 0.8039999999999999,
+  "popularity": 112,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490205725
+}

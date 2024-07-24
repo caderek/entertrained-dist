@@ -1,1 +1,91 @@
-{"id":"john-william-polidori--the-vampire","title":"The Vampire","titleAlpha":"vampire","author":"John William Polidori","language":"en","description":"A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.","longDescription":["Aubrey, a young gentleman moving in London society of the early 1800s, meets the mysterious Lord Ruthven, recently arrived to London, at a party. Aubrey finds himself intrigued by the cold and expressionless Ruthven, and soon finds himself agreeing to travel with him on a trip across the continent. As their trip progresses, Aubrey is shocked at Ruthven's sadistic and degenerate behavior, and can't help but note how anyone who Ruthven meets ends up debauched and ruined.","Dismayed by his new friend's eagerness to wallow in depravity and licentiousness, Aubrey parts ways and goes to Greece. There he meets the young daughter of an innkeeper, who warns him of a local legend ... the legend of the vampire.","In the summer of 1816, known as the Year Without a Summer, Mary Shelley, Percy Bysshe Shelley, and Claire Clairmont went to visit Lord Byron and his physician, John William Polidori, in Geneva for what was supposed to be a vacation of outdoor relaxation. Bad weather forced them to stay indoors, and to pass the time, Byron suggested a contest in which the participants try to compose the best ghost story. Mary Shelley composed what would become Frankenstein; Polidori composed \"The Vampire,\" the first appearance in Western literature of what we now recognize as the classic vampire trope.","\"The Vampire\" was based on an unpublished fragment of a story by Byron. In 1819 Polidori published his story in the New Monthly Magazine, but the publisher, seemingly swept up in the Byromania surrounding the charismatic lord, misattributed the story to Byron himself. As the tale grew in popularity, both Byron and Polidori strenuously argued for the correct attribution; for a while, the best Polidori got was the removal of Byron's name, but without the addition of his own.","Buoyed by its association with the popular Lord Byron and playing straight into the public's interest in Gothic fiction, \"The Vampire\" became a huge success, and the glamorous and charismatic figure of the undead aristocrat immediately began influencing contemporary writers. Eighty years later Bram Stoker would write Dracula, whose own Count, directly inspired by Polidori's Lord Ruthven, would seal the vampire trope into the form still familiar to readers over a century later."],"year":1819,"genres":["classics","fiction","gothic","horror"],"topics":["vampires"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/john-william-polidori/the-vampire"},"openlibraryId":"OL3625250W","goodreadsId":"1309200","rating":0.57959804,"popularity":104,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Vampire","length":26,"mode":"hide"},{"id":"002","title":"Imprint","length":1176,"mode":"hide"},{"id":"003","title":"Extract of a Letter from Geneva","length":9910,"mode":"type"},{"id":"004","title":"Introduction","length":5802,"mode":"type"},{"id":"005","title":"The Vampire","length":46799,"mode":"type"},{"id":"006","title":"Endnotes","length":206,"mode":"hide"},{"id":"007","title":"Colophon","length":1034,"mode":"hide"},{"id":"008","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337993600}
+{
+  "id": "john-william-polidori--the-vampire",
+  "title": "The Vampire",
+  "titleAlpha": "vampire",
+  "author": "John William Polidori",
+  "language": "en",
+  "description": "A London gentleman goes on an ill-fated trip with a mysterious and sinister newcomer.",
+  "longDescription": [
+    "Aubrey, a young gentleman moving in London society of the early 1800s, meets the mysterious Lord Ruthven, recently arrived to London, at a party. Aubrey finds himself intrigued by the cold and expressionless Ruthven, and soon finds himself agreeing to travel with him on a trip across the continent. As their trip progresses, Aubrey is shocked at Ruthven's sadistic and degenerate behavior, and can't help but note how anyone who Ruthven meets ends up debauched and ruined.",
+    "Dismayed by his new friend's eagerness to wallow in depravity and licentiousness, Aubrey parts ways and goes to Greece. There he meets the young daughter of an innkeeper, who warns him of a local legend ... the legend of the vampire.",
+    "In the summer of 1816, known as the Year Without a Summer, Mary Shelley, Percy Bysshe Shelley, and Claire Clairmont went to visit Lord Byron and his physician, John William Polidori, in Geneva for what was supposed to be a vacation of outdoor relaxation. Bad weather forced them to stay indoors, and to pass the time, Byron suggested a contest in which the participants try to compose the best ghost story. Mary Shelley composed what would become Frankenstein; Polidori composed \"The Vampire,\" the first appearance in Western literature of what we now recognize as the classic vampire trope.",
+    "\"The Vampire\" was based on an unpublished fragment of a story by Byron. In 1819 Polidori published his story in the New Monthly Magazine, but the publisher, seemingly swept up in the Byromania surrounding the charismatic lord, misattributed the story to Byron himself. As the tale grew in popularity, both Byron and Polidori strenuously argued for the correct attribution; for a while, the best Polidori got was the removal of Byron's name, but without the addition of his own.",
+    "Buoyed by its association with the popular Lord Byron and playing straight into the public's interest in Gothic fiction, \"The Vampire\" became a huge success, and the glamorous and charismatic figure of the undead aristocrat immediately began influencing contemporary writers. Eighty years later Bram Stoker would write Dracula, whose own Count, directly inspired by Polidori's Lord Ruthven, would seal the vampire trope into the form still familiar to readers over a century later."
+  ],
+  "year": 1819,
+  "genres": [
+    "classics",
+    "fiction",
+    "gothic",
+    "horror"
+  ],
+  "topics": [
+    "vampires"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/john-william-polidori/the-vampire"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Vampire",
+      "length": 26,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Extract of a Letter from Geneva",
+      "length": 9910,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Introduction",
+      "length": 5802,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "The Vampire",
+      "length": 46799,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Endnotes",
+      "length": 206,
+      "mode": "hide"
+    },
+    {
+      "id": "007",
+      "title": "Colophon",
+      "length": 1034,
+      "mode": "hide"
+    },
+    {
+      "id": "008",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL3625250W",
+  "goodreadsId": "472966",
+  "rating": 0.662,
+  "popularity": 12418,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489862103
+}

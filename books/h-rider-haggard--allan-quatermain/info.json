@@ -1,1 +1,235 @@
-{"id":"h-rider-haggard--allan-quatermain","title":"Allan Quatermain","titleAlpha":"allan quatermain","author":"H. Rider Haggard","language":"en","description":"Adventurer Allan Quatermain sets out on a mission to Africa to locate a mysterious tribe of white-skinned people.","longDescription":["Allan Quatermain, the sequel to King Solomon's Mines, was first serialized in Longman's Magazine in the U. K. and subsequently published as a novel in 1887. In it we see the eponymous hero reunited with his companions to travel to Africa on a dangerous and adventuresome quest to try to find a legendary tribe of white-skinned people, the Zu-Vendi. Having discovered their remote and isolated country, Quatermain and his crew become embroiled in its internal affairs, culminating in a bitter and violent civil war."],"year":1887,"genres":["adventure","classics","fantasy","fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain"},"openlibraryId":"OL17537W","goodreadsId":"957191","rating":0.778,"popularity":5231,"cover":null,"free":false,"custom":false,"series":"Allan Quatermain","part":2,"chapters":[{"id":"001","title":"Titlepage - Allan Quatermain","length":21,"mode":"hide"},{"id":"002","title":"Imprint","length":1176,"mode":"hide"},{"id":"003","title":"Epigraph","length":268,"mode":"skip"},{"id":"004","title":"Dedication","length":421,"mode":"hide"},{"id":"005","title":"Introduction","length":13395,"mode":"type"},{"id":"006","title":"I: The Consul's Yarn","length":24357,"mode":"type"},{"id":"007","title":"II: The Black Hand","length":19714,"mode":"type"},{"id":"008","title":"III: The Mission Station","length":21833,"mode":"type"},{"id":"009","title":"IV: Alphonse and His Annette","length":18092,"mode":"type"},{"id":"010","title":"V: Umslopogaas Makes a Promise","length":26806,"mode":"type"},{"id":"011","title":"VI: The Night Wears On","length":19061,"mode":"type"},{"id":"012","title":"VII: A Slaughter Grim and Great","length":23332,"mode":"type"},{"id":"013","title":"VIII: Alphonse Explains","length":20897,"mode":"type"},{"id":"014","title":"IX: Into the Unknown","length":25000,"mode":"type"},{"id":"015","title":"X: The Rose of Fire","length":26512,"mode":"type"},{"id":"016","title":"XI: The Frowning City","length":29164,"mode":"type"},{"id":"017","title":"XII: The Sister Queens","length":29822,"mode":"type"},{"id":"018","title":"XIII: About the Zu-Vendi People","length":22445,"mode":"type"},{"id":"019","title":"XIV: The Flower Temple","length":30442,"mode":"type"},{"id":"020","title":"XV: Sorais's Song","length":25475,"mode":"type"},{"id":"021","title":"XVI: Before the Statue","length":19220,"mode":"type"},{"id":"022","title":"XVII: The Storm Breaks","length":23258,"mode":"type"},{"id":"023","title":"XVIII: War! Red War","length":28457,"mode":"type"},{"id":"024","title":"XIX: A Strange Wedding","length":18761,"mode":"type"},{"id":"025","title":"XX: The Battle of the Pass","length":27017,"mode":"type"},{"id":"026","title":"XXI: Away! Away!","length":17386,"mode":"type"},{"id":"027","title":"XXII: How Umslopogaas Held the Stair","length":25221,"mode":"type"},{"id":"028","title":"XXIII: I Have Spoken","length":15935,"mode":"type"},{"id":"029","title":"XXIV: By Another Hand","length":12733,"mode":"type"},{"id":"030","title":"Note by George Curtis Esq.","length":1864,"mode":"type"},{"id":"031","title":"Endnotes","length":4959,"mode":"hide"},{"id":"032","title":"Colophon","length":1055,"mode":"hide"},{"id":"033","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337846574}
+{
+  "id": "h-rider-haggard--allan-quatermain",
+  "title": "Allan Quatermain",
+  "titleAlpha": "allan quatermain",
+  "author": "H. Rider Haggard",
+  "language": "en",
+  "description": "Adventurer Allan Quatermain sets out on a mission to Africa to locate a mysterious tribe of white-skinned people.",
+  "longDescription": [
+    "Allan Quatermain, the sequel to King Solomon's Mines, was first serialized in Longman's Magazine in the U. K. and subsequently published as a novel in 1887. In it we see the eponymous hero reunited with his companions to travel to Africa on a dangerous and adventuresome quest to try to find a legendary tribe of white-skinned people, the Zu-Vendi. Having discovered their remote and isolated country, Quatermain and his crew become embroiled in its internal affairs, culminating in a bitter and violent civil war."
+  ],
+  "year": 1887,
+  "genres": [
+    "adventure",
+    "classics",
+    "fantasy",
+    "fiction"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Allan Quatermain",
+  "part": 2,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/h-rider-haggard/allan-quatermain"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Allan Quatermain",
+      "length": 21,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Epigraph",
+      "length": 268,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Dedication",
+      "length": 421,
+      "mode": "hide"
+    },
+    {
+      "id": "005",
+      "title": "Introduction",
+      "length": 13395,
+      "mode": "skip"
+    },
+    {
+      "id": "006",
+      "title": "I: The Consul's Yarn",
+      "length": 24357,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "II: The Black Hand",
+      "length": 19714,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "III: The Mission Station",
+      "length": 21833,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "IV: Alphonse and His Annette",
+      "length": 18092,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "V: Umslopogaas Makes a Promise",
+      "length": 26806,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VI: The Night Wears On",
+      "length": 19061,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VII: A Slaughter Grim and Great",
+      "length": 23332,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "VIII: Alphonse Explains",
+      "length": 20897,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "IX: Into the Unknown",
+      "length": 25000,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "X: The Rose of Fire",
+      "length": 26512,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XI: The Frowning City",
+      "length": 29164,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XII: The Sister Queens",
+      "length": 29822,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIII: About the Zu-Vendi People",
+      "length": 22444,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XIV: The Flower Temple",
+      "length": 30442,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XV: Sorais's Song",
+      "length": 25475,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVI: Before the Statue",
+      "length": 19220,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVII: The Storm Breaks",
+      "length": 23258,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XVIII: War! Red War",
+      "length": 28457,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XIX: A Strange Wedding",
+      "length": 18761,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XX: The Battle of the Pass",
+      "length": 27017,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXI: Away! Away!",
+      "length": 17386,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXII: How Umslopogaas Held the Stair",
+      "length": 25221,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXIII: I Have Spoken",
+      "length": 15935,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXIV: By Another Hand",
+      "length": 12733,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Note by George Curtis Esq.",
+      "length": 1864,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Endnotes",
+      "length": 4956,
+      "mode": "hide"
+    },
+    {
+      "id": "032",
+      "title": "Colophon",
+      "length": 1055,
+      "mode": "hide"
+    },
+    {
+      "id": "033",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL17537W",
+  "goodreadsId": "957191",
+  "rating": 0.778,
+  "popularity": 5231,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489747804
+}

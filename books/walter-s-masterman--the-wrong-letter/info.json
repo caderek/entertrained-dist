@@ -1,1 +1,173 @@
-{"id":"walter-s-masterman--the-wrong-letter","title":"The Wrong Letter","titleAlpha":"wrong letter","author":"Walter S. Masterman","language":"en","description":"A superintendent and an sleuth attempt to solve a locked-room mystery.","longDescription":["While in his office, Superintendent Sinclair receives a phone call from an unknown caller, who claims that they murdered the Home Secretary in his home. Together with Sylvester Collins, an eccentric sleuth, Sinclair goes to the Home Secretary's house to investigate the truth of the call, only to discover the body of the victim in a locked room. Is this a bizarre suicide, or is it a skillfully-executed murder? This is the question the duo have in mind as their investigation digs deeper into the victim's relationship with his daughter and estranged son.","Written in 1926, the peak of the Golden Age of Detective Fiction, Walter S. Masterman's The Wrong Letter follows a typical whodunit structure centered around a locked-room mystery, yet the novel stands out with its intricate clue-puzzle and its fresh take on the classical detective-and-assistant dynamic. While Collins and Sinclair's relationship initially resembles Sherlock Holmes and Watson's, it soon evolves beyond a mere archetype."],"year":null,"genres":["classics","crime","fiction","mystery"],"topics":["detective","murder"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/walter-s-masterman/the-wrong-letter"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Wrong Letter","length":24,"mode":"hide"},{"id":"002","title":"Imprint","length":1176,"mode":"hide"},{"id":"003","title":"Preface","length":5385,"mode":"skip"},{"id":"004","title":"I: The Crime","length":30014,"mode":"type"},{"id":"005","title":"II: Speculations","length":7333,"mode":"type"},{"id":"006","title":"III: At the Vale","length":19190,"mode":"type"},{"id":"007","title":"IV: The Missing Letter","length":4051,"mode":"type"},{"id":"008","title":"V: A Mysterious Visit","length":12464,"mode":"type"},{"id":"009","title":"VI: At Leveson Square","length":6570,"mode":"type"},{"id":"010","title":"VII: Valuable Information","length":13729,"mode":"type"},{"id":"011","title":"VIII: Enter Mr. Allery","length":5559,"mode":"type"},{"id":"012","title":"IX: A Confession","length":7539,"mode":"type"},{"id":"013","title":"X: The Portrait","length":9295,"mode":"type"},{"id":"014","title":"XI: An Apparition","length":10434,"mode":"type"},{"id":"015","title":"XII: What Happened in the Night","length":12182,"mode":"type"},{"id":"016","title":"XIII: The Car in the Dark","length":8106,"mode":"type"},{"id":"017","title":"XIV: Back in London","length":13375,"mode":"type"},{"id":"018","title":"XV: The Crisis","length":25574,"mode":"type"},{"id":"019","title":"XVI: The Criminal Found","length":17533,"mode":"type"},{"id":"020","title":"XVII: The Wrong Letter","length":12378,"mode":"type"},{"id":"021","title":"Colophon","length":1039,"mode":"hide"},{"id":"022","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338354359}
+{
+  "id": "walter-s-masterman--the-wrong-letter",
+  "title": "The Wrong Letter",
+  "titleAlpha": "wrong letter",
+  "author": "Walter S. Masterman",
+  "language": "en",
+  "description": "A superintendent and an sleuth attempt to solve a locked-room mystery.",
+  "longDescription": [
+    "While in his office, Superintendent Sinclair receives a phone call from an unknown caller, who claims that they murdered the Home Secretary in his home. Together with Sylvester Collins, an eccentric sleuth, Sinclair goes to the Home Secretary's house to investigate the truth of the call, only to discover the body of the victim in a locked room. Is this a bizarre suicide, or is it a skillfully-executed murder? This is the question the duo have in mind as their investigation digs deeper into the victim's relationship with his daughter and estranged son.",
+    "Written in 1926, the peak of the Golden Age of Detective Fiction, Walter S. Masterman's The Wrong Letter follows a typical whodunit structure centered around a locked-room mystery, yet the novel stands out with its intricate clue-puzzle and its fresh take on the classical detective-and-assistant dynamic. While Collins and Sinclair's relationship initially resembles Sherlock Holmes and Watson's, it soon evolves beyond a mere archetype."
+  ],
+  "year": 1926,
+  "genres": [
+    "classics",
+    "crime",
+    "fiction",
+    "mystery"
+  ],
+  "topics": [
+    "detective",
+    "murder"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/walter-s-masterman/the-wrong-letter"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Wrong Letter",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Preface",
+      "length": 5385,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "I: The Crime",
+      "length": 30014,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II: Speculations",
+      "length": 7333,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III: At the Vale",
+      "length": 19190,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "IV: The Missing Letter",
+      "length": 4051,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "V: A Mysterious Visit",
+      "length": 12464,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VI: At Leveson Square",
+      "length": 6570,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VII: Valuable Information",
+      "length": 13729,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VIII: Enter Mr. Allery",
+      "length": 5559,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "IX: A Confession",
+      "length": 7539,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "X: The Portrait",
+      "length": 9295,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XI: An Apparition",
+      "length": 10434,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XII: What Happened in the Night",
+      "length": 12182,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIII: The Car in the Dark",
+      "length": 8106,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIV: Back in London",
+      "length": 13375,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XV: The Crisis",
+      "length": 25574,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVI: The Criminal Found",
+      "length": 17533,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVII: The Wrong Letter",
+      "length": 12378,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Colophon",
+      "length": 1039,
+      "mode": "hide"
+    },
+    {
+      "id": "022",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL7536338W",
+  "goodreadsId": "179007004",
+  "rating": 0.7,
+  "popularity": 20,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490223873
+}

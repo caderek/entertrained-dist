@@ -1,1 +1,1342 @@
-{"id":"radclyffe-hall--the-well-of-loneliness","title":"The Well of Loneliness","titleAlpha":"well of loneliness","author":"Radclyffe Hall","language":"en","description":"A young woman struggles to understand and accept herself, and particularly her love of other women, in a society that rejects her unconventional behavior as unfeminine and even unnatural.","longDescription":["Confident of a son, Sir Philip and Lady Anna Gordon plan to name their first child Stephen. Instead they receive a daughter - but they decide to keep the name anyway. Young Stephen Gordon continues to surprise her parents with her boisterous play, demands for shorter hair, and insistence on riding her horse astride. After a childhood crush on a housemaid, Stephen begins to realize for herself that she is different than the world expects. As Stephen grows into adulthood and leaves her home and then England, her life is continually shaped by her love and affection for other women.","Radclyffe Hall, like her protagonist, had a number of romantic relationships with other women, and identified herself as an \"invert\" following the theory of sexual inversion that was developing at the time. Hall wrote the novel partly to promote the theory and directly references some of its advocates within the book.","The novel caused a sensation when it was published, leading to parodies, imitators, and even a theatrical adaptation. Pressure on the publisher to censor the novel led them to stop printing it in England, only to quickly import copies from France to meet demand. Today it remains a touchstone of queer fiction."],"year":1928,"genres":["classics","fiction"],"topics":["lgbtq"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/radclyffe-hall/the-well-of-loneliness"},"openlibraryId":"OL3297469W","goodreadsId":"179011","rating":0.748,"popularity":17262,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Well of Loneliness","length":19,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Dedication","length":30,"mode":"hide"},{"id":"004","title":"Author's Note","length":505,"mode":"type"},{"id":"005","title":"Book I - I - I","length":5022,"mode":"type"},{"id":"006","title":"Book I - I - II","length":2352,"mode":"type"},{"id":"007","title":"Book I - I - III","length":4858,"mode":"type"},{"id":"008","title":"Book I - II - I","length":4874,"mode":"type"},{"id":"009","title":"Book I - II - II","length":12406,"mode":"type"},{"id":"010","title":"Book I - II - III","length":3572,"mode":"type"},{"id":"011","title":"Book I - II - IV","length":3644,"mode":"type"},{"id":"012","title":"Book I - II - V","length":5554,"mode":"type"},{"id":"013","title":"Book I - II - VI","length":1918,"mode":"type"},{"id":"014","title":"Book I - III - I","length":3097,"mode":"type"},{"id":"015","title":"Book I - III - II","length":2117,"mode":"type"},{"id":"016","title":"Book I - III - III","length":7243,"mode":"type"},{"id":"017","title":"Book I - III - IV","length":4559,"mode":"type"},{"id":"018","title":"Book I - IV - I","length":4501,"mode":"type"},{"id":"019","title":"Book I - IV - II","length":4234,"mode":"type"},{"id":"020","title":"Book I - IV - III","length":1312,"mode":"type"},{"id":"021","title":"Book I - IV - IV","length":2507,"mode":"type"},{"id":"022","title":"Book I - IV - V","length":2486,"mode":"type"},{"id":"023","title":"Book I - IV - VI","length":1290,"mode":"type"},{"id":"024","title":"Book I - V - I","length":5224,"mode":"type"},{"id":"025","title":"Book I - V - II","length":4019,"mode":"type"},{"id":"026","title":"Book I - V - III","length":7410,"mode":"type"},{"id":"027","title":"Book I - V - IV","length":3606,"mode":"type"},{"id":"028","title":"Book I - VI - I","length":4933,"mode":"type"},{"id":"029","title":"Book I - VI - II","length":1921,"mode":"type"},{"id":"030","title":"Book I - VI - III","length":5038,"mode":"type"},{"id":"031","title":"Book I - VI - IV","length":4314,"mode":"type"},{"id":"032","title":"Book I - VI - V","length":5658,"mode":"type"},{"id":"033","title":"Book I - VII - I","length":6109,"mode":"type"},{"id":"034","title":"Book I - VII - II","length":9118,"mode":"type"},{"id":"035","title":"Book I - VII - III","length":1747,"mode":"type"},{"id":"036","title":"Book I - VIII - I","length":6142,"mode":"type"},{"id":"037","title":"Book I - VIII - II","length":6017,"mode":"type"},{"id":"038","title":"Book I - VIII - III","length":4437,"mode":"type"},{"id":"039","title":"Book I - IX - I","length":4716,"mode":"type"},{"id":"040","title":"Book I - IX - II","length":3705,"mode":"type"},{"id":"041","title":"Book I - IX - III","length":8368,"mode":"type"},{"id":"042","title":"Book I - IX - IV","length":2074,"mode":"type"},{"id":"043","title":"Book I - X - I","length":8124,"mode":"type"},{"id":"044","title":"Book I - X - II","length":6165,"mode":"type"},{"id":"045","title":"Book I - XI - I","length":7246,"mode":"type"},{"id":"046","title":"Book I - XI - II","length":1703,"mode":"type"},{"id":"047","title":"Book I - XI - III","length":3633,"mode":"type"},{"id":"048","title":"Book I - XII - I","length":14761,"mode":"type"},{"id":"049","title":"Book I - XII - II","length":3283,"mode":"type"},{"id":"050","title":"Book I - XII - III","length":201,"mode":"type"},{"id":"051","title":"Book I - XIII - I","length":6677,"mode":"type"},{"id":"052","title":"Book I - XIII - II","length":5054,"mode":"type"},{"id":"053","title":"Book I - XIII - III","length":3628,"mode":"type"},{"id":"054","title":"Book I - XIV - I","length":8005,"mode":"type"},{"id":"055","title":"Book I - XIV - II","length":1702,"mode":"type"},{"id":"056","title":"Book II - XV - I","length":9178,"mode":"type"},{"id":"057","title":"Book II - XV - II","length":7039,"mode":"type"},{"id":"058","title":"Book II - XVI - I","length":1880,"mode":"type"},{"id":"059","title":"Book II - XVI - II","length":9906,"mode":"type"},{"id":"060","title":"Book II - XVI - III","length":2287,"mode":"type"},{"id":"061","title":"Book II - XVI - IV","length":1052,"mode":"type"},{"id":"062","title":"Book II - XVI - V","length":929,"mode":"type"},{"id":"063","title":"Book II - XVII - I","length":4038,"mode":"type"},{"id":"064","title":"Book II - XVII - II","length":7685,"mode":"type"},{"id":"065","title":"Book II - XVII - III","length":3554,"mode":"type"},{"id":"066","title":"Book II - XVII - IV","length":1376,"mode":"type"},{"id":"067","title":"Book II - XVIII - I","length":5937,"mode":"type"},{"id":"068","title":"Book II - XIX - I","length":5880,"mode":"type"},{"id":"069","title":"Book II - XIX - II","length":4428,"mode":"type"},{"id":"070","title":"Book II - XX - I","length":3953,"mode":"type"},{"id":"071","title":"Book II - XX - II","length":3068,"mode":"type"},{"id":"072","title":"Book II - XX - III","length":6454,"mode":"type"},{"id":"073","title":"Book II - XX - IV","length":1544,"mode":"type"},{"id":"074","title":"Book II - XX - V","length":5188,"mode":"type"},{"id":"075","title":"Book II - XXI - I","length":4213,"mode":"type"},{"id":"076","title":"Book II - XXI - II","length":4182,"mode":"type"},{"id":"077","title":"Book II - XXI - III","length":2044,"mode":"type"},{"id":"078","title":"Book II - XXI - IV","length":7788,"mode":"type"},{"id":"079","title":"Book II - XXII - I","length":9529,"mode":"type"},{"id":"080","title":"Book II - XXIII - I","length":3279,"mode":"type"},{"id":"081","title":"Book II - XXIII - II","length":274,"mode":"type"},{"id":"082","title":"Book II - XXIII - III","length":1658,"mode":"type"},{"id":"083","title":"Book II - XXIII - IV","length":16778,"mode":"type"},{"id":"084","title":"Book II - XXIV - I","length":1783,"mode":"type"},{"id":"085","title":"Book II - XXIV - II","length":879,"mode":"type"},{"id":"086","title":"Book II - XXIV - III","length":1905,"mode":"type"},{"id":"087","title":"Book II - XXIV - IV","length":3855,"mode":"type"},{"id":"088","title":"Book II - XXIV - V","length":1577,"mode":"type"},{"id":"089","title":"Book II - XXIV - VI","length":1118,"mode":"type"},{"id":"090","title":"Book II - XXV - I","length":3231,"mode":"type"},{"id":"091","title":"Book II - XXV - II","length":6380,"mode":"type"},{"id":"092","title":"Book II - XXVI - I","length":4658,"mode":"type"},{"id":"093","title":"Book II - XXVI - II","length":1197,"mode":"type"},{"id":"094","title":"Book II - XXVI - III","length":5180,"mode":"type"},{"id":"095","title":"Book II - XXVI - IV","length":1514,"mode":"type"},{"id":"096","title":"Book II - XXVI - V","length":3602,"mode":"type"},{"id":"097","title":"Book II - XXVII - I","length":8586,"mode":"type"},{"id":"098","title":"Book II - XXVII - II","length":6268,"mode":"type"},{"id":"099","title":"Book III - XVIII - I","length":10706,"mode":"type"},{"id":"100","title":"Book III - XVIII - II","length":1399,"mode":"type"},{"id":"101","title":"Book III - XVIII - III","length":2799,"mode":"type"},{"id":"102","title":"Book III - XVIII - IV","length":6248,"mode":"type"},{"id":"103","title":"Book III - XXIX - I","length":3667,"mode":"type"},{"id":"104","title":"Book III - XXIX - II","length":3773,"mode":"type"},{"id":"105","title":"Book III - XXIX - III","length":5039,"mode":"type"},{"id":"106","title":"Book III - XXIX - IV","length":2386,"mode":"type"},{"id":"107","title":"Book III - XXIX - V","length":964,"mode":"type"},{"id":"108","title":"Book III - XXX - I","length":6159,"mode":"type"},{"id":"109","title":"Book III - XXX - II","length":3500,"mode":"type"},{"id":"110","title":"Book III - XXX - III","length":6069,"mode":"type"},{"id":"111","title":"Book III - XXX - IV","length":952,"mode":"type"},{"id":"112","title":"Book III - XXX - V","length":9867,"mode":"type"},{"id":"113","title":"Book III - XXXI - I","length":3117,"mode":"type"},{"id":"114","title":"Book III - XXXI - II","length":3482,"mode":"type"},{"id":"115","title":"Book III - XXXI - III","length":7065,"mode":"type"},{"id":"116","title":"Book III - XXXI - IV","length":2145,"mode":"type"},{"id":"117","title":"Book III - XXXI - V","length":8362,"mode":"type"},{"id":"118","title":"Book III - XXXI - VI","length":1221,"mode":"type"},{"id":"119","title":"Book III - XXXII - I","length":6921,"mode":"type"},{"id":"120","title":"Book III - XXXII - II","length":7261,"mode":"type"},{"id":"121","title":"Book III - XXXIII - I","length":6251,"mode":"type"},{"id":"122","title":"Book III - XXXIII - II","length":4415,"mode":"type"},{"id":"123","title":"Book III - XXXIII - III","length":2635,"mode":"type"},{"id":"124","title":"Book III - XXXIII - IV","length":5272,"mode":"type"},{"id":"125","title":"Book III - XXXIII - V","length":1942,"mode":"type"},{"id":"126","title":"Book III - XXXIV - I","length":2892,"mode":"type"},{"id":"127","title":"Book III - XXXIV - II","length":5501,"mode":"type"},{"id":"128","title":"Book III - XXXIV - III","length":5030,"mode":"type"},{"id":"129","title":"Book III - XXXIV - IV","length":4305,"mode":"type"},{"id":"130","title":"Book III - XXXIV - V","length":2773,"mode":"type"},{"id":"131","title":"Book IV - XXXV - I","length":7690,"mode":"type"},{"id":"132","title":"Book IV - XXXV - II","length":3036,"mode":"type"},{"id":"133","title":"Book IV - XXXV - III","length":3327,"mode":"type"},{"id":"134","title":"Book IV - XXXV - IV","length":536,"mode":"type"},{"id":"135","title":"Book IV - XXXVI - I","length":6805,"mode":"type"},{"id":"136","title":"Book IV - XXXVI - II","length":6495,"mode":"type"},{"id":"137","title":"Book IV - XXXVI - III","length":3451,"mode":"type"},{"id":"138","title":"Book IV - XXXVI - IV","length":5115,"mode":"type"},{"id":"139","title":"Book IV - XXXVI - V","length":2147,"mode":"type"},{"id":"140","title":"Book IV - XXXVII - I","length":1940,"mode":"type"},{"id":"141","title":"Book IV - XXXVII - II","length":980,"mode":"type"},{"id":"142","title":"Book IV - XXXVII - III","length":13659,"mode":"type"},{"id":"143","title":"Book IV - XXXVII - IV","length":5749,"mode":"type"},{"id":"144","title":"Book IV - XXXVIII - I","length":2758,"mode":"type"},{"id":"145","title":"Book IV - XXXVIII - II","length":3713,"mode":"type"},{"id":"146","title":"Book IV - XXXVIII - III","length":3204,"mode":"type"},{"id":"147","title":"Book IV - XXXVIII - IV","length":4115,"mode":"type"},{"id":"148","title":"Book IV - XXXVIII - V","length":1641,"mode":"type"},{"id":"149","title":"Book IV - XXXVIII - VI","length":3142,"mode":"type"},{"id":"150","title":"Book IV - XXXIX - I","length":2823,"mode":"type"},{"id":"151","title":"Book IV - XXXIX - II","length":3410,"mode":"type"},{"id":"152","title":"Book IV - XXXIX - III","length":2375,"mode":"type"},{"id":"153","title":"Book V - XL - I","length":6777,"mode":"type"},{"id":"154","title":"Book V - XL - II","length":7439,"mode":"type"},{"id":"155","title":"Book V - XL - III","length":2137,"mode":"type"},{"id":"156","title":"Book V - XLI - I","length":2788,"mode":"type"},{"id":"157","title":"Book V - XLI - II","length":2670,"mode":"type"},{"id":"158","title":"Book V - XLI - III","length":6097,"mode":"type"},{"id":"159","title":"Book V - XLII - I","length":3752,"mode":"type"},{"id":"160","title":"Book V - XLII - II","length":5902,"mode":"type"},{"id":"161","title":"Book V - XLII - III","length":636,"mode":"type"},{"id":"162","title":"Book V - XLIII - I","length":3860,"mode":"type"},{"id":"163","title":"Book V - XLIII - II","length":4499,"mode":"type"},{"id":"164","title":"Book V - XLIII - III","length":4270,"mode":"type"},{"id":"165","title":"Book V - XLIII - IV","length":2896,"mode":"type"},{"id":"166","title":"Book V - XLIII - V","length":4565,"mode":"type"},{"id":"167","title":"Book V - XLIII - VI","length":710,"mode":"type"},{"id":"168","title":"Book V - XLIII - VII","length":781,"mode":"type"},{"id":"169","title":"Book V - XLIV - I","length":11650,"mode":"type"},{"id":"170","title":"Book V - XLIV - II","length":7956,"mode":"type"},{"id":"171","title":"Book V - XLIV - III","length":1220,"mode":"type"},{"id":"172","title":"Book V - XLV - I","length":9821,"mode":"type"},{"id":"173","title":"Book V - XLV - II","length":1069,"mode":"type"},{"id":"174","title":"Book V - XLV - III","length":7897,"mode":"type"},{"id":"175","title":"Book V - XLVI - I","length":2785,"mode":"type"},{"id":"176","title":"Book V - XLVI - II","length":5465,"mode":"type"},{"id":"177","title":"Book V - XLVI - III","length":1307,"mode":"type"},{"id":"178","title":"Book V - XLVI - IV","length":3434,"mode":"type"},{"id":"179","title":"Book V - XLVI - V","length":714,"mode":"type"},{"id":"180","title":"Book V - XLVII - I","length":9524,"mode":"type"},{"id":"181","title":"Book V - XLVII - II","length":5113,"mode":"type"},{"id":"182","title":"Book V - XLVIII - I","length":5979,"mode":"type"},{"id":"183","title":"Book V - XLVIII - II","length":8694,"mode":"type"},{"id":"184","title":"Book V - XLVIII - III","length":6521,"mode":"type"},{"id":"185","title":"Book V - XLVIII - IV","length":7612,"mode":"type"},{"id":"186","title":"Book V - XLVIII - V","length":1113,"mode":"type"},{"id":"187","title":"Book V - XLIX - I","length":2097,"mode":"type"},{"id":"188","title":"Book V - XLIX - II","length":4004,"mode":"type"},{"id":"189","title":"Book V - XLIX - III","length":1713,"mode":"type"},{"id":"190","title":"Book V - L - I","length":4268,"mode":"type"},{"id":"191","title":"Book V - L - II","length":1246,"mode":"type"},{"id":"192","title":"Book V - L - III","length":1294,"mode":"type"},{"id":"193","title":"Book V - L - IV","length":704,"mode":"type"},{"id":"194","title":"Book V - L - V","length":3046,"mode":"type"},{"id":"195","title":"Book V - L - VI","length":1003,"mode":"type"},{"id":"196","title":"Book V - L - VII","length":3134,"mode":"type"},{"id":"197","title":"Book V - L - VIII","length":1817,"mode":"type"},{"id":"198","title":"Book V - LI - I","length":2246,"mode":"type"},{"id":"199","title":"Book V - LI - II","length":9831,"mode":"type"},{"id":"200","title":"Book V - LII - I","length":8698,"mode":"type"},{"id":"201","title":"Book V - LII - II","length":3300,"mode":"type"},{"id":"202","title":"Book V - LII - III","length":4702,"mode":"type"},{"id":"203","title":"Book V - LII - IV","length":734,"mode":"type"},{"id":"204","title":"Book V - LIII - I","length":5489,"mode":"type"},{"id":"205","title":"Book V - LIII - II","length":3290,"mode":"type"},{"id":"206","title":"Book V - LIII - III","length":2872,"mode":"type"},{"id":"207","title":"Book V - LIV - I","length":5817,"mode":"type"},{"id":"208","title":"Book V - LIV - II","length":5762,"mode":"type"},{"id":"209","title":"Book V - LIV - III","length":386,"mode":"type"},{"id":"210","title":"Book V - LV - I","length":3169,"mode":"type"},{"id":"211","title":"Book V - LV - II","length":6224,"mode":"type"},{"id":"212","title":"Book V - LV - III","length":4101,"mode":"type"},{"id":"213","title":"Book V - LVI - I","length":1349,"mode":"type"},{"id":"214","title":"Book V - LVI - II","length":882,"mode":"type"},{"id":"215","title":"Book V - LVI - III","length":7029,"mode":"type"},{"id":"216","title":"Colophon","length":1065,"mode":"hide"},{"id":"217","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338185875}
+{
+  "id": "radclyffe-hall--the-well-of-loneliness",
+  "title": "The Well of Loneliness",
+  "titleAlpha": "well of loneliness",
+  "author": "Radclyffe Hall",
+  "language": "en",
+  "description": "A young woman struggles to understand and accept herself, and particularly her love of other women, in a society that rejects her unconventional behavior as unfeminine and even unnatural.",
+  "longDescription": [
+    "Confident of a son, Sir Philip and Lady Anna Gordon plan to name their first child Stephen. Instead they receive a daughter - but they decide to keep the name anyway. Young Stephen Gordon continues to surprise her parents with her boisterous play, demands for shorter hair, and insistence on riding her horse astride. After a childhood crush on a housemaid, Stephen begins to realize for herself that she is different than the world expects. As Stephen grows into adulthood and leaves her home and then England, her life is continually shaped by her love and affection for other women.",
+    "Radclyffe Hall, like her protagonist, had a number of romantic relationships with other women, and identified herself as an \"invert\" following the theory of sexual inversion that was developing at the time. Hall wrote the novel partly to promote the theory and directly references some of its advocates within the book.",
+    "The novel caused a sensation when it was published, leading to parodies, imitators, and even a theatrical adaptation. Pressure on the publisher to censor the novel led them to stop printing it in England, only to quickly import copies from France to meet demand. Today it remains a touchstone of queer fiction."
+  ],
+  "year": 1928,
+  "genres": [
+    "classics",
+    "fiction",
+    "romance"
+  ],
+  "topics": [
+    "lgbtq"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/radclyffe-hall/the-well-of-loneliness"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Well of Loneliness",
+      "length": 19,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 30,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Author's Note",
+      "length": 505,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Book I - I - I",
+      "length": 5022,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book I - I - II",
+      "length": 2352,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Book I - I - III",
+      "length": 4858,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Book I - II - I",
+      "length": 4874,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book I - II - II",
+      "length": 12406,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Book I - II - III",
+      "length": 3572,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book I - II - IV",
+      "length": 3644,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book I - II - V",
+      "length": 5554,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book I - II - VI",
+      "length": 1918,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book I - III - I",
+      "length": 3097,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book I - III - II",
+      "length": 2117,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Book I - III - III",
+      "length": 7243,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book I - III - IV",
+      "length": 4559,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book I - IV - I",
+      "length": 4501,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Book I - IV - II",
+      "length": 4234,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Book I - IV - III",
+      "length": 1312,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Book I - IV - IV",
+      "length": 2507,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Book I - IV - V",
+      "length": 2486,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Book I - IV - VI",
+      "length": 1290,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Book I - V - I",
+      "length": 5224,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Book I - V - II",
+      "length": 4019,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Book I - V - III",
+      "length": 7410,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Book I - V - IV",
+      "length": 3606,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Book I - VI - I",
+      "length": 4930,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Book I - VI - II",
+      "length": 1921,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Book I - VI - III",
+      "length": 5038,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Book I - VI - IV",
+      "length": 4314,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Book I - VI - V",
+      "length": 5658,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Book I - VII - I",
+      "length": 6109,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Book I - VII - II",
+      "length": 9118,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Book I - VII - III",
+      "length": 1747,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Book I - VIII - I",
+      "length": 6142,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Book I - VIII - II",
+      "length": 6017,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Book I - VIII - III",
+      "length": 4437,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Book I - IX - I",
+      "length": 4716,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Book I - IX - II",
+      "length": 3705,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Book I - IX - III",
+      "length": 8368,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Book I - IX - IV",
+      "length": 2074,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Book I - X - I",
+      "length": 8124,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Book I - X - II",
+      "length": 6165,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Book I - XI - I",
+      "length": 7246,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Book I - XI - II",
+      "length": 1703,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Book I - XI - III",
+      "length": 3633,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Book I - XII - I",
+      "length": 14761,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "Book I - XII - II",
+      "length": 3283,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Book I - XII - III",
+      "length": 201,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "Book I - XIII - I",
+      "length": 6677,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "Book I - XIII - II",
+      "length": 5054,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "Book I - XIII - III",
+      "length": 3628,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "Book I - XIV - I",
+      "length": 8005,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "Book I - XIV - II",
+      "length": 1702,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "Book II - XV - I",
+      "length": 9178,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "Book II - XV - II",
+      "length": 7039,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "Book II - XVI - I",
+      "length": 1880,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "Book II - XVI - II",
+      "length": 9906,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "Book II - XVI - III",
+      "length": 2287,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "Book II - XVI - IV",
+      "length": 1052,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "Book II - XVI - V",
+      "length": 929,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "Book II - XVII - I",
+      "length": 4038,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "Book II - XVII - II",
+      "length": 7685,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "Book II - XVII - III",
+      "length": 3554,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "Book II - XVII - IV",
+      "length": 1376,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "Book II - XVIII - I",
+      "length": 5937,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "Book II - XIX - I",
+      "length": 5880,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "Book II - XIX - II",
+      "length": 4428,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "Book II - XX - I",
+      "length": 3953,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "Book II - XX - II",
+      "length": 3068,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "Book II - XX - III",
+      "length": 6454,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "Book II - XX - IV",
+      "length": 1544,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "Book II - XX - V",
+      "length": 5188,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "Book II - XXI - I",
+      "length": 4213,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "Book II - XXI - II",
+      "length": 4182,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "Book II - XXI - III",
+      "length": 2044,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "Book II - XXI - IV",
+      "length": 7788,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "Book II - XXII - I",
+      "length": 9529,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "Book II - XXIII - I",
+      "length": 3279,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "Book II - XXIII - II",
+      "length": 274,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "Book II - XXIII - III",
+      "length": 1658,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "Book II - XXIII - IV",
+      "length": 16778,
+      "mode": "type"
+    },
+    {
+      "id": "084",
+      "title": "Book II - XXIV - I",
+      "length": 1783,
+      "mode": "type"
+    },
+    {
+      "id": "085",
+      "title": "Book II - XXIV - II",
+      "length": 879,
+      "mode": "type"
+    },
+    {
+      "id": "086",
+      "title": "Book II - XXIV - III",
+      "length": 1905,
+      "mode": "type"
+    },
+    {
+      "id": "087",
+      "title": "Book II - XXIV - IV",
+      "length": 3855,
+      "mode": "type"
+    },
+    {
+      "id": "088",
+      "title": "Book II - XXIV - V",
+      "length": 1577,
+      "mode": "type"
+    },
+    {
+      "id": "089",
+      "title": "Book II - XXIV - VI",
+      "length": 1118,
+      "mode": "type"
+    },
+    {
+      "id": "090",
+      "title": "Book II - XXV - I",
+      "length": 3231,
+      "mode": "type"
+    },
+    {
+      "id": "091",
+      "title": "Book II - XXV - II",
+      "length": 6380,
+      "mode": "type"
+    },
+    {
+      "id": "092",
+      "title": "Book II - XXVI - I",
+      "length": 4658,
+      "mode": "type"
+    },
+    {
+      "id": "093",
+      "title": "Book II - XXVI - II",
+      "length": 1197,
+      "mode": "type"
+    },
+    {
+      "id": "094",
+      "title": "Book II - XXVI - III",
+      "length": 5180,
+      "mode": "type"
+    },
+    {
+      "id": "095",
+      "title": "Book II - XXVI - IV",
+      "length": 1514,
+      "mode": "type"
+    },
+    {
+      "id": "096",
+      "title": "Book II - XXVI - V",
+      "length": 3602,
+      "mode": "type"
+    },
+    {
+      "id": "097",
+      "title": "Book II - XXVII - I",
+      "length": 8586,
+      "mode": "type"
+    },
+    {
+      "id": "098",
+      "title": "Book II - XXVII - II",
+      "length": 6268,
+      "mode": "type"
+    },
+    {
+      "id": "099",
+      "title": "Book III - XVIII - I",
+      "length": 10706,
+      "mode": "type"
+    },
+    {
+      "id": "100",
+      "title": "Book III - XVIII - II",
+      "length": 1399,
+      "mode": "type"
+    },
+    {
+      "id": "101",
+      "title": "Book III - XVIII - III",
+      "length": 2799,
+      "mode": "type"
+    },
+    {
+      "id": "102",
+      "title": "Book III - XVIII - IV",
+      "length": 6248,
+      "mode": "type"
+    },
+    {
+      "id": "103",
+      "title": "Book III - XXIX - I",
+      "length": 3667,
+      "mode": "type"
+    },
+    {
+      "id": "104",
+      "title": "Book III - XXIX - II",
+      "length": 3773,
+      "mode": "type"
+    },
+    {
+      "id": "105",
+      "title": "Book III - XXIX - III",
+      "length": 5039,
+      "mode": "type"
+    },
+    {
+      "id": "106",
+      "title": "Book III - XXIX - IV",
+      "length": 2386,
+      "mode": "type"
+    },
+    {
+      "id": "107",
+      "title": "Book III - XXIX - V",
+      "length": 964,
+      "mode": "type"
+    },
+    {
+      "id": "108",
+      "title": "Book III - XXX - I",
+      "length": 6159,
+      "mode": "type"
+    },
+    {
+      "id": "109",
+      "title": "Book III - XXX - II",
+      "length": 3500,
+      "mode": "type"
+    },
+    {
+      "id": "110",
+      "title": "Book III - XXX - III",
+      "length": 6069,
+      "mode": "type"
+    },
+    {
+      "id": "111",
+      "title": "Book III - XXX - IV",
+      "length": 952,
+      "mode": "type"
+    },
+    {
+      "id": "112",
+      "title": "Book III - XXX - V",
+      "length": 9867,
+      "mode": "type"
+    },
+    {
+      "id": "113",
+      "title": "Book III - XXXI - I",
+      "length": 3117,
+      "mode": "type"
+    },
+    {
+      "id": "114",
+      "title": "Book III - XXXI - II",
+      "length": 3482,
+      "mode": "type"
+    },
+    {
+      "id": "115",
+      "title": "Book III - XXXI - III",
+      "length": 7065,
+      "mode": "type"
+    },
+    {
+      "id": "116",
+      "title": "Book III - XXXI - IV",
+      "length": 2144,
+      "mode": "type"
+    },
+    {
+      "id": "117",
+      "title": "Book III - XXXI - V",
+      "length": 8362,
+      "mode": "type"
+    },
+    {
+      "id": "118",
+      "title": "Book III - XXXI - VI",
+      "length": 1221,
+      "mode": "type"
+    },
+    {
+      "id": "119",
+      "title": "Book III - XXXII - I",
+      "length": 6921,
+      "mode": "type"
+    },
+    {
+      "id": "120",
+      "title": "Book III - XXXII - II",
+      "length": 7261,
+      "mode": "type"
+    },
+    {
+      "id": "121",
+      "title": "Book III - XXXIII - I",
+      "length": 6251,
+      "mode": "type"
+    },
+    {
+      "id": "122",
+      "title": "Book III - XXXIII - II",
+      "length": 4415,
+      "mode": "type"
+    },
+    {
+      "id": "123",
+      "title": "Book III - XXXIII - III",
+      "length": 2635,
+      "mode": "type"
+    },
+    {
+      "id": "124",
+      "title": "Book III - XXXIII - IV",
+      "length": 5271,
+      "mode": "type"
+    },
+    {
+      "id": "125",
+      "title": "Book III - XXXIII - V",
+      "length": 1942,
+      "mode": "type"
+    },
+    {
+      "id": "126",
+      "title": "Book III - XXXIV - I",
+      "length": 2892,
+      "mode": "type"
+    },
+    {
+      "id": "127",
+      "title": "Book III - XXXIV - II",
+      "length": 5501,
+      "mode": "type"
+    },
+    {
+      "id": "128",
+      "title": "Book III - XXXIV - III",
+      "length": 5029,
+      "mode": "type"
+    },
+    {
+      "id": "129",
+      "title": "Book III - XXXIV - IV",
+      "length": 4305,
+      "mode": "type"
+    },
+    {
+      "id": "130",
+      "title": "Book III - XXXIV - V",
+      "length": 2773,
+      "mode": "type"
+    },
+    {
+      "id": "131",
+      "title": "Book IV - XXXV - I",
+      "length": 7690,
+      "mode": "type"
+    },
+    {
+      "id": "132",
+      "title": "Book IV - XXXV - II",
+      "length": 3036,
+      "mode": "type"
+    },
+    {
+      "id": "133",
+      "title": "Book IV - XXXV - III",
+      "length": 3327,
+      "mode": "type"
+    },
+    {
+      "id": "134",
+      "title": "Book IV - XXXV - IV",
+      "length": 536,
+      "mode": "type"
+    },
+    {
+      "id": "135",
+      "title": "Book IV - XXXVI - I",
+      "length": 6805,
+      "mode": "type"
+    },
+    {
+      "id": "136",
+      "title": "Book IV - XXXVI - II",
+      "length": 6495,
+      "mode": "type"
+    },
+    {
+      "id": "137",
+      "title": "Book IV - XXXVI - III",
+      "length": 3451,
+      "mode": "type"
+    },
+    {
+      "id": "138",
+      "title": "Book IV - XXXVI - IV",
+      "length": 5115,
+      "mode": "type"
+    },
+    {
+      "id": "139",
+      "title": "Book IV - XXXVI - V",
+      "length": 2147,
+      "mode": "type"
+    },
+    {
+      "id": "140",
+      "title": "Book IV - XXXVII - I",
+      "length": 1940,
+      "mode": "type"
+    },
+    {
+      "id": "141",
+      "title": "Book IV - XXXVII - II",
+      "length": 980,
+      "mode": "type"
+    },
+    {
+      "id": "142",
+      "title": "Book IV - XXXVII - III",
+      "length": 13659,
+      "mode": "type"
+    },
+    {
+      "id": "143",
+      "title": "Book IV - XXXVII - IV",
+      "length": 5749,
+      "mode": "type"
+    },
+    {
+      "id": "144",
+      "title": "Book IV - XXXVIII - I",
+      "length": 2758,
+      "mode": "type"
+    },
+    {
+      "id": "145",
+      "title": "Book IV - XXXVIII - II",
+      "length": 3713,
+      "mode": "type"
+    },
+    {
+      "id": "146",
+      "title": "Book IV - XXXVIII - III",
+      "length": 3204,
+      "mode": "type"
+    },
+    {
+      "id": "147",
+      "title": "Book IV - XXXVIII - IV",
+      "length": 4115,
+      "mode": "type"
+    },
+    {
+      "id": "148",
+      "title": "Book IV - XXXVIII - V",
+      "length": 1641,
+      "mode": "type"
+    },
+    {
+      "id": "149",
+      "title": "Book IV - XXXVIII - VI",
+      "length": 3142,
+      "mode": "type"
+    },
+    {
+      "id": "150",
+      "title": "Book IV - XXXIX - I",
+      "length": 2823,
+      "mode": "type"
+    },
+    {
+      "id": "151",
+      "title": "Book IV - XXXIX - II",
+      "length": 3410,
+      "mode": "type"
+    },
+    {
+      "id": "152",
+      "title": "Book IV - XXXIX - III",
+      "length": 2375,
+      "mode": "type"
+    },
+    {
+      "id": "153",
+      "title": "Book V - XL - I",
+      "length": 6777,
+      "mode": "type"
+    },
+    {
+      "id": "154",
+      "title": "Book V - XL - II",
+      "length": 7439,
+      "mode": "type"
+    },
+    {
+      "id": "155",
+      "title": "Book V - XL - III",
+      "length": 2137,
+      "mode": "type"
+    },
+    {
+      "id": "156",
+      "title": "Book V - XLI - I",
+      "length": 2788,
+      "mode": "type"
+    },
+    {
+      "id": "157",
+      "title": "Book V - XLI - II",
+      "length": 2670,
+      "mode": "type"
+    },
+    {
+      "id": "158",
+      "title": "Book V - XLI - III",
+      "length": 6097,
+      "mode": "type"
+    },
+    {
+      "id": "159",
+      "title": "Book V - XLII - I",
+      "length": 3752,
+      "mode": "type"
+    },
+    {
+      "id": "160",
+      "title": "Book V - XLII - II",
+      "length": 5902,
+      "mode": "type"
+    },
+    {
+      "id": "161",
+      "title": "Book V - XLII - III",
+      "length": 636,
+      "mode": "type"
+    },
+    {
+      "id": "162",
+      "title": "Book V - XLIII - I",
+      "length": 3860,
+      "mode": "type"
+    },
+    {
+      "id": "163",
+      "title": "Book V - XLIII - II",
+      "length": 4499,
+      "mode": "type"
+    },
+    {
+      "id": "164",
+      "title": "Book V - XLIII - III",
+      "length": 4270,
+      "mode": "type"
+    },
+    {
+      "id": "165",
+      "title": "Book V - XLIII - IV",
+      "length": 2896,
+      "mode": "type"
+    },
+    {
+      "id": "166",
+      "title": "Book V - XLIII - V",
+      "length": 4565,
+      "mode": "type"
+    },
+    {
+      "id": "167",
+      "title": "Book V - XLIII - VI",
+      "length": 710,
+      "mode": "type"
+    },
+    {
+      "id": "168",
+      "title": "Book V - XLIII - VII",
+      "length": 781,
+      "mode": "type"
+    },
+    {
+      "id": "169",
+      "title": "Book V - XLIV - I",
+      "length": 11650,
+      "mode": "type"
+    },
+    {
+      "id": "170",
+      "title": "Book V - XLIV - II",
+      "length": 7956,
+      "mode": "type"
+    },
+    {
+      "id": "171",
+      "title": "Book V - XLIV - III",
+      "length": 1220,
+      "mode": "type"
+    },
+    {
+      "id": "172",
+      "title": "Book V - XLV - I",
+      "length": 9821,
+      "mode": "type"
+    },
+    {
+      "id": "173",
+      "title": "Book V - XLV - II",
+      "length": 1069,
+      "mode": "type"
+    },
+    {
+      "id": "174",
+      "title": "Book V - XLV - III",
+      "length": 7897,
+      "mode": "type"
+    },
+    {
+      "id": "175",
+      "title": "Book V - XLVI - I",
+      "length": 2785,
+      "mode": "type"
+    },
+    {
+      "id": "176",
+      "title": "Book V - XLVI - II",
+      "length": 5465,
+      "mode": "type"
+    },
+    {
+      "id": "177",
+      "title": "Book V - XLVI - III",
+      "length": 1307,
+      "mode": "type"
+    },
+    {
+      "id": "178",
+      "title": "Book V - XLVI - IV",
+      "length": 3434,
+      "mode": "type"
+    },
+    {
+      "id": "179",
+      "title": "Book V - XLVI - V",
+      "length": 714,
+      "mode": "type"
+    },
+    {
+      "id": "180",
+      "title": "Book V - XLVII - I",
+      "length": 9521,
+      "mode": "type"
+    },
+    {
+      "id": "181",
+      "title": "Book V - XLVII - II",
+      "length": 5112,
+      "mode": "type"
+    },
+    {
+      "id": "182",
+      "title": "Book V - XLVIII - I",
+      "length": 5979,
+      "mode": "type"
+    },
+    {
+      "id": "183",
+      "title": "Book V - XLVIII - II",
+      "length": 8694,
+      "mode": "type"
+    },
+    {
+      "id": "184",
+      "title": "Book V - XLVIII - III",
+      "length": 6521,
+      "mode": "type"
+    },
+    {
+      "id": "185",
+      "title": "Book V - XLVIII - IV",
+      "length": 7611,
+      "mode": "type"
+    },
+    {
+      "id": "186",
+      "title": "Book V - XLVIII - V",
+      "length": 1113,
+      "mode": "type"
+    },
+    {
+      "id": "187",
+      "title": "Book V - XLIX - I",
+      "length": 2097,
+      "mode": "type"
+    },
+    {
+      "id": "188",
+      "title": "Book V - XLIX - II",
+      "length": 4004,
+      "mode": "type"
+    },
+    {
+      "id": "189",
+      "title": "Book V - XLIX - III",
+      "length": 1713,
+      "mode": "type"
+    },
+    {
+      "id": "190",
+      "title": "Book V - L - I",
+      "length": 4268,
+      "mode": "type"
+    },
+    {
+      "id": "191",
+      "title": "Book V - L - II",
+      "length": 1246,
+      "mode": "type"
+    },
+    {
+      "id": "192",
+      "title": "Book V - L - III",
+      "length": 1294,
+      "mode": "type"
+    },
+    {
+      "id": "193",
+      "title": "Book V - L - IV",
+      "length": 704,
+      "mode": "type"
+    },
+    {
+      "id": "194",
+      "title": "Book V - L - V",
+      "length": 3046,
+      "mode": "type"
+    },
+    {
+      "id": "195",
+      "title": "Book V - L - VI",
+      "length": 1003,
+      "mode": "type"
+    },
+    {
+      "id": "196",
+      "title": "Book V - L - VII",
+      "length": 3134,
+      "mode": "type"
+    },
+    {
+      "id": "197",
+      "title": "Book V - L - VIII",
+      "length": 1817,
+      "mode": "type"
+    },
+    {
+      "id": "198",
+      "title": "Book V - LI - I",
+      "length": 2246,
+      "mode": "type"
+    },
+    {
+      "id": "199",
+      "title": "Book V - LI - II",
+      "length": 9831,
+      "mode": "type"
+    },
+    {
+      "id": "200",
+      "title": "Book V - LII - I",
+      "length": 8698,
+      "mode": "type"
+    },
+    {
+      "id": "201",
+      "title": "Book V - LII - II",
+      "length": 3300,
+      "mode": "type"
+    },
+    {
+      "id": "202",
+      "title": "Book V - LII - III",
+      "length": 4702,
+      "mode": "type"
+    },
+    {
+      "id": "203",
+      "title": "Book V - LII - IV",
+      "length": 734,
+      "mode": "type"
+    },
+    {
+      "id": "204",
+      "title": "Book V - LIII - I",
+      "length": 5489,
+      "mode": "type"
+    },
+    {
+      "id": "205",
+      "title": "Book V - LIII - II",
+      "length": 3290,
+      "mode": "type"
+    },
+    {
+      "id": "206",
+      "title": "Book V - LIII - III",
+      "length": 2872,
+      "mode": "type"
+    },
+    {
+      "id": "207",
+      "title": "Book V - LIV - I",
+      "length": 5817,
+      "mode": "type"
+    },
+    {
+      "id": "208",
+      "title": "Book V - LIV - II",
+      "length": 5762,
+      "mode": "type"
+    },
+    {
+      "id": "209",
+      "title": "Book V - LIV - III",
+      "length": 386,
+      "mode": "type"
+    },
+    {
+      "id": "210",
+      "title": "Book V - LV - I",
+      "length": 3169,
+      "mode": "type"
+    },
+    {
+      "id": "211",
+      "title": "Book V - LV - II",
+      "length": 6224,
+      "mode": "type"
+    },
+    {
+      "id": "212",
+      "title": "Book V - LV - III",
+      "length": 4101,
+      "mode": "type"
+    },
+    {
+      "id": "213",
+      "title": "Book V - LVI - I",
+      "length": 1349,
+      "mode": "type"
+    },
+    {
+      "id": "214",
+      "title": "Book V - LVI - II",
+      "length": 882,
+      "mode": "type"
+    },
+    {
+      "id": "215",
+      "title": "Book V - LVI - III",
+      "length": 7029,
+      "mode": "type"
+    },
+    {
+      "id": "216",
+      "title": "Colophon",
+      "length": 1065,
+      "mode": "hide"
+    },
+    {
+      "id": "217",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL3297469W",
+  "goodreadsId": "129223",
+  "rating": 0.748,
+  "popularity": 17345,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490058776
+}

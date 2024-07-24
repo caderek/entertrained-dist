@@ -1,1 +1,291 @@
-{"id":"henry-james--the-wings-of-the-dove","title":"The Wings of the Dove","titleAlpha":"wings of the dove","author":"Henry James","language":"en","description":"A young, dying heiress draws people together amid a backdrop of Venetian elegance.","longDescription":["The Wings of the Dove is perhaps the most well-received of Henry James's novels. First published in 1902, it follows Kate Croy and Merton Densher, an engaged couple in late-Victorian London, who meet Milly Theale, a wealthy American heiress.","Milly, though young and lively, is burdened with a fatal disease. She wishes to spend her last days on happy adventures through Europe, and her sparkling personality, still bright despite her looming death, quickly makes her a hit in the London social scene. As she plans an excursion to Venice, Kate and Merton, who are too poor to marry and still maintain their social standing, scheme to trick Milly out of her inheritance.","The character of Milly is partly based on Minny Temple, James' cousin who died young of tuberculosis. He later wrote that the novel was his attempt to immortalize her memory, and that he spent years developing the core of the book's conceit before committing it to the page. The novel is James at his peak: dizzyingly complex prose weaves rich, impressionistic character studies, heavy in symbolism and allusion, amid the glamorous backdrops of high-society London and decaying Venetian grandeur."],"year":1902,"genres":["classics","fiction","romance"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/henry-james/the-wings-of-the-dove"},"openlibraryId":"OL276397W","goodreadsId":"1464266","rating":0.758,"popularity":17124,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Wings of the Dove","length":16,"mode":"hide"},{"id":"002","title":"Imprint","length":1175,"mode":"hide"},{"id":"003","title":"Preface","length":39809,"mode":"skip"},{"id":"004","title":"Book I - I","length":33790,"mode":"type"},{"id":"005","title":"Book I - II","length":31698,"mode":"type"},{"id":"006","title":"Book II - I","length":43428,"mode":"type"},{"id":"007","title":"Book II - II","length":39726,"mode":"type"},{"id":"008","title":"Book III - I","length":38460,"mode":"type"},{"id":"009","title":"Book III - II","length":23267,"mode":"type"},{"id":"010","title":"Book IV - I","length":34553,"mode":"type"},{"id":"011","title":"Book IV - II","length":25301,"mode":"type"},{"id":"012","title":"Book IV - III","length":30592,"mode":"type"},{"id":"013","title":"Book V - I","length":16015,"mode":"type"},{"id":"014","title":"Book V - II","length":19348,"mode":"type"},{"id":"015","title":"Book V - III","length":25395,"mode":"type"},{"id":"016","title":"Book V - IV","length":21621,"mode":"type"},{"id":"017","title":"Book V - V","length":18419,"mode":"type"},{"id":"018","title":"Book V - VI","length":20402,"mode":"type"},{"id":"019","title":"Book V - VII","length":24796,"mode":"type"},{"id":"020","title":"Book VI - I","length":20023,"mode":"type"},{"id":"021","title":"Book VI - II","length":22058,"mode":"type"},{"id":"022","title":"Book VI - III","length":25497,"mode":"type"},{"id":"023","title":"Book VI - IV","length":32188,"mode":"type"},{"id":"024","title":"Book VI - V","length":41364,"mode":"type"},{"id":"025","title":"Book VII - I","length":31731,"mode":"type"},{"id":"026","title":"Book VII - II","length":15439,"mode":"type"},{"id":"027","title":"Book VII - III","length":24522,"mode":"type"},{"id":"028","title":"Book VII - IV","length":31536,"mode":"type"},{"id":"029","title":"Book VIII - I","length":25482,"mode":"type"},{"id":"030","title":"Book VIII - II","length":22573,"mode":"type"},{"id":"031","title":"Book VIII - III","length":42582,"mode":"type"},{"id":"032","title":"Book IX - I","length":23791,"mode":"type"},{"id":"033","title":"Book IX - II","length":29853,"mode":"type"},{"id":"034","title":"Book IX - III","length":32663,"mode":"type"},{"id":"035","title":"Book IX - IV","length":24642,"mode":"type"},{"id":"036","title":"Book X - I","length":29036,"mode":"type"},{"id":"037","title":"Book X - II","length":26510,"mode":"type"},{"id":"038","title":"Book X - III","length":17207,"mode":"type"},{"id":"039","title":"Book X - IV","length":19064,"mode":"type"},{"id":"040","title":"Book X - V","length":41442,"mode":"type"},{"id":"041","title":"Colophon","length":1009,"mode":"hide"},{"id":"042","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337870030}
+{
+  "id": "henry-james--the-wings-of-the-dove",
+  "title": "The Wings of the Dove",
+  "titleAlpha": "wings of the dove",
+  "author": "Henry James",
+  "language": "en",
+  "description": "A young, dying heiress draws people together amid a backdrop of Venetian elegance.",
+  "longDescription": [
+    "The Wings of the Dove is perhaps the most well-received of Henry James's novels. First published in 1902, it follows Kate Croy and Merton Densher, an engaged couple in late-Victorian London, who meet Milly Theale, a wealthy American heiress.",
+    "Milly, though young and lively, is burdened with a fatal disease. She wishes to spend her last days on happy adventures through Europe, and her sparkling personality, still bright despite her looming death, quickly makes her a hit in the London social scene. As she plans an excursion to Venice, Kate and Merton, who are too poor to marry and still maintain their social standing, scheme to trick Milly out of her inheritance.",
+    "The character of Milly is partly based on Minny Temple, James' cousin who died young of tuberculosis. He later wrote that the novel was his attempt to immortalize her memory, and that he spent years developing the core of the book's conceit before committing it to the page. The novel is James at his peak: dizzyingly complex prose weaves rich, impressionistic character studies, heavy in symbolism and allusion, amid the glamorous backdrops of high-society London and decaying Venetian grandeur."
+  ],
+  "year": 1902,
+  "genres": [
+    "classics",
+    "fiction",
+    "romance",
+    "history"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/henry-james/the-wings-of-the-dove"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Wings of the Dove",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1175,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Preface",
+      "length": 39809,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Book I - I",
+      "length": 33790,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Book I - II",
+      "length": 31698,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book II - I",
+      "length": 43428,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Book II - II",
+      "length": 39726,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Book III - I",
+      "length": 38460,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book III - II",
+      "length": 23267,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Book IV - I",
+      "length": 34553,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book IV - II",
+      "length": 25301,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book IV - III",
+      "length": 30592,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book V - I",
+      "length": 16015,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book V - II",
+      "length": 19348,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book V - III",
+      "length": 25395,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Book V - IV",
+      "length": 21621,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book V - V",
+      "length": 18419,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book V - VI",
+      "length": 20402,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Book V - VII",
+      "length": 24796,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Book VI - I",
+      "length": 20023,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Book VI - II",
+      "length": 22058,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Book VI - III",
+      "length": 25497,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Book VI - IV",
+      "length": 32188,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Book VI - V",
+      "length": 41364,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Book VII - I",
+      "length": 31731,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Book VII - II",
+      "length": 15439,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Book VII - III",
+      "length": 24522,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Book VII - IV",
+      "length": 31536,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Book VIII - I",
+      "length": 25482,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Book VIII - II",
+      "length": 22573,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Book VIII - III",
+      "length": 42582,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Book IX - I",
+      "length": 23791,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Book IX - II",
+      "length": 29853,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Book IX - III",
+      "length": 32663,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Book IX - IV",
+      "length": 24642,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Book X - I",
+      "length": 29036,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Book X - II",
+      "length": 26510,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Book X - III",
+      "length": 17207,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Book X - IV",
+      "length": 19064,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Book X - V",
+      "length": 41442,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Colophon",
+      "length": 1009,
+      "mode": "hide"
+    },
+    {
+      "id": "042",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL276397W",
+  "goodreadsId": "1464266",
+  "rating": 0.758,
+  "popularity": 17124,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489765599
+}

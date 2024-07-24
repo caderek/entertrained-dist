@@ -1,1 +1,196 @@
-{"id":"h-beam-piper--murder-in-the-gunroom","title":"Murder in the Gunroom","titleAlpha":"murder in the gunroom","author":"H. Beam Piper","language":"en","description":"A private detective is called upon to evaluate a gun collection that contains a dark secret.","longDescription":["Jeff Rand, a private detective, is skeptical when he is employed by Gladys Fleming to evaluate her recently acquired gun collection, which happens to contain a dark secret. The more facts he uncovers, the more interesting the story becomes. Gun dealers, butlers, wives and cops all become suspects in the investigation of a mysterious death. The book is rich with detailed descriptions of the many different guns that star in this tale. This is the only murder-mystery written by Piper, who was mostly known for his science fiction novels."],"year":null,"genres":["classics","crime","fiction","mystery"],"topics":["detective","murder"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Murder in the Gunroom","length":18,"mode":"hide"},{"id":"002","title":"Imprint","length":1194,"mode":"hide"},{"id":"003","title":"Dedication","length":154,"mode":"hide"},{"id":"004","title":"I","length":15080,"mode":"type"},{"id":"005","title":"II","length":16880,"mode":"type"},{"id":"006","title":"III","length":15592,"mode":"type"},{"id":"007","title":"IV","length":11901,"mode":"type"},{"id":"008","title":"V","length":17329,"mode":"type"},{"id":"009","title":"VI","length":13543,"mode":"type"},{"id":"010","title":"VII","length":16836,"mode":"type"},{"id":"011","title":"VIII","length":9763,"mode":"type"},{"id":"012","title":"IX","length":29083,"mode":"type"},{"id":"013","title":"X","length":28424,"mode":"type"},{"id":"014","title":"XI","length":19574,"mode":"type"},{"id":"015","title":"XII","length":17404,"mode":"type"},{"id":"016","title":"XIII","length":17057,"mode":"type"},{"id":"017","title":"XIV","length":20117,"mode":"type"},{"id":"018","title":"XV","length":16754,"mode":"type"},{"id":"019","title":"XVI","length":15495,"mode":"type"},{"id":"020","title":"XVII","length":23096,"mode":"type"},{"id":"021","title":"XVIII","length":9197,"mode":"type"},{"id":"022","title":"XIX","length":22789,"mode":"type"},{"id":"023","title":"XX","length":18044,"mode":"type"},{"id":"024","title":"XXI","length":27535,"mode":"type"},{"id":"025","title":"Colophon","length":1094,"mode":"hide"},{"id":"026","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337833886}
+{
+  "id": "h-beam-piper--murder-in-the-gunroom",
+  "title": "Murder in the Gunroom",
+  "titleAlpha": "murder in the gunroom",
+  "author": "H. Beam Piper",
+  "language": "en",
+  "description": "A private detective is called upon to evaluate a gun collection that contains a dark secret.",
+  "longDescription": [
+    "Jeff Rand, a private detective, is skeptical when he is employed by Gladys Fleming to evaluate her recently acquired gun collection, which happens to contain a dark secret. The more facts he uncovers, the more interesting the story becomes. Gun dealers, butlers, wives and cops all become suspects in the investigation of a mysterious death. The book is rich with detailed descriptions of the many different guns that star in this tale. This is the only murder-mystery written by Piper, who was mostly known for his science fiction novels."
+  ],
+  "year": 1953,
+  "genres": [
+    "classics",
+    "crime",
+    "fiction",
+    "mystery"
+  ],
+  "topics": [
+    "detective",
+    "murder"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/h-beam-piper/murder-in-the-gunroom"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Murder in the Gunroom",
+      "length": 18,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 154,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "I",
+      "length": 15080,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II",
+      "length": 16880,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III",
+      "length": 15592,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "IV",
+      "length": 11901,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "V",
+      "length": 17329,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VI",
+      "length": 13543,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VII",
+      "length": 16836,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VIII",
+      "length": 9763,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "IX",
+      "length": 29083,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "X",
+      "length": 28424,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XI",
+      "length": 19574,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XII",
+      "length": 17404,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIII",
+      "length": 17057,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIV",
+      "length": 20117,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XV",
+      "length": 16754,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVI",
+      "length": 15495,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVII",
+      "length": 23096,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVIII",
+      "length": 9196,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XIX",
+      "length": 22789,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XX",
+      "length": 18044,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXI",
+      "length": 27535,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Colophon",
+      "length": 1094,
+      "mode": "hide"
+    },
+    {
+      "id": "026",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL579076W",
+  "goodreadsId": "219936",
+  "rating": 0.6980000000000001,
+  "popularity": 380,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489735328
+}

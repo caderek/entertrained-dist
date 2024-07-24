@@ -1,1 +1,285 @@
-{"id":"henry-james--the-ambassadors","title":"The Ambassadors","titleAlpha":"ambassadors","author":"Henry James","language":"en","description":"A middle-aged man travels to France to attempt to convince a younger man to return to America.","longDescription":["A middle-aged man named Lambert Strether is sent to Paris by his wealthy wife-to-be in order to convince her son Chad to return home to America and take over the lucrative family business. This turns out to be much easier said than done, as Strether finds Chad much better adapted to European life than anyone expected.","James' characteristically dense prose is matched by a cast of subtly-realized characters who rarely say exactly what they mean. Widely regarded as one of James' best novels, The Ambassadors explores themes of love, duty, and aging, all told through the eyes of a man who wonders if life hasn't passed him by.","This ebook follows the 1909 New York Edition, with one important exception: Since 1950, it has been generally agreed that the New York Edition had incorrectly ordered the first two chapters of Book XI. This text follows the convention of most printings since then, and the chapters have been returned to what is believed to have been James' intended order."],"year":1903,"genres":["classics","fiction","psychological"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/henry-james/the-ambassadors"},"openlibraryId":"OL276470W","goodreadsId":"775366","rating":0.726,"popularity":12535,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Ambassadors","length":16,"mode":"hide"},{"id":"002","title":"Imprint","length":1194,"mode":"hide"},{"id":"003","title":"Preface","length":41417,"mode":"skip"},{"id":"004","title":"Book I - I","length":28222,"mode":"type"},{"id":"005","title":"Book I - II","length":18589,"mode":"type"},{"id":"006","title":"Book I - III","length":17193,"mode":"type"},{"id":"007","title":"Book II - I","length":37377,"mode":"type"},{"id":"008","title":"Book II - II","length":38100,"mode":"type"},{"id":"009","title":"Book III - I","length":23325,"mode":"type"},{"id":"010","title":"Book III - II","length":38709,"mode":"type"},{"id":"011","title":"Book IV - I","length":23346,"mode":"type"},{"id":"012","title":"Book IV - II","length":41082,"mode":"type"},{"id":"013","title":"Book V - I","length":23311,"mode":"type"},{"id":"014","title":"Book V - II","length":24219,"mode":"type"},{"id":"015","title":"Book V - III","length":22841,"mode":"type"},{"id":"016","title":"Book VI - I","length":19261,"mode":"type"},{"id":"017","title":"Book VI - II","length":21132,"mode":"type"},{"id":"018","title":"Book VI - III","length":24522,"mode":"type"},{"id":"019","title":"Book VII - I","length":31356,"mode":"type"},{"id":"020","title":"Book VII - II","length":19465,"mode":"type"},{"id":"021","title":"Book VII - III","length":22883,"mode":"type"},{"id":"022","title":"Book VIII - I","length":22730,"mode":"type"},{"id":"023","title":"Book VIII - II","length":27591,"mode":"type"},{"id":"024","title":"Book VIII - III","length":29060,"mode":"type"},{"id":"025","title":"Book IX - I","length":30450,"mode":"type"},{"id":"026","title":"Book IX - II","length":13768,"mode":"type"},{"id":"027","title":"Book IX - III","length":21473,"mode":"type"},{"id":"028","title":"Book X - I","length":35276,"mode":"type"},{"id":"029","title":"Book X - II","length":18701,"mode":"type"},{"id":"030","title":"Book X - III","length":18109,"mode":"type"},{"id":"031","title":"Book XI - I","length":25327,"mode":"type"},{"id":"032","title":"Book XI - II","length":25461,"mode":"type"},{"id":"033","title":"Book XI - III","length":18062,"mode":"type"},{"id":"034","title":"Book XI - IV","length":17890,"mode":"type"},{"id":"035","title":"Book XII - I","length":16796,"mode":"type"},{"id":"036","title":"Book XII - II","length":14003,"mode":"type"},{"id":"037","title":"Book XII - III","length":20245,"mode":"type"},{"id":"038","title":"Book XII - IV","length":21642,"mode":"type"},{"id":"039","title":"Book XII - V","length":11768,"mode":"type"},{"id":"040","title":"Colophon","length":1047,"mode":"hide"},{"id":"041","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337866507}
+{
+  "id": "henry-james--the-ambassadors",
+  "title": "The Ambassadors",
+  "titleAlpha": "ambassadors",
+  "author": "Henry James",
+  "language": "en",
+  "description": "A middle-aged man travels to France to attempt to convince a younger man to return to America.",
+  "longDescription": [
+    "A middle-aged man named Lambert Strether is sent to Paris by his wealthy wife-to-be in order to convince her son Chad to return home to America and take over the lucrative family business. This turns out to be much easier said than done, as Strether finds Chad much better adapted to European life than anyone expected.",
+    "James' characteristically dense prose is matched by a cast of subtly-realized characters who rarely say exactly what they mean. Widely regarded as one of James' best novels, The Ambassadors explores themes of love, duty, and aging, all told through the eyes of a man who wonders if life hasn't passed him by.",
+    "This ebook follows the 1909 New York Edition, with one important exception: Since 1950, it has been generally agreed that the New York Edition had incorrectly ordered the first two chapters of Book XI. This text follows the convention of most printings since then, and the chapters have been returned to what is believed to have been James' intended order."
+  ],
+  "year": 1903,
+  "genres": [
+    "classics",
+    "fiction",
+    "psychological",
+    "history"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/henry-james/the-ambassadors"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Ambassadors",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Preface",
+      "length": 41417,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Book I - I",
+      "length": 28222,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Book I - II",
+      "length": 18589,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book I - III",
+      "length": 17193,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Book II - I",
+      "length": 37377,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Book II - II",
+      "length": 38100,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book III - I",
+      "length": 23325,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Book III - II",
+      "length": 38708,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book IV - I",
+      "length": 23346,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book IV - II",
+      "length": 41082,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book V - I",
+      "length": 23311,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book V - II",
+      "length": 24219,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book V - III",
+      "length": 22841,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Book VI - I",
+      "length": 19261,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book VI - II",
+      "length": 21132,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book VI - III",
+      "length": 24522,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Book VII - I",
+      "length": 31356,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Book VII - II",
+      "length": 19465,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Book VII - III",
+      "length": 22882,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Book VIII - I",
+      "length": 22730,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Book VIII - II",
+      "length": 27591,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Book VIII - III",
+      "length": 29060,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Book IX - I",
+      "length": 30450,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Book IX - II",
+      "length": 13768,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Book IX - III",
+      "length": 21473,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Book X - I",
+      "length": 35276,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Book X - II",
+      "length": 18701,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Book X - III",
+      "length": 18109,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Book XI - I",
+      "length": 25327,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Book XI - II",
+      "length": 25461,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Book XI - III",
+      "length": 18062,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Book XI - IV",
+      "length": 17890,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Book XII - I",
+      "length": 16796,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Book XII - II",
+      "length": 14003,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Book XII - III",
+      "length": 20245,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Book XII - IV",
+      "length": 21642,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Book XII - V",
+      "length": 11768,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Colophon",
+      "length": 1047,
+      "mode": "hide"
+    },
+    {
+      "id": "041",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL276470W",
+  "goodreadsId": "775366",
+  "rating": 0.726,
+  "popularity": 12535,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489761740
+}

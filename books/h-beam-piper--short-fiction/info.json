@@ -1,1 +1,343 @@
-{"id":"h-beam-piper--short-fiction","title":"Short Fiction","titleAlpha":"short fiction","author":"H. Beam Piper","language":"en","description":"A collection of science fiction stories by H. Beam Piper ordered by date of publication.","longDescription":["H. Beam Piper was a well-regarded and popular American science fiction author active in the 1940s, 1950s and early 1960s, who published many science fiction short stories, novelettes, novellas and novels. One major strand in his writing is envisioning a future history based on human civilization expanding throughout the galaxy, with a rather paternalistic approach to sentient alien species. Another important theme was Piper's concept of \"Paratime\": the idea that there are many parallel timelines branching off from each other, and that it's possible - with the right technology - to move, and even carry out commerce, between these different timelines. Many of these stories are also frequently feature a rather tongue-in-cheek humor.","This collection covers a wide range of his shorter fiction, almost all of which was published in various American science fiction magazines. One additional story included in this collection, \"Rebel Raider,\" however, is not science fiction or fantasy but a lightly-fictionalized account of events in the U. S. Civil War. A few of the stories were written in collaboration with John J. McGuire."],"year":null,"genres":["classics","fiction","science-fiction","shorts","travel"],"topics":["aliens","ghosts","space"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/h-beam-piper/short-fiction"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Short Fiction","length":18,"mode":"hide"},{"id":"002","title":"Imprint","length":1183,"mode":"hide"},{"id":"003","title":"Time and Time Again","length":38466,"mode":"type"},{"id":"004","title":"He Walked Around the Horses","length":45397,"mode":"type"},{"id":"005","title":"Police Operation","length":71692,"mode":"type"},{"id":"006","title":"The Mercenaries","length":50359,"mode":"type"},{"id":"007","title":"Last Enemy","length":140501,"mode":"type"},{"id":"008","title":"Flight from Tomorrow - I","length":10901,"mode":"type"},{"id":"009","title":"Flight from Tomorrow - II","length":12588,"mode":"type"},{"id":"010","title":"Flight from Tomorrow - III","length":12934,"mode":"type"},{"id":"011","title":"Flight from Tomorrow - IV","length":9642,"mode":"type"},{"id":"012","title":"Rebel Raider","length":85271,"mode":"type"},{"id":"013","title":"Operation R. S. V. P.","length":17860,"mode":"type"},{"id":"014","title":"Dearest","length":36770,"mode":"type"},{"id":"015","title":"Temple Trouble","length":70326,"mode":"type"},{"id":"016","title":"Day of the Moron","length":64564,"mode":"type"},{"id":"017","title":"Genesis - I","length":9443,"mode":"type"},{"id":"018","title":"Genesis - II","length":9570,"mode":"type"},{"id":"019","title":"Genesis - III","length":10162,"mode":"type"},{"id":"020","title":"Genesis - IV","length":17775,"mode":"type"},{"id":"021","title":"Null-A. B. C. - I","length":103861,"mode":"type"},{"id":"022","title":"Null-A. B. C. - II","length":98919,"mode":"type"},{"id":"023","title":"The Return","length":62043,"mode":"type"},{"id":"024","title":"Time Crime - I","length":99089,"mode":"type"},{"id":"025","title":"Time Crime - II","length":112745,"mode":"type"},{"id":"026","title":"Omnilingual","length":93671,"mode":"type"},{"id":"027","title":"Lone Star Planet - I","length":11193,"mode":"type"},{"id":"028","title":"Lone Star Planet - II","length":18980,"mode":"type"},{"id":"029","title":"Lone Star Planet - III","length":17792,"mode":"type"},{"id":"030","title":"Lone Star Planet - IV","length":18637,"mode":"type"},{"id":"031","title":"Lone Star Planet - V","length":14087,"mode":"type"},{"id":"032","title":"Lone Star Planet - VI","length":21906,"mode":"type"},{"id":"033","title":"Lone Star Planet - VII","length":16044,"mode":"type"},{"id":"034","title":"Lone Star Planet - VIII","length":6942,"mode":"type"},{"id":"035","title":"Lone Star Planet - IX","length":16703,"mode":"type"},{"id":"036","title":"Lone Star Planet - X","length":21167,"mode":"type"},{"id":"037","title":"Lone Star Planet - XI","length":8407,"mode":"type"},{"id":"038","title":"The Edge of the Knife","length":92118,"mode":"type"},{"id":"039","title":"The Keeper","length":51124,"mode":"type"},{"id":"040","title":"Graveyard of Dreams","length":44884,"mode":"type"},{"id":"041","title":"Ministry of Disturbance","length":94714,"mode":"type"},{"id":"042","title":"Hunter Patrol","length":64744,"mode":"type"},{"id":"043","title":"Crossroads of Destiny","length":25043,"mode":"type"},{"id":"044","title":"The Answer","length":25147,"mode":"type"},{"id":"045","title":"Oomphel in the Sky","length":98869,"mode":"type"},{"id":"046","title":"Naudsonce","length":94694,"mode":"type"},{"id":"047","title":"A Slave Is a Slave","length":125578,"mode":"type"},{"id":"048","title":"Endnotes","length":412,"mode":"hide"},{"id":"049","title":"Colophon","length":1224,"mode":"hide"},{"id":"050","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337835759}
+{
+  "id": "h-beam-piper--short-fiction",
+  "title": "Short Fiction",
+  "titleAlpha": "short fiction",
+  "author": "H. Beam Piper",
+  "language": "en",
+  "description": "A collection of science fiction stories by H. Beam Piper ordered by date of publication.",
+  "longDescription": [
+    "H. Beam Piper was a well-regarded and popular American science fiction author active in the 1940s, 1950s and early 1960s, who published many science fiction short stories, novelettes, novellas and novels. One major strand in his writing is envisioning a future history based on human civilization expanding throughout the galaxy, with a rather paternalistic approach to sentient alien species. Another important theme was Piper's concept of \"Paratime\": the idea that there are many parallel timelines branching off from each other, and that it's possible - with the right technology - to move, and even carry out commerce, between these different timelines. Many of these stories are also frequently feature a rather tongue-in-cheek humor.",
+    "This collection covers a wide range of his shorter fiction, almost all of which was published in various American science fiction magazines. One additional story included in this collection, \"Rebel Raider,\" however, is not science fiction or fantasy but a lightly-fictionalized account of events in the U. S. Civil War. A few of the stories were written in collaboration with John J. McGuire."
+  ],
+  "year": 2008,
+  "genres": [
+    "classics",
+    "fiction",
+    "science-fiction",
+    "shorts",
+    "travel"
+  ],
+  "topics": [
+    "aliens",
+    "ghosts",
+    "space"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/h-beam-piper/short-fiction"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Short Fiction",
+      "length": 18,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1183,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Time and Time Again",
+      "length": 38466,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "He Walked Around the Horses",
+      "length": 45397,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Police Operation",
+      "length": 71692,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "The Mercenaries",
+      "length": 50359,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Last Enemy",
+      "length": 140501,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Flight from Tomorrow - I",
+      "length": 10901,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Flight from Tomorrow - II",
+      "length": 12588,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Flight from Tomorrow - III",
+      "length": 12934,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Flight from Tomorrow - IV",
+      "length": 9642,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Rebel Raider",
+      "length": 85271,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Operation R. S. V. P.",
+      "length": 17860,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Dearest",
+      "length": 36770,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Temple Trouble",
+      "length": 70326,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Day of the Moron",
+      "length": 64564,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Genesis - I",
+      "length": 9443,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Genesis - II",
+      "length": 9570,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Genesis - III",
+      "length": 10162,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Genesis - IV",
+      "length": 17775,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Null-A. B. C. - I",
+      "length": 103861,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Null-A. B. C. - II",
+      "length": 98919,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "The Return",
+      "length": 62043,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Time Crime - I",
+      "length": 99089,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Time Crime - II",
+      "length": 112745,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Omnilingual",
+      "length": 93671,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Lone Star Planet - I",
+      "length": 11193,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Lone Star Planet - II",
+      "length": 18980,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Lone Star Planet - III",
+      "length": 17792,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Lone Star Planet - IV",
+      "length": 18637,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Lone Star Planet - V",
+      "length": 14087,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Lone Star Planet - VI",
+      "length": 21906,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Lone Star Planet - VII",
+      "length": 16044,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Lone Star Planet - VIII",
+      "length": 6942,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Lone Star Planet - IX",
+      "length": 16703,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Lone Star Planet - X",
+      "length": 21167,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Lone Star Planet - XI",
+      "length": 8407,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "The Edge of the Knife",
+      "length": 92118,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "The Keeper",
+      "length": 51124,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Graveyard of Dreams",
+      "length": 44884,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Ministry of Disturbance",
+      "length": 94714,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Hunter Patrol",
+      "length": 64744,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Crossroads of Destiny",
+      "length": 25043,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "The Answer",
+      "length": 25147,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Oomphel in the Sky",
+      "length": 98869,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Naudsonce",
+      "length": 94694,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "A Slave Is a Slave",
+      "length": 125578,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Endnotes",
+      "length": 412,
+      "mode": "hide"
+    },
+    {
+      "id": "049",
+      "title": "Colophon",
+      "length": 1224,
+      "mode": "hide"
+    },
+    {
+      "id": "050",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL38078308W",
+  "goodreadsId": "6115948",
+  "rating": 0.8240000000000001,
+  "popularity": 17,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489737416
+}

@@ -1,1 +1,344 @@
-{"id":"baroness-orczy--the-laughing-cavalier","title":"The Laughing Cavalier","titleAlpha":"laughing cavalier","author":"Baroness Orczy","language":"en","description":"An ancestor of the Scarlet Pimpernel is recruited to kidnap a woman for a few days.","longDescription":["A young woman in 17th century Holland inadvertently overhears the details of a plot to kill a political figure. The principal figures in the plot, one of whom is her brother and another her former lover, hire an insolent English mercenary to kidnap her to get her out of the way until their deeds are done. From there very little goes according to plan.","For her fifth published novel in the series, Baroness Orczy uses Franz Hals' famous painting titled The Laughing Cavalier to build an elaborate backstory for the ancestor of the Scarlet Pimpernel."],"year":null,"genres":["adventure","classics","fiction","history"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/baroness-orczy/the-laughing-cavalier"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Laughing Cavalier","length":19,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"An Apology","length":4929,"mode":"type"},{"id":"004","title":"The Prologue - Haarlem - March 29th, 1623","length":28938,"mode":"type"},{"id":"005","title":"I: New Year's Eve","length":13056,"mode":"type"},{"id":"006","title":"II: The Fracas by the Postern Gate","length":19559,"mode":"type"},{"id":"007","title":"III: An Interlude","length":12806,"mode":"type"},{"id":"008","title":"IV: Watch-Night","length":23278,"mode":"type"},{"id":"009","title":"V: Brother and Sister","length":14867,"mode":"type"},{"id":"010","title":"VI: The Counsels of Prudence","length":7765,"mode":"type"},{"id":"011","title":"VII: Three Philosophers and Their Friends","length":29665,"mode":"type"},{"id":"012","title":"VIII: The Lodgings Which Were Paid For","length":17344,"mode":"type"},{"id":"013","title":"IX: The Painter of Pictures","length":8890,"mode":"type"},{"id":"014","title":"X: The Laughing Cavalier","length":19620,"mode":"type"},{"id":"015","title":"XI: The Bargain","length":9331,"mode":"type"},{"id":"016","title":"XII: The Portrait","length":12637,"mode":"type"},{"id":"017","title":"XIII: The Spanish Wench","length":16220,"mode":"type"},{"id":"018","title":"XIV: After Evensong","length":9628,"mode":"type"},{"id":"019","title":"XV: The Halt at Bennebrock","length":7653,"mode":"type"},{"id":"020","title":"XVI: Leyden","length":12356,"mode":"type"},{"id":"021","title":"XVII: An Understanding","length":18508,"mode":"type"},{"id":"022","title":"XVIII: The Start","length":5174,"mode":"type"},{"id":"023","title":"XIX: In the Kingdom of the Night","length":5738,"mode":"type"},{"id":"024","title":"XX: Back Again in Haarlem","length":9989,"mode":"type"},{"id":"025","title":"XXI: A Grief-Stricken Father","length":8933,"mode":"type"},{"id":"026","title":"XXII: A Double Pledge","length":16636,"mode":"type"},{"id":"027","title":"XXIII: A Spy from the Camp","length":14595,"mode":"type"},{"id":"028","title":"XXIV: The Birth of Hate","length":26323,"mode":"type"},{"id":"029","title":"XXV: An Arrant Knave","length":15238,"mode":"type"},{"id":"030","title":"XXVI: Back to Houdekerk","length":13101,"mode":"type"},{"id":"031","title":"XXVII: Thence to Rotterdam","length":12546,"mode":"type"},{"id":"032","title":"XXVIII: Check","length":11951,"mode":"type"},{"id":"033","title":"XXIX: Check Again","length":9156,"mode":"type"},{"id":"034","title":"XXX: A Nocturne","length":34946,"mode":"type"},{"id":"035","title":"XXXI: The Molens","length":19534,"mode":"type"},{"id":"036","title":"XXXII: A Run Through the Night","length":13445,"mode":"type"},{"id":"037","title":"XXXIII: The Captive Lion","length":14722,"mode":"type"},{"id":"038","title":"XXXIV: Protestations","length":15808,"mode":"type"},{"id":"039","title":"XXXV: The Witness for the Defence","length":27975,"mode":"type"},{"id":"040","title":"XXXVI: Brother Philosophers","length":16955,"mode":"type"},{"id":"041","title":"XXXVII: Dawn","length":11854,"mode":"type"},{"id":"042","title":"XXXVIII: The Hour","length":8757,"mode":"type"},{"id":"043","title":"XXXIX: \"Sauve Qui Peut\"","length":12308,"mode":"type"},{"id":"044","title":"XL: The Loser Pays","length":22069,"mode":"type"},{"id":"045","title":"XLI: \"Vengeance Is Mine\"","length":7598,"mode":"type"},{"id":"046","title":"XLII: The Fight in the Doorway","length":35633,"mode":"type"},{"id":"047","title":"XLIII: Leyden Once More","length":16337,"mode":"type"},{"id":"048","title":"XLIV: Blake of Blakeney","length":8508,"mode":"type"},{"id":"049","title":"XLV: The End","length":4992,"mode":"type"},{"id":"050","title":"Colophon","length":1076,"mode":"hide"},{"id":"051","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337566481}
+{
+  "id": "baroness-orczy--the-laughing-cavalier",
+  "title": "The Laughing Cavalier",
+  "titleAlpha": "laughing cavalier",
+  "author": "Baroness Orczy",
+  "language": "en",
+  "description": "An ancestor of the Scarlet Pimpernel is recruited to kidnap a woman for a few days.",
+  "longDescription": [
+    "A young woman in 17th century Holland inadvertently overhears the details of a plot to kill a political figure. The principal figures in the plot, one of whom is her brother and another her former lover, hire an insolent English mercenary to kidnap her to get her out of the way until their deeds are done. From there very little goes according to plan.",
+    "For her fifth published novel in the series, Baroness Orczy uses Franz Hals' famous painting titled The Laughing Cavalier to build an elaborate backstory for the ancestor of the Scarlet Pimpernel."
+  ],
+  "year": 1914,
+  "genres": [
+    "adventure",
+    "classics",
+    "fiction",
+    "history"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "The Scarlet Pimpernel",
+  "part": 1,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/baroness-orczy/the-laughing-cavalier"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Laughing Cavalier",
+      "length": 19,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "An Apology",
+      "length": 4929,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "The Prologue - Haarlem - March 29th, 1623",
+      "length": 28938,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "I: New Year's Eve",
+      "length": 13056,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "II: The Fracas by the Postern Gate",
+      "length": 19559,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "III: An Interlude",
+      "length": 12806,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "IV: Watch-Night",
+      "length": 23278,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "V: Brother and Sister",
+      "length": 14867,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VI: The Counsels of Prudence",
+      "length": 7765,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VII: Three Philosophers and Their Friends",
+      "length": 29665,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VIII: The Lodgings Which Were Paid For",
+      "length": 17344,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "IX: The Painter of Pictures",
+      "length": 8890,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "X: The Laughing Cavalier",
+      "length": 19620,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XI: The Bargain",
+      "length": 9331,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XII: The Portrait",
+      "length": 12637,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIII: The Spanish Wench",
+      "length": 16220,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIV: After Evensong",
+      "length": 9628,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XV: The Halt at Bennebrock",
+      "length": 7653,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVI: Leyden",
+      "length": 12356,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVII: An Understanding",
+      "length": 18508,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVIII: The Start",
+      "length": 5174,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XIX: In the Kingdom of the Night",
+      "length": 5738,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XX: Back Again in Haarlem",
+      "length": 9989,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXI: A Grief-Stricken Father",
+      "length": 8933,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXII: A Double Pledge",
+      "length": 16636,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXIII: A Spy from the Camp",
+      "length": 14595,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXIV: The Birth of Hate",
+      "length": 26323,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXV: An Arrant Knave",
+      "length": 15238,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVI: Back to Houdekerk",
+      "length": 13101,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVII: Thence to Rotterdam",
+      "length": 12546,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXVIII: Check",
+      "length": 11951,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXIX: Check Again",
+      "length": 9156,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXX: A Nocturne",
+      "length": 34946,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXI: The Molens",
+      "length": 19534,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXII: A Run Through the Night",
+      "length": 13445,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXIII: The Captive Lion",
+      "length": 14722,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXIV: Protestations",
+      "length": 15808,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXV: The Witness for the Defence",
+      "length": 27975,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXVI: Brother Philosophers",
+      "length": 16955,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XXXVII: Dawn",
+      "length": 11854,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XXXVIII: The Hour",
+      "length": 8757,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XXXIX: \"Sauve Qui Peut\"",
+      "length": 12308,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XL: The Loser Pays",
+      "length": 22069,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "XLI: \"Vengeance Is Mine\"",
+      "length": 7598,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "XLII: The Fight in the Doorway",
+      "length": 35633,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "XLIII: Leyden Once More",
+      "length": 16337,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "XLIV: Blake of Blakeney",
+      "length": 8508,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "XLV: The End",
+      "length": 4992,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Colophon",
+      "length": 1076,
+      "mode": "hide"
+    },
+    {
+      "id": "051",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL33678399W",
+  "goodreadsId": "136115",
+  "rating": 0.8019999999999999,
+  "popularity": 674,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721337566481
+}

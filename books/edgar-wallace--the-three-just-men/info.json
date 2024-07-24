@@ -1,1 +1,271 @@
-{"id":"edgar-wallace--the-three-just-men","title":"The Three Just Men","titleAlpha":"three just men","author":"Edgar Wallace","language":"en","description":"A group of recently-pardoned former vigilantes aids Scotland Yard in bringing a gang of thugs and murderers to justice.","longDescription":["Having recently been pardoned by the British government, the Just Men continue their mission to bring criminals to justice, but now by employing mostly legal means.","London has been terrorized with the death of several men connected with Doktor Oberzohn, the head of an international cartel, with the deaths thought to have been caused by an escaped venomous snake. After forming a detective agency, the Just Men begin working with Scotland Yard to investigate Oberzohn, who is also suspected of having instigated revolts and overthrown governments for profit.","In the course of their investigation, the Just Men become intrigued by the sudden interest Oberzohn has shown in a simple farm girl named Mirabelle Leicester, and her connection with her dead father's Angolan land claim."],"year":1924,"genres":["adventure","classics","fiction","mystery"],"topics":["detective"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/edgar-wallace/the-three-just-men"},"openlibraryId":"OL1518003W","goodreadsId":"783172","rating":0.6900000000000001,"popularity":93,"cover":null,"free":false,"custom":false,"series":"The Four Just Men","part":5,"chapters":[{"id":"001","title":"Titlepage - The Three Just Men","length":18,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I: The Firm of Oberzohn","length":18177,"mode":"type"},{"id":"004","title":"II: The Three Men of Curzon Street","length":14878,"mode":"type"},{"id":"005","title":"III: The Vendetta","length":9922,"mode":"type"},{"id":"006","title":"IV: The Snake Strikes","length":9399,"mode":"type"},{"id":"007","title":"V: The Golden Woman","length":14402,"mode":"type"},{"id":"008","title":"VI: In Chester Square","length":13823,"mode":"type"},{"id":"009","title":"VII: \"Moral Suasion\"","length":12314,"mode":"type"},{"id":"010","title":"VIII: The House of Oberzohn","length":13621,"mode":"type"},{"id":"011","title":"IX: Before the Lights Went Out","length":5170,"mode":"type"},{"id":"012","title":"X: When the Lights Went Out","length":12429,"mode":"type"},{"id":"013","title":"XI: Gurther","length":9169,"mode":"type"},{"id":"014","title":"XII: Leon Theorizes","length":15188,"mode":"type"},{"id":"015","title":"XIII: Mirabelle Goes Home","length":13823,"mode":"type"},{"id":"016","title":"XIV: The Pedlar","length":18790,"mode":"type"},{"id":"017","title":"XV: Two \"Accidents\"","length":19036,"mode":"type"},{"id":"018","title":"XVI: Rath Hall","length":32786,"mode":"type"},{"id":"019","title":"XVII: Written in Braille","length":14094,"mode":"type"},{"id":"020","title":"XVIII: The Story of Mont d'Or","length":12933,"mode":"type"},{"id":"021","title":"XIX: At Heavytree Farm","length":20132,"mode":"type"},{"id":"022","title":"XX: Gurther Reports","length":8938,"mode":"type"},{"id":"023","title":"XXI: The Account Book","length":18413,"mode":"type"},{"id":"024","title":"XXII: In the Store Cellar","length":11802,"mode":"type"},{"id":"025","title":"XXIII: The Courier","length":13034,"mode":"type"},{"id":"026","title":"XXIV: On the Night Mail","length":15160,"mode":"type"},{"id":"027","title":"XV: Gurther Returns","length":10415,"mode":"type"},{"id":"028","title":"XVI: In Captivity","length":15523,"mode":"type"},{"id":"029","title":"XVII: Mr. Newton's Dilemma","length":20643,"mode":"type"},{"id":"030","title":"XVIII: At Frater's","length":8585,"mode":"type"},{"id":"031","title":"XXIX: Work for Gurther","length":21996,"mode":"type"},{"id":"032","title":"XXX: Joan a Prisoner","length":20508,"mode":"type"},{"id":"033","title":"XXXI: The Things in the Box","length":15635,"mode":"type"},{"id":"034","title":"XXII: The Search","length":17487,"mode":"type"},{"id":"035","title":"XXXIII: The Siege","length":28087,"mode":"type"},{"id":"036","title":"XXXIV: The Death Tube","length":3109,"mode":"type"},{"id":"037","title":"Colophon","length":1117,"mode":"hide"},{"id":"038","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337703306}
+{
+  "id": "edgar-wallace--the-three-just-men",
+  "title": "The Three Just Men",
+  "titleAlpha": "three just men",
+  "author": "Edgar Wallace",
+  "language": "en",
+  "description": "A group of recently-pardoned former vigilantes aids Scotland Yard in bringing a gang of thugs and murderers to justice.",
+  "longDescription": [
+    "Having recently been pardoned by the British government, the Just Men continue their mission to bring criminals to justice, but now by employing mostly legal means.",
+    "London has been terrorized with the death of several men connected with Doktor Oberzohn, the head of an international cartel, with the deaths thought to have been caused by an escaped venomous snake. After forming a detective agency, the Just Men begin working with Scotland Yard to investigate Oberzohn, who is also suspected of having instigated revolts and overthrown governments for profit.",
+    "In the course of their investigation, the Just Men become intrigued by the sudden interest Oberzohn has shown in a simple farm girl named Mirabelle Leicester, and her connection with her dead father's Angolan land claim."
+  ],
+  "year": 1924,
+  "genres": [
+    "adventure",
+    "classics",
+    "fiction",
+    "mystery",
+    "crime",
+    "thriller"
+  ],
+  "topics": [
+    "detective"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "The Four Just Men",
+  "part": 5,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/edgar-wallace/the-three-just-men"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Three Just Men",
+      "length": 18,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: The Firm of Oberzohn",
+      "length": 18177,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: The Three Men of Curzon Street",
+      "length": 14878,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: The Vendetta",
+      "length": 9922,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: The Snake Strikes",
+      "length": 9399,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: The Golden Woman",
+      "length": 14402,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: In Chester Square",
+      "length": 13823,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: \"Moral Suasion\"",
+      "length": 12314,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: The House of Oberzohn",
+      "length": 13621,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: Before the Lights Went Out",
+      "length": 5170,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: When the Lights Went Out",
+      "length": 12429,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: Gurther",
+      "length": 9169,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: Leon Theorizes",
+      "length": 15188,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: Mirabelle Goes Home",
+      "length": 13823,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: The Pedlar",
+      "length": 18790,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: Two \"Accidents\"",
+      "length": 19036,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI: Rath Hall",
+      "length": 32786,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII: Written in Braille",
+      "length": 14094,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII: The Story of Mont d'Or",
+      "length": 12933,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX: At Heavytree Farm",
+      "length": 20132,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX: Gurther Reports",
+      "length": 8938,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI: The Account Book",
+      "length": 18413,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII: In the Store Cellar",
+      "length": 11802,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII: The Courier",
+      "length": 13034,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV: On the Night Mail",
+      "length": 15160,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XV: Gurther Returns",
+      "length": 10415,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XVI: In Captivity",
+      "length": 15523,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XVII: Mr. Newton's Dilemma",
+      "length": 20643,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XVIII: At Frater's",
+      "length": 8585,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXIX: Work for Gurther",
+      "length": 21996,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXX: Joan a Prisoner",
+      "length": 20508,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXXI: The Things in the Box",
+      "length": 15635,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXII: The Search",
+      "length": 17487,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXIII: The Siege",
+      "length": 28087,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXIV: The Death Tube",
+      "length": 3109,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Colophon",
+      "length": 1117,
+      "mode": "hide"
+    },
+    {
+      "id": "038",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1518003W",
+  "goodreadsId": "783172",
+  "rating": 0.6900000000000001,
+  "popularity": 93,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489616539
+}

@@ -1,1 +1,193 @@
-{"id":"thomas-de-quincey--suspiria-de-profundis","title":"Suspiria de Profundis","titleAlpha":"suspiria de profundis","author":"Thomas De Quincey","language":"en","description":"A collection of prose poems inspired by De Quincey's opium dreams.","longDescription":["The Suspiria is a collection of prose poems, or what De Quincey called \"impassioned prose,\" erratically written and published starting in 1854. Each Suspiria is a short essay written in reflection of the opium dreams De Quincey would experience over the course of his lifetime addiction, and they are considered by some critics to be some of the finest examples of prose poetry in all of English literature.","De Quincey originally planned them as a sequel of sorts to his Confessions of an English Opium-Eater, but the first set was published separately in Blackwood's Magazine in the spring and summer of that 1854. De Quincey then published a revised version of those first Suspiria, along with several new ones, in his collected works. During his life he kept a master list of titles of the Suspiria he planned on writing, and completed several more before his death; those that survived time and fire were published posthumously in 1891."],"year":1822,"genres":["classics","fiction","shorts"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/thomas-de-quincey/suspiria-de-profundis"},"openlibraryId":"OL46720W","goodreadsId":"709995","rating":0.4250052,"popularity":44,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Suspiria de Profundis","length":22,"mode":"hide"},{"id":"002","title":"Imprint","length":1199,"mode":"hide"},{"id":"003","title":"Editor's Preface","length":2057,"mode":"skip"},{"id":"004","title":"Dreaming","length":14088,"mode":"type"},{"id":"005","title":"The Affliction of Childhood","length":136767,"mode":"type"},{"id":"006","title":"The English Mail-Coach - I: The Glory of Motion - Going Down with Victory","length":16286,"mode":"type"},{"id":"007","title":"The English Mail-Coach - II: The Vision of Sudden Death","length":39295,"mode":"type"},{"id":"008","title":"The English Mail-Coach - III: Dream-Fugue: Founded on the Preceding Theme of Sudden Death - I","length":2041,"mode":"type"},{"id":"009","title":"The English Mail-Coach - III: Dream-Fugue: Founded on the Preceding Theme of Sudden Death - II","length":1541,"mode":"type"},{"id":"010","title":"The English Mail-Coach - III: Dream-Fugue: Founded on the Preceding Theme of Sudden Death - III","length":2423,"mode":"type"},{"id":"011","title":"The English Mail-Coach - III: Dream-Fugue: Founded on the Preceding Theme of Sudden Death - IV","length":7731,"mode":"type"},{"id":"012","title":"The English Mail-Coach - III: Dream-Fugue: Founded on the Preceding Theme of Sudden Death - V","length":2490,"mode":"type"},{"id":"013","title":"The Palimpsest of the Human Brain","length":18006,"mode":"type"},{"id":"014","title":"Vision of Life","length":4103,"mode":"type"},{"id":"015","title":"Memorial Suspiria","length":17803,"mode":"type"},{"id":"016","title":"Levana and Our Ladies of Sorrow","length":14784,"mode":"type"},{"id":"017","title":"The Solitude of Childhood","length":3969,"mode":"type"},{"id":"018","title":"The Dark Interpreter","length":8901,"mode":"type"},{"id":"019","title":"The Apparition of the Brocken","length":7697,"mode":"type"},{"id":"020","title":"Savannah-La-Mar","length":5110,"mode":"type"},{"id":"021","title":"The Daughter of Lebanon","length":11399,"mode":"type"},{"id":"022","title":"The Princess Who Overlooked One Seed in a Pomegranate","length":2662,"mode":"type"},{"id":"023","title":"Who Is This Woman That Beckoneth and Warneth Me from the Place Where She Is, and in Whose Eyes Is Woeful Remembrance? I Guess Who She Is","length":10082,"mode":"type"},{"id":"024","title":"Endnotes","length":26441,"mode":"hide"},{"id":"025","title":"Colophon","length":1231,"mode":"hide"},{"id":"026","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338279551}
+{
+  "id": "thomas-de-quincey--suspiria-de-profundis",
+  "title": "Suspiria de Profundis",
+  "titleAlpha": "suspiria de profundis",
+  "author": "Thomas De Quincey",
+  "language": "en",
+  "description": "A collection of prose poems inspired by De Quincey's opium dreams.",
+  "longDescription": [
+    "The Suspiria is a collection of prose poems, or what De Quincey called \"impassioned prose,\" erratically written and published starting in 1854. Each Suspiria is a short essay written in reflection of the opium dreams De Quincey would experience over the course of his lifetime addiction, and they are considered by some critics to be some of the finest examples of prose poetry in all of English literature.",
+    "De Quincey originally planned them as a sequel of sorts to his Confessions of an English Opium-Eater, but the first set was published separately in Blackwood's Magazine in the spring and summer of that 1854. De Quincey then published a revised version of those first Suspiria, along with several new ones, in his collected works. During his life he kept a master list of titles of the Suspiria he planned on writing, and completed several more before his death; those that survived time and fire were published posthumously in 1891."
+  ],
+  "year": 2015,
+  "genres": [
+    "classics",
+    "fiction",
+    "shorts"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/thomas-de-quincey/suspiria-de-profundis"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Suspiria de Profundis",
+      "length": 22,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1199,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Editor's Preface",
+      "length": 2057,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Dreaming",
+      "length": 14088,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "The Affliction of Childhood",
+      "length": 136766,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "The English Mail-Coach - I: The Glory of Motion - Going Down with Victory",
+      "length": 16286,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "The English Mail-Coach - II: The Vision of Sudden Death",
+      "length": 39295,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "The English Mail-Coach - III: Dream-Fugue: Founded on the Preceding Theme of Sudden Death - I",
+      "length": 2041,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "The English Mail-Coach - III: Dream-Fugue: Founded on the Preceding Theme of Sudden Death - II",
+      "length": 1541,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "The English Mail-Coach - III: Dream-Fugue: Founded on the Preceding Theme of Sudden Death - III",
+      "length": 2423,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "The English Mail-Coach - III: Dream-Fugue: Founded on the Preceding Theme of Sudden Death - IV",
+      "length": 7731,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "The English Mail-Coach - III: Dream-Fugue: Founded on the Preceding Theme of Sudden Death - V",
+      "length": 2490,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "The Palimpsest of the Human Brain",
+      "length": 18006,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Vision of Life",
+      "length": 4103,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Memorial Suspiria",
+      "length": 17803,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Levana and Our Ladies of Sorrow",
+      "length": 14784,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "The Solitude of Childhood",
+      "length": 3969,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "The Dark Interpreter",
+      "length": 8901,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "The Apparition of the Brocken",
+      "length": 7697,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Savannah-La-Mar",
+      "length": 5110,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "The Daughter of Lebanon",
+      "length": 11399,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "The Princess Who Overlooked One Seed in a Pomegranate",
+      "length": 2662,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Who Is This Woman That Beckoneth and Warneth Me from the Place Where She Is, and in Whose Eyes Is Woeful Remembrance? I Guess Who She Is",
+      "length": 10082,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Endnotes",
+      "length": 26440,
+      "mode": "hide"
+    },
+    {
+      "id": "025",
+      "title": "Colophon",
+      "length": 1231,
+      "mode": "hide"
+    },
+    {
+      "id": "026",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL25301802W",
+  "goodreadsId": "10316582",
+  "rating": 0.692,
+  "popularity": 242,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490154301
+}

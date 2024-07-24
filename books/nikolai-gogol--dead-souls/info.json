@@ -1,1 +1,171 @@
-{"id":"nikolai-gogol--dead-souls","title":"Dead Souls","titleAlpha":"dead souls","author":"Nikolai Gogol","language":"en","description":"Pavel Chichikov travels through Russia buying the titles of dead serfs.","longDescription":["Dead Souls is Nikolai Gogol's last novel, and follows the tale of Pavel Chichikov, a down-on-his-luck gentleman determined to improve his lot in life. The story charts his scheme to purchase dead souls - the titles of deceased serfs - from wealthy landowners.","The novel's satirical take on the state of Russian society at the time leads Chichikov into increasingly difficult circumstances, in his attempts to cheat both the system and the cavalcade of townspeople he meets along the way.","Originally planned as a trilogy, Gogol apparently only completed the first two parts, and destroyed the latter half of the second part before his death. The novel as it stands ends in mid sentence but is regarded as complete."],"year":1842,"genres":["classics","comedy","fiction","satire"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/nikolai-gogol/dead-souls/c-j-hogarth"},"openlibraryId":"OL13631000W","goodreadsId":"28381","rating":0.796,"popularity":86253,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Dead Souls","length":47,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Introduction","length":12709,"mode":"type"},{"id":"004","title":"Author's Preface to the First Portion of This Work","length":8382,"mode":"skip"},{"id":"005","title":"Part I - I","length":32076,"mode":"type"},{"id":"006","title":"Part I - II","length":50554,"mode":"type"},{"id":"007","title":"Part I - III","length":50764,"mode":"type"},{"id":"008","title":"Part I - IV","length":64203,"mode":"type"},{"id":"009","title":"Part I - V","length":45479,"mode":"type"},{"id":"010","title":"Part I - VI","length":31328,"mode":"type"},{"id":"011","title":"Part I - VII","length":44163,"mode":"type"},{"id":"012","title":"Part I - VIII","length":41314,"mode":"type"},{"id":"013","title":"Part I - IX","length":22312,"mode":"type"},{"id":"014","title":"Part I - X","length":28183,"mode":"type"},{"id":"015","title":"Part I - XI","length":82442,"mode":"type"},{"id":"016","title":"Part II - I","length":71963,"mode":"type"},{"id":"017","title":"Part II - II","length":11215,"mode":"type"},{"id":"018","title":"Part II - III","length":83714,"mode":"type"},{"id":"019","title":"Part II - IV","length":120764,"mode":"type"},{"id":"020","title":"Endnotes","length":3585,"mode":"hide"},{"id":"021","title":"Colophon","length":1080,"mode":"hide"},{"id":"022","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338128568}
+{
+  "id": "nikolai-gogol--dead-souls",
+  "title": "Dead Souls",
+  "titleAlpha": "dead souls",
+  "author": "Nikolai Gogol",
+  "language": "en",
+  "description": "Pavel Chichikov travels through Russia buying the titles of dead serfs.",
+  "longDescription": [
+    "Dead Souls is Nikolai Gogol's last novel, and follows the tale of Pavel Chichikov, a down-on-his-luck gentleman determined to improve his lot in life. The story charts his scheme to purchase dead souls - the titles of deceased serfs - from wealthy landowners.",
+    "The novel's satirical take on the state of Russian society at the time leads Chichikov into increasingly difficult circumstances, in his attempts to cheat both the system and the cavalcade of townspeople he meets along the way.",
+    "Originally planned as a trilogy, Gogol apparently only completed the first two parts, and destroyed the latter half of the second part before his death. The novel as it stands ends in mid sentence but is regarded as complete."
+  ],
+  "year": 1842,
+  "genres": [
+    "classics",
+    "comedy",
+    "fiction",
+    "satire"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/nikolai-gogol/dead-souls/c-j-hogarth"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Dead Souls",
+      "length": 47,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Introduction",
+      "length": 12709,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Author's Preface to the First Portion of This Work",
+      "length": 8382,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Part I - I",
+      "length": 32076,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Part I - II",
+      "length": 50554,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Part I - III",
+      "length": 50764,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Part I - IV",
+      "length": 64203,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Part I - V",
+      "length": 45479,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Part I - VI",
+      "length": 31328,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Part I - VII",
+      "length": 44163,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Part I - VIII",
+      "length": 41314,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Part I - IX",
+      "length": 22312,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Part I - X",
+      "length": 28183,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Part I - XI",
+      "length": 82442,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Part II - I",
+      "length": 71963,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Part II - II",
+      "length": 11215,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Part II - III",
+      "length": 83714,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Part II - IV",
+      "length": 120764,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Endnotes",
+      "length": 3585,
+      "mode": "hide"
+    },
+    {
+      "id": "021",
+      "title": "Colophon",
+      "length": 1080,
+      "mode": "hide"
+    },
+    {
+      "id": "022",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL13631000W",
+  "goodreadsId": "28381",
+  "rating": 0.796,
+  "popularity": 86253,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489995000
+}

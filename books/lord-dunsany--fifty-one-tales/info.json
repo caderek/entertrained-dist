@@ -1,1 +1,382 @@
-{"id":"lord-dunsany--fifty-one-tales","title":"Fifty-One Tales","titleAlpha":"fifty-one tales","author":"Lord Dunsany","language":"en","description":"A series of otherworldly short stories ranging from the moral to the whimsical.","longDescription":["Lord Dunsany earned literary fame through his otherworldly short stories. This book compiles fifty-one of them, without a seeming theme except that they're extremely short - sometimes as short as a few paragraphs. The stories range from morality tales, to dreamlike vignettes, to gloomy prophecies told in a foreboding voice. A thread of bleak humor sometimes runs through them, like with much of Dunsany's literary output.","Fifty-One Tales was published simultaneously in England and America, with each edition featuring a story that the other did not. This Standard Ebooks edition is based on the ordering of the American edition, and includes the story that was only published in the English edition, bringing the total number of stories in this edition to fifty-two."],"year":1915,"genres":["classics","fantasy","fiction","shorts"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/lord-dunsany/fifty-one-tales"},"openlibraryId":"OL83881W","goodreadsId":"1593969","rating":0.754,"popularity":853,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Fifty-One Tales","length":17,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"The Assignation","length":1063,"mode":"type"},{"id":"004","title":"Charon","length":1822,"mode":"type"},{"id":"005","title":"The Death of Pan","length":930,"mode":"type"},{"id":"006","title":"The Sphinx at Giza","length":1910,"mode":"type"},{"id":"007","title":"The Hen","length":2306,"mode":"type"},{"id":"008","title":"Wind and Fog","length":1373,"mode":"type"},{"id":"009","title":"The Raft-Builders","length":1367,"mode":"type"},{"id":"010","title":"The Workman","length":1408,"mode":"type"},{"id":"011","title":"The Guest","length":2998,"mode":"type"},{"id":"012","title":"Death and Odysseus","length":1398,"mode":"type"},{"id":"013","title":"Death and the Orange","length":861,"mode":"type"},{"id":"014","title":"The Prayer of the Flowers","length":1160,"mode":"type"},{"id":"015","title":"Time and the Tradesman","length":664,"mode":"type"},{"id":"016","title":"The Little City","length":1171,"mode":"type"},{"id":"017","title":"The Unpasturable Fields","length":1421,"mode":"type"},{"id":"018","title":"The Worm and the Angel","length":767,"mode":"type"},{"id":"019","title":"The Songless Country","length":931,"mode":"type"},{"id":"020","title":"The Latest Thing","length":1498,"mode":"type"},{"id":"021","title":"The Demagogue and the Demimonde","length":902,"mode":"type"},{"id":"022","title":"The Giant Poppy","length":1296,"mode":"type"},{"id":"023","title":"Roses","length":855,"mode":"type"},{"id":"024","title":"The Man with the Golden Earrings","length":1815,"mode":"type"},{"id":"025","title":"The Dream of King Karna-Vootra","length":2544,"mode":"type"},{"id":"026","title":"The Storm","length":1800,"mode":"type"},{"id":"027","title":"A Mistaken Identity","length":418,"mode":"type"},{"id":"028","title":"The True History of the Hare and the Tortoise","length":3929,"mode":"type"},{"id":"029","title":"Alone the Immortals","length":2740,"mode":"type"},{"id":"030","title":"A Moral Little Tale","length":2611,"mode":"type"},{"id":"031","title":"The Return of Song","length":854,"mode":"type"},{"id":"032","title":"Spring in Town","length":3184,"mode":"type"},{"id":"033","title":"How the Enemy Came to Thlunrana","length":3500,"mode":"type"},{"id":"034","title":"A Losing Game","length":1268,"mode":"type"},{"id":"035","title":"Taking Up Picadilly","length":1016,"mode":"type"},{"id":"036","title":"After the Fire","length":669,"mode":"type"},{"id":"037","title":"The City","length":1254,"mode":"type"},{"id":"038","title":"The Food of Death","length":718,"mode":"type"},{"id":"039","title":"The Lonely Idol","length":2127,"mode":"type"},{"id":"040","title":"The Sphinx in Thebes (Massachusetts)","length":1158,"mode":"type"},{"id":"041","title":"The Reward","length":1776,"mode":"type"},{"id":"042","title":"The Trouble in Leafy Green Street","length":1347,"mode":"type"},{"id":"043","title":"The Mist","length":570,"mode":"type"},{"id":"044","title":"Furrow-Maker","length":2490,"mode":"type"},{"id":"045","title":"Lobster Salad","length":2796,"mode":"type"},{"id":"046","title":"The Return of the Exiles","length":3033,"mode":"type"},{"id":"047","title":"Nature and Time","length":2088,"mode":"type"},{"id":"048","title":"The Song of the Blackbird","length":1812,"mode":"type"},{"id":"049","title":"The Messengers","length":3972,"mode":"type"},{"id":"050","title":"The Three Tall Sons","length":1139,"mode":"type"},{"id":"051","title":"Compromise","length":1699,"mode":"type"},{"id":"052","title":"What We Have Come To","length":225,"mode":"type"},{"id":"053","title":"The Tomb of Pan","length":1219,"mode":"type"},{"id":"054","title":"The Poet Speaks with Earth","length":718,"mode":"type"},{"id":"055","title":"Endnotes","length":157,"mode":"hide"},{"id":"056","title":"Colophon","length":1075,"mode":"hide"},{"id":"057","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338054811}
+{
+  "id": "lord-dunsany--fifty-one-tales",
+  "title": "Fifty-One Tales",
+  "titleAlpha": "fifty-one tales",
+  "author": "Lord Dunsany",
+  "language": "en",
+  "description": "A series of otherworldly short stories ranging from the moral to the whimsical.",
+  "longDescription": [
+    "Lord Dunsany earned literary fame through his otherworldly short stories. This book compiles fifty-one of them, without a seeming theme except that they're extremely short - sometimes as short as a few paragraphs. The stories range from morality tales, to dreamlike vignettes, to gloomy prophecies told in a foreboding voice. A thread of bleak humor sometimes runs through them, like with much of Dunsany's literary output.",
+    "Fifty-One Tales was published simultaneously in England and America, with each edition featuring a story that the other did not. This Standard Ebooks edition is based on the ordering of the American edition, and includes the story that was only published in the English edition, bringing the total number of stories in this edition to fifty-two."
+  ],
+  "year": 1915,
+  "genres": [
+    "classics",
+    "fantasy",
+    "fiction",
+    "shorts"
+  ],
+  "topics": [
+    "fables"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/lord-dunsany/fifty-one-tales"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Fifty-One Tales",
+      "length": 17,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "The Assignation",
+      "length": 1063,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Charon",
+      "length": 1822,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "The Death of Pan",
+      "length": 930,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "The Sphinx at Giza",
+      "length": 1910,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "The Hen",
+      "length": 2306,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Wind and Fog",
+      "length": 1373,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "The Raft-Builders",
+      "length": 1367,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "The Workman",
+      "length": 1408,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "The Guest",
+      "length": 2998,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Death and Odysseus",
+      "length": 1398,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Death and the Orange",
+      "length": 861,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "The Prayer of the Flowers",
+      "length": 1160,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Time and the Tradesman",
+      "length": 664,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "The Little City",
+      "length": 1171,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "The Unpasturable Fields",
+      "length": 1421,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "The Worm and the Angel",
+      "length": 767,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "The Songless Country",
+      "length": 931,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "The Latest Thing",
+      "length": 1498,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "The Demagogue and the Demimonde",
+      "length": 902,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "The Giant Poppy",
+      "length": 1296,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Roses",
+      "length": 855,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "The Man with the Golden Earrings",
+      "length": 1815,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "The Dream of King Karna-Vootra",
+      "length": 2544,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "The Storm",
+      "length": 1800,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "A Mistaken Identity",
+      "length": 418,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "The True History of the Hare and the Tortoise",
+      "length": 3929,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Alone the Immortals",
+      "length": 2740,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "A Moral Little Tale",
+      "length": 2611,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "The Return of Song",
+      "length": 854,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Spring in Town",
+      "length": 3184,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "How the Enemy Came to Thlūnrāna",
+      "length": 3500,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "A Losing Game",
+      "length": 1268,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Taking Up Picadilly",
+      "length": 1016,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "After the Fire",
+      "length": 669,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "The City",
+      "length": 1254,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "The Food of Death",
+      "length": 718,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "The Lonely Idol",
+      "length": 2127,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "The Sphinx in Thebes (Massachusetts)",
+      "length": 1158,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "The Reward",
+      "length": 1776,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "The Trouble in Leafy Green Street",
+      "length": 1347,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "The Mist",
+      "length": 570,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Furrow-Maker",
+      "length": 2490,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Lobster Salad",
+      "length": 2796,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "The Return of the Exiles",
+      "length": 3033,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Nature and Time",
+      "length": 2088,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "The Song of the Blackbird",
+      "length": 1812,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "The Messengers",
+      "length": 3972,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "The Three Tall Sons",
+      "length": 1139,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "Compromise",
+      "length": 1699,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "What We Have Come To",
+      "length": 225,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "The Tomb of Pan",
+      "length": 1219,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "The Poet Speaks with Earth",
+      "length": 718,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "Endnotes",
+      "length": 157,
+      "mode": "hide"
+    },
+    {
+      "id": "056",
+      "title": "Colophon",
+      "length": 1075,
+      "mode": "hide"
+    },
+    {
+      "id": "057",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL83881W",
+  "goodreadsId": "14691",
+  "rating": 0.752,
+  "popularity": 855,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489929656
+}

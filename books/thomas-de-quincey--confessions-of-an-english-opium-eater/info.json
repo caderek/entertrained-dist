@@ -1,1 +1,104 @@
-{"id":"thomas-de-quincey--confessions-of-an-english-opium-eater","title":"Confessions of an English Opium-Eater","titleAlpha":"confessions of an english opium-eater","author":"Thomas De Quincey","language":"en","description":"A portrait of the life of a drug addict in Georgian-era London.","longDescription":["Thomas De Quincey spent much of his life addicted to the powerful drug opium. This book, first published anonymously in the London Magazine, is the autobiographical account of his addiction. De Quincey's compelling language and frankness give the reader a window in to both the strange pleasures and the horrible pains of that famous drug.","As the science of addiction was an unheard of thing at the time, De Quincey's account became a sort of authoritative reference for decades, with people going so far as to denounce the book for presenting too pleasurable a picture of opium use. His work stands as a fascinating window into the life of a Georgian-era addict in one of the busiest cities in the world."],"year":1821,"genres":["autobiography","classics","nonfiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater"},"openlibraryId":"OL46720W","goodreadsId":"709994","rating":0.6559999999999999,"popularity":10197,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Confessions of an English Opium-Eater","length":22,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"To the Reader","length":7891,"mode":"type"},{"id":"004","title":"Preliminary Confessions","length":77709,"mode":"type"},{"id":"005","title":"Part II - The Pleasures of Opium","length":29370,"mode":"type"},{"id":"006","title":"Part II - Introduction to the Pains of Opium","length":28031,"mode":"type"},{"id":"007","title":"Part II - The Pains of Opium","length":43625,"mode":"type"},{"id":"008","title":"Appendix","length":18762,"mode":"type"},{"id":"009","title":"Endnotes","length":11713,"mode":"hide"},{"id":"010","title":"Colophon","length":1123,"mode":"hide"},{"id":"011","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338279124}
+{
+  "id": "thomas-de-quincey--confessions-of-an-english-opium-eater",
+  "title": "Confessions of an English Opium-Eater",
+  "titleAlpha": "confessions of an english opium-eater",
+  "author": "Thomas De Quincey",
+  "language": "en",
+  "description": "A portrait of the life of a drug addict in Georgian-era London.",
+  "longDescription": [
+    "Thomas De Quincey spent much of his life addicted to the powerful drug opium. This book, first published anonymously in the London Magazine, is the autobiographical account of his addiction. De Quincey's compelling language and frankness give the reader a window in to both the strange pleasures and the horrible pains of that famous drug.",
+    "As the science of addiction was an unheard of thing at the time, De Quincey's account became a sort of authoritative reference for decades, with people going so far as to denounce the book for presenting too pleasurable a picture of opium use. His work stands as a fascinating window into the life of a Georgian-era addict in one of the busiest cities in the world."
+  ],
+  "year": 1821,
+  "genres": [
+    "autobiography",
+    "classics",
+    "nonfiction",
+    "biography"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Confessions of an English Opium-Eater",
+      "length": 22,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "To the Reader",
+      "length": 7891,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Preliminary Confessions",
+      "length": 77709,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Part II - The Pleasures of Opium",
+      "length": 29367,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Part II - Introduction to the Pains of Opium",
+      "length": 28030,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Part II - The Pains of Opium",
+      "length": 43623,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Appendix",
+      "length": 18762,
+      "mode": "skip"
+    },
+    {
+      "id": "009",
+      "title": "Endnotes",
+      "length": 11713,
+      "mode": "hide"
+    },
+    {
+      "id": "010",
+      "title": "Colophon",
+      "length": 1123,
+      "mode": "hide"
+    },
+    {
+      "id": "011",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL46720W",
+  "goodreadsId": "87635",
+  "rating": 0.6559999999999999,
+  "popularity": 10239,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490153891
+}

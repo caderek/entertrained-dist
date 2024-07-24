@@ -1,1 +1,187 @@
-{"id":"maurice-leblanc--the-golden-triangle","title":"The Golden Triangle","titleAlpha":"golden triangle","author":"Maurice Leblanc","language":"en","description":"A captain's longing for the woman who nursed him back to health drags him into a conspiracy of stolen gold.","longDescription":["Captain Belval, learning of a threat to his beloved nurse Little Mother Coralie, rescues her from her would-be assailants and is promptly dragged into a plot involving her husband and millions of francs worth of gold. As layer upon layer of conspiracy emerges with no obvious thread to follow, there's only one man who can be counted on to uncover the truth.","The Golden Triangle (also known as The Return of Arsene Lupin) was published in 1917 in both the original French and this English translation. It is set a couple of years after the events of The Teeth of the Tiger, and is representative of its time with themes of convalescent soldiers and continent-wide plots."],"year":1918,"genres":["classics","fiction","mystery"],"topics":["detective"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/maurice-leblanc/the-golden-triangle/alexander-teixeira-de-mattos"},"openlibraryId":"OL7989922W","goodreadsId":"141219","rating":0.43897648,"popularity":3,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Golden Triangle","length":64,"mode":"hide"},{"id":"002","title":"Imprint","length":1194,"mode":"hide"},{"id":"003","title":"I: Coralie","length":21970,"mode":"type"},{"id":"004","title":"II: Right Hand and Left Leg","length":22210,"mode":"type"},{"id":"005","title":"III: The Rusty Key","length":22284,"mode":"type"},{"id":"006","title":"IV: Before the Flames","length":20396,"mode":"type"},{"id":"007","title":"V: Husband and Wife","length":23626,"mode":"type"},{"id":"008","title":"VI: Nineteen Minutes Past Seven","length":22512,"mode":"type"},{"id":"009","title":"VII: Twenty-Three Minutes Past Twelve","length":23595,"mode":"type"},{"id":"010","title":"VIII: Essares Bey's Work","length":22880,"mode":"type"},{"id":"011","title":"IX: Patrice and Coralie","length":23207,"mode":"type"},{"id":"012","title":"X: The Red Cord","length":23439,"mode":"type"},{"id":"013","title":"XI: On the Brink","length":18966,"mode":"type"},{"id":"014","title":"XII: In the Abyss","length":24199,"mode":"type"},{"id":"015","title":"XIII: The Nails in the Coffin","length":19809,"mode":"type"},{"id":"016","title":"XIV: A Strange Character","length":27135,"mode":"type"},{"id":"017","title":"XV: The Belle Helene","length":30064,"mode":"type"},{"id":"018","title":"XVI: The Fourth Act","length":27630,"mode":"type"},{"id":"019","title":"XVII: Simeon Gives Battle","length":26725,"mode":"type"},{"id":"020","title":"XVIII: Simeon's Last Victim","length":39537,"mode":"type"},{"id":"021","title":"XIX: Fiat Lux!","length":45778,"mode":"type"},{"id":"022","title":"Endnotes","length":358,"mode":"hide"},{"id":"023","title":"Colophon","length":1186,"mode":"hide"},{"id":"024","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338113938}
+{
+  "id": "maurice-leblanc--the-golden-triangle",
+  "title": "The Golden Triangle",
+  "titleAlpha": "golden triangle",
+  "author": "Maurice Leblanc",
+  "language": "en",
+  "description": "A captain's longing for the woman who nursed him back to health drags him into a conspiracy of stolen gold.",
+  "longDescription": [
+    "Captain Belval, learning of a threat to his beloved nurse Little Mother Coralie, rescues her from her would-be assailants and is promptly dragged into a plot involving her husband and millions of francs worth of gold. As layer upon layer of conspiracy emerges with no obvious thread to follow, there's only one man who can be counted on to uncover the truth.",
+    "The Golden Triangle (also known as The Return of Arsène Lupin) was published in 1917 in both the original French and this English translation. It is set a couple of years after the events of The Teeth of the Tiger, and is representative of its time with themes of convalescent soldiers and continent-wide plots."
+  ],
+  "year": 1917,
+  "genres": [
+    "classics",
+    "fiction",
+    "mystery",
+    "crime",
+    "adventure"
+  ],
+  "topics": [
+    "detective",
+    "thieves",
+    "conspiracy"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Arsène Lupin",
+  "part": 9,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/maurice-leblanc/the-golden-triangle/alexander-teixeira-de-mattos"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Golden Triangle",
+      "length": 64,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: Coralie",
+      "length": 21970,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: Right Hand and Left Leg",
+      "length": 22210,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: The Rusty Key",
+      "length": 22284,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: Before the Flames",
+      "length": 20395,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: Husband and Wife",
+      "length": 23626,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: Nineteen Minutes Past Seven",
+      "length": 22512,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: Twenty-Three Minutes Past Twelve",
+      "length": 23595,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: Essarès Bey's Work",
+      "length": 22880,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: Patrice and Coralie",
+      "length": 23207,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: The Red Cord",
+      "length": 23439,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: On the Brink",
+      "length": 18966,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: In the Abyss",
+      "length": 24199,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: The Nails in the Coffin",
+      "length": 19809,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: A Strange Character",
+      "length": 27135,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: The Belle Hélène",
+      "length": 30064,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI: The Fourth Act",
+      "length": 27630,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII: Siméon Gives Battle",
+      "length": 26725,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII: Siméon's Last Victim",
+      "length": 39537,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX: Fiat Lux!",
+      "length": 45778,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Endnotes",
+      "length": 358,
+      "mode": "hide"
+    },
+    {
+      "id": "023",
+      "title": "Colophon",
+      "length": 1186,
+      "mode": "hide"
+    },
+    {
+      "id": "024",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL7989929W",
+  "goodreadsId": "107048",
+  "rating": 0.764,
+  "popularity": 686,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489981026
+}

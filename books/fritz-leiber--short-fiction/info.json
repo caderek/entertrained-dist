@@ -1,1 +1,415 @@
-{"id":"fritz-leiber--short-fiction","title":"Short Fiction","titleAlpha":"short fiction","author":"Fritz Leiber","language":"en","description":"A collection of Fritz Leiber short stories and novellas ordered by date of publication.","longDescription":["Fritz Leiber is most famous for his \"Fafhrd and the Gray Mouser\" stories, but he also wrote in many other genres. Between 1950 and 1963 he wrote a number of short stories that appeared in Galaxy magazine, including one in the same universe as The Big Time and the Change War stories (\"No Great Magic\")."],"year":null,"genres":["classics","fiction","science-fiction","shorts"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/fritz-leiber/short-fiction"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Short Fiction","length":17,"mode":"hide"},{"id":"002","title":"Imprint","length":1183,"mode":"hide"},{"id":"003","title":"Later Than You Think","length":14929,"mode":"type"},{"id":"004","title":"Coming Attraction","length":27151,"mode":"type"},{"id":"005","title":"Nice Girl with 5 Husbands","length":24804,"mode":"type"},{"id":"006","title":"Appointment in Tomorrow","length":56621,"mode":"type"},{"id":"007","title":"A Pail of Air","length":30083,"mode":"type"},{"id":"008","title":"Dr. Kometevsky's Day","length":39195,"mode":"type"},{"id":"009","title":"The Moon Is Green","length":33448,"mode":"type"},{"id":"010","title":"Yesterday House - I","length":17552,"mode":"type"},{"id":"011","title":"Yesterday House - II","length":6496,"mode":"type"},{"id":"012","title":"Yesterday House - III","length":3097,"mode":"type"},{"id":"013","title":"Yesterday House - IV","length":5633,"mode":"type"},{"id":"014","title":"Yesterday House - V","length":4634,"mode":"type"},{"id":"015","title":"Yesterday House - VI","length":12480,"mode":"type"},{"id":"016","title":"Yesterday House - VII","length":1378,"mode":"type"},{"id":"017","title":"A Bad Day for Sales","length":13090,"mode":"type"},{"id":"018","title":"Friends and Enemies","length":35505,"mode":"type"},{"id":"019","title":"Time in the Round","length":31023,"mode":"type"},{"id":"020","title":"What's He Doing in There?","length":11149,"mode":"type"},{"id":"021","title":"Bread Overhead","length":30525,"mode":"type"},{"id":"022","title":"The Last Letter","length":23291,"mode":"type"},{"id":"023","title":"Bullet with His Name","length":67796,"mode":"type"},{"id":"024","title":"Pipe Dream","length":30222,"mode":"type"},{"id":"025","title":"The Night of the Long Knives - I","length":28038,"mode":"type"},{"id":"026","title":"The Night of the Long Knives - II","length":24523,"mode":"type"},{"id":"027","title":"The Night of the Long Knives - III","length":30947,"mode":"type"},{"id":"028","title":"The Night of the Long Knives - IV","length":33325,"mode":"type"},{"id":"029","title":"The Night of the Long Knives - V","length":17322,"mode":"type"},{"id":"030","title":"The Night of the Long Knives - VI","length":25638,"mode":"type"},{"id":"031","title":"The Night of the Long Knives - VII","length":16582,"mode":"type"},{"id":"032","title":"Kreativity for Kats","length":18968,"mode":"type"},{"id":"033","title":"The Big Engine","length":9180,"mode":"type"},{"id":"034","title":"The 64-Square Madhouse - I","length":30439,"mode":"type"},{"id":"035","title":"The 64-Square Madhouse - II","length":13541,"mode":"type"},{"id":"036","title":"The 64-Square Madhouse - III","length":9984,"mode":"type"},{"id":"037","title":"The 64-Square Madhouse - IV","length":11044,"mode":"type"},{"id":"038","title":"The 64-Square Madhouse - V","length":6896,"mode":"type"},{"id":"039","title":"The 64-Square Madhouse - VI","length":8124,"mode":"type"},{"id":"040","title":"The Snowbank Orbit - I","length":6382,"mode":"type"},{"id":"041","title":"The Snowbank Orbit - II","length":7216,"mode":"type"},{"id":"042","title":"The Snowbank Orbit - III","length":8850,"mode":"type"},{"id":"043","title":"The Snowbank Orbit - IV","length":10720,"mode":"type"},{"id":"044","title":"The Creature from Cleveland Depths - I","length":9690,"mode":"type"},{"id":"045","title":"The Creature from Cleveland Depths - II","length":11830,"mode":"type"},{"id":"046","title":"The Creature from Cleveland Depths - III","length":11809,"mode":"type"},{"id":"047","title":"The Creature from Cleveland Depths - IV","length":17050,"mode":"type"},{"id":"048","title":"The Creature from Cleveland Depths - V","length":17534,"mode":"type"},{"id":"049","title":"The Creature from Cleveland Depths - VI","length":5009,"mode":"type"},{"id":"050","title":"The Creature from Cleveland Depths - VII","length":18273,"mode":"type"},{"id":"051","title":"The Creature from Cleveland Depths - VIII","length":6780,"mode":"type"},{"id":"052","title":"X Marks the Pedwalk","length":9886,"mode":"type"},{"id":"053","title":"A Hitch in Space","length":19934,"mode":"type"},{"id":"054","title":"No Great Magic - I","length":19273,"mode":"type"},{"id":"055","title":"No Great Magic - II","length":16523,"mode":"type"},{"id":"056","title":"No Great Magic - III","length":14643,"mode":"type"},{"id":"057","title":"No Great Magic - IV","length":9438,"mode":"type"},{"id":"058","title":"No Great Magic - V","length":8536,"mode":"type"},{"id":"059","title":"No Great Magic - VI","length":8215,"mode":"type"},{"id":"060","title":"No Great Magic - VII","length":6569,"mode":"type"},{"id":"061","title":"No Great Magic - VIII","length":10492,"mode":"type"},{"id":"062","title":"Colophon","length":1179,"mode":"hide"},{"id":"063","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337784231}
+{
+  "id": "fritz-leiber--short-fiction",
+  "title": "Short Fiction",
+  "titleAlpha": "short fiction",
+  "author": "Fritz Leiber",
+  "language": "en",
+  "description": "A collection of Fritz Leiber short stories and novellas ordered by date of publication.",
+  "longDescription": [
+    "Fritz Leiber is most famous for his \"Fafhrd and the Gray Mouser\" stories, but he also wrote in many other genres. Between 1950 and 1963 he wrote a number of short stories that appeared in Galaxy magazine, including one in the same universe as The Big Time and the Change War stories (\"No Great Magic\")."
+  ],
+  "year": 1974,
+  "genres": [
+    "classics",
+    "fiction",
+    "science-fiction",
+    "shorts"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/fritz-leiber/short-fiction"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Short Fiction",
+      "length": 17,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1183,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Later Than You Think",
+      "length": 14929,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Coming Attraction",
+      "length": 27151,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Nice Girl with 5 Husbands",
+      "length": 24804,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Appointment in Tomorrow",
+      "length": 56621,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "A Pail of Air",
+      "length": 30083,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Dr. Kometevsky's Day",
+      "length": 39195,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "The Moon Is Green",
+      "length": 33448,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Yesterday House - I",
+      "length": 17552,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Yesterday House - II",
+      "length": 6496,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Yesterday House - III",
+      "length": 3097,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Yesterday House - IV",
+      "length": 5633,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Yesterday House - V",
+      "length": 4634,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Yesterday House - VI",
+      "length": 12480,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Yesterday House - VII",
+      "length": 1378,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "A Bad Day for Sales",
+      "length": 13090,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Friends and Enemies",
+      "length": 35505,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Time in the Round",
+      "length": 31023,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "What's He Doing in There?",
+      "length": 11149,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Bread Overhead",
+      "length": 30525,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "The Last Letter",
+      "length": 23291,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Bullet with His Name",
+      "length": 67796,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Pipe Dream",
+      "length": 30222,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "The Night of the Long Knives - I",
+      "length": 28038,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "The Night of the Long Knives - II",
+      "length": 24523,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "The Night of the Long Knives - III",
+      "length": 30947,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "The Night of the Long Knives - IV",
+      "length": 33325,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "The Night of the Long Knives - V",
+      "length": 17322,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "The Night of the Long Knives - VI",
+      "length": 25638,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "The Night of the Long Knives - VII",
+      "length": 16582,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Kreativity for Kats",
+      "length": 18968,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "The Big Engine",
+      "length": 9180,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "The 64-Square Madhouse - I",
+      "length": 30439,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "The 64-Square Madhouse - II",
+      "length": 13541,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "The 64-Square Madhouse - III",
+      "length": 9984,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "The 64-Square Madhouse - IV",
+      "length": 11044,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "The 64-Square Madhouse - V",
+      "length": 6896,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "The 64-Square Madhouse - VI",
+      "length": 8124,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "The Snowbank Orbit - I",
+      "length": 6382,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "The Snowbank Orbit - II",
+      "length": 7216,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "The Snowbank Orbit - III",
+      "length": 8850,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "The Snowbank Orbit - IV",
+      "length": 10720,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "The Creature from Cleveland Depths - I",
+      "length": 9690,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "The Creature from Cleveland Depths - II",
+      "length": 11830,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "The Creature from Cleveland Depths - III",
+      "length": 11809,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "The Creature from Cleveland Depths - IV",
+      "length": 17050,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "The Creature from Cleveland Depths - V",
+      "length": 17534,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "The Creature from Cleveland Depths - VI",
+      "length": 5009,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "The Creature from Cleveland Depths - VII",
+      "length": 18273,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "The Creature from Cleveland Depths - VIII",
+      "length": 6780,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "X Marks the Pedwalk",
+      "length": 9886,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "A Hitch in Space",
+      "length": 19934,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "No Great Magic - I",
+      "length": 19273,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "No Great Magic - II",
+      "length": 16523,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "No Great Magic - III",
+      "length": 14643,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "No Great Magic - IV",
+      "length": 9438,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "No Great Magic - V",
+      "length": 8536,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "No Great Magic - VI",
+      "length": 8215,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "No Great Magic - VII",
+      "length": 6569,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "No Great Magic - VIII",
+      "length": 10492,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "Colophon",
+      "length": 1179,
+      "mode": "hide"
+    },
+    {
+      "id": "063",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL27292210W",
+  "goodreadsId": "102269",
+  "rating": 0.798,
+  "popularity": 579,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489691771
+}

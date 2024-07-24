@@ -1,1 +1,239 @@
-{"id":"wilkie-collins--the-dead-secret","title":"The Dead Secret","titleAlpha":"dead secret","author":"Wilkie Collins","language":"en","description":"A maidservant is forced by her dying mistress to conceal a deep family secret, at great personal cost to herself.","longDescription":["The Dead Secret is Wilkie Collins' fourth novel. It first appeared in serial form in Charles Dickens' Household Words magazine during 1856. Like many of Collins' books, it features incidents and themes which were considered to be sensational at the time; in this case, sex before marriage, illegitimacy, and fraud.","The novel opens with a scene at Porthgenna Tower, a mansion in Cornwall, where the lady of the house, Mrs. Treverton, is dying. On her deathbed, she tries to force her maidservant, Sarah Leeson, to swear that she will give a letter Mrs. Treverton has written to her husband, Captain Treverton, once she is dead. The letter reveals an important family secret in which Sarah is deeply involved and which she consequently is desperately unwilling to pass on. Mrs. Treverton succeeds in making Sarah swear not to destroy the letter or remove it from the house, but dies before making the young woman swear to give the letter to the Captain. Sarah therefore finds a place to conceal it within the house.","The rest of the novel deals with Rosamond, the Treverton's daughter, who grows to adulthood and marries Leonard Franklin, a young man of a well-to-do family, who is afflicted with blindness. Franklin purchases Porthgenna Tower after the Captain's death, and the couple plan to move into the property and renovate it. Doing so, however, means that they are likely to uncover the hidden letter concealing the family secret.","While critics don't consider The Dead Secret to be one of Collins' best novels, it contains some of the same elements of mystery and suspense as The Woman in White and The Moonstone, and much of his characteristic wry humor."],"year":1856,"genres":["classics","fiction","gothic"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/wilkie-collins/the-dead-secret"},"openlibraryId":"OL176087W","goodreadsId":"2229941","rating":0.746,"popularity":2637,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Dead Secret","length":19,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Book I - I: The Twenty-Third of August, 1829","length":31304,"mode":"type"},{"id":"004","title":"Book I - II: The Child","length":10610,"mode":"type"},{"id":"005","title":"Book I - III: The Hiding of the Secret","length":19756,"mode":"type"},{"id":"006","title":"Book II - I: Fifteen Years After","length":30836,"mode":"type"},{"id":"007","title":"Book II - II: The Sale of Porthgenna Tower","length":27199,"mode":"type"},{"id":"008","title":"Book II - III: The Bride and Bridegroom","length":34677,"mode":"type"},{"id":"009","title":"Book III - I: Timon of London","length":29850,"mode":"type"},{"id":"010","title":"Book III - II: Will They Come?","length":10347,"mode":"type"},{"id":"011","title":"Book III - III: Mrs. Jazeph","length":23731,"mode":"type"},{"id":"012","title":"Book III - IV: The New Nurse","length":48336,"mode":"type"},{"id":"013","title":"Book III - V: A Council of Three","length":16049,"mode":"type"},{"id":"014","title":"Book III - VI: Another Surprise","length":14526,"mode":"type"},{"id":"015","title":"Book IV - I: A Plot Against the Secret","length":34375,"mode":"type"},{"id":"016","title":"Book IV - II: Outside the House","length":34420,"mode":"type"},{"id":"017","title":"Book IV - III: Inside the House","length":37994,"mode":"type"},{"id":"018","title":"Book IV - IV: Mr. Munder on the Seat of Judgment","length":33521,"mode":"type"},{"id":"019","title":"Book IV - V: Mozart Plays Farewell","length":31362,"mode":"type"},{"id":"020","title":"Book V - I: An Old Friend and a New Scheme","length":16723,"mode":"type"},{"id":"021","title":"Book V - II: The Beginning of the End","length":19085,"mode":"type"},{"id":"022","title":"Book V - III: Approaching the Precipice","length":25020,"mode":"type"},{"id":"023","title":"Book V - IV: Standing on the Brink","length":19840,"mode":"type"},{"id":"024","title":"Book V - V: The Myrtle Room","length":33839,"mode":"type"},{"id":"025","title":"Book V - VI: The Telling of the Secret","length":21517,"mode":"type"},{"id":"026","title":"Book VI - I: Uncle Joseph","length":32909,"mode":"type"},{"id":"027","title":"Book VI - II: Waiting and Hoping","length":35508,"mode":"type"},{"id":"028","title":"Book VI - III: The Story of the Past","length":35572,"mode":"type"},{"id":"029","title":"Book VI - IV: The Close of Day","length":37412,"mode":"type"},{"id":"030","title":"Book VI - V: Forty Thousand Pounds","length":19690,"mode":"type"},{"id":"031","title":"Book VI - VI: The Dawn of a New Life","length":4683,"mode":"type"},{"id":"032","title":"Colophon","length":1071,"mode":"hide"},{"id":"033","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338365495}
+{
+  "id": "wilkie-collins--the-dead-secret",
+  "title": "The Dead Secret",
+  "titleAlpha": "dead secret",
+  "author": "Wilkie Collins",
+  "language": "en",
+  "description": "A maidservant is forced by her dying mistress to conceal a deep family secret, at great personal cost to herself.",
+  "longDescription": [
+    "The Dead Secret is Wilkie Collins' fourth novel. It first appeared in serial form in Charles Dickens' Household Words magazine during 1856. Like many of Collins' books, it features incidents and themes which were considered to be sensational at the time; in this case, sex before marriage, illegitimacy, and fraud.",
+    "The novel opens with a scene at Porthgenna Tower, a mansion in Cornwall, where the lady of the house, Mrs. Treverton, is dying. On her deathbed, she tries to force her maidservant, Sarah Leeson, to swear that she will give a letter Mrs. Treverton has written to her husband, Captain Treverton, once she is dead. The letter reveals an important family secret in which Sarah is deeply involved and which she consequently is desperately unwilling to pass on. Mrs. Treverton succeeds in making Sarah swear not to destroy the letter or remove it from the house, but dies before making the young woman swear to give the letter to the Captain. Sarah therefore finds a place to conceal it within the house.",
+    "The rest of the novel deals with Rosamond, the Treverton's daughter, who grows to adulthood and marries Leonard Franklin, a young man of a well-to-do family, who is afflicted with blindness. Franklin purchases Porthgenna Tower after the Captain's death, and the couple plan to move into the property and renovate it. Doing so, however, means that they are likely to uncover the hidden letter concealing the family secret.",
+    "While critics don't consider The Dead Secret to be one of Collins' best novels, it contains some of the same elements of mystery and suspense as The Woman in White and The Moonstone, and much of his characteristic wry humor."
+  ],
+  "year": 1856,
+  "genres": [
+    "classics",
+    "fiction",
+    "gothic",
+    "mystery",
+    "suspense"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/wilkie-collins/the-dead-secret"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Dead Secret",
+      "length": 19,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Book I - I: The Twenty-Third of August, 1829",
+      "length": 31304,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Book I - II: The Child",
+      "length": 10610,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Book I - III: The Hiding of the Secret",
+      "length": 19756,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Book II - I: Fifteen Years After",
+      "length": 30836,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Book II - II: The Sale of Porthgenna Tower",
+      "length": 27199,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Book II - III: The Bride and Bridegroom",
+      "length": 34677,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book III - I: Timon of London",
+      "length": 29850,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Book III - II: Will They Come?",
+      "length": 10347,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book III - III: Mrs. Jazeph",
+      "length": 23731,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book III - IV: The New Nurse",
+      "length": 48336,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book III - V: A Council of Three",
+      "length": 16049,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book III - VI: Another Surprise",
+      "length": 14526,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book IV - I: A Plot Against the Secret",
+      "length": 34375,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Book IV - II: Outside the House",
+      "length": 34420,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book IV - III: Inside the House",
+      "length": 37994,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book IV - IV: Mr. Munder on the Seat of Judgment",
+      "length": 33521,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Book IV - V: Mozart Plays Farewell",
+      "length": 31362,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Book V - I: An Old Friend and a New Scheme",
+      "length": 16723,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Book V - II: The Beginning of the End",
+      "length": 19085,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Book V - III: Approaching the Precipice",
+      "length": 25020,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Book V - IV: Standing on the Brink",
+      "length": 19840,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Book V - V: The Myrtle Room",
+      "length": 33839,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Book V - VI: The Telling of the Secret",
+      "length": 21517,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Book VI - I: Uncle Joseph",
+      "length": 32909,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Book VI - II: Waiting and Hoping",
+      "length": 35508,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Book VI - III: The Story of the Past",
+      "length": 35572,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Book VI - IV: The Close of Day",
+      "length": 37412,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Book VI - V: Forty Thousand Pounds",
+      "length": 19690,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Book VI - VI: The Dawn of a New Life",
+      "length": 4683,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Colophon",
+      "length": 1071,
+      "mode": "hide"
+    },
+    {
+      "id": "033",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL176087W",
+  "goodreadsId": "1009216",
+  "rating": 0.746,
+  "popularity": 2640,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490231314
+}

@@ -1,1 +1,133 @@
-{"id":"gustave-flaubert--short-fiction","title":"Short Fiction","titleAlpha":"short fiction","author":"Gustave Flaubert","language":"en","description":"A collection of short stories by Gustave Flaubert.","longDescription":["Gustave Flaubert was an influential novelist who had both the characteristics of a romanticist and a realist. The short stories in this collection put that dichotomy on display.","Flaubert wrote the first story, \"The Dance of Death\" when he was only 17 years old. It is written in a play format - though sometimes referred to as a prose poem - and features a conversation between Death, Satan and Nero. \"The Legend of Saint Julian the Hospitaller\" is a story about Julian the Hospitaller, a man who shares some similarities with Oedipus; \"A Simple Soul\" tells the story of a servant girl named Felicite; and lastly \"Herodias\" retells the beheading of St. John the Baptist."],"year":null,"genres":["classics","fiction","shorts"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/gustave-flaubert/short-fiction/m-walter-dunne"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Short Fiction","length":52,"mode":"hide"},{"id":"002","title":"Imprint","length":1175,"mode":"hide"},{"id":"003","title":"The Dance of Death","length":16034,"mode":"type"},{"id":"004","title":"The Legend of Saint Julian the Hospitaller - I: The Curse","length":22691,"mode":"type"},{"id":"005","title":"The Legend of Saint Julian the Hospitaller - II: The Crime","length":20579,"mode":"type"},{"id":"006","title":"The Legend of Saint Julian the Hospitaller - III: The Reparation","length":11135,"mode":"type"},{"id":"007","title":"A Simple Soul - I: Felicite","length":3286,"mode":"type"},{"id":"008","title":"A Simple Soul - II: The Heroine","length":17982,"mode":"type"},{"id":"009","title":"A Simple Soul - III: Death","length":26022,"mode":"type"},{"id":"010","title":"A Simple Soul - IV: The Bird","length":17320,"mode":"type"},{"id":"011","title":"A Simple Soul - V: The Vision","length":3496,"mode":"type"},{"id":"012","title":"Herodias - I: The Palace","length":22240,"mode":"type"},{"id":"013","title":"Herodias - II: The Voice","length":28422,"mode":"type"},{"id":"014","title":"Herodias - III: The Banquet","length":26702,"mode":"type"},{"id":"015","title":"Colophon","length":1201,"mode":"hide"},{"id":"016","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337827198}
+{
+  "id": "gustave-flaubert--short-fiction",
+  "title": "Short Fiction",
+  "titleAlpha": "short fiction",
+  "author": "Gustave Flaubert",
+  "language": "en",
+  "description": "A collection of short stories by Gustave Flaubert.",
+  "longDescription": [
+    "Gustave Flaubert was an influential novelist who had both the characteristics of a romanticist and a realist. The short stories in this collection put that dichotomy on display.",
+    "Flaubert wrote the first story, \"The Dance of Death\" when he was only 17 years old. It is written in a play format - though sometimes referred to as a prose poem - and features a conversation between Death, Satan and Nero. \"The Legend of Saint Julian the Hospitaller\" is a story about Julian the Hospitaller, a man who shares some similarities with Oedipus; \"A Simple Soul\" tells the story of a servant girl named Felicité; and lastly \"Herodias\" retells the beheading of St. John the Baptist."
+  ],
+  "year": 1877,
+  "genres": [
+    "classics",
+    "fiction",
+    "shorts"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/gustave-flaubert/short-fiction/m-walter-dunne"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Short Fiction",
+      "length": 52,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1175,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "The Dance of Death",
+      "length": 16034,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "The Legend of Saint Julian the Hospitaller - I: The Curse",
+      "length": 22691,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "The Legend of Saint Julian the Hospitaller - II: The Crime",
+      "length": 20579,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "The Legend of Saint Julian the Hospitaller - III: The Reparation",
+      "length": 11135,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "A Simple Soul - I: Félicité",
+      "length": 3286,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "A Simple Soul - II: The Heroine",
+      "length": 17982,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "A Simple Soul - III: Death",
+      "length": 26022,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "A Simple Soul - IV: The Bird",
+      "length": 17320,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "A Simple Soul - V: The Vision",
+      "length": 3496,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Herodias - I: The Palace",
+      "length": 22240,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Herodias - II: The Voice",
+      "length": 28422,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Herodias - III: The Banquet",
+      "length": 26702,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Colophon",
+      "length": 1201,
+      "mode": "hide"
+    },
+    {
+      "id": "016",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL27292353W",
+  "goodreadsId": "30017021",
+  "rating": 0.726,
+  "popularity": 7068,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489728925
+}

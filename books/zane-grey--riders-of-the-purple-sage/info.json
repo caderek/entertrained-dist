@@ -1,1 +1,206 @@
-{"id":"zane-grey--riders-of-the-purple-sage","title":"Riders of the Purple Sage","titleAlpha":"riders of the purple sage","author":"Zane Grey","language":"en","description":"On a ranch in southern Utah, Jane Withersteen refuses to marry a local church elder, and together with her ranch hand and a mysterious gunman she must face retaliatory violence, theft, and murder.","longDescription":["In a small Mormon community in southern Utah, Jane Withersteen, a young, unmarried Mormon woman faces growing pressure to marry a local elder of her church. Elder Tull, a polygamist, already has two wives and seeks to marry Jane not just for her beauty, but to take control of the ranch her late father passed on to her.","Jane's resistance to marriage only serves to increase the mounting resentment against \"Gentiles\" (non-Mormons) in the area. Bern Venters, one of Jane Withersteen's ranch hands and potential suitor, becomes the focus of this resentment and is nearly killed by Elder Tull and his men before a mysterious rider interrupts the procedure. The rider, a man named Lassiter, is a gunslinger known for his exploits in other Mormon settlements further north.","Lassiter's intercession on Venters' behalf sets off a chain reaction of threats, violence, theft, and murder as Jane Withersteen fights to maintain both her ranch and her independence.","First published in 1912, Riders of the Purple Sage is considered to have played a prominent role in shaping the Western genre. It was Zane Grey's best-selling book and has remained popular ever since."],"year":1912,"genres":["adventure","classics","fiction","western"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage"},"openlibraryId":"OL485504W","goodreadsId":"601117","rating":0.748,"popularity":13383,"cover":null,"free":false,"custom":false,"series":"Riders of the Purple Sage","part":1,"chapters":[{"id":"001","title":"Titlepage - Riders of the Purple Sage","length":14,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I: Lassiter","length":18651,"mode":"type"},{"id":"004","title":"II: Cottonwoods","length":20324,"mode":"type"},{"id":"005","title":"III: Amber Spring","length":22501,"mode":"type"},{"id":"006","title":"IV: Deception Pass","length":24791,"mode":"type"},{"id":"007","title":"V: The Masked Rider","length":23385,"mode":"type"},{"id":"008","title":"VI: The Mill-Wheel of Steers","length":30322,"mode":"type"},{"id":"009","title":"VII: The Daughter of Withersteen","length":18601,"mode":"type"},{"id":"010","title":"VIII: Surprise Valley","length":26480,"mode":"type"},{"id":"011","title":"IX: Silver Spruce and Aspens","length":28081,"mode":"type"},{"id":"012","title":"X: Love","length":28403,"mode":"type"},{"id":"013","title":"XI: Faith and Unfaith","length":31150,"mode":"type"},{"id":"014","title":"XII: The Invisible Hand","length":28748,"mode":"type"},{"id":"015","title":"XIII: Solitude and Storm","length":24605,"mode":"type"},{"id":"016","title":"XIV: West Wind","length":17431,"mode":"type"},{"id":"017","title":"XV: Shadows on the Sage-Slope","length":36620,"mode":"type"},{"id":"018","title":"XVI: Gold","length":20161,"mode":"type"},{"id":"019","title":"XVII: Wrangle's Race Run","length":32549,"mode":"type"},{"id":"020","title":"XVIII: Oldring's Knell","length":29765,"mode":"type"},{"id":"021","title":"XIX: Fay","length":24944,"mode":"type"},{"id":"022","title":"XX: Lassiter's Way","length":22194,"mode":"type"},{"id":"023","title":"XXI: Black Star and Night","length":31551,"mode":"type"},{"id":"024","title":"XXII: Riders of the Purple Sage","length":12995,"mode":"type"},{"id":"025","title":"XXIII: The Fall of Balancing Rock","length":23150,"mode":"type"},{"id":"026","title":"Colophon","length":1079,"mode":"hide"},{"id":"027","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338414765}
+{
+  "id": "zane-grey--riders-of-the-purple-sage",
+  "title": "Riders of the Purple Sage",
+  "titleAlpha": "riders of the purple sage",
+  "author": "Zane Grey",
+  "language": "en",
+  "description": "On a ranch in southern Utah, Jane Withersteen refuses to marry a local church elder, and together with her ranch hand and a mysterious gunman she must face retaliatory violence, theft, and murder.",
+  "longDescription": [
+    "In a small Mormon community in southern Utah, Jane Withersteen, a young, unmarried Mormon woman faces growing pressure to marry a local elder of her church. Elder Tull, a polygamist, already has two wives and seeks to marry Jane not just for her beauty, but to take control of the ranch her late father passed on to her.",
+    "Jane's resistance to marriage only serves to increase the mounting resentment against \"Gentiles\" (non-Mormons) in the area. Bern Venters, one of Jane Withersteen's ranch hands and potential suitor, becomes the focus of this resentment and is nearly killed by Elder Tull and his men before a mysterious rider interrupts the procedure. The rider, a man named Lassiter, is a gunslinger known for his exploits in other Mormon settlements further north.",
+    "Lassiter's intercession on Venters' behalf sets off a chain reaction of threats, violence, theft, and murder as Jane Withersteen fights to maintain both her ranch and her independence.",
+    "First published in 1912, Riders of the Purple Sage is considered to have played a prominent role in shaping the Western genre. It was Zane Grey's best-selling book and has remained popular ever since."
+  ],
+  "year": 1912,
+  "genres": [
+    "adventure",
+    "classics",
+    "fiction",
+    "western",
+    "crime"
+  ],
+  "topics": [
+    "thieves",
+    "murder"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Riders of the Purple Sage",
+  "part": 1,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/zane-grey/riders-of-the-purple-sage"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Riders of the Purple Sage",
+      "length": 14,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: Lassiter",
+      "length": 18651,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: Cottonwoods",
+      "length": 20324,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: Amber Spring",
+      "length": 22501,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: Deception Pass",
+      "length": 24791,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: The Masked Rider",
+      "length": 23385,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: The Mill-Wheel of Steers",
+      "length": 30322,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: The Daughter of Withersteen",
+      "length": 18601,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: Surprise Valley",
+      "length": 26480,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: Silver Spruce and Aspens",
+      "length": 28081,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: Love",
+      "length": 28403,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: Faith and Unfaith",
+      "length": 31150,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: The Invisible Hand",
+      "length": 28748,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: Solitude and Storm",
+      "length": 24605,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: West Wind",
+      "length": 17431,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: Shadows on the Sage-Slope",
+      "length": 36620,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI: Gold",
+      "length": 20161,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII: Wrangle's Race Run",
+      "length": 32549,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII: Oldring's Knell",
+      "length": 29765,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX: Fay",
+      "length": 24944,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX: Lassiter's Way",
+      "length": 22194,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI: Black Star and Night",
+      "length": 31551,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII: Riders of the Purple Sage",
+      "length": 12995,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII: The Fall of Balancing Rock",
+      "length": 23150,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Colophon",
+      "length": 1079,
+      "mode": "hide"
+    },
+    {
+      "id": "027",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL485504W",
+  "goodreadsId": "601117",
+  "rating": 0.748,
+  "popularity": 13383,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490291252
+}

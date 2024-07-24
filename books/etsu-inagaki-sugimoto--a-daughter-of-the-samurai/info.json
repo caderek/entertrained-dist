@@ -1,1 +1,272 @@
-{"id":"etsu-inagaki-sugimoto--a-daughter-of-the-samurai","title":"A Daughter of the Samurai","titleAlpha":"daughter of the samurai","author":"Etsu Inagaki Sugimoto","language":"en","description":"The autobiography of Etsu Sugimoto, a girl born into a samurai family in a time of great cultural changes.","longDescription":["Etsu Inagaki Sugimoto was born into a samurai family in the years following the Meiji Restoration in 1868. In this autobiography, she recounts her experiences growing up in a culture with very strict expectations. As her family's influence and power wanes, a marriage is arranged for her and she leaves to join her future husband in America.","Etsu's story is interleaved with explanations of Japanese culture, religion, and history. As she is exposed to more of the world outside of Japan, she must reconcile the differences between the traditions she grew up with and the ideas of her new homeland."],"year":null,"genres":["autobiography","classics","nonfiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - A Daughter of the Samurai","length":26,"mode":"hide"},{"id":"002","title":"Imprint","length":1177,"mode":"hide"},{"id":"003","title":"Dedication","length":169,"mode":"hide"},{"id":"004","title":"Acknowledgment to Nancy Virginia Austen","length":274,"mode":"type"},{"id":"005","title":"Introduction","length":4419,"mode":"type"},{"id":"006","title":"I: Winters in Echigo","length":16486,"mode":"type"},{"id":"007","title":"II: Curly Hair","length":10397,"mode":"type"},{"id":"008","title":"III: Days of Kan","length":13531,"mode":"type"},{"id":"009","title":"IV: The Old and the New","length":14142,"mode":"type"},{"id":"010","title":"V: Falling Leaves","length":15777,"mode":"type"},{"id":"011","title":"VI: A Sunny New Year","length":15347,"mode":"type"},{"id":"012","title":"VII: The Wedding That Never Was","length":13612,"mode":"type"},{"id":"013","title":"VIII: Two Ventures","length":19327,"mode":"type"},{"id":"014","title":"IX: The Story of a Marionette","length":24007,"mode":"type"},{"id":"015","title":"X: The Day of the Bird","length":18692,"mode":"type"},{"id":"016","title":"XI: My First Journey","length":14431,"mode":"type"},{"id":"017","title":"XII: Travel Education","length":18412,"mode":"type"},{"id":"018","title":"XIII: Foreigners","length":15668,"mode":"type"},{"id":"019","title":"XIV: Lessons","length":17349,"mode":"type"},{"id":"020","title":"XV: How I Became a Christian","length":18103,"mode":"type"},{"id":"021","title":"XVI: Sailing Unknown Seas","length":21826,"mode":"type"},{"id":"022","title":"XVII: First Impressions","length":25224,"mode":"type"},{"id":"023","title":"XVIII: Strange Customs","length":21693,"mode":"type"},{"id":"024","title":"XIX: Thinking","length":15035,"mode":"type"},{"id":"025","title":"XX: Neighbours","length":16419,"mode":"type"},{"id":"026","title":"XXI: New Experiences","length":25055,"mode":"type"},{"id":"027","title":"XXII: Flower in a Strange Land","length":14885,"mode":"type"},{"id":"028","title":"XXIII: Chiyo","length":19840,"mode":"type"},{"id":"029","title":"XXIV: In Japan Again","length":6332,"mode":"type"},{"id":"030","title":"XXV: Our Tokyo Home","length":14144,"mode":"type"},{"id":"031","title":"XXVI: Tragic Trifles","length":13127,"mode":"type"},{"id":"032","title":"XXVII: Honourable Grandmother","length":17663,"mode":"type"},{"id":"033","title":"XXVIII: Sister's Visit","length":12001,"mode":"type"},{"id":"034","title":"XXIX: A Lady of Old Japan","length":15217,"mode":"type"},{"id":"035","title":"XXX: The White Cow","length":20001,"mode":"type"},{"id":"036","title":"XXXI: Worthless Treasures","length":17387,"mode":"type"},{"id":"037","title":"XXXII: The Black Ships","length":5099,"mode":"type"},{"id":"038","title":"Colophon","length":1018,"mode":"hide"},{"id":"039","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337745806}
+{
+  "id": "etsu-inagaki-sugimoto--a-daughter-of-the-samurai",
+  "title": "A Daughter of the Samurai",
+  "titleAlpha": "daughter of the samurai",
+  "author": "Etsu Inagaki Sugimoto",
+  "language": "en",
+  "description": "The autobiography of Etsu Sugimoto, a girl born into a samurai family in a time of great cultural changes.",
+  "longDescription": [
+    "Etsu Inagaki Sugimoto was born into a samurai family in the years following the Meiji Restoration in 1868. In this autobiography, she recounts her experiences growing up in a culture with very strict expectations. As her family's influence and power wanes, a marriage is arranged for her and she leaves to join her future husband in America.",
+    "Etsu's story is interleaved with explanations of Japanese culture, religion, and history. As she is exposed to more of the world outside of Japan, she must reconcile the differences between the traditions she grew up with and the ideas of her new homeland."
+  ],
+  "year": 1925,
+  "genres": [
+    "autobiography",
+    "classics",
+    "nonfiction",
+    "biography"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/etsu-inagaki-sugimoto/a-daughter-of-the-samurai"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - A Daughter of the Samurai",
+      "length": 26,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1177,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 169,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Acknowledgment to Nancy Virginia Austen",
+      "length": 274,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Introduction",
+      "length": 4419,
+      "mode": "skip"
+    },
+    {
+      "id": "006",
+      "title": "I: Winters in Echigo",
+      "length": 16486,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "II: Curly Hair",
+      "length": 10397,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "III: Days of Kan",
+      "length": 13531,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "IV: The Old and the New",
+      "length": 14142,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "V: Falling Leaves",
+      "length": 15777,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VI: A Sunny New Year",
+      "length": 15347,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VII: The Wedding That Never Was",
+      "length": 13612,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "VIII: Two Ventures",
+      "length": 19327,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "IX: The Story of a Marionette",
+      "length": 24007,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "X: The Day of the Bird",
+      "length": 18692,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XI: My First Journey",
+      "length": 14431,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XII: Travel Education",
+      "length": 18412,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIII: Foreigners",
+      "length": 15668,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XIV: Lessons",
+      "length": 17349,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XV: How I Became a Christian",
+      "length": 18103,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVI: Sailing Unknown Seas",
+      "length": 21826,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVII: First Impressions",
+      "length": 25224,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XVIII: Strange Customs",
+      "length": 21693,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XIX: Thinking",
+      "length": 15035,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XX: Neighbours",
+      "length": 16419,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXI: New Experiences",
+      "length": 25055,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXII: Flower in a Strange Land",
+      "length": 14885,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXIII: Chiyo",
+      "length": 19840,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXIV: In Japan Again",
+      "length": 6332,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXV: Our Tokyo Home",
+      "length": 14144,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVI: Tragic Trifles",
+      "length": 13127,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXVII: Honourable Grandmother",
+      "length": 17663,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXVIII: Sister's Visit",
+      "length": 12001,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXIX: A Lady of Old Japan",
+      "length": 15217,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXX: The White Cow",
+      "length": 20001,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXI: Worthless Treasures",
+      "length": 17387,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXII: The Black Ships",
+      "length": 5099,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Colophon",
+      "length": 1018,
+      "mode": "hide"
+    },
+    {
+      "id": "039",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL8444423W",
+  "goodreadsId": "395534",
+  "rating": 0.798,
+  "popularity": 547,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489657092
+}

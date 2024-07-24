@@ -1,1 +1,161 @@
-{"id":"w-w-jacobs--the-lady-of-the-barge","title":"The Lady of the Barge","titleAlpha":"lady of the barge","author":"W. W. Jacobs","language":"en","description":"An anthology of several of W. W. Jacobs' most famous short stories.","longDescription":["W. W. Jacobs was a prolific writer of short stories. His topics were typically humorous and nautical in nature, but they weren't exclusively so. This anthology includes some of his most famous short stories, including \"The Monkey's Paw,\" a story of the supernatural in which a monkey's hand grants three wishes to its owner, but at huge cost."],"year":null,"genres":["classics","fiction","shorts"],"topics":["magic"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/w-w-jacobs/the-lady-of-the-barge"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Lady of the Barge","length":17,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"The Lady of the Barge","length":22637,"mode":"type"},{"id":"004","title":"The Monkey's Paw - I","length":9458,"mode":"type"},{"id":"005","title":"The Monkey's Paw - II","length":5245,"mode":"type"},{"id":"006","title":"The Monkey's Paw - III","length":6995,"mode":"type"},{"id":"007","title":"Bill's Paper Chase","length":20502,"mode":"type"},{"id":"008","title":"The Well - I","length":6886,"mode":"type"},{"id":"009","title":"The Well - II","length":9832,"mode":"type"},{"id":"010","title":"The Well - III","length":6559,"mode":"type"},{"id":"011","title":"Cupboard Love","length":20952,"mode":"type"},{"id":"012","title":"In the Library","length":19585,"mode":"type"},{"id":"013","title":"Captain Rogers","length":21957,"mode":"type"},{"id":"014","title":"A Tiger's Skin","length":23784,"mode":"type"},{"id":"015","title":"A Mixed Proposal","length":20920,"mode":"type"},{"id":"016","title":"An Adulteration Act","length":21644,"mode":"type"},{"id":"017","title":"A Golden Venture","length":21530,"mode":"type"},{"id":"018","title":"Three at Table","length":13229,"mode":"type"},{"id":"019","title":"Colophon","length":1019,"mode":"hide"},{"id":"020","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338337190}
+{
+  "id": "w-w-jacobs--the-lady-of-the-barge",
+  "title": "The Lady of the Barge",
+  "titleAlpha": "lady of the barge",
+  "author": "W. W. Jacobs",
+  "language": "en",
+  "description": "An anthology of several of W. W. Jacobs' most famous short stories.",
+  "longDescription": [
+    "W. W. Jacobs was a prolific writer of short stories. His topics were typically humorous and nautical in nature, but they weren't exclusively so. This anthology includes some of his most famous short stories, including \"The Monkey's Paw,\" a story of the supernatural in which a monkey's hand grants three wishes to its owner, but at huge cost."
+  ],
+  "year": 2012,
+  "genres": [
+    "classics",
+    "fiction",
+    "shorts",
+    "comedy"
+  ],
+  "topics": [
+    "magic",
+    "supernatural",
+    "sailing"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/w-w-jacobs/the-lady-of-the-barge"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Lady of the Barge",
+      "length": 17,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "The Lady of the Barge",
+      "length": 22637,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "The Monkey's Paw - I",
+      "length": 9458,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "The Monkey's Paw - II",
+      "length": 5245,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "The Monkey's Paw - III",
+      "length": 6995,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Bill's Paper Chase",
+      "length": 20502,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "The Well - I",
+      "length": 6886,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "The Well - II",
+      "length": 9832,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "The Well - III",
+      "length": 6559,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Cupboard Love",
+      "length": 20952,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "In the Library",
+      "length": 19585,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Captain Rogers",
+      "length": 21957,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "A Tiger's Skin",
+      "length": 23784,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "A Mixed Proposal",
+      "length": 20920,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "An Adulteration Act",
+      "length": 21644,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "A Golden Venture",
+      "length": 21530,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Three at Table",
+      "length": 13229,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Colophon",
+      "length": 1019,
+      "mode": "hide"
+    },
+    {
+      "id": "020",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL27292232W",
+  "goodreadsId": "16124027",
+  "rating": 0.844,
+  "popularity": 246,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490213394
+}

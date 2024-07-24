@@ -1,1 +1,120 @@
-{"id":"ford-madox-ford--no-more-parades","title":"No More Parades","titleAlpha":"no more parades","author":"Ford Madox Ford","language":"en","description":"An English gentleman gives his best as an officer during World War I, while struggling with his scandalous wife, the incompetence of the army, and the brutality of war.","longDescription":["No More Parades is the second in Ford Madox Ford's Parade's End series. The book, released just a few years after the close of the war, is based on Ford's combat experiences as an enlisted man in World War I, and continues the story first begun in Some Do Not ....","Christopher Tietjens, after recovering from the shell shock he suffered in Some Do Not ..., has returned to the edge of the war as a commanding officer in charge of preparing draft troops for deployment to the front. As the \"last true Tory,\" Tietjens demonstrates talent bordering on genius as he struggles against the laziness, incompetence, and confusion of the army around him - but his troubles only begin when his self-centered and scandalous wife Sylvia appears at his base in Rouen for a surprise visit.","Unlike Some Do Not ..., which was told in a highly modernist series of flash-backs and flash-forwards, Parade's End is a much more straightforward narrative. Despite this, the characters continue to be realized in an incredibly complex and nuanced way. Tietjens, almost a caricature of the stiff, honorable English gentleman, stoically absorbs the problems and suffering of those around him. Ford simultaneously paints him as an almost Christlike character and an immature, idealistic schoolboy, eager to keep up appearances despite the ruination it causes the people around him. Sylvia, his wife, has had her affairs and scandals, and is clearly a selfish and trying personality; but her powerful charm, and her frustration with both her almost comically stiff-lipped husband and the war's interruption of civilization, lends her a not-unsympathetic air. The supporting cast of conscripts and officers is equally well-realized, with each one protraying a separate aspect of war's effect on regular, scared people simply doing their best.","The novel was extremely well-reviewed in its time, and it and the series it's a part of remain one of the most important novels written about World War I."],"year":1925,"genres":["classics","fiction","history"],"topics":["war"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/ford-madox-ford/no-more-parades"},"openlibraryId":"OL18481779W","goodreadsId":null,"rating":0.46573475999999997,"popularity":1,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - No More Parades","length":20,"mode":"hide"},{"id":"002","title":"Imprint","length":1194,"mode":"hide"},{"id":"003","title":"To William Bird","length":7073,"mode":"type"},{"id":"004","title":"Part I - I","length":50768,"mode":"type"},{"id":"005","title":"Part I - II","length":66478,"mode":"type"},{"id":"006","title":"Part I - III","length":36895,"mode":"type"},{"id":"007","title":"Part I - IV","length":55532,"mode":"type"},{"id":"008","title":"Part II - I","length":43078,"mode":"type"},{"id":"009","title":"Part II - II","length":109295,"mode":"type"},{"id":"010","title":"Part III - I","length":42429,"mode":"type"},{"id":"011","title":"Part III - II","length":78860,"mode":"type"},{"id":"012","title":"Colophon","length":1007,"mode":"hide"},{"id":"013","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337755424}
+{
+  "id": "ford-madox-ford--no-more-parades",
+  "title": "No More Parades",
+  "titleAlpha": "no more parades",
+  "author": "Ford Madox Ford",
+  "language": "en",
+  "description": "An English gentleman gives his best as an officer during World War I, while struggling with his scandalous wife, the incompetence of the army, and the brutality of war.",
+  "longDescription": [
+    "No More Parades is the second in Ford Madox Ford's Parade's End series. The book, released just a few years after the close of the war, is based on Ford's combat experiences as an enlisted man in World War I, and continues the story first begun in Some Do Not ....",
+    "Christopher Tietjens, after recovering from the shell shock he suffered in Some Do Not ..., has returned to the edge of the war as a commanding officer in charge of preparing draft troops for deployment to the front. As the \"last true Tory,\" Tietjens demonstrates talent bordering on genius as he struggles against the laziness, incompetence, and confusion of the army around him - but his troubles only begin when his self-centered and scandalous wife Sylvia appears at his base in Rouen for a surprise visit.",
+    "Unlike Some Do Not ..., which was told in a highly modernist series of flash-backs and flash-forwards, Parade's End is a much more straightforward narrative. Despite this, the characters continue to be realized in an incredibly complex and nuanced way. Tietjens, almost a caricature of the stiff, honorable English gentleman, stoically absorbs the problems and suffering of those around him. Ford simultaneously paints him as an almost Christlike character and an immature, idealistic schoolboy, eager to keep up appearances despite the ruination it causes the people around him. Sylvia, his wife, has had her affairs and scandals, and is clearly a selfish and trying personality; but her powerful charm, and her frustration with both her almost comically stiff-lipped husband and the war's interruption of civilization, lends her a not-unsympathetic air. The supporting cast of conscripts and officers is equally well-realized, with each one protraying a separate aspect of war's effect on regular, scared people simply doing their best.",
+    "The novel was extremely well-reviewed in its time, and it and the series it's a part of remain one of the most important novels written about World War I."
+  ],
+  "year": 1925,
+  "genres": [
+    "classics",
+    "fiction",
+    "history"
+  ],
+  "topics": [
+    "war",
+    "warfare"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Parade's End",
+  "part": 2,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/ford-madox-ford/no-more-parades"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - No More Parades",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "To William Bird",
+      "length": 7073,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Part I - I",
+      "length": 50768,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Part I - II",
+      "length": 66478,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Part I - III",
+      "length": 36895,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Part I - IV",
+      "length": 55532,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Part II - I",
+      "length": 43078,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Part II - II",
+      "length": 109295,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Part III - I",
+      "length": 42429,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Part III - II",
+      "length": 78860,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Colophon",
+      "length": 1007,
+      "mode": "hide"
+    },
+    {
+      "id": "013",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL18481779W",
+  "goodreadsId": "17017131",
+  "rating": 0.792,
+  "popularity": 506,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489666578
+}

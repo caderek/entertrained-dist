@@ -1,1 +1,211 @@
-{"id":"dorothy-l-sayers--clouds-of-witness","title":"Clouds of Witness","titleAlpha":"clouds of witness","author":"Dorothy L. Sayers","language":"en","description":"An aristocrat with a passion for detective work has to clear the Duke, his brother, from a charge of murder.","longDescription":["Clouds of Witness, published by Dorothy L. Sayers in 1926, is the second of her novels starring Lord Peter Wimsey, a wealthy aristocrat who enjoys detective work as a hobby.","In this book Wimsey's skills have an immediate and personal interest when his brother Gerald, the Duke of Denver, is arrested on a charge of murder. He is accused of shooting his sister's fiance, Denis Cathcart, in a fit of rage after discovering that Cathcart was a man who made a living by cheating at cards. The Duke has no credible alibi for the time of Cathcart's death and refuses to clarify where he was. Wimsey promptly sets to work to solve the case and exonerate his brother.","One interesting feature of the story is that the Duke, as a peer of the realm, must be tried before his other peers in the House of Lords. Another is the flight across the Atlantic undertaken by Wimsey to obtain vital evidence - a year before Charles Lindbergh first made this voyage in reality.","Clouds of Witness was made into a television mini-series for the BBC in 1972."],"year":1926,"genres":["classics","crime","fiction","mystery"],"topics":["detective","murder"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/dorothy-l-sayers/clouds-of-witness"},"openlibraryId":"OL2234815W","goodreadsId":"393119","rating":0.796,"popularity":23414,"cover":null,"free":false,"custom":false,"series":"Lord Peter Wimsey","part":2,"chapters":[{"id":"001","title":"Titlepage - Clouds of Witness","length":22,"mode":"hide"},{"id":"002","title":"Imprint","length":1138,"mode":"hide"},{"id":"003","title":"Introduction","length":126,"mode":"type"},{"id":"004","title":"Epigraph","length":296,"mode":"skip"},{"id":"005","title":"Prologue","length":710,"mode":"type"},{"id":"006","title":"I: Of His Malice Aforethought","length":44766,"mode":"type"},{"id":"007","title":"II: The Green-Eyed Cat","length":41531,"mode":"type"},{"id":"008","title":"III: Mudstains and Bloodstains","length":42693,"mode":"type"},{"id":"009","title":"IV: - And His Daughter Much-Afraid","length":28994,"mode":"type"},{"id":"010","title":"V: The Rue St. Honore and the Rue de la Paix","length":29449,"mode":"type"},{"id":"011","title":"VI: Mary Quite Contrary","length":23811,"mode":"type"},{"id":"012","title":"VII: The Club and the Bullet","length":22233,"mode":"type"},{"id":"013","title":"VIII: Mr. Parker Takes Notes","length":6636,"mode":"type"},{"id":"014","title":"IX: Goyles","length":27533,"mode":"type"},{"id":"015","title":"X: Nothing Abides at the Noon","length":25792,"mode":"type"},{"id":"016","title":"XI: Meribah","length":29486,"mode":"type"},{"id":"017","title":"XII: The Alibi","length":27865,"mode":"type"},{"id":"018","title":"XIII: Manon","length":14320,"mode":"type"},{"id":"019","title":"XIV: The Edge of the Axe Towards Him","length":30041,"mode":"type"},{"id":"020","title":"XV: Bar Falling","length":10172,"mode":"type"},{"id":"021","title":"XVI: The Second String","length":10015,"mode":"type"},{"id":"022","title":"XVII: The Eloquent Dead","length":13034,"mode":"type"},{"id":"023","title":"XVIII: The Speech for the Defense","length":28599,"mode":"type"},{"id":"024","title":"XIX: Who Goes Home?","length":10515,"mode":"type"},{"id":"025","title":"Endnotes","length":474,"mode":"hide"},{"id":"026","title":"List of Illustrations","length":89,"mode":"hide"},{"id":"027","title":"Colophon","length":980,"mode":"hide"},{"id":"028","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337646208}
+{
+  "id": "dorothy-l-sayers--clouds-of-witness",
+  "title": "Clouds of Witness",
+  "titleAlpha": "clouds of witness",
+  "author": "Dorothy L. Sayers",
+  "language": "en",
+  "description": "An aristocrat with a passion for detective work has to clear the Duke, his brother, from a charge of murder.",
+  "longDescription": [
+    "Clouds of Witness, published by Dorothy L. Sayers in 1926, is the second of her novels starring Lord Peter Wimsey, a wealthy aristocrat who enjoys detective work as a hobby.",
+    "In this book Wimsey's skills have an immediate and personal interest when his brother Gerald, the Duke of Denver, is arrested on a charge of murder. He is accused of shooting his sister's fiance, Denis Cathcart, in a fit of rage after discovering that Cathcart was a man who made a living by cheating at cards. The Duke has no credible alibi for the time of Cathcart's death and refuses to clarify where he was. Wimsey promptly sets to work to solve the case and exonerate his brother.",
+    "One interesting feature of the story is that the Duke, as a peer of the realm, must be tried before his other peers in the House of Lords. Another is the flight across the Atlantic undertaken by Wimsey to obtain vital evidence - a year before Charles Lindbergh first made this voyage in reality.",
+    "Clouds of Witness was made into a television mini-series for the BBC in 1972."
+  ],
+  "year": 1926,
+  "genres": [
+    "classics",
+    "crime",
+    "fiction",
+    "mystery"
+  ],
+  "topics": [
+    "detective",
+    "murder"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Lord Peter Wimsey",
+  "part": 2,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/dorothy-l-sayers/clouds-of-witness"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Clouds of Witness",
+      "length": 22,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1138,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Introduction",
+      "length": 126,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Epigraph",
+      "length": 296,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Prologue",
+      "length": 710,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "I: Of His Malice Aforethought",
+      "length": 44766,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "II: The Green-Eyed Cat",
+      "length": 41531,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "III: Mudstains and Bloodstains",
+      "length": 42693,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "IV: - And His Daughter Much-Afraid",
+      "length": 28994,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "V: The Rue St. Honore and the Rue de la Paix",
+      "length": 29449,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VI: Mary Quite Contrary",
+      "length": 23811,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VII: The Club and the Bullet",
+      "length": 22233,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "VIII: Mr. Parker Takes Notes",
+      "length": 6636,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "IX: Goyles",
+      "length": 27533,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "X: Nothing Abides at the Noon",
+      "length": 25792,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XI: Meribah",
+      "length": 29486,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XII: The Alibi",
+      "length": 27865,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIII: Manon",
+      "length": 14320,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XIV: The Edge of the Axe Towards Him",
+      "length": 30041,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XV: Bar Falling",
+      "length": 10172,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVI: The Second String",
+      "length": 10015,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVII: The Eloquent Dead",
+      "length": 13034,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XVIII: The Speech for the Defense",
+      "length": 28599,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XIX: Who Goes Home?",
+      "length": 10515,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Endnotes",
+      "length": 474,
+      "mode": "hide"
+    },
+    {
+      "id": "026",
+      "title": "List of Illustrations",
+      "length": 89,
+      "mode": "hide"
+    },
+    {
+      "id": "027",
+      "title": "Colophon",
+      "length": 980,
+      "mode": "hide"
+    },
+    {
+      "id": "028",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL2234815W",
+  "goodreadsId": "393119",
+  "rating": 0.796,
+  "popularity": 23414,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721337646208
+}

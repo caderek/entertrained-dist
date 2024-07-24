@@ -1,1 +1,1258 @@
-{"id":"sinclair-lewis--elmer-gantry","title":"Elmer Gantry","titleAlpha":"elmer gantry","author":"Sinclair Lewis","language":"en","description":"A young man becomes a successful evangelist despite his drinking and womanizing.","longDescription":["Elmer Gantry isn't suited to be a lawyer, so he becomes a preacher instead. Although he experiences a variety of failures, and even more successes, Gantry ultimately finds this new career path suits him very well indeed - despite his drinking and womanizing. Throughout his time as a preacher Gantry progresses through the hierarchies of the Baptist and Methodist churches, dabbles in revivalism and \"New Thought,\" and even experiments with politics, all the while emerging from scandals relatively unscathed and ready to move onward and upward once again.","Sinclair Lewis published the satirical Elmer Gantry in 1927 much to the dismay of the religious community. It was denounced from the pulpit, banned by many, and even engendered threats of violence. Despite this - or perhaps because of it - it went on to become a massive success and the best selling novel of that year.","One of the most savage satirical assaults against institutionalized religion and its hypocrisy in American literature, Elmer Gantry continues to be a window into a particularly important aspect of American history."],"year":1927,"genres":["classics","fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/sinclair-lewis/elmer-gantry"},"openlibraryId":"OL51144W","goodreadsId":"1209133","rating":0.8019999999999999,"popularity":5942,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Elmer Gantry","length":19,"mode":"hide"},{"id":"002","title":"Imprint","length":1194,"mode":"hide"},{"id":"003","title":"Dedication","length":42,"mode":"hide"},{"id":"004","title":"Preface","length":70,"mode":"skip"},{"id":"005","title":"Chapter I - I","length":5271,"mode":"type"},{"id":"006","title":"Chapter I - II","length":3732,"mode":"type"},{"id":"007","title":"Chapter I - III","length":8049,"mode":"type"},{"id":"008","title":"Chapter I - IV","length":3830,"mode":"type"},{"id":"009","title":"Chapter I - V","length":9267,"mode":"type"},{"id":"010","title":"Chapter I - VI","length":13533,"mode":"type"},{"id":"011","title":"Chapter II - I","length":11553,"mode":"type"},{"id":"012","title":"Chapter II - II","length":5784,"mode":"type"},{"id":"013","title":"Chapter II - III","length":10461,"mode":"type"},{"id":"014","title":"Chapter III - I","length":11594,"mode":"type"},{"id":"015","title":"Chapter III - II","length":2704,"mode":"type"},{"id":"016","title":"Chapter III - III","length":18879,"mode":"type"},{"id":"017","title":"Chapter III - IV","length":11172,"mode":"type"},{"id":"018","title":"Chapter III - V","length":364,"mode":"type"},{"id":"019","title":"Chapter III - VI","length":6478,"mode":"type"},{"id":"020","title":"Chapter III - VII","length":868,"mode":"type"},{"id":"021","title":"Chapter III - VIII","length":1331,"mode":"type"},{"id":"022","title":"Chapter IV - I","length":3781,"mode":"type"},{"id":"023","title":"Chapter IV - II","length":8681,"mode":"type"},{"id":"024","title":"Chapter IV - III","length":7380,"mode":"type"},{"id":"025","title":"Chapter V - I","length":4161,"mode":"type"},{"id":"026","title":"Chapter V - II","length":7039,"mode":"type"},{"id":"027","title":"Chapter V - III","length":6789,"mode":"type"},{"id":"028","title":"Chapter VI - I","length":24843,"mode":"type"},{"id":"029","title":"Chapter VII - I","length":2700,"mode":"type"},{"id":"030","title":"Chapter VII - II","length":9737,"mode":"type"},{"id":"031","title":"Chapter VII - III","length":2093,"mode":"type"},{"id":"032","title":"Chapter VII - IV","length":6742,"mode":"type"},{"id":"033","title":"Chapter VII - V","length":3754,"mode":"type"},{"id":"034","title":"Chapter VII - VI","length":3949,"mode":"type"},{"id":"035","title":"Chapter VII - VII","length":5587,"mode":"type"},{"id":"036","title":"Chapter VII - VIII","length":2981,"mode":"type"},{"id":"037","title":"Chapter VII - IX","length":6861,"mode":"type"},{"id":"038","title":"Chapter VIII - I","length":4838,"mode":"type"},{"id":"039","title":"Chapter VIII - II","length":10317,"mode":"type"},{"id":"040","title":"Chapter VIII - III","length":1096,"mode":"type"},{"id":"041","title":"Chapter VIII - IV","length":2142,"mode":"type"},{"id":"042","title":"Chapter VIII - V","length":2222,"mode":"type"},{"id":"043","title":"Chapter IX - I","length":2047,"mode":"type"},{"id":"044","title":"Chapter IX - II","length":2224,"mode":"type"},{"id":"045","title":"Chapter IX - III","length":8573,"mode":"type"},{"id":"046","title":"Chapter IX - IV","length":3537,"mode":"type"},{"id":"047","title":"Chapter IX - V","length":5518,"mode":"type"},{"id":"048","title":"Chapter IX - VI","length":1176,"mode":"type"},{"id":"049","title":"Chapter IX - VII","length":5784,"mode":"type"},{"id":"050","title":"Chapter X - I","length":3147,"mode":"type"},{"id":"051","title":"Chapter X - II","length":7630,"mode":"type"},{"id":"052","title":"Chapter X - III","length":5543,"mode":"type"},{"id":"053","title":"Chapter X - IV","length":1362,"mode":"type"},{"id":"054","title":"Chapter X - V","length":1782,"mode":"type"},{"id":"055","title":"Chapter XI - I","length":23589,"mode":"type"},{"id":"056","title":"Chapter XI - II","length":8385,"mode":"type"},{"id":"057","title":"Chapter XI - III","length":5130,"mode":"type"},{"id":"058","title":"Chapter XI - IV","length":3804,"mode":"type"},{"id":"059","title":"Chapter XI - V","length":4495,"mode":"type"},{"id":"060","title":"Chapter XI - VI","length":6654,"mode":"type"},{"id":"061","title":"Chapter XII - I","length":6252,"mode":"type"},{"id":"062","title":"Chapter XII - II","length":5939,"mode":"type"},{"id":"063","title":"Chapter XII - III","length":12679,"mode":"type"},{"id":"064","title":"Chapter XII - IV","length":941,"mode":"type"},{"id":"065","title":"Chapter XIII - I","length":3867,"mode":"type"},{"id":"066","title":"Chapter XIII - II","length":2914,"mode":"type"},{"id":"067","title":"Chapter XIII - III","length":7959,"mode":"type"},{"id":"068","title":"Chapter XIII - IV","length":5298,"mode":"type"},{"id":"069","title":"Chapter XIII - V","length":2979,"mode":"type"},{"id":"070","title":"Chapter XIII - VI","length":1031,"mode":"type"},{"id":"071","title":"Chapter XIII - VII","length":2794,"mode":"type"},{"id":"072","title":"Chapter XIV - I","length":1721,"mode":"type"},{"id":"073","title":"Chapter XIV - II","length":1193,"mode":"type"},{"id":"074","title":"Chapter XIV - III","length":1760,"mode":"type"},{"id":"075","title":"Chapter XIV - IV","length":1826,"mode":"type"},{"id":"076","title":"Chapter XIV - V","length":1739,"mode":"type"},{"id":"077","title":"Chapter XIV - VI","length":11431,"mode":"type"},{"id":"078","title":"Chapter XV - I","length":6502,"mode":"type"},{"id":"079","title":"Chapter XV - II","length":4717,"mode":"type"},{"id":"080","title":"Chapter XV - III","length":5486,"mode":"type"},{"id":"081","title":"Chapter XV - IV","length":2161,"mode":"type"},{"id":"082","title":"Chapter XV - V","length":11914,"mode":"type"},{"id":"083","title":"Chapter XVI - I","length":1420,"mode":"type"},{"id":"084","title":"Chapter XVI - II","length":6970,"mode":"type"},{"id":"085","title":"Chapter XVI - III","length":4172,"mode":"type"},{"id":"086","title":"Chapter XVII - I","length":6574,"mode":"type"},{"id":"087","title":"Chapter XVII - II","length":7193,"mode":"type"},{"id":"088","title":"Chapter XVII - III","length":10667,"mode":"type"},{"id":"089","title":"Chapter XVII - IV","length":1495,"mode":"type"},{"id":"090","title":"Chapter XVII - V","length":3106,"mode":"type"},{"id":"091","title":"Chapter XVIII - I","length":5577,"mode":"type"},{"id":"092","title":"Chapter XVIII - II","length":6291,"mode":"type"},{"id":"093","title":"Chapter XVIII - III","length":4748,"mode":"type"},{"id":"094","title":"Chapter XVIII - IV","length":5898,"mode":"type"},{"id":"095","title":"Chapter XVIII - V","length":2185,"mode":"type"},{"id":"096","title":"Chapter XIX - I","length":8946,"mode":"type"},{"id":"097","title":"Chapter XIX - II","length":5258,"mode":"type"},{"id":"098","title":"Chapter XIX - III","length":2983,"mode":"type"},{"id":"099","title":"Chapter XIX - IV","length":2420,"mode":"type"},{"id":"100","title":"Chapter XX - I","length":2425,"mode":"type"},{"id":"101","title":"Chapter XX - II","length":4420,"mode":"type"},{"id":"102","title":"Chapter XX - III","length":1098,"mode":"type"},{"id":"103","title":"Chapter XX - IV","length":6624,"mode":"type"},{"id":"104","title":"Chapter XX - V","length":696,"mode":"type"},{"id":"105","title":"Chapter XX - VI","length":397,"mode":"type"},{"id":"106","title":"Chapter XX - VII","length":1363,"mode":"type"},{"id":"107","title":"Chapter XX - VIII","length":2912,"mode":"type"},{"id":"108","title":"Chapter XX - IX","length":4576,"mode":"type"},{"id":"109","title":"Chapter XX - X","length":7976,"mode":"type"},{"id":"110","title":"Chapter XX - XI","length":3112,"mode":"type"},{"id":"111","title":"Chapter XX - XII","length":939,"mode":"type"},{"id":"112","title":"Chapter XXI - I","length":2454,"mode":"type"},{"id":"113","title":"Chapter XXI - II","length":1533,"mode":"type"},{"id":"114","title":"Chapter XXI - III","length":1896,"mode":"type"},{"id":"115","title":"Chapter XXI - IV","length":1905,"mode":"type"},{"id":"116","title":"Chapter XXI - V","length":1936,"mode":"type"},{"id":"117","title":"Chapter XXI - VI","length":4590,"mode":"type"},{"id":"118","title":"Chapter XXI - VII","length":2274,"mode":"type"},{"id":"119","title":"Chapter XXI - VIII","length":1698,"mode":"type"},{"id":"120","title":"Chapter XXI - IX","length":5992,"mode":"type"},{"id":"121","title":"Chapter XXI - X","length":1073,"mode":"type"},{"id":"122","title":"Chapter XXI - XI","length":1299,"mode":"type"},{"id":"123","title":"Chapter XXII - I","length":4663,"mode":"type"},{"id":"124","title":"Chapter XXII - II","length":1714,"mode":"type"},{"id":"125","title":"Chapter XXII - III","length":4649,"mode":"type"},{"id":"126","title":"Chapter XXII - IV","length":3462,"mode":"type"},{"id":"127","title":"Chapter XXIII - I","length":2313,"mode":"type"},{"id":"128","title":"Chapter XXIII - II","length":7913,"mode":"type"},{"id":"129","title":"Chapter XXIII - III","length":3366,"mode":"type"},{"id":"130","title":"Chapter XXIII - IV","length":2147,"mode":"type"},{"id":"131","title":"Chapter XXIII - V","length":7564,"mode":"type"},{"id":"132","title":"Chapter XXIII - VI","length":2857,"mode":"type"},{"id":"133","title":"Chapter XXIII - VII","length":11881,"mode":"type"},{"id":"134","title":"Chapter XXIV - I","length":2158,"mode":"type"},{"id":"135","title":"Chapter XXIV - II","length":5922,"mode":"type"},{"id":"136","title":"Chapter XXV - I","length":4145,"mode":"type"},{"id":"137","title":"Chapter XXV - II","length":9100,"mode":"type"},{"id":"138","title":"Chapter XXV - III","length":1695,"mode":"type"},{"id":"139","title":"Chapter XXVI - I","length":7118,"mode":"type"},{"id":"140","title":"Chapter XXVI - II","length":2331,"mode":"type"},{"id":"141","title":"Chapter XXVI - III","length":12680,"mode":"type"},{"id":"142","title":"Chapter XXVI - IV","length":2799,"mode":"type"},{"id":"143","title":"Chapter XXVI - V","length":821,"mode":"type"},{"id":"144","title":"Chapter XXVI - VI","length":2533,"mode":"type"},{"id":"145","title":"Chapter XXVI - VII","length":3282,"mode":"type"},{"id":"146","title":"Chapter XXVI - VIII","length":1447,"mode":"type"},{"id":"147","title":"Chapter XXVI - IX","length":1707,"mode":"type"},{"id":"148","title":"Chapter XXVII - I","length":13900,"mode":"type"},{"id":"149","title":"Chapter XXVII - II","length":2387,"mode":"type"},{"id":"150","title":"Chapter XXVII - III","length":2115,"mode":"type"},{"id":"151","title":"Chapter XXVII - IV","length":683,"mode":"type"},{"id":"152","title":"Chapter XXVII - V","length":2355,"mode":"type"},{"id":"153","title":"Chapter XXVIII - I","length":24766,"mode":"type"},{"id":"154","title":"Chapter XXIX - I","length":1493,"mode":"type"},{"id":"155","title":"Chapter XXIX - II","length":2586,"mode":"type"},{"id":"156","title":"Chapter XXIX - III","length":2238,"mode":"type"},{"id":"157","title":"Chapter XXIX - IV","length":1064,"mode":"type"},{"id":"158","title":"Chapter XXIX - V","length":3225,"mode":"type"},{"id":"159","title":"Chapter XXIX - VI","length":2262,"mode":"type"},{"id":"160","title":"Chapter XXIX - VII","length":2190,"mode":"type"},{"id":"161","title":"Chapter XXIX - VIII","length":5606,"mode":"type"},{"id":"162","title":"Chapter XXIX - IX","length":10373,"mode":"type"},{"id":"163","title":"Chapter XXIX - X","length":1479,"mode":"type"},{"id":"164","title":"Chapter XXIX - XI","length":572,"mode":"type"},{"id":"165","title":"Chapter XXIX - XII","length":601,"mode":"type"},{"id":"166","title":"Chapter XXX - I","length":4389,"mode":"type"},{"id":"167","title":"Chapter XXX - II","length":1494,"mode":"type"},{"id":"168","title":"Chapter XXX - III","length":282,"mode":"type"},{"id":"169","title":"Chapter XXX - IV","length":2110,"mode":"type"},{"id":"170","title":"Chapter XXX - V","length":2490,"mode":"type"},{"id":"171","title":"Chapter XXX - VI","length":1093,"mode":"type"},{"id":"172","title":"Chapter XXX - VII","length":2511,"mode":"type"},{"id":"173","title":"Chapter XXX - VIII","length":1123,"mode":"type"},{"id":"174","title":"Chapter XXX - IX","length":1687,"mode":"type"},{"id":"175","title":"Chapter XXX - X","length":1803,"mode":"type"},{"id":"176","title":"Chapter XXX - XI","length":2197,"mode":"type"},{"id":"177","title":"Chapter XXX - XII","length":478,"mode":"type"},{"id":"178","title":"Chapter XXX - XIII","length":832,"mode":"type"},{"id":"179","title":"Chapter XXX - XIV","length":2465,"mode":"type"},{"id":"180","title":"Chapter XXX - XV","length":3497,"mode":"type"},{"id":"181","title":"Chapter XXX - XVI","length":1825,"mode":"type"},{"id":"182","title":"Chapter XXXI - I","length":1761,"mode":"type"},{"id":"183","title":"Chapter XXXI - II","length":1094,"mode":"type"},{"id":"184","title":"Chapter XXXI - III","length":1690,"mode":"type"},{"id":"185","title":"Chapter XXXI - IV","length":3386,"mode":"type"},{"id":"186","title":"Chapter XXXI - V","length":3274,"mode":"type"},{"id":"187","title":"Chapter XXXI - VI","length":3002,"mode":"type"},{"id":"188","title":"Chapter XXXI - VII","length":2119,"mode":"type"},{"id":"189","title":"Chapter XXXI - VIII","length":3514,"mode":"type"},{"id":"190","title":"Chapter XXXII - I","length":987,"mode":"type"},{"id":"191","title":"Chapter XXXII - II","length":3103,"mode":"type"},{"id":"192","title":"Chapter XXXII - III","length":1374,"mode":"type"},{"id":"193","title":"Chapter XXXII - IV","length":1415,"mode":"type"},{"id":"194","title":"Chapter XXXII - V","length":1007,"mode":"type"},{"id":"195","title":"Chapter XXXII - VI","length":1843,"mode":"type"},{"id":"196","title":"Chapter XXXIII - I","length":619,"mode":"type"},{"id":"197","title":"Chapter XXXIII - II","length":657,"mode":"type"},{"id":"198","title":"Chapter XXXIII - III","length":3777,"mode":"type"},{"id":"199","title":"Chapter XXXIII - IV","length":517,"mode":"type"},{"id":"200","title":"Chapter XXXIII - V","length":614,"mode":"type"},{"id":"201","title":"Chapter XXXIII - VI","length":2726,"mode":"type"},{"id":"202","title":"Colophon","length":1011,"mode":"hide"},{"id":"203","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338253517}
+{
+  "id": "sinclair-lewis--elmer-gantry",
+  "title": "Elmer Gantry",
+  "titleAlpha": "elmer gantry",
+  "author": "Sinclair Lewis",
+  "language": "en",
+  "description": "A young man becomes a successful evangelist despite his drinking and womanizing.",
+  "longDescription": [
+    "Elmer Gantry isn't suited to be a lawyer, so he becomes a preacher instead. Although he experiences a variety of failures, and even more successes, Gantry ultimately finds this new career path suits him very well indeed - despite his drinking and womanizing. Throughout his time as a preacher Gantry progresses through the hierarchies of the Baptist and Methodist churches, dabbles in revivalism and \"New Thought,\" and even experiments with politics, all the while emerging from scandals relatively unscathed and ready to move onward and upward once again.",
+    "Sinclair Lewis published the satirical Elmer Gantry in 1927 much to the dismay of the religious community. It was denounced from the pulpit, banned by many, and even engendered threats of violence. Despite this - or perhaps because of it - it went on to become a massive success and the best selling novel of that year.",
+    "One of the most savage satirical assaults against institutionalized religion and its hypocrisy in American literature, Elmer Gantry continues to be a window into a particularly important aspect of American history."
+  ],
+  "year": 1927,
+  "genres": [
+    "classics",
+    "fiction",
+    "satire"
+  ],
+  "topics": [
+    "religion"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/sinclair-lewis/elmer-gantry"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Elmer Gantry",
+      "length": 19,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 42,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Preface",
+      "length": 70,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Chapter I - I",
+      "length": 5271,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Chapter I - II",
+      "length": 3732,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Chapter I - III",
+      "length": 8049,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Chapter I - IV",
+      "length": 3830,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Chapter I - V",
+      "length": 9267,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Chapter I - VI",
+      "length": 13533,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Chapter II - I",
+      "length": 11553,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Chapter II - II",
+      "length": 5784,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Chapter II - III",
+      "length": 10461,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Chapter III - I",
+      "length": 11594,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Chapter III - II",
+      "length": 2704,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Chapter III - III",
+      "length": 18879,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Chapter III - IV",
+      "length": 11172,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Chapter III - V",
+      "length": 364,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Chapter III - VI",
+      "length": 6478,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Chapter III - VII",
+      "length": 868,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Chapter III - VIII",
+      "length": 1331,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Chapter IV - I",
+      "length": 3781,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Chapter IV - II",
+      "length": 8680,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Chapter IV - III",
+      "length": 7380,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Chapter V - I",
+      "length": 4161,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Chapter V - II",
+      "length": 7039,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Chapter V - III",
+      "length": 6789,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Chapter VI - I",
+      "length": 24843,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Chapter VII - I",
+      "length": 2700,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Chapter VII - II",
+      "length": 9737,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Chapter VII - III",
+      "length": 2093,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Chapter VII - IV",
+      "length": 6742,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Chapter VII - V",
+      "length": 3754,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Chapter VII - VI",
+      "length": 3949,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Chapter VII - VII",
+      "length": 5587,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Chapter VII - VIII",
+      "length": 2981,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Chapter VII - IX",
+      "length": 6861,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Chapter VIII - I",
+      "length": 4838,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Chapter VIII - II",
+      "length": 10317,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Chapter VIII - III",
+      "length": 1096,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Chapter VIII - IV",
+      "length": 2142,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Chapter VIII - V",
+      "length": 2222,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Chapter IX - I",
+      "length": 2047,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Chapter IX - II",
+      "length": 2224,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Chapter IX - III",
+      "length": 8573,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Chapter IX - IV",
+      "length": 3537,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Chapter IX - V",
+      "length": 5518,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Chapter IX - VI",
+      "length": 1176,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "Chapter IX - VII",
+      "length": 5784,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Chapter X - I",
+      "length": 3147,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "Chapter X - II",
+      "length": 7630,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "Chapter X - III",
+      "length": 5543,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "Chapter X - IV",
+      "length": 1362,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "Chapter X - V",
+      "length": 1782,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "Chapter XI - I",
+      "length": 23589,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "Chapter XI - II",
+      "length": 8385,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "Chapter XI - III",
+      "length": 5130,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "Chapter XI - IV",
+      "length": 3804,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "Chapter XI - V",
+      "length": 4495,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "Chapter XI - VI",
+      "length": 6654,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "Chapter XII - I",
+      "length": 6252,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "Chapter XII - II",
+      "length": 5939,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "Chapter XII - III",
+      "length": 12679,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "Chapter XII - IV",
+      "length": 941,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "Chapter XIII - I",
+      "length": 3867,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "Chapter XIII - II",
+      "length": 2914,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "Chapter XIII - III",
+      "length": 7959,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "Chapter XIII - IV",
+      "length": 5298,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "Chapter XIII - V",
+      "length": 2979,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "Chapter XIII - VI",
+      "length": 1031,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "Chapter XIII - VII",
+      "length": 2794,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "Chapter XIV - I",
+      "length": 1721,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "Chapter XIV - II",
+      "length": 1193,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "Chapter XIV - III",
+      "length": 1760,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "Chapter XIV - IV",
+      "length": 1826,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "Chapter XIV - V",
+      "length": 1739,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "Chapter XIV - VI",
+      "length": 11431,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "Chapter XV - I",
+      "length": 6502,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "Chapter XV - II",
+      "length": 4717,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "Chapter XV - III",
+      "length": 5486,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "Chapter XV - IV",
+      "length": 2161,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "Chapter XV - V",
+      "length": 11914,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "Chapter XVI - I",
+      "length": 1420,
+      "mode": "type"
+    },
+    {
+      "id": "084",
+      "title": "Chapter XVI - II",
+      "length": 6970,
+      "mode": "type"
+    },
+    {
+      "id": "085",
+      "title": "Chapter XVI - III",
+      "length": 4172,
+      "mode": "type"
+    },
+    {
+      "id": "086",
+      "title": "Chapter XVII - I",
+      "length": 6574,
+      "mode": "type"
+    },
+    {
+      "id": "087",
+      "title": "Chapter XVII - II",
+      "length": 7193,
+      "mode": "type"
+    },
+    {
+      "id": "088",
+      "title": "Chapter XVII - III",
+      "length": 10667,
+      "mode": "type"
+    },
+    {
+      "id": "089",
+      "title": "Chapter XVII - IV",
+      "length": 1495,
+      "mode": "type"
+    },
+    {
+      "id": "090",
+      "title": "Chapter XVII - V",
+      "length": 3106,
+      "mode": "type"
+    },
+    {
+      "id": "091",
+      "title": "Chapter XVIII - I",
+      "length": 5577,
+      "mode": "type"
+    },
+    {
+      "id": "092",
+      "title": "Chapter XVIII - II",
+      "length": 6291,
+      "mode": "type"
+    },
+    {
+      "id": "093",
+      "title": "Chapter XVIII - III",
+      "length": 4748,
+      "mode": "type"
+    },
+    {
+      "id": "094",
+      "title": "Chapter XVIII - IV",
+      "length": 5898,
+      "mode": "type"
+    },
+    {
+      "id": "095",
+      "title": "Chapter XVIII - V",
+      "length": 2185,
+      "mode": "type"
+    },
+    {
+      "id": "096",
+      "title": "Chapter XIX - I",
+      "length": 8946,
+      "mode": "type"
+    },
+    {
+      "id": "097",
+      "title": "Chapter XIX - II",
+      "length": 5258,
+      "mode": "type"
+    },
+    {
+      "id": "098",
+      "title": "Chapter XIX - III",
+      "length": 2983,
+      "mode": "type"
+    },
+    {
+      "id": "099",
+      "title": "Chapter XIX - IV",
+      "length": 2420,
+      "mode": "type"
+    },
+    {
+      "id": "100",
+      "title": "Chapter XX - I",
+      "length": 2425,
+      "mode": "type"
+    },
+    {
+      "id": "101",
+      "title": "Chapter XX - II",
+      "length": 4420,
+      "mode": "type"
+    },
+    {
+      "id": "102",
+      "title": "Chapter XX - III",
+      "length": 1098,
+      "mode": "type"
+    },
+    {
+      "id": "103",
+      "title": "Chapter XX - IV",
+      "length": 6624,
+      "mode": "type"
+    },
+    {
+      "id": "104",
+      "title": "Chapter XX - V",
+      "length": 696,
+      "mode": "type"
+    },
+    {
+      "id": "105",
+      "title": "Chapter XX - VI",
+      "length": 397,
+      "mode": "type"
+    },
+    {
+      "id": "106",
+      "title": "Chapter XX - VII",
+      "length": 1363,
+      "mode": "type"
+    },
+    {
+      "id": "107",
+      "title": "Chapter XX - VIII",
+      "length": 2912,
+      "mode": "type"
+    },
+    {
+      "id": "108",
+      "title": "Chapter XX - IX",
+      "length": 4576,
+      "mode": "type"
+    },
+    {
+      "id": "109",
+      "title": "Chapter XX - X",
+      "length": 7976,
+      "mode": "type"
+    },
+    {
+      "id": "110",
+      "title": "Chapter XX - XI",
+      "length": 3112,
+      "mode": "type"
+    },
+    {
+      "id": "111",
+      "title": "Chapter XX - XII",
+      "length": 939,
+      "mode": "type"
+    },
+    {
+      "id": "112",
+      "title": "Chapter XXI - I",
+      "length": 2454,
+      "mode": "type"
+    },
+    {
+      "id": "113",
+      "title": "Chapter XXI - II",
+      "length": 1533,
+      "mode": "type"
+    },
+    {
+      "id": "114",
+      "title": "Chapter XXI - III",
+      "length": 1896,
+      "mode": "type"
+    },
+    {
+      "id": "115",
+      "title": "Chapter XXI - IV",
+      "length": 1905,
+      "mode": "type"
+    },
+    {
+      "id": "116",
+      "title": "Chapter XXI - V",
+      "length": 1936,
+      "mode": "type"
+    },
+    {
+      "id": "117",
+      "title": "Chapter XXI - VI",
+      "length": 4590,
+      "mode": "type"
+    },
+    {
+      "id": "118",
+      "title": "Chapter XXI - VII",
+      "length": 2274,
+      "mode": "type"
+    },
+    {
+      "id": "119",
+      "title": "Chapter XXI - VIII",
+      "length": 1698,
+      "mode": "type"
+    },
+    {
+      "id": "120",
+      "title": "Chapter XXI - IX",
+      "length": 5992,
+      "mode": "type"
+    },
+    {
+      "id": "121",
+      "title": "Chapter XXI - X",
+      "length": 1073,
+      "mode": "type"
+    },
+    {
+      "id": "122",
+      "title": "Chapter XXI - XI",
+      "length": 1299,
+      "mode": "type"
+    },
+    {
+      "id": "123",
+      "title": "Chapter XXII - I",
+      "length": 4663,
+      "mode": "type"
+    },
+    {
+      "id": "124",
+      "title": "Chapter XXII - II",
+      "length": 1714,
+      "mode": "type"
+    },
+    {
+      "id": "125",
+      "title": "Chapter XXII - III",
+      "length": 4649,
+      "mode": "type"
+    },
+    {
+      "id": "126",
+      "title": "Chapter XXII - IV",
+      "length": 3462,
+      "mode": "type"
+    },
+    {
+      "id": "127",
+      "title": "Chapter XXIII - I",
+      "length": 2313,
+      "mode": "type"
+    },
+    {
+      "id": "128",
+      "title": "Chapter XXIII - II",
+      "length": 7913,
+      "mode": "type"
+    },
+    {
+      "id": "129",
+      "title": "Chapter XXIII - III",
+      "length": 3366,
+      "mode": "type"
+    },
+    {
+      "id": "130",
+      "title": "Chapter XXIII - IV",
+      "length": 2147,
+      "mode": "type"
+    },
+    {
+      "id": "131",
+      "title": "Chapter XXIII - V",
+      "length": 7564,
+      "mode": "type"
+    },
+    {
+      "id": "132",
+      "title": "Chapter XXIII - VI",
+      "length": 2857,
+      "mode": "type"
+    },
+    {
+      "id": "133",
+      "title": "Chapter XXIII - VII",
+      "length": 11881,
+      "mode": "type"
+    },
+    {
+      "id": "134",
+      "title": "Chapter XXIV - I",
+      "length": 2158,
+      "mode": "type"
+    },
+    {
+      "id": "135",
+      "title": "Chapter XXIV - II",
+      "length": 5922,
+      "mode": "type"
+    },
+    {
+      "id": "136",
+      "title": "Chapter XXV - I",
+      "length": 4145,
+      "mode": "type"
+    },
+    {
+      "id": "137",
+      "title": "Chapter XXV - II",
+      "length": 9100,
+      "mode": "type"
+    },
+    {
+      "id": "138",
+      "title": "Chapter XXV - III",
+      "length": 1695,
+      "mode": "type"
+    },
+    {
+      "id": "139",
+      "title": "Chapter XXVI - I",
+      "length": 7118,
+      "mode": "type"
+    },
+    {
+      "id": "140",
+      "title": "Chapter XXVI - II",
+      "length": 2331,
+      "mode": "type"
+    },
+    {
+      "id": "141",
+      "title": "Chapter XXVI - III",
+      "length": 12680,
+      "mode": "type"
+    },
+    {
+      "id": "142",
+      "title": "Chapter XXVI - IV",
+      "length": 2799,
+      "mode": "type"
+    },
+    {
+      "id": "143",
+      "title": "Chapter XXVI - V",
+      "length": 821,
+      "mode": "type"
+    },
+    {
+      "id": "144",
+      "title": "Chapter XXVI - VI",
+      "length": 2533,
+      "mode": "type"
+    },
+    {
+      "id": "145",
+      "title": "Chapter XXVI - VII",
+      "length": 3282,
+      "mode": "type"
+    },
+    {
+      "id": "146",
+      "title": "Chapter XXVI - VIII",
+      "length": 1447,
+      "mode": "type"
+    },
+    {
+      "id": "147",
+      "title": "Chapter XXVI - IX",
+      "length": 1707,
+      "mode": "type"
+    },
+    {
+      "id": "148",
+      "title": "Chapter XXVII - I",
+      "length": 13900,
+      "mode": "type"
+    },
+    {
+      "id": "149",
+      "title": "Chapter XXVII - II",
+      "length": 2387,
+      "mode": "type"
+    },
+    {
+      "id": "150",
+      "title": "Chapter XXVII - III",
+      "length": 2115,
+      "mode": "type"
+    },
+    {
+      "id": "151",
+      "title": "Chapter XXVII - IV",
+      "length": 683,
+      "mode": "type"
+    },
+    {
+      "id": "152",
+      "title": "Chapter XXVII - V",
+      "length": 2355,
+      "mode": "type"
+    },
+    {
+      "id": "153",
+      "title": "Chapter XXVIII - I",
+      "length": 24766,
+      "mode": "type"
+    },
+    {
+      "id": "154",
+      "title": "Chapter XXIX - I",
+      "length": 1493,
+      "mode": "type"
+    },
+    {
+      "id": "155",
+      "title": "Chapter XXIX - II",
+      "length": 2586,
+      "mode": "type"
+    },
+    {
+      "id": "156",
+      "title": "Chapter XXIX - III",
+      "length": 2238,
+      "mode": "type"
+    },
+    {
+      "id": "157",
+      "title": "Chapter XXIX - IV",
+      "length": 1064,
+      "mode": "type"
+    },
+    {
+      "id": "158",
+      "title": "Chapter XXIX - V",
+      "length": 3225,
+      "mode": "type"
+    },
+    {
+      "id": "159",
+      "title": "Chapter XXIX - VI",
+      "length": 2262,
+      "mode": "type"
+    },
+    {
+      "id": "160",
+      "title": "Chapter XXIX - VII",
+      "length": 2190,
+      "mode": "type"
+    },
+    {
+      "id": "161",
+      "title": "Chapter XXIX - VIII",
+      "length": 5606,
+      "mode": "type"
+    },
+    {
+      "id": "162",
+      "title": "Chapter XXIX - IX",
+      "length": 10373,
+      "mode": "type"
+    },
+    {
+      "id": "163",
+      "title": "Chapter XXIX - X",
+      "length": 1479,
+      "mode": "type"
+    },
+    {
+      "id": "164",
+      "title": "Chapter XXIX - XI",
+      "length": 572,
+      "mode": "type"
+    },
+    {
+      "id": "165",
+      "title": "Chapter XXIX - XII",
+      "length": 601,
+      "mode": "type"
+    },
+    {
+      "id": "166",
+      "title": "Chapter XXX - I",
+      "length": 4389,
+      "mode": "type"
+    },
+    {
+      "id": "167",
+      "title": "Chapter XXX - II",
+      "length": 1494,
+      "mode": "type"
+    },
+    {
+      "id": "168",
+      "title": "Chapter XXX - III",
+      "length": 282,
+      "mode": "type"
+    },
+    {
+      "id": "169",
+      "title": "Chapter XXX - IV",
+      "length": 2110,
+      "mode": "type"
+    },
+    {
+      "id": "170",
+      "title": "Chapter XXX - V",
+      "length": 2490,
+      "mode": "type"
+    },
+    {
+      "id": "171",
+      "title": "Chapter XXX - VI",
+      "length": 1093,
+      "mode": "type"
+    },
+    {
+      "id": "172",
+      "title": "Chapter XXX - VII",
+      "length": 2511,
+      "mode": "type"
+    },
+    {
+      "id": "173",
+      "title": "Chapter XXX - VIII",
+      "length": 1123,
+      "mode": "type"
+    },
+    {
+      "id": "174",
+      "title": "Chapter XXX - IX",
+      "length": 1687,
+      "mode": "type"
+    },
+    {
+      "id": "175",
+      "title": "Chapter XXX - X",
+      "length": 1803,
+      "mode": "type"
+    },
+    {
+      "id": "176",
+      "title": "Chapter XXX - XI",
+      "length": 2197,
+      "mode": "type"
+    },
+    {
+      "id": "177",
+      "title": "Chapter XXX - XII",
+      "length": 478,
+      "mode": "type"
+    },
+    {
+      "id": "178",
+      "title": "Chapter XXX - XIII",
+      "length": 832,
+      "mode": "type"
+    },
+    {
+      "id": "179",
+      "title": "Chapter XXX - XIV",
+      "length": 2465,
+      "mode": "type"
+    },
+    {
+      "id": "180",
+      "title": "Chapter XXX - XV",
+      "length": 3497,
+      "mode": "type"
+    },
+    {
+      "id": "181",
+      "title": "Chapter XXX - XVI",
+      "length": 1825,
+      "mode": "type"
+    },
+    {
+      "id": "182",
+      "title": "Chapter XXXI - I",
+      "length": 1761,
+      "mode": "type"
+    },
+    {
+      "id": "183",
+      "title": "Chapter XXXI - II",
+      "length": 1094,
+      "mode": "type"
+    },
+    {
+      "id": "184",
+      "title": "Chapter XXXI - III",
+      "length": 1690,
+      "mode": "type"
+    },
+    {
+      "id": "185",
+      "title": "Chapter XXXI - IV",
+      "length": 3386,
+      "mode": "type"
+    },
+    {
+      "id": "186",
+      "title": "Chapter XXXI - V",
+      "length": 3274,
+      "mode": "type"
+    },
+    {
+      "id": "187",
+      "title": "Chapter XXXI - VI",
+      "length": 3002,
+      "mode": "type"
+    },
+    {
+      "id": "188",
+      "title": "Chapter XXXI - VII",
+      "length": 2119,
+      "mode": "type"
+    },
+    {
+      "id": "189",
+      "title": "Chapter XXXI - VIII",
+      "length": 3514,
+      "mode": "type"
+    },
+    {
+      "id": "190",
+      "title": "Chapter XXXII - I",
+      "length": 987,
+      "mode": "type"
+    },
+    {
+      "id": "191",
+      "title": "Chapter XXXII - II",
+      "length": 3103,
+      "mode": "type"
+    },
+    {
+      "id": "192",
+      "title": "Chapter XXXII - III",
+      "length": 1374,
+      "mode": "type"
+    },
+    {
+      "id": "193",
+      "title": "Chapter XXXII - IV",
+      "length": 1415,
+      "mode": "type"
+    },
+    {
+      "id": "194",
+      "title": "Chapter XXXII - V",
+      "length": 1007,
+      "mode": "type"
+    },
+    {
+      "id": "195",
+      "title": "Chapter XXXII - VI",
+      "length": 1843,
+      "mode": "type"
+    },
+    {
+      "id": "196",
+      "title": "Chapter XXXIII - I",
+      "length": 619,
+      "mode": "type"
+    },
+    {
+      "id": "197",
+      "title": "Chapter XXXIII - II",
+      "length": 657,
+      "mode": "type"
+    },
+    {
+      "id": "198",
+      "title": "Chapter XXXIII - III",
+      "length": 3777,
+      "mode": "type"
+    },
+    {
+      "id": "199",
+      "title": "Chapter XXXIII - IV",
+      "length": 517,
+      "mode": "type"
+    },
+    {
+      "id": "200",
+      "title": "Chapter XXXIII - V",
+      "length": 614,
+      "mode": "type"
+    },
+    {
+      "id": "201",
+      "title": "Chapter XXXIII - VI",
+      "length": 2726,
+      "mode": "type"
+    },
+    {
+      "id": "202",
+      "title": "Colophon",
+      "length": 1011,
+      "mode": "hide"
+    },
+    {
+      "id": "203",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL51144W",
+  "goodreadsId": "1209133",
+  "rating": 0.8019999999999999,
+  "popularity": 5942,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490124657
+}

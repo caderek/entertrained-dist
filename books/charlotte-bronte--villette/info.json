@@ -1,1 +1,320 @@
-{"id":"charlotte-bronte--villette","title":"Villette","titleAlpha":"villette","author":"Charlotte Brontë","language":"en","description":"A young woman travels from England to the fictional town of Villette where she makes new connections and encounters people from her past.","longDescription":["Charlotte Bronte's last novel, Villette, is thought to be most closely modelled on her own experiences teaching in a pensionnat in Brussels, the place on which the fictional town of Villette is based. In the novel, first published in 1853, we follow the protagonist Lucy Snowe from the time she is fourteen and lives with her godmother in rural England, through her family tragedies and departure for the town of Villette where she finds work at a French boarding school. People from her past reappear in dramatic ways, she makes new connections, and she learns the stories and secrets of the people around her. Through it all, the reader is made privy to Lucy's thoughts, feelings, and journey of self-discovery."],"year":1853,"genres":["autobiography","classics","fiction","romance"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/charlotte-bronte/villette"},"openlibraryId":"OL1095403W","goodreadsId":"640039","rating":0.756,"popularity":74005,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Villette","length":21,"mode":"hide"},{"id":"002","title":"Imprint","length":1179,"mode":"hide"},{"id":"003","title":"I: Bretton","length":14125,"mode":"type"},{"id":"004","title":"II: Paulina","length":13622,"mode":"type"},{"id":"005","title":"III: The Playmates","length":33309,"mode":"type"},{"id":"006","title":"IV: Miss Marchmont","length":17847,"mode":"type"},{"id":"007","title":"V: Turning a New Leaf","length":10159,"mode":"type"},{"id":"008","title":"VI: London","length":24468,"mode":"type"},{"id":"009","title":"VII: Villette","length":19442,"mode":"type"},{"id":"010","title":"VIII: Madame Beck","length":32480,"mode":"type"},{"id":"011","title":"IX: Isidore","length":24420,"mode":"type"},{"id":"012","title":"X: Dr. John","length":15844,"mode":"type"},{"id":"013","title":"XI: The Potresse's Cabinet","length":14086,"mode":"type"},{"id":"014","title":"XII: The Casket","length":23130,"mode":"type"},{"id":"015","title":"XIII: A Sneeze Out of Season","length":22561,"mode":"type"},{"id":"016","title":"XIV: The Fete","length":62728,"mode":"type"},{"id":"017","title":"XV: The Long Vacation","length":26851,"mode":"type"},{"id":"018","title":"XVI: Auld Lang Syne","length":31923,"mode":"type"},{"id":"019","title":"XVII: La Terrasse","length":20467,"mode":"type"},{"id":"020","title":"XVIII: We Quarrel","length":15292,"mode":"type"},{"id":"021","title":"XIX: The Cleopatra","length":26405,"mode":"type"},{"id":"022","title":"XX: The Concert","length":46467,"mode":"type"},{"id":"023","title":"XXI: Reaction","length":36817,"mode":"type"},{"id":"024","title":"XXII: The Letter","length":20485,"mode":"type"},{"id":"025","title":"XXIII: Vashti","length":29079,"mode":"type"},{"id":"026","title":"XXIV: M. de Bassompierre","length":29213,"mode":"type"},{"id":"027","title":"XXV: The Little Countess","length":28891,"mode":"type"},{"id":"028","title":"XXVI: A Burial","length":32566,"mode":"type"},{"id":"029","title":"XXVII: The Hotel Crecy","length":35294,"mode":"type"},{"id":"030","title":"XXVIII: The Watchguard","length":26044,"mode":"type"},{"id":"031","title":"XXIX: Monsieur's Fete","length":29688,"mode":"type"},{"id":"032","title":"XXX: M. Paul","length":23496,"mode":"type"},{"id":"033","title":"XXXI: The Dryad","length":22040,"mode":"type"},{"id":"034","title":"XXXII: The First Letter","length":18969,"mode":"type"},{"id":"035","title":"XXXIII: M. Paul Keeps His Promise","length":17862,"mode":"type"},{"id":"036","title":"XXXIV: Malevola","length":25396,"mode":"type"},{"id":"037","title":"XXXV: Fraternity","length":25977,"mode":"type"},{"id":"038","title":"XXXVI: The Apple of Discord","length":31795,"mode":"type"},{"id":"039","title":"XXXVII: Sunshine","length":31107,"mode":"type"},{"id":"040","title":"XXXVIII: Cloud","length":53883,"mode":"type"},{"id":"041","title":"XXXIX: Old and New Acquaintance","length":24020,"mode":"type"},{"id":"042","title":"XL: The Happy Pair","length":14219,"mode":"type"},{"id":"043","title":"XLI: Faubourg Clotilde","length":29931,"mode":"type"},{"id":"044","title":"XLII: Finis","length":7316,"mode":"type"},{"id":"045","title":"Endnotes","length":12003,"mode":"hide"},{"id":"046","title":"Colophon","length":1099,"mode":"hide"},{"id":"047","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337616810}
+{
+  "id": "charlotte-bronte--villette",
+  "title": "Villette",
+  "titleAlpha": "villette",
+  "author": "Charlotte Brontë",
+  "language": "en",
+  "description": "A young woman travels from England to the fictional town of Villette where she makes new connections and encounters people from her past.",
+  "longDescription": [
+    "Charlotte Brontë's last novel, Villette, is thought to be most closely modelled on her own experiences teaching in a pensionnat in Brussels, the place on which the fictional town of Villette is based. In the novel, first published in 1853, we follow the protagonist Lucy Snowe from the time she is fourteen and lives with her godmother in rural England, through her family tragedies and departure for the town of Villette where she finds work at a French boarding school. People from her past reappear in dramatic ways, she makes new connections, and she learns the stories and secrets of the people around her. Through it all, the reader is made privy to Lucy's thoughts, feelings, and journey of self-discovery."
+  ],
+  "year": 1853,
+  "genres": [
+    "autobiography",
+    "classics",
+    "fiction",
+    "romance",
+    "gothic"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/charlotte-bronte/villette"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Villette",
+      "length": 21,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1179,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: Bretton",
+      "length": 14125,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: Paulina",
+      "length": 13622,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: The Playmates",
+      "length": 33309,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: Miss Marchmont",
+      "length": 17847,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: Turning a New Leaf",
+      "length": 10159,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: London",
+      "length": 24468,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: Villette",
+      "length": 19441,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: Madame Beck",
+      "length": 32480,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: Isidore",
+      "length": 24420,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: Dr. John",
+      "length": 15844,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: The Potresse's Cabinet",
+      "length": 14086,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: The Casket",
+      "length": 23130,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: A Sneeze Out of Season",
+      "length": 22561,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: The Fête",
+      "length": 62728,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: The Long Vacation",
+      "length": 26851,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI: Auld Lang Syne",
+      "length": 31923,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII: La Terrasse",
+      "length": 20467,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII: We Quarrel",
+      "length": 15292,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX: The Cleopatra",
+      "length": 26404,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX: The Concert",
+      "length": 46467,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI: Reaction",
+      "length": 36816,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII: The Letter",
+      "length": 20485,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII: Vashti",
+      "length": 29079,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV: M. de Bassompierre",
+      "length": 29213,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXV: The Little Countess",
+      "length": 28891,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXVI: A Burial",
+      "length": 32565,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVII: The Hôtel Crécy",
+      "length": 35294,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVIII: The Watchguard",
+      "length": 26044,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXIX: Monsieur's Fête",
+      "length": 29688,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXX: M. Paul",
+      "length": 23495,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXXI: The Dryad",
+      "length": 22040,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXXII: The First Letter",
+      "length": 18969,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXIII: M. Paul Keeps His Promise",
+      "length": 17860,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXIV: Malevola",
+      "length": 25396,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXXV: Fraternity",
+      "length": 25976,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXVI: The Apple of Discord",
+      "length": 31794,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXVII: Sunshine",
+      "length": 31107,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "XXXVIII: Cloud",
+      "length": 53883,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "XXXIX: Old and New Acquaintance",
+      "length": 24019,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "XL: The Happy Pair",
+      "length": 14219,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "XLI: Faubourg Clotilde",
+      "length": 29931,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "XLII: Finis",
+      "length": 7316,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Endnotes",
+      "length": 12003,
+      "mode": "hide"
+    },
+    {
+      "id": "046",
+      "title": "Colophon",
+      "length": 1099,
+      "mode": "hide"
+    },
+    {
+      "id": "047",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1095403W",
+  "goodreadsId": "640039",
+  "rating": 0.756,
+  "popularity": 74005,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489521277
+}

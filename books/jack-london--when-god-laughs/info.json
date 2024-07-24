@@ -1,1 +1,139 @@
-{"id":"jack-london--when-god-laughs","title":"When God Laughs","titleAlpha":"when god laughs","author":"Jack London","language":"en","description":"The eleventh collection of short stories by Jack London.","longDescription":["Released in 1911, When God Laughs, and Other Stories is the eleventh collection of short stories by Jack London. In contrast with most of his other work that had been released at the time, When God Laughs is set in Polynesia. The book consists of twelve short stories that range from humorous to shocking."],"year":1911,"genres":["adventure","classics","fiction","shorts"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/jack-london/when-god-laughs"},"openlibraryId":"OL74484W","goodreadsId":"660232","rating":0.8160000000000001,"popularity":324,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - When God Laughs","length":16,"mode":"hide"},{"id":"002","title":"Imprint","length":1176,"mode":"hide"},{"id":"003","title":"When God Laughs - (With Compliments to Harry Cowell)","length":21396,"mode":"type"},{"id":"004","title":"The Apostate","length":40812,"mode":"type"},{"id":"005","title":"A Wicked Woman","length":16892,"mode":"type"},{"id":"006","title":"\"Just Meat\"","length":33969,"mode":"type"},{"id":"007","title":"Created He Them","length":19968,"mode":"type"},{"id":"008","title":"The Chinago","length":30930,"mode":"type"},{"id":"009","title":"Make Westing","length":16643,"mode":"type"},{"id":"010","title":"Semper Idem","length":9339,"mode":"type"},{"id":"011","title":"A Nose for the King","length":10154,"mode":"type"},{"id":"012","title":"The Francis Spaight - (A True Tale Retold)","length":18785,"mode":"type"},{"id":"013","title":"A Curious Fragment","length":19595,"mode":"type"},{"id":"014","title":"A Piece of Steak","length":42007,"mode":"type"},{"id":"015","title":"Endnotes","length":30,"mode":"hide"},{"id":"016","title":"Colophon","length":1017,"mode":"hide"},{"id":"017","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337923093}
+{
+  "id": "jack-london--when-god-laughs",
+  "title": "When God Laughs",
+  "titleAlpha": "when god laughs",
+  "author": "Jack London",
+  "language": "en",
+  "description": "The eleventh collection of short stories by Jack London.",
+  "longDescription": [
+    "Released in 1911, When God Laughs, and Other Stories is the eleventh collection of short stories by Jack London. In contrast with most of his other work that had been released at the time, When God Laughs is set in Polynesia. The book consists of twelve short stories that range from humorous to shocking."
+  ],
+  "year": 1911,
+  "genres": [
+    "adventure",
+    "classics",
+    "fiction",
+    "shorts"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/jack-london/when-god-laughs"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - When God Laughs",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "When God Laughs - (With Compliments to Harry Cowell)",
+      "length": 21396,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "The Apostate",
+      "length": 40812,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "A Wicked Woman",
+      "length": 16892,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "\"Just Meat\"",
+      "length": 33969,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Created He Them",
+      "length": 19968,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "The Chinago",
+      "length": 30930,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Make Westing",
+      "length": 16643,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Semper Idem",
+      "length": 9339,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "A Nose for the King",
+      "length": 10154,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "The Francis Spaight - (A True Tale Retold)",
+      "length": 18785,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "A Curious Fragment",
+      "length": 19595,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "A Piece of Steak",
+      "length": 42007,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Endnotes",
+      "length": 30,
+      "mode": "hide"
+    },
+    {
+      "id": "016",
+      "title": "Colophon",
+      "length": 1017,
+      "mode": "hide"
+    },
+    {
+      "id": "017",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL74484W",
+  "goodreadsId": "660232",
+  "rating": 0.8160000000000001,
+  "popularity": 324,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721337923093
+}

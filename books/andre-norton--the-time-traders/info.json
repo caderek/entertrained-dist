@@ -1,1 +1,171 @@
-{"id":"andre-norton--the-time-traders","title":"The Time Traders","titleAlpha":"time traders","author":"Andre Norton","language":"en","description":"A young criminal volunteers for a government project at a secret base.","longDescription":["The Time Traders is the first book in Andre Norton's Time Traders series. First published in 1958 by World Publishing Co., The Time Traders is told from the perspective of Ross Murdock, a young criminal faced with a choice: be turned over to the new Rehabilitation Service or volunteer for a secret government project.","Murdock chooses the secret government project, hoping for a chance to escape. At the Arctic base he learns what the project is, and instead of escaping he joins a team posing as Beaker Traders during Europe's Bronze Age. His team makes several jumps through time searching for the source of technology the Reds are using to gain advantages in the present."],"year":1958,"genres":["classics","fiction","science-fiction","travel"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/andre-norton/the-time-traders"},"openlibraryId":"OL473477W","goodreadsId":"1183902","rating":0.752,"popularity":5672,"cover":null,"free":false,"custom":false,"series":"Time Traders/Ross Murdock","part":1,"chapters":[{"id":"001","title":"Titlepage - The Time Traders","length":17,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I","length":20596,"mode":"type"},{"id":"004","title":"II","length":18811,"mode":"type"},{"id":"005","title":"III","length":19122,"mode":"type"},{"id":"006","title":"IV","length":20858,"mode":"type"},{"id":"007","title":"V","length":19883,"mode":"type"},{"id":"008","title":"VI","length":18258,"mode":"type"},{"id":"009","title":"VII","length":19357,"mode":"type"},{"id":"010","title":"VIII","length":19026,"mode":"type"},{"id":"011","title":"IX","length":18501,"mode":"type"},{"id":"012","title":"X","length":19106,"mode":"type"},{"id":"013","title":"XI","length":18969,"mode":"type"},{"id":"014","title":"XII","length":19847,"mode":"type"},{"id":"015","title":"XIII","length":18748,"mode":"type"},{"id":"016","title":"XIV","length":19748,"mode":"type"},{"id":"017","title":"XV","length":18500,"mode":"type"},{"id":"018","title":"XVI","length":18305,"mode":"type"},{"id":"019","title":"XVII","length":19275,"mode":"type"},{"id":"020","title":"XVIII","length":19157,"mode":"type"},{"id":"021","title":"Colophon","length":1053,"mode":"hide"},{"id":"022","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337503438}
+{
+  "id": "andre-norton--the-time-traders",
+  "title": "The Time Traders",
+  "titleAlpha": "time traders",
+  "author": "Andre Norton",
+  "language": "en",
+  "description": "A young criminal volunteers for a government project at a secret base.",
+  "longDescription": [
+    "The Time Traders is the first book in Andre Norton's Time Traders series. First published in 1958 by World Publishing Co., The Time Traders is told from the perspective of Ross Murdock, a young criminal faced with a choice: be turned over to the new Rehabilitation Service or volunteer for a secret government project.",
+    "Murdock chooses the secret government project, hoping for a chance to escape. At the Arctic base he learns what the project is, and instead of escaping he joins a team posing as Beaker Traders during Europe's Bronze Age. His team makes several jumps through time searching for the source of technology the Reds are using to gain advantages in the present."
+  ],
+  "year": 1958,
+  "genres": [
+    "classics",
+    "fiction",
+    "science-fiction",
+    "travel",
+    "adventure"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Time Traders / Ross Murdock",
+  "part": 1,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/andre-norton/the-time-traders"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Time Traders",
+      "length": 17,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I",
+      "length": 20596,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II",
+      "length": 18811,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III",
+      "length": 19122,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV",
+      "length": 20858,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V",
+      "length": 19883,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI",
+      "length": 18258,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII",
+      "length": 19357,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII",
+      "length": 19026,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX",
+      "length": 18501,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X",
+      "length": 19106,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI",
+      "length": 18969,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII",
+      "length": 19847,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII",
+      "length": 18748,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV",
+      "length": 19748,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV",
+      "length": 18500,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI",
+      "length": 18305,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII",
+      "length": 19275,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII",
+      "length": 19157,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Colophon",
+      "length": 1053,
+      "mode": "hide"
+    },
+    {
+      "id": "022",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL473477W",
+  "goodreadsId": "1183902",
+  "rating": 0.752,
+  "popularity": 5672,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489404141
+}

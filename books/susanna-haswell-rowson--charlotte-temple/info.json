@@ -1,1 +1,289 @@
-{"id":"susanna-haswell-rowson--charlotte-temple","title":"Charlotte Temple","titleAlpha":"charlotte temple","author":"Susanna Haswell Rowson","language":"en","description":"A young woman becomes separated from her family and friends after falling in love and sailing to America.","longDescription":["Charlotte Temple is the story of the titular young woman who becomes entangled in a love affair with a lieutenant in the British army. Encouraged by her wayward teacher, Mademoiselle La Rue, Charlotte leaves behind her boarding school and absconds to America along with her seducer, lieutenant Montraville, and his friend Belcour. Far from her home in England, Charlotte's notions of purity, romance, and familial devotion are quickly brought into stark conflict as she experiences the pain of misplaced trust and betrayal on the unfamiliar shores of New York.","The novel, first published in 1791, quickly became a bestseller, and remained the best-selling novel in American literature until it was unseated in 1851 by Uncle Tom's Cabin."],"year":null,"genres":["classics","fiction","young-adult"],"topics":["warfare"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/susanna-haswell-rowson/charlotte-temple"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Charlotte Temple","length":27,"mode":"hide"},{"id":"002","title":"Imprint","length":1181,"mode":"hide"},{"id":"003","title":"Epigraph","length":230,"mode":"skip"},{"id":"004","title":"The Author's Preface","length":2568,"mode":"skip"},{"id":"005","title":"Volume I - I: A Boarding School","length":4986,"mode":"type"},{"id":"006","title":"Volume I - II: Domestic Concerns","length":6447,"mode":"type"},{"id":"007","title":"Volume I - III: Unexpected Misfortunes","length":7022,"mode":"type"},{"id":"008","title":"Volume I - IV: Change of Fortune","length":8177,"mode":"type"},{"id":"009","title":"Volume I - V: Such Things Are","length":5411,"mode":"type"},{"id":"010","title":"Volume I - VI: An Intriguing Teacher","length":6131,"mode":"type"},{"id":"011","title":"Volume I - VII: Natural Sense of Propriety Inherent in the Female Bosom","length":6501,"mode":"type"},{"id":"012","title":"Volume I - VIII: Domestic Pleasures Planned","length":6060,"mode":"type"},{"id":"013","title":"Volume I - IX: We Know Not What a Day May Bring Forth","length":5844,"mode":"type"},{"id":"014","title":"Volume I - X: When We Have Excited Curiosity, It Is but an Act of Good Nature to Gratify It","length":4073,"mode":"type"},{"id":"015","title":"Volume I - XI: Conflict of Love and Duty","length":4883,"mode":"type"},{"id":"016","title":"Volume I - XII: \"How Thou Art Fall'n!\"","length":6148,"mode":"type"},{"id":"017","title":"Volume I - XIII: Cruel Disappointment","length":6627,"mode":"type"},{"id":"018","title":"Volume I - XIV: Maternal Sorrow","length":5576,"mode":"type"},{"id":"019","title":"Volume I - XV: Embarkation","length":4400,"mode":"type"},{"id":"020","title":"Volume I - XVI: Necessary Digression","length":5697,"mode":"type"},{"id":"021","title":"Volume I - XVII: A Wedding","length":5063,"mode":"type"},{"id":"022","title":"Volume II - XVIII: Reflections","length":6641,"mode":"type"},{"id":"023","title":"Volume II - XIX: A Mistake Discovered","length":6180,"mode":"type"},{"id":"024","title":"Volume II - XX: Virtue - When Most Amiable","length":7649,"mode":"type"},{"id":"025","title":"Volume II - XXI: Another's Woe","length":5067,"mode":"type"},{"id":"026","title":"Volume II - XXII: Sorrows of the Heart","length":6236,"mode":"type"},{"id":"027","title":"Volume II - XXIII: A Man May Smile, and Smile, and Be a Villain","length":5843,"mode":"type"},{"id":"028","title":"Volume II - XXIV: Mystery Developed","length":8039,"mode":"type"},{"id":"029","title":"Volume II - XXV: Reception of a Letter","length":3600,"mode":"type"},{"id":"030","title":"Volume II - XXVI: What Might Be Expected","length":5666,"mode":"type"},{"id":"031","title":"Volume II - XXVII: \"Like a Fair Lily\"","length":8071,"mode":"type"},{"id":"032","title":"Volume II - XXVIII: A Trifling Retrospect","length":5462,"mode":"type"},{"id":"033","title":"Volume II - XXIX: We Go Forward Again","length":5894,"mode":"type"},{"id":"034","title":"Volume II - XXX: \"Friendship a Name\"","length":5441,"mode":"type"},{"id":"035","title":"Volume II - XXXI: Subject Continued","length":4690,"mode":"type"},{"id":"036","title":"Volume II - XXXII: Reasons Why and Wherefore","length":4576,"mode":"type"},{"id":"037","title":"Volume II - XXXIII: Which People Void of Feeling Need Not Read","length":7313,"mode":"type"},{"id":"038","title":"Volume II - XXXIV: Retribution","length":4587,"mode":"type"},{"id":"039","title":"Volume II - XXXV: Conclusion","length":2952,"mode":"type"},{"id":"040","title":"Endnotes","length":9037,"mode":"hide"},{"id":"041","title":"Colophon","length":1001,"mode":"hide"},{"id":"042","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338260808}
+{
+  "id": "susanna-haswell-rowson--charlotte-temple",
+  "title": "Charlotte Temple",
+  "titleAlpha": "charlotte temple",
+  "author": "Susanna Haswell Rowson",
+  "language": "en",
+  "description": "A young woman becomes separated from her family and friends after falling in love and sailing to America.",
+  "longDescription": [
+    "Charlotte Temple is the story of the titular young woman who becomes entangled in a love affair with a lieutenant in the British army. Encouraged by her wayward teacher, Mademoiselle La Rue, Charlotte leaves behind her boarding school and absconds to America along with her seducer, lieutenant Montraville, and his friend Belcour. Far from her home in England, Charlotte's notions of purity, romance, and familial devotion are quickly brought into stark conflict as she experiences the pain of misplaced trust and betrayal on the unfamiliar shores of New York.",
+    "The novel, first published in 1791, quickly became a bestseller, and remained the best-selling novel in American literature until it was unseated in 1851 by Uncle Tom's Cabin."
+  ],
+  "year": 1790,
+  "genres": [
+    "classics",
+    "fiction",
+    "young-adult"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/susanna-haswell-rowson/charlotte-temple"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Charlotte Temple",
+      "length": 27,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1181,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Epigraph",
+      "length": 230,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "The Author's Preface",
+      "length": 2568,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Volume I - I: A Boarding School",
+      "length": 4986,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Volume I - II: Domestic Concerns",
+      "length": 6447,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Volume I - III: Unexpected Misfortunes",
+      "length": 7022,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Volume I - IV: Change of Fortune",
+      "length": 8177,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Volume I - V: Such Things Are",
+      "length": 5411,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Volume I - VI: An Intriguing Teacher",
+      "length": 6131,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Volume I - VII: Natural Sense of Propriety Inherent in the Female Bosom",
+      "length": 6501,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Volume I - VIII: Domestic Pleasures Planned",
+      "length": 6060,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Volume I - IX: We Know Not What a Day May Bring Forth",
+      "length": 5844,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Volume I - X: When We Have Excited Curiosity, It Is but an Act of Good Nature to Gratify It",
+      "length": 4073,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Volume I - XI: Conflict of Love and Duty",
+      "length": 4883,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Volume I - XII: \"How Thou Art Fall'n!\"",
+      "length": 6148,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Volume I - XIII: Cruel Disappointment",
+      "length": 6627,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Volume I - XIV: Maternal Sorrow",
+      "length": 5576,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Volume I - XV: Embarkation",
+      "length": 4400,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Volume I - XVI: Necessary Digression",
+      "length": 5697,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Volume I - XVII: A Wedding",
+      "length": 5063,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Volume II - XVIII: Reflections",
+      "length": 6641,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Volume II - XIX: A Mistake Discovered",
+      "length": 6180,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Volume II - XX: Virtue - When Most Amiable",
+      "length": 7649,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Volume II - XXI: Another's Woe",
+      "length": 5067,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Volume II - XXII: Sorrows of the Heart",
+      "length": 6236,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Volume II - XXIII: A Man May Smile, and Smile, and Be a Villain",
+      "length": 5843,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Volume II - XXIV: Mystery Developed",
+      "length": 8039,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Volume II - XXV: Reception of a Letter",
+      "length": 3600,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Volume II - XXVI: What Might Be Expected",
+      "length": 5666,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Volume II - XXVII: \"Like a Fair Lily\"",
+      "length": 8071,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Volume II - XXVIII: A Trifling Retrospect",
+      "length": 5462,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Volume II - XXIX: We Go Forward Again",
+      "length": 5894,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Volume II - XXX: \"Friendship a Name\"",
+      "length": 5441,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Volume II - XXXI: Subject Continued",
+      "length": 4690,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Volume II - XXXII: Reasons Why and Wherefore",
+      "length": 4576,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Volume II - XXXIII: Which People Void of Feeling Need Not Read",
+      "length": 7313,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Volume II - XXXIV: Retribution",
+      "length": 4587,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Volume II - XXXV: Conclusion",
+      "length": 2952,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Endnotes",
+      "length": 9037,
+      "mode": "hide"
+    },
+    {
+      "id": "041",
+      "title": "Colophon",
+      "length": 1001,
+      "mode": "hide"
+    },
+    {
+      "id": "042",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1487362W",
+  "goodreadsId": "597694",
+  "rating": 0.5900000000000001,
+  "popularity": 2688,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490130951
+}

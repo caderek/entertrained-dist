@@ -1,1 +1,191 @@
-{"id":"edna-ferber--so-big","title":"So Big","titleAlpha":"so big","author":"Edna Ferber","language":"en","description":"A woman discovers her own inner strength when she decides to teach children in a rural farming area.","longDescription":["Selina Peake moves from Chicago to a rural Dutch farming area just outside the city to teach in a one room school. As she attempts to fit into the community, she learns about her own strength in adapting to rural life. She marries an uneducated but sweet Dutch farmer named Pervus DeJong and has a son, Dirk, nicknamed \"So Big.\" She wishes her son to have the same appreciation for the arts and education she has, and although he becomes an architect, his disillusionment with the architectural apprentice system leads him to a career as a successful bond salesman. He later regrets eschewing his architecture career when he meets a beautiful and eccentric artist.","Ferber was not confident in the book's prospects when it was first published. Nevertheless, it became very popular, won her the Pulitzer Prize for Fiction in 1925, and was later made into three different motion pictures."],"year":1924,"genres":["classics","coming-of-age","fiction"],"topics":["family"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/edna-ferber/so-big"},"openlibraryId":"OL2646769W","goodreadsId":"6983735","rating":0.8140000000000001,"popularity":11112,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - So Big","length":16,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I","length":26149,"mode":"type"},{"id":"004","title":"II","length":14439,"mode":"type"},{"id":"005","title":"III","length":31440,"mode":"type"},{"id":"006","title":"IV","length":19643,"mode":"type"},{"id":"007","title":"V","length":39403,"mode":"type"},{"id":"008","title":"VI","length":16703,"mode":"type"},{"id":"009","title":"VII","length":13847,"mode":"type"},{"id":"010","title":"VIII","length":35465,"mode":"type"},{"id":"011","title":"IX","length":18842,"mode":"type"},{"id":"012","title":"X","length":34701,"mode":"type"},{"id":"013","title":"XI","length":26581,"mode":"type"},{"id":"014","title":"XII","length":16863,"mode":"type"},{"id":"015","title":"XIII","length":33297,"mode":"type"},{"id":"016","title":"XIV","length":33432,"mode":"type"},{"id":"017","title":"XV","length":25518,"mode":"type"},{"id":"018","title":"XVI","length":31245,"mode":"type"},{"id":"019","title":"XVII","length":13801,"mode":"type"},{"id":"020","title":"XVIII","length":33889,"mode":"type"},{"id":"021","title":"XIX","length":10725,"mode":"type"},{"id":"022","title":"XX","length":7960,"mode":"type"},{"id":"023","title":"XXI","length":7078,"mode":"type"},{"id":"024","title":"Colophon","length":1020,"mode":"hide"},{"id":"025","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337708794}
+{
+  "id": "edna-ferber--so-big",
+  "title": "So Big",
+  "titleAlpha": "so big",
+  "author": "Edna Ferber",
+  "language": "en",
+  "description": "A woman discovers her own inner strength when she decides to teach children in a rural farming area.",
+  "longDescription": [
+    "Selina Peake moves from Chicago to a rural Dutch farming area just outside the city to teach in a one room school. As she attempts to fit into the community, she learns about her own strength in adapting to rural life. She marries an uneducated but sweet Dutch farmer named Pervus DeJong and has a son, Dirk, nicknamed \"So Big.\" She wishes her son to have the same appreciation for the arts and education she has, and although he becomes an architect, his disillusionment with the architectural apprentice system leads him to a career as a successful bond salesman. He later regrets eschewing his architecture career when he meets a beautiful and eccentric artist.",
+    "Ferber was not confident in the book's prospects when it was first published. Nevertheless, it became very popular, won her the Pulitzer Prize for Fiction in 1925, and was later made into three different motion pictures."
+  ],
+  "year": 1924,
+  "genres": [
+    "classics",
+    "coming-of-age",
+    "fiction",
+    "children"
+  ],
+  "topics": [
+    "family",
+    "country"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/edna-ferber/so-big"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - So Big",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I",
+      "length": 26149,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II",
+      "length": 14439,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III",
+      "length": 31440,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV",
+      "length": 19643,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V",
+      "length": 39403,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI",
+      "length": 16703,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII",
+      "length": 13847,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII",
+      "length": 35465,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX",
+      "length": 18842,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X",
+      "length": 34701,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI",
+      "length": 26581,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII",
+      "length": 16863,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII",
+      "length": 33297,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV",
+      "length": 33432,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV",
+      "length": 25518,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI",
+      "length": 31245,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII",
+      "length": 13801,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII",
+      "length": 33889,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX",
+      "length": 10725,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX",
+      "length": 7960,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI",
+      "length": 7078,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Colophon",
+      "length": 1020,
+      "mode": "hide"
+    },
+    {
+      "id": "025",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL2646769W",
+  "goodreadsId": "257443",
+  "rating": 0.8140000000000001,
+  "popularity": 11148,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721434581965
+}

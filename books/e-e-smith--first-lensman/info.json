@@ -1,1 +1,206 @@
-{"id":"e-e-smith--first-lensman","title":"First Lensman","titleAlpha":"first lensman","author":"E. E. Smith","language":"en","description":"Virgil Samms, the first individual to receive a Lens from the mysterious and powerful Arisians, works to create the Galatic Patrol to protect all adherents of Civilization from the threat of the Boskonians and their masters, the Eddorians.","longDescription":["Against the backdrop of a secret war between two all-powerful alien races, Virgil Samms of the Triplanetary Service is selected by the seemingly omniscient Arisians to be the first bearer of the Lens. Only individuals deemed brave, virtuous, capable, and incorruptible can receive a Lens, which grants its user telepathy and other powers. With it, Samms seeks out other \"Lens worthy\" humans and aliens, with the goal of creating a Galactic Patrol that will defend planets adhering to Civilization from corruption, vice, and piracy.","First Lensman is the second book in E. E. Smith's Lensman series but was the last to be written. Unlike the rest of the series, it was never serialized, and was first published in 1950 to help link Triplanetary with Galactic Patrol. Smith's imaginative and bizarre alien races are on full display, as well as the constantly escalating space warfare that is the hallmark of the space opera genre."],"year":1950,"genres":["classics","fiction","science-fiction","travel"],"topics":["aliens","space","warfare"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/e-e-smith/first-lensman"},"openlibraryId":"OL3292446W","goodreadsId":"826505","rating":0.774,"popularity":3825,"cover":null,"free":false,"custom":false,"series":"Lensman","part":2,"chapters":[{"id":"001","title":"Titlepage - First Lensman","length":16,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Dedication","length":20,"mode":"hide"},{"id":"004","title":"I","length":22943,"mode":"type"},{"id":"005","title":"II","length":23853,"mode":"type"},{"id":"006","title":"III","length":34079,"mode":"type"},{"id":"007","title":"IV","length":29238,"mode":"type"},{"id":"008","title":"V","length":25342,"mode":"type"},{"id":"009","title":"VI","length":30413,"mode":"type"},{"id":"010","title":"VII","length":35336,"mode":"type"},{"id":"011","title":"VIII","length":28491,"mode":"type"},{"id":"012","title":"IX","length":32765,"mode":"type"},{"id":"013","title":"X","length":24245,"mode":"type"},{"id":"014","title":"XI","length":23357,"mode":"type"},{"id":"015","title":"XII","length":26471,"mode":"type"},{"id":"016","title":"XIII","length":36078,"mode":"type"},{"id":"017","title":"XIV","length":30930,"mode":"type"},{"id":"018","title":"XV","length":28771,"mode":"type"},{"id":"019","title":"XVI","length":28243,"mode":"type"},{"id":"020","title":"XVII","length":24628,"mode":"type"},{"id":"021","title":"XVIII","length":27911,"mode":"type"},{"id":"022","title":"XIX","length":29638,"mode":"type"},{"id":"023","title":"XX","length":21036,"mode":"type"},{"id":"024","title":"Epilogue","length":6853,"mode":"type"},{"id":"025","title":"Endnotes","length":77,"mode":"hide"},{"id":"026","title":"Colophon","length":1051,"mode":"hide"},{"id":"027","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337655952}
+{
+  "id": "e-e-smith--first-lensman",
+  "title": "First Lensman",
+  "titleAlpha": "first lensman",
+  "author": "E. E. Smith",
+  "language": "en",
+  "description": "Virgil Samms, the first individual to receive a Lens from the mysterious and powerful Arisians, works to create the Galatic Patrol to protect all adherents of Civilization from the threat of the Boskonians and their masters, the Eddorians.",
+  "longDescription": [
+    "Against the backdrop of a secret war between two all-powerful alien races, Virgil Samms of the Triplanetary Service is selected by the seemingly omniscient Arisians to be the first bearer of the Lens. Only individuals deemed brave, virtuous, capable, and incorruptible can receive a Lens, which grants its user telepathy and other powers. With it, Samms seeks out other \"Lens worthy\" humans and aliens, with the goal of creating a Galactic Patrol that will defend planets adhering to Civilization from corruption, vice, and piracy.",
+    "First Lensman is the second book in E. E. Smith's Lensman series but was the last to be written. Unlike the rest of the series, it was never serialized, and was first published in 1950 to help link Triplanetary with Galactic Patrol. Smith's imaginative and bizarre alien races are on full display, as well as the constantly escalating space warfare that is the hallmark of the space opera genre."
+  ],
+  "year": 1950,
+  "genres": [
+    "classics",
+    "fiction",
+    "science-fiction",
+    "travel"
+  ],
+  "topics": [
+    "aliens",
+    "space",
+    "warfare",
+    "war",
+    "pirates"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Lensman",
+  "part": 2,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/e-e-smith/first-lensman"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - First Lensman",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "I",
+      "length": 22943,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II",
+      "length": 23853,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III",
+      "length": 34079,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "IV",
+      "length": 29238,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "V",
+      "length": 25342,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VI",
+      "length": 30413,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VII",
+      "length": 35336,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VIII",
+      "length": 28491,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "IX",
+      "length": 32765,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "X",
+      "length": 24245,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XI",
+      "length": 23357,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XII",
+      "length": 26471,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIII",
+      "length": 36078,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIV",
+      "length": 30930,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XV",
+      "length": 28771,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVI",
+      "length": 28243,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVII",
+      "length": 24628,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVIII",
+      "length": 27911,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XIX",
+      "length": 29638,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XX",
+      "length": 21036,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Epilogue",
+      "length": 6853,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Endnotes",
+      "length": 77,
+      "mode": "hide"
+    },
+    {
+      "id": "026",
+      "title": "Colophon",
+      "length": 1051,
+      "mode": "hide"
+    },
+    {
+      "id": "027",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL3292446W",
+  "goodreadsId": "826505",
+  "rating": 0.774,
+  "popularity": 3825,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489550018
+}

@@ -1,1 +1,155 @@
-{"id":"gustave-flaubert--salammbo","title":"Salammbô","titleAlpha":"salammbô","author":"Gustave Flaubert","language":"en","description":"A mercenary army, employed by Carthage to fight its wars, rebels after not being paid.","longDescription":["Carthage's struggle - or rather, the struggle of its hired mercenaries - against its enemies in the First Punic War has ended in success. But now the mercenaries are expecting their fee, and Carthage isn't willing or able to cover its debts. Incensed, the mercenaries are easily lead into rebellion by a pair of their own, each of whom have their own reasons to launch an attack. Spendius has escaped from slavery in Carthage and wants nothing more than to land a damaging blow on the mighty city-state, while Matho is besotted with the enigmatic and otherworldly priestess Salammbo.","Flaubert's vision of the Mercenary War is broadly compatible with historical sources, but never allows accuracy to get in the way of a good story. While characters such as Matho, Spendius and Hamilcar existed and are well-documented in sources such as Polybius' Histories, Salammbo as a character, along with her surroundings, allow Flaubert to paint a more sensual view of Carthagian ritual and excess. He also didn't hold back with his descriptions of the intense violence of both the battles and the sacrifices required by the gods.","Salammbo followed the success of Madame Bovary, and marked a departure in style for Flaubert. It was, however, another commercial success, and led to a new appreciation in French society for the novel's setting. The story has been reworked for different media many times over the intervening years, and the character of Salammbo even makes a memorable appearance in the classic film Citizen Kane."],"year":1862,"genres":["classics","fiction","history"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/gustave-flaubert/salammbo/j-s-chartres"},"openlibraryId":"OL893958W","goodreadsId":"865053","rating":0.746,"popularity":5813,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Salammbo","length":51,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I: The Feast","length":35665,"mode":"type"},{"id":"004","title":"II: At Sicca","length":42509,"mode":"type"},{"id":"005","title":"III: Salammbo","length":15162,"mode":"type"},{"id":"006","title":"IV: Beneath the Walls of Carthage","length":35264,"mode":"type"},{"id":"007","title":"V: Tanith","length":29799,"mode":"type"},{"id":"008","title":"VI: Hanno","length":40251,"mode":"type"},{"id":"009","title":"VII: Hamilcar Barca","length":74528,"mode":"type"},{"id":"010","title":"VIII: The Battle of the Macaras","length":37455,"mode":"type"},{"id":"011","title":"IX: In the Field","length":31025,"mode":"type"},{"id":"012","title":"X: The Serpent","length":24835,"mode":"type"},{"id":"013","title":"XI: In the Tent","length":36163,"mode":"type"},{"id":"014","title":"XII: The Aqueduct","length":39546,"mode":"type"},{"id":"015","title":"XIII: Moloch","length":72542,"mode":"type"},{"id":"016","title":"XIV: The Pass of the Hatchet","length":75349,"mode":"type"},{"id":"017","title":"XV: Matho","length":18025,"mode":"type"},{"id":"018","title":"Colophon","length":1088,"mode":"hide"},{"id":"019","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337826785}
+{
+  "id": "gustave-flaubert--salammbo",
+  "title": "Salammbô",
+  "titleAlpha": "salammbô",
+  "author": "Gustave Flaubert",
+  "language": "en",
+  "description": "A mercenary army, employed by Carthage to fight its wars, rebels after not being paid.",
+  "longDescription": [
+    "Carthage's struggle - or rather, the struggle of its hired mercenaries - against its enemies in the First Punic War has ended in success. But now the mercenaries are expecting their fee, and Carthage isn't willing or able to cover its debts. Incensed, the mercenaries are easily lead into rebellion by a pair of their own, each of whom have their own reasons to launch an attack. Spendius has escaped from slavery in Carthage and wants nothing more than to land a damaging blow on the mighty city-state, while Matho is besotted with the enigmatic and otherworldly priestess Salammbô.",
+    "Flaubert's vision of the Mercenary War is broadly compatible with historical sources, but never allows accuracy to get in the way of a good story. While characters such as Matho, Spendius and Hamilcar existed and are well-documented in sources such as Polybius' Histories, Salammbô as a character, along with her surroundings, allow Flaubert to paint a more sensual view of Carthagian ritual and excess. He also didn't hold back with his descriptions of the intense violence of both the battles and the sacrifices required by the gods.",
+    "Salammbô followed the success of Madame Bovary, and marked a departure in style for Flaubert. It was, however, another commercial success, and led to a new appreciation in French society for the novel's setting. The story has been reworked for different media many times over the intervening years, and the character of Salammbô even makes a memorable appearance in the classic film Citizen Kane."
+  ],
+  "year": 1862,
+  "genres": [
+    "classics",
+    "fiction",
+    "history"
+  ],
+  "topics": [
+    "war",
+    "warfare"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/gustave-flaubert/salammbo/j-s-chartres"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Salammbô",
+      "length": 51,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: The Feast",
+      "length": 35665,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: At Sicca",
+      "length": 42509,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: Salammbô",
+      "length": 15162,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: Beneath the Walls of Carthage",
+      "length": 35264,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: Tanith",
+      "length": 29799,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: Hanno",
+      "length": 40251,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: Hamilcar Barca",
+      "length": 74528,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: The Battle of the Macaras",
+      "length": 37455,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: In the Field",
+      "length": 31025,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: The Serpent",
+      "length": 24835,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: In the Tent",
+      "length": 36163,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: The Aqueduct",
+      "length": 39546,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: Moloch",
+      "length": 72542,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: The Pass of the Hatchet",
+      "length": 75349,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: Matho",
+      "length": 18025,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Colophon",
+      "length": 1088,
+      "mode": "hide"
+    },
+    {
+      "id": "019",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL893958W",
+  "goodreadsId": "221597",
+  "rating": 0.748,
+  "popularity": 5837,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489728083
+}

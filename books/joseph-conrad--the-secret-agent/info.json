@@ -1,1 +1,156 @@
-{"id":"joseph-conrad--the-secret-agent","title":"The Secret Agent","titleAlpha":"secret agent","author":"Joseph Conrad","language":"en","description":"A spy in London is ordered to stage a bombing to foment political and social chaos.","longDescription":["The place is London, and the time is the late 1800s. Mr. Verloc appears to be an unassuming owner of a bric-a-brac store, but he's actually a spy for an unnamed country. When he's summoned by his superiors and ordered to plant a bomb to foment unrest in English politics and society, he finds himself stuck in a more-than-uncomfortable situation.","Conrad's novel is set against the background of the Greenwich Observatory bombing, in which an anarchist unsuccessfully tried to detonate a bomb near the building. Terrorist activity was on the rise, and Conrad uses the fear and uncertainty of the time to explore the meanings of duty and of evil, along with the influence politics and political movements have on terrorist violence.","The Secret Agent is widely considered one of Conrad's finest novels, with modern critics praising its prescient forecast of 20th century politics and society."],"year":1990,"genres":["classics","fiction"],"topics":["conspiracy","politics"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/joseph-conrad/the-secret-agent"},"openlibraryId":"OL39108W","goodreadsId":"2926394","rating":0.64,"popularity":15,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Secret Agent","length":18,"mode":"hide"},{"id":"002","title":"Imprint","length":1176,"mode":"hide"},{"id":"003","title":"Author's Note","length":14705,"mode":"type"},{"id":"004","title":"Dedication","length":178,"mode":"hide"},{"id":"005","title":"I","length":13842,"mode":"type"},{"id":"006","title":"II","length":50897,"mode":"type"},{"id":"007","title":"III","length":34560,"mode":"type"},{"id":"008","title":"IV","length":30895,"mode":"type"},{"id":"009","title":"V","length":40887,"mode":"type"},{"id":"010","title":"VI","length":52577,"mode":"type"},{"id":"011","title":"VII","length":28435,"mode":"type"},{"id":"012","title":"VIII","length":50187,"mode":"type"},{"id":"013","title":"IX","length":50166,"mode":"type"},{"id":"014","title":"X","length":24791,"mode":"type"},{"id":"015","title":"XI","length":63873,"mode":"type"},{"id":"016","title":"XII","length":58988,"mode":"type"},{"id":"017","title":"XIII","length":16353,"mode":"type"},{"id":"018","title":"Colophon","length":1016,"mode":"hide"},{"id":"019","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337998081}
+{
+  "id": "joseph-conrad--the-secret-agent",
+  "title": "The Secret Agent",
+  "titleAlpha": "secret agent",
+  "author": "Joseph Conrad",
+  "language": "en",
+  "description": "A spy in London is ordered to stage a bombing to foment political and social chaos.",
+  "longDescription": [
+    "The place is London, and the time is the late 1800s. Mr. Verloc appears to be an unassuming owner of a bric-a-brac store, but he's actually a spy for an unnamed country. When he's summoned by his superiors and ordered to plant a bomb to foment unrest in English politics and society, he finds himself stuck in a more-than-uncomfortable situation.",
+    "Conrad's novel is set against the background of the Greenwich Observatory bombing, in which an anarchist unsuccessfully tried to detonate a bomb near the building. Terrorist activity was on the rise, and Conrad uses the fear and uncertainty of the time to explore the meanings of duty and of evil, along with the influence politics and political movements have on terrorist violence.",
+    "The Secret Agent is widely considered one of Conrad's finest novels, with modern critics praising its prescient forecast of 20th century politics and society."
+  ],
+  "year": 1907,
+  "genres": [
+    "classics",
+    "fiction"
+  ],
+  "topics": [
+    "conspiracy",
+    "politics",
+    "espionage",
+    "terrorism"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/joseph-conrad/the-secret-agent"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Secret Agent",
+      "length": 18,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Author's Note",
+      "length": 14705,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Dedication",
+      "length": 178,
+      "mode": "hide"
+    },
+    {
+      "id": "005",
+      "title": "I",
+      "length": 13842,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "II",
+      "length": 50897,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "III",
+      "length": 34560,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "IV",
+      "length": 30895,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "V",
+      "length": 40887,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VI",
+      "length": 52577,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VII",
+      "length": 28435,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VIII",
+      "length": 50187,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "IX",
+      "length": 50166,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "X",
+      "length": 24791,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XI",
+      "length": 63873,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XII",
+      "length": 58988,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIII",
+      "length": 16353,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Colophon",
+      "length": 1016,
+      "mode": "hide"
+    },
+    {
+      "id": "019",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL39108W",
+  "goodreadsId": "86658",
+  "rating": 0.718,
+  "popularity": 23044,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489868402
+}

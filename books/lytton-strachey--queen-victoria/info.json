@@ -1,1 +1,333 @@
-{"id":"lytton-strachey--queen-victoria","title":"Queen Victoria","titleAlpha":"queen victoria","author":"Lytton Strachey","language":"en","description":"A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.","longDescription":["The publication of Lytton Strachey's Eminent Victorians in 1918 was a tremendous success. In it, Strachey looked at four iconic figures of the Victorian Age and punctured the hagiographical illusions surrounding them. It seems only fitting that he should follow up in 1921 with a similarly unsentimental but fair biography of the person at the pinnacle of that era, Queen Victoria herself.","Thoroughly researched, with his references documented in hundreds of footnotes, Strachey looks at the life of the young woman who, when she was born, was by no means certain to become the British monarch. He also spends considerable time on her consort, Prince Albert, who, in Strachey's telling, develops from a careless youth to becoming a truly remarkable and effective figure in British society, while continuing to be generally perceived as an outsider.","Strachey's sardonic and witty style makes this account of Queen Victoria and Prince Albert an entertaining and very informative read."],"year":1921,"genres":["biography","classics","history","nonfiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/lytton-strachey/queen-victoria"},"openlibraryId":"OL1652392W","goodreadsId":"2961502","rating":0.756,"popularity":1976,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Queen Victoria","length":20,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Foreword","length":272,"mode":"type"},{"id":"004","title":"I: Antecedents - I","length":7258,"mode":"type"},{"id":"005","title":"I: Antecedents - II","length":3297,"mode":"type"},{"id":"006","title":"I: Antecedents - III","length":10773,"mode":"type"},{"id":"007","title":"I: Antecedents - IV","length":6119,"mode":"type"},{"id":"008","title":"II: Childhood - I","length":5393,"mode":"type"},{"id":"009","title":"II: Childhood - II","length":9965,"mode":"type"},{"id":"010","title":"II: Childhood - III","length":19241,"mode":"type"},{"id":"011","title":"II: Childhood - IV","length":11614,"mode":"type"},{"id":"012","title":"II: Childhood - V","length":8838,"mode":"type"},{"id":"013","title":"III: Lord Melbourne - I","length":5853,"mode":"type"},{"id":"014","title":"III: Lord Melbourne - II","length":8208,"mode":"type"},{"id":"015","title":"III: Lord Melbourne - III","length":9705,"mode":"type"},{"id":"016","title":"III: Lord Melbourne - IV","length":11136,"mode":"type"},{"id":"017","title":"III: Lord Melbourne - V","length":11645,"mode":"type"},{"id":"018","title":"III: Lord Melbourne - VI","length":6130,"mode":"type"},{"id":"019","title":"III: Lord Melbourne - VII","length":11828,"mode":"type"},{"id":"020","title":"III: Lord Melbourne - VIII","length":11211,"mode":"type"},{"id":"021","title":"IV: Marriage - I","length":12437,"mode":"type"},{"id":"022","title":"IV: Marriage - II","length":9390,"mode":"type"},{"id":"023","title":"IV: Marriage - III","length":20667,"mode":"type"},{"id":"024","title":"IV: Marriage - IV","length":11132,"mode":"type"},{"id":"025","title":"IV: Marriage - V","length":14549,"mode":"type"},{"id":"026","title":"IV: Marriage - VI","length":7004,"mode":"type"},{"id":"027","title":"IV: Marriage - VII","length":10043,"mode":"type"},{"id":"028","title":"V: Lord Palmerston - I","length":17542,"mode":"type"},{"id":"029","title":"V: Lord Palmerston - II","length":27275,"mode":"type"},{"id":"030","title":"V: Lord Palmerston - III","length":14715,"mode":"type"},{"id":"031","title":"VI: Last Years of Prince Consort - I","length":8974,"mode":"type"},{"id":"032","title":"VI: Last Years of Prince Consort - II","length":9297,"mode":"type"},{"id":"033","title":"VI: Last Years of Prince Consort - III","length":9072,"mode":"type"},{"id":"034","title":"VI: Last Years of Prince Consort - IV","length":25978,"mode":"type"},{"id":"035","title":"VII: Widowhood - I","length":5735,"mode":"type"},{"id":"036","title":"VII: Widowhood - II","length":15701,"mode":"type"},{"id":"037","title":"VII: Widowhood - III","length":4588,"mode":"type"},{"id":"038","title":"VII: Widowhood - IV","length":10429,"mode":"type"},{"id":"039","title":"VIII: Gladstone and Lord Beaconsfield - I","length":12997,"mode":"type"},{"id":"040","title":"VIII: Gladstone and Lord Beaconsfield - II","length":5600,"mode":"type"},{"id":"041","title":"VIII: Gladstone and Lord Beaconsfield - III","length":29028,"mode":"type"},{"id":"042","title":"IX: Old Age - I","length":9016,"mode":"type"},{"id":"043","title":"IX: Old Age - II","length":11675,"mode":"type"},{"id":"044","title":"IX: Old Age - III","length":26975,"mode":"type"},{"id":"045","title":"IX: Old Age - IV","length":16394,"mode":"type"},{"id":"046","title":"X: The End","length":5284,"mode":"type"},{"id":"047","title":"Endnotes","length":42256,"mode":"hide"},{"id":"048","title":"Colophon","length":1026,"mode":"hide"},{"id":"049","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721338062682}
+{
+  "id": "lytton-strachey--queen-victoria",
+  "title": "Queen Victoria",
+  "titleAlpha": "queen victoria",
+  "author": "Lytton Strachey",
+  "language": "en",
+  "description": "A sardonic and generally unflattering biography of Victoria Alexandrina, Queen of England.",
+  "longDescription": [
+    "The publication of Lytton Strachey's Eminent Victorians in 1918 was a tremendous success. In it, Strachey looked at four iconic figures of the Victorian Age and punctured the hagiographical illusions surrounding them. It seems only fitting that he should follow up in 1921 with a similarly unsentimental but fair biography of the person at the pinnacle of that era, Queen Victoria herself.",
+    "Thoroughly researched, with his references documented in hundreds of footnotes, Strachey looks at the life of the young woman who, when she was born, was by no means certain to become the British monarch. He also spends considerable time on her consort, Prince Albert, who, in Strachey's telling, develops from a careless youth to becoming a truly remarkable and effective figure in British society, while continuing to be generally perceived as an outsider.",
+    "Strachey's sardonic and witty style makes this account of Queen Victoria and Prince Albert an entertaining and very informative read."
+  ],
+  "year": 1921,
+  "genres": [
+    "biography",
+    "classics",
+    "history",
+    "nonfiction"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/lytton-strachey/queen-victoria"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Queen Victoria",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Foreword",
+      "length": 272,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "I: Antecedents - I",
+      "length": 7258,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "I: Antecedents - II",
+      "length": 3297,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "I: Antecedents - III",
+      "length": 10773,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "I: Antecedents - IV",
+      "length": 6119,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "II: Childhood - I",
+      "length": 5393,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "II: Childhood - II",
+      "length": 9965,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "II: Childhood - III",
+      "length": 19241,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "II: Childhood - IV",
+      "length": 11614,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "II: Childhood - V",
+      "length": 8838,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "III: Lord Melbourne - I",
+      "length": 5853,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "III: Lord Melbourne - II",
+      "length": 8208,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "III: Lord Melbourne - III",
+      "length": 9705,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "III: Lord Melbourne - IV",
+      "length": 11136,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "III: Lord Melbourne - V",
+      "length": 11645,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "III: Lord Melbourne - VI",
+      "length": 6130,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "III: Lord Melbourne - VII",
+      "length": 11828,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "III: Lord Melbourne - VIII",
+      "length": 11211,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "IV: Marriage - I",
+      "length": 12437,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "IV: Marriage - II",
+      "length": 9390,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "IV: Marriage - III",
+      "length": 20667,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "IV: Marriage - IV",
+      "length": 11132,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "IV: Marriage - V",
+      "length": 14549,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "IV: Marriage - VI",
+      "length": 7004,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "IV: Marriage - VII",
+      "length": 10043,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "V: Lord Palmerston - I",
+      "length": 17542,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "V: Lord Palmerston - II",
+      "length": 27275,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "V: Lord Palmerston - III",
+      "length": 14715,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "VI: Last Years of Prince Consort - I",
+      "length": 8974,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "VI: Last Years of Prince Consort - II",
+      "length": 9297,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "VI: Last Years of Prince Consort - III",
+      "length": 9072,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "VI: Last Years of Prince Consort - IV",
+      "length": 25978,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "VII: Widowhood - I",
+      "length": 5735,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "VII: Widowhood - II",
+      "length": 15701,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "VII: Widowhood - III",
+      "length": 4588,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "VII: Widowhood - IV",
+      "length": 10429,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "VIII: Gladstone and Lord Beaconsfield - I",
+      "length": 12997,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "VIII: Gladstone and Lord Beaconsfield - II",
+      "length": 5600,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "VIII: Gladstone and Lord Beaconsfield - III",
+      "length": 29028,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "IX: Old Age - I",
+      "length": 9016,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "IX: Old Age - II",
+      "length": 11675,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "IX: Old Age - III",
+      "length": 26975,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "IX: Old Age - IV",
+      "length": 16394,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "X: The End",
+      "length": 5284,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Endnotes",
+      "length": 42256,
+      "mode": "hide"
+    },
+    {
+      "id": "048",
+      "title": "Colophon",
+      "length": 1026,
+      "mode": "hide"
+    },
+    {
+      "id": "049",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1652392W",
+  "goodreadsId": "2961502",
+  "rating": 0.756,
+  "popularity": 1976,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489936769
+}

@@ -1,1 +1,337 @@
-{"id":"mcm--typhoonv201","title":"Typhoon_v2_01","titleAlpha":"typhoon_v2_01","author":"MCM","language":"en","description":null,"longDescription":[],"year":2009,"genres":["classics"],"topics":[],"rights":null,"publisher":null,"source":null,"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"About This eBook","length":708,"mode":"hide"},{"id":"002","title":"The Future","length":5194,"mode":"type"},{"id":"003","title":"Have to Run","length":7735,"mode":"type"},{"id":"004","title":"Prey","length":7492,"mode":"type"},{"id":"005","title":"Decisions","length":5746,"mode":"type"},{"id":"006","title":"The Ride","length":9211,"mode":"type"},{"id":"007","title":"One Small Step","length":7555,"mode":"type"},{"id":"008","title":"Ten Minute Mark","length":9099,"mode":"type"},{"id":"009","title":"Foolish Heroics","length":5686,"mode":"type"},{"id":"010","title":"Downfall","length":5679,"mode":"type"},{"id":"011","title":"Home Life","length":5960,"mode":"type"},{"id":"012","title":"SIX YEARS EARLIER","length":6701,"mode":"type"},{"id":"013","title":"Rush","length":5885,"mode":"type"},{"id":"014","title":"Departures","length":5854,"mode":"type"},{"id":"015","title":"Monitor","length":5216,"mode":"type"},{"id":"016","title":"Last Friend","length":4719,"mode":"type"},{"id":"017","title":"FIVE YEARS EARLIER","length":6279,"mode":"type"},{"id":"018","title":"Bear Trap","length":6755,"mode":"type"},{"id":"019","title":"Missing Chip","length":8356,"mode":"type"},{"id":"020","title":"Betrayal","length":4221,"mode":"type"},{"id":"021","title":"Plan for the Worst","length":7150,"mode":"type"},{"id":"022","title":"Come Back","length":4360,"mode":"type"},{"id":"023","title":"Tiny Hands","length":6362,"mode":"type"},{"id":"024","title":"Friendly Face","length":6736,"mode":"type"},{"id":"025","title":"FOUR YEARS EARLIER","length":8344,"mode":"type"},{"id":"026","title":"On Your Knees","length":5961,"mode":"type"},{"id":"027","title":"Panic Button","length":4429,"mode":"type"},{"id":"028","title":"FOUR YEARS EARLIER","length":4860,"mode":"type"},{"id":"029","title":"Assassination","length":4482,"mode":"type"},{"id":"030","title":"Hospital Food","length":6143,"mode":"type"},{"id":"031","title":"Mr Andrews","length":6575,"mode":"type"},{"id":"032","title":"THREE YEARS EARLIER","length":4994,"mode":"type"},{"id":"033","title":"The End of the Road","length":5006,"mode":"type"},{"id":"034","title":"Escape","length":6582,"mode":"type"},{"id":"035","title":"City Lights","length":6386,"mode":"type"},{"id":"036","title":"The Trap","length":4242,"mode":"type"},{"id":"037","title":"Death Sentence","length":1739,"mode":"type"},{"id":"038","title":"Last Chance","length":5101,"mode":"type"},{"id":"039","title":"Resolution","length":3051,"mode":"type"},{"id":"040","title":"Lost Friends","length":5825,"mode":"type"},{"id":"041","title":"Last Hurrah","length":5314,"mode":"type"},{"id":"042","title":"Desperation","length":7928,"mode":"type"},{"id":"043","title":"Finders Keepers","length":4002,"mode":"type"},{"id":"044","title":"Crash and Burn","length":4525,"mode":"type"},{"id":"045","title":"Narrowing Field","length":5000,"mode":"type"},{"id":"046","title":"Early Demise","length":2897,"mode":"type"},{"id":"047","title":"Quiet Lie","length":1379,"mode":"type"},{"id":"048","title":"Notice of Death","length":2192,"mode":"type"},{"id":"049","title":"Interrogation","length":5762,"mode":"type"},{"id":"050","title":"Flip","length":2327,"mode":"type"}],"createdAt":1721337457208}
+{
+  "id": "mcm--typhoonv201",
+  "title": "Typhoon",
+  "titleAlpha": "typhoon_v2_01",
+  "author": "MCM",
+  "language": "en",
+  "description": "A ruthless space pirate has vanished, and an ordinary teenager has no choice, but to assume her identity.",
+  "longDescription": [
+    "Kani isn’t Tundra. Tundra is a dustrunner: a ruthless space pirate, flying dangerous missions in low Earth orbit, risking the lives of millions of people below. Kani is just a regular teenager, and she wants absolutely nothing to do with that. Unfortunately, she has no choice.",
+    "Now, thrown into a world of deception and betrayal, Kani must fight to keep herself alive as she’s hunted by law enforcement, spies, mobsters, and even her so-called teammates, none of whom want to see her survive another day. All she needs to do is make one fatal mistake: tell them who she really is."
+  ],
+  "year": 2009,
+  "genres": [
+    "contemporary",
+    "fiction",
+    "science-fiction",
+    "thriller"
+  ],
+  "topics": [
+    "space"
+  ],
+  "rights": "CC0 1.0 Universal",
+  "publisher": "Gardners Books",
+  "series": "Dustrunners",
+  "part": 1,
+  "source": null,
+  "chapters": [
+    {
+      "id": "001",
+      "title": "About This eBook",
+      "length": 708,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "The Future",
+      "length": 5194,
+      "mode": "type"
+    },
+    {
+      "id": "003",
+      "title": "Have to Run",
+      "length": 7735,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Prey",
+      "length": 7492,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Decisions",
+      "length": 5746,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "The Ride",
+      "length": 9211,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "One Small Step",
+      "length": 7555,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Ten Minute Mark",
+      "length": 9099,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Foolish Heroics",
+      "length": 5686,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Downfall",
+      "length": 5679,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Home Life",
+      "length": 5960,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "SIX YEARS EARLIER",
+      "length": 6701,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Rush",
+      "length": 5885,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Departures",
+      "length": 5854,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Monitor",
+      "length": 5216,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Last Friend",
+      "length": 4719,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "FIVE YEARS EARLIER",
+      "length": 6279,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Bear Trap",
+      "length": 6755,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Missing Chip",
+      "length": 8356,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Betrayal",
+      "length": 4221,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Plan for the Worst",
+      "length": 7150,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Come Back",
+      "length": 4360,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Tiny Hands",
+      "length": 6362,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Friendly Face",
+      "length": 6736,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "FOUR YEARS EARLIER",
+      "length": 8344,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "On Your Knees",
+      "length": 5961,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Panic Button",
+      "length": 4429,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "FOUR YEARS EARLIER",
+      "length": 4860,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Assassination",
+      "length": 4482,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Hospital Food",
+      "length": 6143,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Mr Andrews",
+      "length": 6575,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "THREE YEARS EARLIER",
+      "length": 4994,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "The End of the Road",
+      "length": 5006,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Escape",
+      "length": 6582,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "City Lights",
+      "length": 6386,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "The Trap",
+      "length": 4242,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Death Sentence",
+      "length": 1739,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Last Chance",
+      "length": 5101,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Resolution",
+      "length": 3051,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Lost Friends",
+      "length": 5825,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Last Hurrah",
+      "length": 5314,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Desperation",
+      "length": 7928,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Finders Keepers",
+      "length": 4002,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Crash and Burn",
+      "length": 4525,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Narrowing Field",
+      "length": 5000,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Early Demise",
+      "length": 2897,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Quiet Lie",
+      "length": 1379,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Notice of Death",
+      "length": 2192,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "Interrogation",
+      "length": 5762,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Flip",
+      "length": 2327,
+      "mode": "type"
+    }
+  ],
+  "openlibraryId": "OL21471246W",
+  "goodreadsId": "9544296",
+  "rating": 0.738,
+  "popularity": 32,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489361553
+}

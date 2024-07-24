@@ -1,1 +1,140 @@
-{"id":"h-p-lovecraft--at-the-mountains-of-madness","title":"At the Mountains of Madness","titleAlpha":"at the mountains of madness","author":"H. P. Lovecraft","language":"en","description":"An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.","longDescription":["Dr. William Dyer of New England's Miskatonic University recounts his experiences on an Antarctic expedition leading to strange, enormous mountains deep within the frozen continent, hiding prehuman horrors only spoken of in esoteric tomes.","Reflecting H. P. Lovecraft's interest in the Antarctic - a continent still very unknown in the 1930s - this story gives a detailed account of the geology and history of Lovecraft's universe. The dry, scientific text gradually becomes more suspenseful as the expedition uncovers more and more of the cosmic horrors Lovecraft became famous for.","Taking inspiration from Edgar Allen Poe's Arthur Gordon Pym and geological discoveries in his time, as well as building on his world established in previous works, At the Mountains of Madness establishes a story following the natural sense of mystery evoked by the frozen and uninhabited southernmost continent."],"year":1931,"genres":["adventure","classics","fantasy","fiction","horror","science-fiction","travel"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness"},"openlibraryId":"OL152268W","goodreadsId":"32767","rating":0.762,"popularity":54700,"cover":null,"free":false,"custom":false,"series":"Dark Adventure Radio Theatre","part":0,"chapters":[{"id":"001","title":"Titlepage - At the Mountains of Madness","length":20,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I","length":21336,"mode":"type"},{"id":"004","title":"II","length":36583,"mode":"type"},{"id":"005","title":"III","length":22069,"mode":"type"},{"id":"006","title":"IV","length":17645,"mode":"type"},{"id":"007","title":"V","length":26357,"mode":"type"},{"id":"008","title":"VI","length":15489,"mode":"type"},{"id":"009","title":"VII","length":20600,"mode":"type"},{"id":"010","title":"VIII","length":17292,"mode":"type"},{"id":"011","title":"IX","length":21175,"mode":"type"},{"id":"012","title":"X","length":14672,"mode":"type"},{"id":"013","title":"XI","length":19009,"mode":"type"},{"id":"014","title":"XII","length":8718,"mode":"type"},{"id":"015","title":"Colophon","length":1093,"mode":"hide"},{"id":"016","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721337845289}
+{
+  "id": "h-p-lovecraft--at-the-mountains-of-madness",
+  "title": "At the Mountains of Madness",
+  "titleAlpha": "at the mountains of madness",
+  "author": "H. P. Lovecraft",
+  "language": "en",
+  "description": "An Antarctic expedition reveals the horrifying reality of ancient myths in the depths of the continent.",
+  "longDescription": [
+    "Dr. William Dyer of New England's Miskatonic University recounts his experiences on an Antarctic expedition leading to strange, enormous mountains deep within the frozen continent, hiding prehuman horrors only spoken of in esoteric tomes.",
+    "Reflecting H. P. Lovecraft's interest in the Antarctic - a continent still very unknown in the 1930s - this story gives a detailed account of the geology and history of Lovecraft's universe. The dry, scientific text gradually becomes more suspenseful as the expedition uncovers more and more of the cosmic horrors Lovecraft became famous for.",
+    "Taking inspiration from Edgar Allen Poe's Arthur Gordon Pym and geological discoveries in his time, as well as building on his world established in previous works, At the Mountains of Madness establishes a story following the natural sense of mystery evoked by the frozen and uninhabited southernmost continent."
+  ],
+  "year": 1931,
+  "genres": [
+    "adventure",
+    "classics",
+    "fantasy",
+    "fiction",
+    "horror",
+    "science-fiction",
+    "travel"
+  ],
+  "topics": [
+    "supernatural"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "",
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/h-p-lovecraft/at-the-mountains-of-madness"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - At the Mountains of Madness",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I",
+      "length": 21336,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II",
+      "length": 36583,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III",
+      "length": 22069,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV",
+      "length": 17645,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V",
+      "length": 26357,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI",
+      "length": 15489,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII",
+      "length": 20600,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII",
+      "length": 17292,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX",
+      "length": 21175,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X",
+      "length": 14672,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI",
+      "length": 19009,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII",
+      "length": 8718,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Colophon",
+      "length": 1093,
+      "mode": "hide"
+    },
+    {
+      "id": "016",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL152268W",
+  "goodreadsId": "32767",
+  "rating": 0.762,
+  "popularity": 54700,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489746724
+}
