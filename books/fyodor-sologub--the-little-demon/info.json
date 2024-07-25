@@ -1,1 +1,289 @@
-{"id":"fyodor-sologub--the-little-demon","title":"The Little Demon","titleAlpha":"little demon","author":"Fyodor Sologub","language":"en","description":"A banal and paranoid school teacher falls slowly into madness.","longDescription":["Ardalyon Borisitch Peredonov believes himself better than his job as a teacher, and hopes that the Princess will be able to promote him to the position of Inspector. Unfortunately for him his connection to the Princess is through his fiancée Varvara, and she has her own plans. With little sign of the desired position his life of petty cruelty escalates, even as his grip on reality begins to break apart and his paranoia manifests itself in hallucinations of a shadowy creature.","Finished in 1907, The Little Demon (alternatively translated as The Petty Demon) is Fyodor Sologub's most famous novel, and received both popular and critical attention on its publication despite its less-than-favorable depictions of provincial Russian life. Its portrayal of Peredonov as a paranoid character simultaneously both banal and bereft of goodness is an essay on the Russian concept of poshlost; a theme that makes an appearance in many other Russian novels, not least Chichikov in Gogol's Dead Souls. This translation (primarily by John Cournos) was published in 1916, and includes a preface by Sologub for the English-speaking reader."],"year":null,"genres":["classics","fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/fyodor-sologub/the-little-demon/john-cournos_richard-aldington"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Little Demon","length":69,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Translators' Preface","length":4033,"mode":"skip"},{"id":"004","title":"Author's Preface to the Second Russian Edition, 1908","length":2894,"mode":"skip"},{"id":"005","title":"Author's Preface to the Fifth Russian Edition, 1909","length":2030,"mode":"skip"},{"id":"006","title":"Dialogue to the Seventh Russian Edition, 1913","length":843,"mode":"type"},{"id":"007","title":"Author's Introduction to the English Edition","length":3201,"mode":"type"},{"id":"008","title":"I","length":22666,"mode":"type"},{"id":"009","title":"II","length":22538,"mode":"type"},{"id":"010","title":"III","length":12946,"mode":"type"},{"id":"011","title":"IV","length":18606,"mode":"type"},{"id":"012","title":"V","length":20616,"mode":"type"},{"id":"013","title":"VI","length":21198,"mode":"type"},{"id":"014","title":"VII","length":12038,"mode":"type"},{"id":"015","title":"VIII","length":18882,"mode":"type"},{"id":"016","title":"IX","length":16514,"mode":"type"},{"id":"017","title":"X","length":21390,"mode":"type"},{"id":"018","title":"XI","length":18757,"mode":"type"},{"id":"019","title":"XII","length":21936,"mode":"type"},{"id":"020","title":"XIII","length":16557,"mode":"type"},{"id":"021","title":"XIV","length":13485,"mode":"type"},{"id":"022","title":"XV","length":21147,"mode":"type"},{"id":"023","title":"XVI","length":18575,"mode":"type"},{"id":"024","title":"XVII","length":15193,"mode":"type"},{"id":"025","title":"XVIII","length":14240,"mode":"type"},{"id":"026","title":"XIX","length":22112,"mode":"type"},{"id":"027","title":"XX","length":16012,"mode":"type"},{"id":"028","title":"XXI","length":15683,"mode":"type"},{"id":"029","title":"XXII","length":18377,"mode":"type"},{"id":"030","title":"XXIII","length":18031,"mode":"type"},{"id":"031","title":"XXIV","length":20069,"mode":"type"},{"id":"032","title":"XXV","length":19891,"mode":"type"},{"id":"033","title":"XXVI","length":19080,"mode":"type"},{"id":"034","title":"XXVII","length":11463,"mode":"type"},{"id":"035","title":"XXVIII","length":18300,"mode":"type"},{"id":"036","title":"XXIX","length":13126,"mode":"type"},{"id":"037","title":"XXX","length":13858,"mode":"type"},{"id":"038","title":"XXXI","length":13028,"mode":"type"},{"id":"039","title":"XXXII","length":9281,"mode":"type"},{"id":"040","title":"Endnotes","length":5087,"mode":"hide"},{"id":"041","title":"Colophon","length":1155,"mode":"hide"},{"id":"042","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489699262}
+{
+  "id": "fyodor-sologub--the-little-demon",
+  "title": "The Little Demon",
+  "titleAlpha": "little demon",
+  "author": "Fyodor Sologub",
+  "language": "en",
+  "description": "A banal and paranoid school teacher falls slowly into madness.",
+  "longDescription": [
+    "Ardalyon Borisitch Peredonov believes himself better than his job as a teacher, and hopes that the Princess will be able to promote him to the position of Inspector. Unfortunately for him his connection to the Princess is through his fiancée Varvara, and she has her own plans. With little sign of the desired position his life of petty cruelty escalates, even as his grip on reality begins to break apart and his paranoia manifests itself in hallucinations of a shadowy creature.",
+    "Finished in 1907, The Little Demon (alternatively translated as The Petty Demon) is Fyodor Sologub's most famous novel, and received both popular and critical attention on its publication despite its less-than-favorable depictions of provincial Russian life. Its portrayal of Peredonov as a paranoid character simultaneously both banal and bereft of goodness is an essay on the Russian concept of poshlost; a theme that makes an appearance in many other Russian novels, not least Chichikov in Gogol's Dead Souls. This translation (primarily by John Cournos) was published in 1916, and includes a preface by Sologub for the English-speaking reader."
+  ],
+  "year": 1905,
+  "genres": [
+    "classics",
+    "fiction",
+    "psychological"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/fyodor-sologub/the-little-demon/john-cournos_richard-aldington"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Little Demon",
+      "length": 69,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Translators' Preface",
+      "length": 4033,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Author's Preface to the Second Russian Edition, 1908",
+      "length": 2894,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Author's Preface to the Fifth Russian Edition, 1909",
+      "length": 2030,
+      "mode": "skip"
+    },
+    {
+      "id": "006",
+      "title": "Dialogue to the Seventh Russian Edition, 1913",
+      "length": 843,
+      "mode": "skip"
+    },
+    {
+      "id": "007",
+      "title": "Author's Introduction to the English Edition",
+      "length": 3201,
+      "mode": "skip"
+    },
+    {
+      "id": "008",
+      "title": "I",
+      "length": 22666,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "II",
+      "length": 22538,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "III",
+      "length": 12946,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IV",
+      "length": 18606,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "V",
+      "length": 20616,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "VI",
+      "length": 21198,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "VII",
+      "length": 12038,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "VIII",
+      "length": 18882,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "IX",
+      "length": 16514,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "X",
+      "length": 21390,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XI",
+      "length": 18757,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XII",
+      "length": 21936,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XIII",
+      "length": 16557,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIV",
+      "length": 13485,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XV",
+      "length": 21147,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XVI",
+      "length": 18575,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XVII",
+      "length": 15193,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XVIII",
+      "length": 14240,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XIX",
+      "length": 22112,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XX",
+      "length": 16012,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXI",
+      "length": 15683,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXII",
+      "length": 18377,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXIII",
+      "length": 18031,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXIV",
+      "length": 20069,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXV",
+      "length": 19891,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXVI",
+      "length": 19080,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXVII",
+      "length": 11463,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXVIII",
+      "length": 18300,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXIX",
+      "length": 13126,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "XXX",
+      "length": 13858,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "XXXI",
+      "length": 13028,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "XXXII",
+      "length": 9281,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Endnotes",
+      "length": 5087,
+      "mode": "hide"
+    },
+    {
+      "id": "041",
+      "title": "Colophon",
+      "length": 1155,
+      "mode": "hide"
+    },
+    {
+      "id": "042",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL904344W",
+  "goodreadsId": "17346322",
+  "rating": 0.8039999999999999,
+  "popularity": 2632,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489699262
+}

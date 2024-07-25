@@ -1,1 +1,271 @@
-{"id":"booth-tarkington--the-turmoil","title":"The Turmoil","titleAlpha":"turmoil","author":"Booth Tarkington","language":"en","description":"A dreamy and sensitive scion of a Midwestern businessman comes to terms with his legacy in a growing city.","longDescription":["Bibbs is the dreamy, sensitive son of Mr. Sheridan, a cigar-chomping, larger-than-life businessman in the turn-of-the-century American Midwest. Sheridan made his fortune in the rapid industrialization that was overtaking the small towns and cities of America, but Bibbs - named so \"mainly through lack of imagination on his mother's part\" - is too sickly to help his father in Sheridan's relentless quest for \"Bigness.\"","The Sheridan family moves to a house next door to the old-money Vertrees family, whose fortunes have declined precipitously in this new era's thirst for industry. Bibbs makes fast friends with Mary, Vertrees' daughter; but as he tries to make a life for himself as a poet and writer, away from the cutthroat world of business, he must face off against the relentless drum of money, growth, and Bigness that has consumed American small-town life.","The Turmoil is the first book in Tarkington's Growth trilogy, a series that explores the destruction of traditional small-town America in favor of industrialization, pollution, automobiles, overcrowding, and suburbia. Tarkington makes no secret of his opinion on the matter: the trilogy is filled with acrid smoke, towering buildings crammed with people, noise and deadly accidents caused by brand-new cars, brutal working conditions, and a yearning for the clean, bright, slow, dignified days of yore.","The book was made in to two silent films just eight years apart from each other. Its sequel, The Magnificent Ambersons, went on to win the Pulitzer prize in 1919."],"year":null,"genres":["classics","coming-of-age","fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/booth-tarkington/the-turmoil"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Turmoil","length":21,"mode":"hide"},{"id":"002","title":"Imprint","length":1176,"mode":"hide"},{"id":"003","title":"Dedication","length":11,"mode":"hide"},{"id":"004","title":"I","length":6923,"mode":"type"},{"id":"005","title":"II","length":10307,"mode":"type"},{"id":"006","title":"III","length":15582,"mode":"type"},{"id":"007","title":"IV","length":17070,"mode":"type"},{"id":"008","title":"V","length":13739,"mode":"type"},{"id":"009","title":"VI","length":18791,"mode":"type"},{"id":"010","title":"VII","length":13364,"mode":"type"},{"id":"011","title":"VIII","length":15923,"mode":"type"},{"id":"012","title":"IX","length":21604,"mode":"type"},{"id":"013","title":"X","length":23875,"mode":"type"},{"id":"014","title":"XI","length":15091,"mode":"type"},{"id":"015","title":"XII","length":16993,"mode":"type"},{"id":"016","title":"XIII","length":14411,"mode":"type"},{"id":"017","title":"XIV","length":17220,"mode":"type"},{"id":"018","title":"XV","length":10964,"mode":"type"},{"id":"019","title":"XVI","length":8461,"mode":"type"},{"id":"020","title":"XVII","length":23917,"mode":"type"},{"id":"021","title":"XVIII","length":13916,"mode":"type"},{"id":"022","title":"XIX","length":11521,"mode":"type"},{"id":"023","title":"XX","length":11660,"mode":"type"},{"id":"024","title":"XXI","length":22333,"mode":"type"},{"id":"025","title":"XXII","length":12126,"mode":"type"},{"id":"026","title":"XXIII","length":18314,"mode":"type"},{"id":"027","title":"XXIV","length":14915,"mode":"type"},{"id":"028","title":"XXV","length":9706,"mode":"type"},{"id":"029","title":"XXVI","length":12993,"mode":"type"},{"id":"030","title":"XXVII","length":16091,"mode":"type"},{"id":"031","title":"XXVIII","length":18113,"mode":"type"},{"id":"032","title":"XXIX","length":12626,"mode":"type"},{"id":"033","title":"XXX","length":14241,"mode":"type"},{"id":"034","title":"XXXI","length":14467,"mode":"type"},{"id":"035","title":"XXXII","length":12682,"mode":"type"},{"id":"036","title":"XXXIII","length":14998,"mode":"type"},{"id":"037","title":"Colophon","length":1021,"mode":"hide"},{"id":"038","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489499600}
+{
+  "id": "booth-tarkington--the-turmoil",
+  "title": "The Turmoil",
+  "titleAlpha": "turmoil",
+  "author": "Booth Tarkington",
+  "language": "en",
+  "description": "A dreamy and sensitive scion of a Midwestern businessman comes to terms with his legacy in a growing city.",
+  "longDescription": [
+    "Bibbs is the dreamy, sensitive son of Mr. Sheridan, a cigar-chomping, larger-than-life businessman in the turn-of-the-century American Midwest. Sheridan made his fortune in the rapid industrialization that was overtaking the small towns and cities of America, but Bibbs - named so \"mainly through lack of imagination on his mother's part\" - is too sickly to help his father in Sheridan's relentless quest for \"Bigness.\"",
+    "The Sheridan family moves to a house next door to the old-money Vertrees family, whose fortunes have declined precipitously in this new era's thirst for industry. Bibbs makes fast friends with Mary, Vertrees' daughter; but as he tries to make a life for himself as a poet and writer, away from the cutthroat world of business, he must face off against the relentless drum of money, growth, and Bigness that has consumed American small-town life.",
+    "The Turmoil is the first book in Tarkington's Growth trilogy, a series that explores the destruction of traditional small-town America in favor of industrialization, pollution, automobiles, overcrowding, and suburbia. Tarkington makes no secret of his opinion on the matter: the trilogy is filled with acrid smoke, towering buildings crammed with people, noise and deadly accidents caused by brand-new cars, brutal working conditions, and a yearning for the clean, bright, slow, dignified days of yore.",
+    "The book was made in to two silent films just eight years apart from each other. Its sequel, The Magnificent Ambersons, went on to win the Pulitzer prize in 1919."
+  ],
+  "year": 1915,
+  "genres": [
+    "classics",
+    "fiction",
+    "history"
+  ],
+  "topics": [
+    "business",
+    "family",
+    "social"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "The Growth Trilogy",
+  "part": 1,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/booth-tarkington/the-turmoil"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Turmoil",
+      "length": 21,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 11,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "I",
+      "length": 6923,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II",
+      "length": 10307,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III",
+      "length": 15582,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "IV",
+      "length": 17070,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "V",
+      "length": 13739,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VI",
+      "length": 18791,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VII",
+      "length": 13364,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VIII",
+      "length": 15923,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "IX",
+      "length": 21604,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "X",
+      "length": 23875,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XI",
+      "length": 15091,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XII",
+      "length": 16993,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIII",
+      "length": 14411,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIV",
+      "length": 17220,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XV",
+      "length": 10964,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVI",
+      "length": 8461,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVII",
+      "length": 23917,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVIII",
+      "length": 13916,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XIX",
+      "length": 11521,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XX",
+      "length": 11660,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXI",
+      "length": 22333,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXII",
+      "length": 12126,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIII",
+      "length": 18314,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXIV",
+      "length": 14915,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXV",
+      "length": 9706,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVI",
+      "length": 12993,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVII",
+      "length": 16091,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVIII",
+      "length": 18113,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXIX",
+      "length": 12626,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXX",
+      "length": 14241,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXXI",
+      "length": 14467,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "XXXII",
+      "length": 12682,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "XXXIII",
+      "length": 14998,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Colophon",
+      "length": 1021,
+      "mode": "hide"
+    },
+    {
+      "id": "038",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL54861W",
+  "goodreadsId": "2451408",
+  "rating": 0.774,
+  "popularity": 478,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489499600
+}

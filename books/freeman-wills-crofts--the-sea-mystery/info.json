@@ -1,1 +1,184 @@
-{"id":"freeman-wills-crofts--the-sea-mystery","title":"The Sea Mystery","titleAlpha":"sea mystery","author":"Freeman Wills Crofts","language":"en","description":"The dogged detective is called in to investigate the grisly contents of a cask dragged up from the bottom of the sea.","longDescription":["A body of a man is discovered after a chance recovery of a crate from the bottom of a Welsh bay. The local police realize that this is outside their jurisdiction, and soon welcome Inspector French into the investigation. While there's little to go on initially, French's approach to methodically breaking down the problem and questioning everyone about everything soon starts to throw up some leads that show just how much care the murderer has put into covering their tracks.","This is the fourth in Freeman Wills Crofts' classic Inspector French series. French is never happy until every last clue and tidbit of information has been slotted into their rightful place, and his process for doing so is so methodical that the original cover proudly announced that the reader could \"listen in to Scotland Yard!\""],"year":null,"genres":["classics","fiction","mystery"],"topics":["detective"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/freeman-wills-crofts/the-sea-mystery"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Sea Mystery","length":25,"mode":"hide"},{"id":"002","title":"Imprint","length":1194,"mode":"hide"},{"id":"003","title":"I: Mr. Morgan Meets Tragedy","length":21918,"mode":"type"},{"id":"004","title":"II: Inspector French Gets Busy","length":23571,"mode":"type"},{"id":"005","title":"III: Experimental Detection","length":22199,"mode":"type"},{"id":"006","title":"IV: A Change of Venue","length":21041,"mode":"type"},{"id":"007","title":"V: Messrs. Berlyn and Pyke","length":15527,"mode":"type"},{"id":"008","title":"VI: The Despatch of the Crate","length":14250,"mode":"type"},{"id":"009","title":"VII: Dartmoor","length":24499,"mode":"type"},{"id":"010","title":"VIII: A Fresh Start","length":20665,"mode":"type"},{"id":"011","title":"IX: A Step Forward","length":19814,"mode":"type"},{"id":"012","title":"X: London's Further Contribution","length":19828,"mode":"type"},{"id":"013","title":"XI: John Gurney, Night Watchman","length":14272,"mode":"type"},{"id":"014","title":"XII: The Duplicator","length":24068,"mode":"type"},{"id":"015","title":"XIII: The Accomplice?","length":23753,"mode":"type"},{"id":"016","title":"XIV: French Turns Fisherman","length":19122,"mode":"type"},{"id":"017","title":"XV: Blackmail","length":19856,"mode":"type"},{"id":"018","title":"XVI: Certainty at Last","length":15896,"mode":"type"},{"id":"019","title":"XVII: \"Danger!\"","length":23029,"mode":"type"},{"id":"020","title":"XVIII: On Hampstead Heath","length":19585,"mode":"type"},{"id":"021","title":"XIX: The Bitterness of Death","length":32364,"mode":"type"},{"id":"022","title":"XX: Conclusion","length":18238,"mode":"type"},{"id":"023","title":"Colophon","length":1067,"mode":"hide"},{"id":"024","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489687848}
+{
+  "id": "freeman-wills-crofts--the-sea-mystery",
+  "title": "The Sea Mystery",
+  "titleAlpha": "sea mystery",
+  "author": "Freeman Wills Crofts",
+  "language": "en",
+  "description": "The dogged detective is called in to investigate the grisly contents of a cask dragged up from the bottom of the sea.",
+  "longDescription": [
+    "A body of a man is discovered after a chance recovery of a crate from the bottom of a Welsh bay. The local police realize that this is outside their jurisdiction, and soon welcome Inspector French into the investigation. While there's little to go on initially, French's approach to methodically breaking down the problem and questioning everyone about everything soon starts to throw up some leads that show just how much care the murderer has put into covering their tracks.",
+    "This is the fourth in Freeman Wills Crofts' classic Inspector French series. French is never happy until every last clue and tidbit of information has been slotted into their rightful place, and his process for doing so is so methodical that the original cover proudly announced that the reader could \"listen in to Scotland Yard!\""
+  ],
+  "year": 1928,
+  "genres": [
+    "classics",
+    "fiction",
+    "mystery"
+  ],
+  "topics": [
+    "detective",
+    "murder"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Inspector French",
+  "part": 4,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-sea-mystery"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Sea Mystery",
+      "length": 25,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: Mr. Morgan Meets Tragedy",
+      "length": 21918,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: Inspector French Gets Busy",
+      "length": 23571,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: Experimental Detection",
+      "length": 22199,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: A Change of Venue",
+      "length": 21041,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: Messrs. Berlyn and Pyke",
+      "length": 15527,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: The Despatch of the Crate",
+      "length": 14250,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: Dartmoor",
+      "length": 24499,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: A Fresh Start",
+      "length": 20665,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: A Step Forward",
+      "length": 19814,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: London's Further Contribution",
+      "length": 19828,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: John Gurney, Night Watchman",
+      "length": 14272,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: The Duplicator",
+      "length": 24068,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: The Accomplice?",
+      "length": 23753,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: French Turns Fisherman",
+      "length": 19122,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: Blackmail",
+      "length": 19856,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI: Certainty at Last",
+      "length": 15896,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII: \"Danger!\"",
+      "length": 23029,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII: On Hampstead Heath",
+      "length": 19585,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX: The Bitterness of Death",
+      "length": 32364,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX: Conclusion",
+      "length": 18238,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Colophon",
+      "length": 1067,
+      "mode": "hide"
+    },
+    {
+      "id": "024",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL5204325W",
+  "goodreadsId": "803310",
+  "rating": 0.784,
+  "popularity": 212,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489687848
+}

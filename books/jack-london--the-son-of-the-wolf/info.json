@@ -1,1 +1,141 @@
-{"id":"jack-london--the-son-of-the-wolf","title":"The Son of the Wolf","titleAlpha":"son of the wolf","author":"Jack London","language":"en","description":"A collection of stories entailing life during the gold rush in the harsh wilderness of northwestern North America.","longDescription":["A collection of stories that highlight the trials and tribulations of life in the Yukon and Alaska during the gold rush. Greed, determination, compassion, competition, and survival dominate as native tribes intermingle with western settlers. Despite the laws that each culture abides by, the law of the wilderness will overcome you when unprepared."],"year":1980,"genres":["adventure","classics","fiction","shorts"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/jack-london/the-son-of-the-wolf"},"openlibraryId":"OL14943107W","goodreadsId":"583145","rating":0.52240662,"popularity":8,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Son of the Wolf","length":16,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"The White Silence","length":20406,"mode":"type"},{"id":"004","title":"The Son of the Wolf","length":33411,"mode":"type"},{"id":"005","title":"The Men of Forty-Mile","length":17424,"mode":"type"},{"id":"006","title":"In a Far Country","length":35308,"mode":"type"},{"id":"007","title":"To the Man on Trail","length":17474,"mode":"type"},{"id":"008","title":"The Priestly Prerogative","length":25591,"mode":"type"},{"id":"009","title":"The Wisdom of the Trail","length":16250,"mode":"type"},{"id":"010","title":"The Wife of a King - I","length":9984,"mode":"type"},{"id":"011","title":"The Wife of a King - II","length":14744,"mode":"type"},{"id":"012","title":"The Wife of a King - III","length":7968,"mode":"type"},{"id":"013","title":"An Odyssey of the North - I","length":20819,"mode":"type"},{"id":"014","title":"An Odyssey of the North - II","length":5388,"mode":"type"},{"id":"015","title":"An Odyssey of the North - III","length":40465,"mode":"type"},{"id":"016","title":"Colophon","length":1043,"mode":"hide"},{"id":"017","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489811101}
+{
+  "id": "jack-london--the-son-of-the-wolf",
+  "title": "The Son of the Wolf",
+  "titleAlpha": "son of the wolf",
+  "author": "Jack London",
+  "language": "en",
+  "description": "A collection of stories entailing life during the gold rush in the harsh wilderness of northwestern North America.",
+  "longDescription": [
+    "A collection of stories that highlight the trials and tribulations of life in the Yukon and Alaska during the gold rush. Greed, determination, compassion, competition, and survival dominate as native tribes intermingle with western settlers. Despite the laws that each culture abides by, the law of the wilderness will overcome you when unprepared."
+  ],
+  "year": 1900,
+  "genres": [
+    "adventure",
+    "classics",
+    "fiction",
+    "shorts"
+  ],
+  "topics": [
+    "frontier"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/jack-london/the-son-of-the-wolf"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Son of the Wolf",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "The White Silence",
+      "length": 20406,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "The Son of the Wolf",
+      "length": 33411,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "The Men of Forty-Mile",
+      "length": 17424,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "In a Far Country",
+      "length": 35308,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "To the Man on Trail",
+      "length": 17474,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "The Priestly Prerogative",
+      "length": 25591,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "The Wisdom of the Trail",
+      "length": 16250,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "The Wife of a King - I",
+      "length": 9984,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "The Wife of a King - II",
+      "length": 14744,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "The Wife of a King - III",
+      "length": 7968,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "An Odyssey of the North - I",
+      "length": 20819,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "An Odyssey of the North - II",
+      "length": 5388,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "An Odyssey of the North - III",
+      "length": 40465,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Colophon",
+      "length": 1043,
+      "mode": "hide"
+    },
+    {
+      "id": "017",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL14943107W",
+  "goodreadsId": "2836089",
+  "rating": 0.724,
+  "popularity": 867,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489811101
+}

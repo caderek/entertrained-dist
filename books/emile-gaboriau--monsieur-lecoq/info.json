@@ -1,1 +1,558 @@
-{"id":"emile-gaboriau--monsieur-lecoq","title":"Monsieur Lecoq","titleAlpha":"monsieur lecoq","author":"Émile Gaboriau","language":"en","description":"Monsieur Lecoq's first case in which he tries to determine the identity of a man in custody for three murders.","longDescription":["The last Lecoq novel goes back to the beginning, to Monsieur Lecoq's first case, the case that began his reputation as a master of detection, master of disguise, and master of detail. The case begins simply: Lecoq and several other policemen come upon a crime as it's being committed. Three men are dead and the killer is in custody. But who is he? Lecoq and his companion officer spend months trying to figure it out, to no avail. Lecoq finally goes to visit his old mentor in order to gain some insight.","The scene then changes to some fifty years previous; in the aftermath of Waterloo, some noblemen return from exile. One of them insults the character of a local who has acted honorably on the nobleman's behalf, and the remainder of the novel is devoted to how those few minutes end up unravelling the lives of everyone present, and many who aren't.","Gaboriau again demonstrates his ability to mix detective mystery and Dickensian drama, and foreshadows the style of the first two novels of his more famous English cousin in detection."],"year":1869,"genres":["classics","fiction","mystery"],"topics":["detective"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall"},"openlibraryId":"OL1546098W","goodreadsId":"2168808","rating":0.764,"popularity":333,"cover":null,"free":false,"custom":false,"series":"Monsieur Lecoq","part":5,"chapters":[{"id":"001","title":"Titlepage - Monsieur Lecoq","length":51,"mode":"hide"},{"id":"002","title":"Imprint","length":1176,"mode":"hide"},{"id":"003","title":"Part I: The Inquiry - I","length":23278,"mode":"type"},{"id":"004","title":"Part I: The Inquiry - II","length":17814,"mode":"type"},{"id":"005","title":"Part I: The Inquiry - III","length":26245,"mode":"type"},{"id":"006","title":"Part I: The Inquiry - IV","length":16956,"mode":"type"},{"id":"007","title":"Part I: The Inquiry - V","length":24577,"mode":"type"},{"id":"008","title":"Part I: The Inquiry - VI","length":26430,"mode":"type"},{"id":"009","title":"Part I: The Inquiry - VII","length":26193,"mode":"type"},{"id":"010","title":"Part I: The Inquiry - VIII","length":27310,"mode":"type"},{"id":"011","title":"Part I: The Inquiry - IX","length":28365,"mode":"type"},{"id":"012","title":"Part I: The Inquiry - X","length":26519,"mode":"type"},{"id":"013","title":"Part I: The Inquiry - XI","length":18128,"mode":"type"},{"id":"014","title":"Part I: The Inquiry - XII","length":17386,"mode":"type"},{"id":"015","title":"Part I: The Inquiry - XIII","length":8661,"mode":"type"},{"id":"016","title":"Part I: The Inquiry - XIV","length":17837,"mode":"type"},{"id":"017","title":"Part I: The Inquiry - XV","length":27876,"mode":"type"},{"id":"018","title":"Part I: The Inquiry - XVI","length":25392,"mode":"type"},{"id":"019","title":"Part I: The Inquiry - XVII","length":25806,"mode":"type"},{"id":"020","title":"Part I: The Inquiry - XVIII","length":25698,"mode":"type"},{"id":"021","title":"Part I: The Inquiry - XIX","length":35440,"mode":"type"},{"id":"022","title":"Part I: The Inquiry - XX","length":30860,"mode":"type"},{"id":"023","title":"Part I: The Inquiry - XXI","length":32305,"mode":"type"},{"id":"024","title":"Part I: The Inquiry - XXII","length":16277,"mode":"type"},{"id":"025","title":"Part I: The Inquiry - XXIII","length":8360,"mode":"type"},{"id":"026","title":"Part I: The Inquiry - XXIV","length":15254,"mode":"type"},{"id":"027","title":"Part I: The Inquiry - XXV","length":8896,"mode":"type"},{"id":"028","title":"Part II: The Honor of the Name - I","length":16428,"mode":"type"},{"id":"029","title":"Part II: The Honor of the Name - II","length":25406,"mode":"type"},{"id":"030","title":"Part II: The Honor of the Name - III","length":15867,"mode":"type"},{"id":"031","title":"Part II: The Honor of the Name - IV","length":8339,"mode":"type"},{"id":"032","title":"Part II: The Honor of the Name - V","length":16257,"mode":"type"},{"id":"033","title":"Part II: The Honor of the Name - VI","length":14708,"mode":"type"},{"id":"034","title":"Part II: The Honor of the Name - VII","length":7431,"mode":"type"},{"id":"035","title":"Part II: The Honor of the Name - VIII","length":7686,"mode":"type"},{"id":"036","title":"Part II: The Honor of the Name - IX","length":9308,"mode":"type"},{"id":"037","title":"Part II: The Honor of the Name - X","length":8493,"mode":"type"},{"id":"038","title":"Part II: The Honor of the Name - XI","length":16784,"mode":"type"},{"id":"039","title":"Part II: The Honor of the Name - XII","length":8880,"mode":"type"},{"id":"040","title":"Part II: The Honor of the Name - XIII","length":17312,"mode":"type"},{"id":"041","title":"Part II: The Honor of the Name - XIV","length":8343,"mode":"type"},{"id":"042","title":"Part II: The Honor of the Name - XV","length":7381,"mode":"type"},{"id":"043","title":"Part II: The Honor of the Name - XVI","length":24506,"mode":"type"},{"id":"044","title":"Part II: The Honor of the Name - XVII","length":19263,"mode":"type"},{"id":"045","title":"Part II: The Honor of the Name - XVIII","length":14984,"mode":"type"},{"id":"046","title":"Part II: The Honor of the Name - XIX","length":8503,"mode":"type"},{"id":"047","title":"Part II: The Honor of the Name - XX","length":6460,"mode":"type"},{"id":"048","title":"Part II: The Honor of the Name - XXI","length":7430,"mode":"type"},{"id":"049","title":"Part II: The Honor of the Name - XXII","length":14852,"mode":"type"},{"id":"050","title":"Part II: The Honor of the Name - XXIII","length":15558,"mode":"type"},{"id":"051","title":"Part II: The Honor of the Name - XXIV","length":22050,"mode":"type"},{"id":"052","title":"Part II: The Honor of the Name - XXV","length":15793,"mode":"type"},{"id":"053","title":"Part II: The Honor of the Name - XXVI","length":7198,"mode":"type"},{"id":"054","title":"Part II: The Honor of the Name - XXVII","length":31875,"mode":"type"},{"id":"055","title":"Part II: The Honor of the Name - XXVIII","length":21081,"mode":"type"},{"id":"056","title":"Part II: The Honor of the Name - XXIX","length":28025,"mode":"type"},{"id":"057","title":"Part II: The Honor of the Name - XXX","length":24914,"mode":"type"},{"id":"058","title":"Part II: The Honor of the Name - XXXI","length":29251,"mode":"type"},{"id":"059","title":"Part II: The Honor of the Name - XXXII","length":15549,"mode":"type"},{"id":"060","title":"Part II: The Honor of the Name - XXXIII","length":14571,"mode":"type"},{"id":"061","title":"Part II: The Honor of the Name - XXXIV","length":8112,"mode":"type"},{"id":"062","title":"Part II: The Honor of the Name - XXXV","length":22177,"mode":"type"},{"id":"063","title":"Part II: The Honor of the Name - XXXVI","length":19954,"mode":"type"},{"id":"064","title":"Part II: The Honor of the Name - XXXVII","length":7520,"mode":"type"},{"id":"065","title":"Part II: The Honor of the Name - XXXVIII","length":14095,"mode":"type"},{"id":"066","title":"Part II: The Honor of the Name - XXXIX","length":10810,"mode":"type"},{"id":"067","title":"Part II: The Honor of the Name - XL","length":6999,"mode":"type"},{"id":"068","title":"Part II: The Honor of the Name - XLI","length":15067,"mode":"type"},{"id":"069","title":"Part II: The Honor of the Name - XLII","length":24596,"mode":"type"},{"id":"070","title":"Part II: The Honor of the Name - XLIII","length":9777,"mode":"type"},{"id":"071","title":"Part II: The Honor of the Name - XLIV","length":18215,"mode":"type"},{"id":"072","title":"Part II: The Honor of the Name - XLV","length":19712,"mode":"type"},{"id":"073","title":"Part II: The Honor of the Name - XLVI","length":14948,"mode":"type"},{"id":"074","title":"Part II: The Honor of the Name - XLVII","length":29996,"mode":"type"},{"id":"075","title":"Part II: The Honor of the Name - XLVIII","length":13711,"mode":"type"},{"id":"076","title":"Part II: The Honor of the Name - XLIX","length":8367,"mode":"type"},{"id":"077","title":"Part II: The Honor of the Name - L","length":11638,"mode":"type"},{"id":"078","title":"Part II: The Honor of the Name - LI","length":14521,"mode":"type"},{"id":"079","title":"Part II: The Honor of the Name - LII","length":21517,"mode":"type"},{"id":"080","title":"Part II: The Honor of the Name - LIII","length":16672,"mode":"type"},{"id":"081","title":"Part II: The Honor of the Name - LIV","length":26606,"mode":"type"},{"id":"082","title":"Part II: The Honor of the Name - LV","length":8993,"mode":"type"},{"id":"083","title":"Part II: The Honor of the Name - Epilogue - The First Success","length":11606,"mode":"type"},{"id":"084","title":"List of Illustrations","length":33,"mode":"hide"},{"id":"085","title":"Colophon","length":1111,"mode":"hide"},{"id":"086","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489637532}
+{
+  "id": "emile-gaboriau--monsieur-lecoq",
+  "title": "Monsieur Lecoq",
+  "titleAlpha": "monsieur lecoq",
+  "author": "Émile Gaboriau",
+  "language": "en",
+  "description": "Monsieur Lecoq's first case in which he tries to determine the identity of a man in custody for three murders.",
+  "longDescription": [
+    "The last Lecoq novel goes back to the beginning, to Monsieur Lecoq's first case, the case that began his reputation as a master of detection, master of disguise, and master of detail. The case begins simply: Lecoq and several other policemen come upon a crime as it's being committed. Three men are dead and the killer is in custody. But who is he? Lecoq and his companion officer spend months trying to figure it out, to no avail. Lecoq finally goes to visit his old mentor in order to gain some insight.",
+    "The scene then changes to some fifty years previous; in the aftermath of Waterloo, some noblemen return from exile. One of them insults the character of a local who has acted honorably on the nobleman's behalf, and the remainder of the novel is devoted to how those few minutes end up unravelling the lives of everyone present, and many who aren't.",
+    "Gaboriau again demonstrates his ability to mix detective mystery and Dickensian drama, and foreshadows the style of the first two novels of his more famous English cousin in detection."
+  ],
+  "year": 1869,
+  "genres": [
+    "classics",
+    "fiction",
+    "mystery",
+    "crime"
+  ],
+  "topics": [
+    "detective",
+    "murder"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Monsieur Lecoq",
+  "part": 5,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Monsieur Lecoq",
+      "length": 51,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Part I: The Inquiry - I",
+      "length": 23278,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Part I: The Inquiry - II",
+      "length": 17814,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Part I: The Inquiry - III",
+      "length": 26245,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Part I: The Inquiry - IV",
+      "length": 16956,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Part I: The Inquiry - V",
+      "length": 24577,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Part I: The Inquiry - VI",
+      "length": 26430,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Part I: The Inquiry - VII",
+      "length": 26193,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Part I: The Inquiry - VIII",
+      "length": 27310,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Part I: The Inquiry - IX",
+      "length": 28365,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Part I: The Inquiry - X",
+      "length": 26519,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Part I: The Inquiry - XI",
+      "length": 18128,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Part I: The Inquiry - XII",
+      "length": 17386,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Part I: The Inquiry - XIII",
+      "length": 8661,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Part I: The Inquiry - XIV",
+      "length": 17837,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Part I: The Inquiry - XV",
+      "length": 27876,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Part I: The Inquiry - XVI",
+      "length": 25392,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Part I: The Inquiry - XVII",
+      "length": 25806,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Part I: The Inquiry - XVIII",
+      "length": 25698,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Part I: The Inquiry - XIX",
+      "length": 35440,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Part I: The Inquiry - XX",
+      "length": 30860,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Part I: The Inquiry - XXI",
+      "length": 32305,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Part I: The Inquiry - XXII",
+      "length": 16277,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Part I: The Inquiry - XXIII",
+      "length": 8360,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Part I: The Inquiry - XXIV",
+      "length": 15254,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Part I: The Inquiry - XXV",
+      "length": 8896,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Part II: The Honor of the Name - I",
+      "length": 16428,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Part II: The Honor of the Name - II",
+      "length": 25406,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Part II: The Honor of the Name - III",
+      "length": 15867,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Part II: The Honor of the Name - IV",
+      "length": 8339,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Part II: The Honor of the Name - V",
+      "length": 16257,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Part II: The Honor of the Name - VI",
+      "length": 14708,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Part II: The Honor of the Name - VII",
+      "length": 7431,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Part II: The Honor of the Name - VIII",
+      "length": 7686,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Part II: The Honor of the Name - IX",
+      "length": 9308,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Part II: The Honor of the Name - X",
+      "length": 8493,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Part II: The Honor of the Name - XI",
+      "length": 16784,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Part II: The Honor of the Name - XII",
+      "length": 8880,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Part II: The Honor of the Name - XIII",
+      "length": 17312,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Part II: The Honor of the Name - XIV",
+      "length": 8343,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Part II: The Honor of the Name - XV",
+      "length": 7381,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Part II: The Honor of the Name - XVI",
+      "length": 24506,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Part II: The Honor of the Name - XVII",
+      "length": 19263,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Part II: The Honor of the Name - XVIII",
+      "length": 14984,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "Part II: The Honor of the Name - XIX",
+      "length": 8503,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Part II: The Honor of the Name - XX",
+      "length": 6460,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Part II: The Honor of the Name - XXI",
+      "length": 7430,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "Part II: The Honor of the Name - XXII",
+      "length": 14852,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Part II: The Honor of the Name - XXIII",
+      "length": 15558,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "Part II: The Honor of the Name - XXIV",
+      "length": 22050,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "Part II: The Honor of the Name - XXV",
+      "length": 15793,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "Part II: The Honor of the Name - XXVI",
+      "length": 7198,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "Part II: The Honor of the Name - XXVII",
+      "length": 31875,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "Part II: The Honor of the Name - XXVIII",
+      "length": 21081,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "Part II: The Honor of the Name - XXIX",
+      "length": 28025,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "Part II: The Honor of the Name - XXX",
+      "length": 24914,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "Part II: The Honor of the Name - XXXI",
+      "length": 29251,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "Part II: The Honor of the Name - XXXII",
+      "length": 15549,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "Part II: The Honor of the Name - XXXIII",
+      "length": 14571,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "Part II: The Honor of the Name - XXXIV",
+      "length": 8112,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "Part II: The Honor of the Name - XXXV",
+      "length": 22177,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "Part II: The Honor of the Name - XXXVI",
+      "length": 19954,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "Part II: The Honor of the Name - XXXVII",
+      "length": 7520,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "Part II: The Honor of the Name - XXXVIII",
+      "length": 14095,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "Part II: The Honor of the Name - XXXIX",
+      "length": 10810,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "Part II: The Honor of the Name - XL",
+      "length": 6999,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "Part II: The Honor of the Name - XLI",
+      "length": 15067,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "Part II: The Honor of the Name - XLII",
+      "length": 24596,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "Part II: The Honor of the Name - XLIII",
+      "length": 9777,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "Part II: The Honor of the Name - XLIV",
+      "length": 18215,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "Part II: The Honor of the Name - XLV",
+      "length": 19712,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "Part II: The Honor of the Name - XLVI",
+      "length": 14948,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "Part II: The Honor of the Name - XLVII",
+      "length": 29996,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "Part II: The Honor of the Name - XLVIII",
+      "length": 13711,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "Part II: The Honor of the Name - XLIX",
+      "length": 8367,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "Part II: The Honor of the Name - L",
+      "length": 11638,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "Part II: The Honor of the Name - LI",
+      "length": 14521,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "Part II: The Honor of the Name - LII",
+      "length": 21517,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "Part II: The Honor of the Name - LIII",
+      "length": 16672,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "Part II: The Honor of the Name - LIV",
+      "length": 26606,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "Part II: The Honor of the Name - LV",
+      "length": 8993,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "Part II: The Honor of the Name - Epilogue - The First Success",
+      "length": 11606,
+      "mode": "type"
+    },
+    {
+      "id": "084",
+      "title": "List of Illustrations",
+      "length": 33,
+      "mode": "hide"
+    },
+    {
+      "id": "085",
+      "title": "Colophon",
+      "length": 1111,
+      "mode": "hide"
+    },
+    {
+      "id": "086",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1546098W",
+  "goodreadsId": "2168808",
+  "rating": 0.764,
+  "popularity": 333,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489637532
+}

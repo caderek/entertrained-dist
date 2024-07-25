@@ -1,1 +1,117 @@
-{"id":"arthur-machen--the-three-impostors","title":"The Three Impostors","titleAlpha":"three impostors","author":"Arthur Machen","language":"en","description":"Two flâneurs in Victorian London get caught up with the members of a secret society and their search for a rare Roman coin.","longDescription":["Two idlers in London are sauntering in the streets when they pick up a coin dropped by a fleeing man. They keep meeting three persons, each time in a different disguise, who recount lurid tales. They seem to be looking for a spectacled man who regrets working with them, and has run away with a valuable coin ...","This novel is a Gothic horror classic, and takes the form of an episodic novel, with each chapter containing a story recounted by one of the three impostors. It contains \"Novel of the Black Seal\" and \"Novel of the White Powder,\" popular stories which have been widely anthologized."],"year":1895,"genres":["classics","fiction","horror"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/arthur-machen/the-three-impostors"},"openlibraryId":"OL3388989W","goodreadsId":"59397","rating":0.77,"popularity":1246,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Three Impostors","length":18,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Prologue","length":6402,"mode":"type"},{"id":"004","title":"Adventure of the Gold Tiberius","length":25244,"mode":"type"},{"id":"005","title":"The Encounter of the Pavement - Novel of the Dark Valley","length":56748,"mode":"type"},{"id":"006","title":"Adventure of the Missing Brother - Novel of the Black Seal","length":87959,"mode":"type"},{"id":"007","title":"Incident of the Private Bar","length":27391,"mode":"type"},{"id":"008","title":"The Decorative Imagination - Novel of the Iron Maid","length":21743,"mode":"type"},{"id":"009","title":"The Recluse of Bayswater - Novel of the White Powder","length":52896,"mode":"type"},{"id":"010","title":"Strange Occurrence in Clerkenwell - History of the Young Man with Spectacles","length":28675,"mode":"type"},{"id":"011","title":"Adventure of the Deserted Residence","length":9039,"mode":"type"},{"id":"012","title":"Colophon","length":1031,"mode":"hide"},{"id":"013","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489451513}
+{
+  "id": "arthur-machen--the-three-impostors",
+  "title": "The Three Impostors",
+  "titleAlpha": "three impostors",
+  "author": "Arthur Machen",
+  "language": "en",
+  "description": "Two flâneurs in Victorian London get caught up with the members of a secret society and their search for a rare Roman coin.",
+  "longDescription": [
+    "Two idlers in London are sauntering in the streets when they pick up a coin dropped by a fleeing man. They keep meeting three persons, each time in a different disguise, who recount lurid tales. They seem to be looking for a spectacled man who regrets working with them, and has run away with a valuable coin ...",
+    "This novel is a Gothic horror classic, and takes the form of an episodic novel, with each chapter containing a story recounted by one of the three impostors. It contains \"Novel of the Black Seal\" and \"Novel of the White Powder,\" popular stories which have been widely anthologized."
+  ],
+  "year": 1895,
+  "genres": [
+    "classics",
+    "fiction",
+    "horror",
+    "gothic",
+    "mystery"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/arthur-machen/the-three-impostors"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Three Impostors",
+      "length": 18,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Prologue",
+      "length": 6402,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Adventure of the Gold Tiberius",
+      "length": 25244,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "The Encounter of the Pavement - Novel of the Dark Valley",
+      "length": 56748,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Adventure of the Missing Brother - Novel of the Black Seal",
+      "length": 87959,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Incident of the Private Bar",
+      "length": 27391,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "The Decorative Imagination - Novel of the Iron Maid",
+      "length": 21743,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "The Recluse of Bayswater - Novel of the White Powder",
+      "length": 52896,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Strange Occurrence in Clerkenwell - History of the Young Man with Spectacles",
+      "length": 28675,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Adventure of the Deserted Residence",
+      "length": 9039,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Colophon",
+      "length": 1031,
+      "mode": "hide"
+    },
+    {
+      "id": "013",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL3388989W",
+  "goodreadsId": "59397",
+  "rating": 0.77,
+  "popularity": 1246,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489451513
+}

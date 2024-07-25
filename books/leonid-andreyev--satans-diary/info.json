@@ -1,1 +1,94 @@
-{"id":"leonid-andreyev--satans-diary","title":"Satan's Diary","titleAlpha":"satan's diary","author":"Leonid Andreyev","language":"en","description":"Satan's visit to Earth in the form of an American billionaire forces him to reevaluate mankind.","longDescription":["Satan has returned to Earth for a sightseeing visit in the form of the American billionaire Henry Wondergood. Accompanied by his faithful demon butler Toppi they head for Rome, but are sidetracked by an unforeseen accident and end up at the home of the inscrutable Thomas Magnus and his divine daughter Maria. As Satan begins to discover the meaning of being a man, the satanic aspects of mankind become ever more apparent to him.","Leonid Andreyev was a Russian author active in the beginning of the twentieth century, famous mostly for his plays and short fiction, and often portrayed as Russia's equivalent to Edgar Allan Poe. Satan's Diary was his last work, completed just a few days before his death in 1919. This edition was translated by his previous collaborator Herman Bernstein and published in 1920."],"year":null,"genres":["classics","fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/leonid-andreyev/satans-diary/herman-bernstein"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Satan's Diary","length":52,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Preface","length":18201,"mode":"skip"},{"id":"004","title":"I","length":99060,"mode":"type"},{"id":"005","title":"II","length":71399,"mode":"type"},{"id":"006","title":"III","length":77781,"mode":"type"},{"id":"007","title":"IV","length":63506,"mode":"type"},{"id":"008","title":"Colophon","length":1141,"mode":"hide"},{"id":"009","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489919712}
+{
+  "id": "leonid-andreyev--satans-diary",
+  "title": "Satan's Diary",
+  "titleAlpha": "satan's diary",
+  "author": "Leonid Andreyev",
+  "language": "en",
+  "description": "Satan's visit to Earth in the form of an American billionaire forces him to reevaluate mankind.",
+  "longDescription": [
+    "Satan has returned to Earth for a sightseeing visit in the form of the American billionaire Henry Wondergood. Accompanied by his faithful demon butler Toppi they head for Rome, but are sidetracked by an unforeseen accident and end up at the home of the inscrutable Thomas Magnus and his divine daughter Maria. As Satan begins to discover the meaning of being a man, the satanic aspects of mankind become ever more apparent to him.",
+    "Leonid Andreyev was a Russian author active in the beginning of the twentieth century, famous mostly for his plays and short fiction, and often portrayed as Russia's equivalent to Edgar Allan Poe. Satan's Diary was his last work, completed just a few days before his death in 1919. This edition was translated by his previous collaborator Herman Bernstein and published in 1920."
+  ],
+  "year": 1920,
+  "genres": [
+    "classics",
+    "fiction",
+    "fantasy",
+    "satire"
+  ],
+  "topics": [
+    "supernatural"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/leonid-andreyev/satans-diary/herman-bernstein"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Satan's Diary",
+      "length": 52,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Preface",
+      "length": 18201,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "I",
+      "length": 99060,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II",
+      "length": 71399,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III",
+      "length": 77781,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "IV",
+      "length": 63506,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Colophon",
+      "length": 1141,
+      "mode": "hide"
+    },
+    {
+      "id": "009",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL721994W",
+  "goodreadsId": "10922589",
+  "rating": 0.74,
+  "popularity": 2174,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489919712
+}

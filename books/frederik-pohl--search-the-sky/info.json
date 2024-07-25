@@ -1,1 +1,149 @@
-{"id":"frederik-pohl--search-the-sky","title":"Search the Sky","titleAlpha":"search the sky","author":"Frederik Pohl","language":"en","description":"A man visits several worlds as he attempts to discover why humanity is dying out.","longDescription":["After noticing that interstellar spaceships are bypassing their destination planets because they're not able to contact the inhabitants on arrival, a man is sent out to investigate what is happening to humanity. Traveling faster than light, he visits several worlds in his attempt to find the answer, including a world where age determines rank, a world where women are dominant and men are jailed for life for even suggesting the genders should be equal, a world where everyone has converted to a cult dedicated to the world's original settler, and Earth itself.","Originally published in 1954, Search the Sky is the second collaboration between Frederik Pohl and C. M. Kornbluth. The story is a satirical cautionary tale, exaggerating trends the authors saw in our own world. The pair would ultimately publish six novels and several short stories before Kornbluth's death in 1958.","Contemporary critics gave the book a positive reception, though they generally found the pair's first collaboration, The Space Merchants, to be the stronger book. Search the Sky was reprinted in 1977, at which point Spider Robinson, writing in Galaxy magazine in September 1977, credited Pohl and Kornbluth with inspiring an \"explosion\" of satirical science fiction, adding that Pohl and Kornbluth \"didn't invent the notion of extrapolating-beyond-the-point-of-absurdity - but they gave it a quantum jump in sophistication, in relevance, hooked it into an enormously more subtle social consciousness - and gave it a bite like an angry chainsaw.\""],"year":null,"genres":["classics","fiction","science-fiction","travel"],"topics":["space"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Search the Sky","length":38,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I","length":30194,"mode":"type"},{"id":"004","title":"II","length":21521,"mode":"type"},{"id":"005","title":"III","length":12430,"mode":"type"},{"id":"006","title":"IV","length":18055,"mode":"type"},{"id":"007","title":"V","length":20253,"mode":"type"},{"id":"008","title":"VI","length":21796,"mode":"type"},{"id":"009","title":"VII","length":27587,"mode":"type"},{"id":"010","title":"VIII","length":24995,"mode":"type"},{"id":"011","title":"IX","length":21326,"mode":"type"},{"id":"012","title":"X","length":25823,"mode":"type"},{"id":"013","title":"XI","length":26591,"mode":"type"},{"id":"014","title":"XII","length":24515,"mode":"type"},{"id":"015","title":"XIII","length":20683,"mode":"type"},{"id":"016","title":"XIV","length":8293,"mode":"type"},{"id":"017","title":"Colophon","length":1088,"mode":"hide"},{"id":"018","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489683499}
+{
+  "id": "frederik-pohl--search-the-sky",
+  "title": "Search the Sky",
+  "titleAlpha": "search the sky",
+  "author": "Frederik Pohl",
+  "language": "en",
+  "description": "A man visits several worlds as he attempts to discover why humanity is dying out.",
+  "longDescription": [
+    "After noticing that interstellar spaceships are bypassing their destination planets because they're not able to contact the inhabitants on arrival, a man is sent out to investigate what is happening to humanity. Traveling faster than light, he visits several worlds in his attempt to find the answer, including a world where age determines rank, a world where women are dominant and men are jailed for life for even suggesting the genders should be equal, a world where everyone has converted to a cult dedicated to the world's original settler, and Earth itself.",
+    "Originally published in 1954, Search the Sky is the second collaboration between Frederik Pohl and C. M. Kornbluth. The story is a satirical cautionary tale, exaggerating trends the authors saw in our own world. The pair would ultimately publish six novels and several short stories before Kornbluth's death in 1958.",
+    "Contemporary critics gave the book a positive reception, though they generally found the pair's first collaboration, The Space Merchants, to be the stronger book. Search the Sky was reprinted in 1977, at which point Spider Robinson, writing in Galaxy magazine in September 1977, credited Pohl and Kornbluth with inspiring an \"explosion\" of satirical science fiction, adding that Pohl and Kornbluth \"didn't invent the notion of extrapolating-beyond-the-point-of-absurdity - but they gave it a quantum jump in sophistication, in relevance, hooked it into an enormously more subtle social consciousness - and gave it a bite like an angry chainsaw.\""
+  ],
+  "year": 1954,
+  "genres": [
+    "classics",
+    "fiction",
+    "science-fiction",
+    "travel"
+  ],
+  "topics": [
+    "space"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Search the Sky",
+      "length": 38,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I",
+      "length": 30194,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II",
+      "length": 21521,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III",
+      "length": 12430,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV",
+      "length": 18055,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V",
+      "length": 20253,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI",
+      "length": 21796,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII",
+      "length": 27587,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII",
+      "length": 24995,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX",
+      "length": 21326,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X",
+      "length": 25823,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI",
+      "length": 26591,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII",
+      "length": 24515,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII",
+      "length": 20683,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV",
+      "length": 8293,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Colophon",
+      "length": 1088,
+      "mode": "hide"
+    },
+    {
+      "id": "018",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL37766040W",
+  "goodreadsId": "953472",
+  "rating": 0.688,
+  "popularity": 483,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489683499
+}

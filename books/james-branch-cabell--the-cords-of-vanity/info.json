@@ -1,1 +1,1110 @@
-{"id":"james-branch-cabell--the-cords-of-vanity","title":"The Cords of Vanity","titleAlpha":"cords of vanity","author":"James Branch Cabell","language":"en","description":"An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.","longDescription":["The Cords of Vanity by James Branch Cabell is the thirteenth installment in his Biography of the Life of Manuel series.","Robert Etheridge Townsend is an arrogant young man from a prominent wealthy family (he is the great-grandson of Jurgen of Poictesme). As a teenager, he falls in love with Stella, beginning the first of many love affairs. Townsend's vanity allows him to proceed through these love affairs with disregard for the women who are the objects of his \"affection.\" As the years pass, he begins to mature, but still struggles to overcome the need to avoid any situation that may cause him unpleasantness.","The Cords of Vanity was originally published in 1909, and was revised in 1920 (the edition on which this ebook is based) with an introduction by author Wilson Follett. Six of the chapters were originally published as short stories in the monthly literary magazine The Smart Set."],"year":null,"genres":["classics","comedy","fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Cords of Vanity","length":24,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Epigraph","length":134,"mode":"skip"},{"id":"004","title":"Dedication","length":85,"mode":"hide"},{"id":"005","title":"An Introduction - By Wilson Follett","length":10126,"mode":"type"},{"id":"006","title":"Epigraph","length":195,"mode":"skip"},{"id":"007","title":"The Prologue - I: Writing","length":3935,"mode":"type"},{"id":"008","title":"The Prologue - II: Reading","length":7688,"mode":"type"},{"id":"009","title":"The Prologue - III: Arithmetic","length":1044,"mode":"type"},{"id":"010","title":"Epigraph","length":222,"mode":"skip"},{"id":"011","title":"I: He Sits Out a Dance - I","length":1442,"mode":"type"},{"id":"012","title":"I: He Sits Out a Dance - II","length":1834,"mode":"type"},{"id":"013","title":"I: He Sits Out a Dance - III","length":1825,"mode":"type"},{"id":"014","title":"I: He Sits Out a Dance - IV","length":4678,"mode":"type"},{"id":"015","title":"I: He Sits Out a Dance - V","length":1620,"mode":"type"},{"id":"016","title":"II: He Loves Extensively - I","length":2270,"mode":"type"},{"id":"017","title":"II: He Loves Extensively - II","length":2561,"mode":"type"},{"id":"018","title":"II: He Loves Extensively - III","length":3310,"mode":"type"},{"id":"019","title":"II: He Loves Extensively - IV","length":3880,"mode":"type"},{"id":"020","title":"II: He Loves Extensively - V","length":3147,"mode":"type"},{"id":"021","title":"III: He Earns a Stickpin - I","length":1637,"mode":"type"},{"id":"022","title":"III: He Earns a Stickpin - II","length":428,"mode":"type"},{"id":"023","title":"III: He Earns a Stickpin - III","length":1810,"mode":"type"},{"id":"024","title":"III: He Earns a Stickpin - IV","length":1892,"mode":"type"},{"id":"025","title":"III: He Earns a Stickpin - V","length":1434,"mode":"type"},{"id":"026","title":"III: He Earns a Stickpin - VI","length":1133,"mode":"type"},{"id":"027","title":"III: He Earns a Stickpin - VII","length":1952,"mode":"type"},{"id":"028","title":"III: He Earns a Stickpin - VIII","length":2963,"mode":"type"},{"id":"029","title":"III: He Earns a Stickpin - IX","length":601,"mode":"type"},{"id":"030","title":"IV: He Talks with Charteris - I","length":914,"mode":"type"},{"id":"031","title":"IV: He Talks with Charteris - II","length":4591,"mode":"type"},{"id":"032","title":"IV: He Talks with Charteris - III","length":7220,"mode":"type"},{"id":"033","title":"IV: He Talks with Charteris - IV","length":490,"mode":"type"},{"id":"034","title":"V: He Revisits Fairhaven and the Play - I","length":830,"mode":"type"},{"id":"035","title":"V: He Revisits Fairhaven and the Play - II","length":973,"mode":"type"},{"id":"036","title":"V: He Revisits Fairhaven and the Play - III","length":1090,"mode":"type"},{"id":"037","title":"V: He Revisits Fairhaven and the Play - IV","length":2718,"mode":"type"},{"id":"038","title":"V: He Revisits Fairhaven and the Play - V","length":2142,"mode":"type"},{"id":"039","title":"V: He Revisits Fairhaven and the Play - VI","length":1990,"mode":"type"},{"id":"040","title":"V: He Revisits Fairhaven and the Play - VII","length":3340,"mode":"type"},{"id":"041","title":"VI: He Chats Over a Hedge - I","length":921,"mode":"type"},{"id":"042","title":"VI: He Chats Over a Hedge - II","length":1447,"mode":"type"},{"id":"043","title":"VI: He Chats Over a Hedge - III","length":1195,"mode":"type"},{"id":"044","title":"VI: He Chats Over a Hedge - IV","length":4689,"mode":"type"},{"id":"045","title":"VII: He Goes Mad in a Garden - I","length":932,"mode":"type"},{"id":"046","title":"VII: He Goes Mad in a Garden - II","length":1025,"mode":"type"},{"id":"047","title":"VII: He Goes Mad in a Garden - III","length":2252,"mode":"type"},{"id":"048","title":"VII: He Goes Mad in a Garden - IV","length":1496,"mode":"type"},{"id":"049","title":"VII: He Goes Mad in a Garden - V","length":1037,"mode":"type"},{"id":"050","title":"VII: He Goes Mad in a Garden - VI","length":4759,"mode":"type"},{"id":"051","title":"VII: He Goes Mad in a Garden - VII","length":3747,"mode":"type"},{"id":"052","title":"VIII: He Duels with a Stupid Woman - I","length":1056,"mode":"type"},{"id":"053","title":"VIII: He Duels with a Stupid Woman - II","length":11293,"mode":"type"},{"id":"054","title":"VIII: He Duels with a Stupid Woman - III","length":275,"mode":"type"},{"id":"055","title":"IX: He Puts His Tongue in His Cheek - I","length":2825,"mode":"type"},{"id":"056","title":"IX: He Puts His Tongue in His Cheek - II","length":901,"mode":"type"},{"id":"057","title":"IX: He Puts His Tongue in His Cheek - III","length":9041,"mode":"type"},{"id":"058","title":"IX: He Puts His Tongue in His Cheek - IV","length":1865,"mode":"type"},{"id":"059","title":"IX: He Puts His Tongue in His Cheek - V","length":2694,"mode":"type"},{"id":"060","title":"IX: He Puts His Tongue in His Cheek - VI","length":2348,"mode":"type"},{"id":"061","title":"IX: He Puts His Tongue in His Cheek - VII","length":1047,"mode":"type"},{"id":"062","title":"X: He Samples New Emotions - I","length":4080,"mode":"type"},{"id":"063","title":"X: He Samples New Emotions - II","length":1140,"mode":"type"},{"id":"064","title":"X: He Samples New Emotions - III","length":2655,"mode":"type"},{"id":"065","title":"X: He Samples New Emotions - IV","length":263,"mode":"type"},{"id":"066","title":"X: He Samples New Emotions - V","length":386,"mode":"type"},{"id":"067","title":"X: He Samples New Emotions - VI","length":2991,"mode":"type"},{"id":"068","title":"X: He Samples New Emotions - VII","length":2172,"mode":"type"},{"id":"069","title":"X: He Samples New Emotions - VIII","length":3370,"mode":"type"},{"id":"070","title":"XI: He Postures Among Chimney-Pots - I","length":1855,"mode":"type"},{"id":"071","title":"XI: He Postures Among Chimney-Pots - II","length":4738,"mode":"type"},{"id":"072","title":"XI: He Postures Among Chimney-Pots - III","length":2932,"mode":"type"},{"id":"073","title":"XI: He Postures Among Chimney-Pots - IV","length":954,"mode":"type"},{"id":"074","title":"XI: He Postures Among Chimney-Pots - V","length":11112,"mode":"type"},{"id":"075","title":"XII: He Faces Himself and Remembers - I","length":627,"mode":"type"},{"id":"076","title":"XII: He Faces Himself and Remembers - II","length":2973,"mode":"type"},{"id":"077","title":"XII: He Faces Himself and Remembers - III","length":1109,"mode":"type"},{"id":"078","title":"XII: He Faces Himself and Remembers - IV","length":3664,"mode":"type"},{"id":"079","title":"XII: He Faces Himself and Remembers - V","length":3295,"mode":"type"},{"id":"080","title":"XII: He Faces Himself and Remembers - VI","length":1921,"mode":"type"},{"id":"081","title":"XII: He Faces Himself and Remembers - VII","length":471,"mode":"type"},{"id":"082","title":"XIII: He Baits Upon the Journey - I","length":2132,"mode":"type"},{"id":"083","title":"XIII: He Baits Upon the Journey - II","length":2127,"mode":"type"},{"id":"084","title":"XIII: He Baits Upon the Journey - III","length":10186,"mode":"type"},{"id":"085","title":"XIV: He Participates in a Brave Jest - I","length":1099,"mode":"type"},{"id":"086","title":"XIV: He Participates in a Brave Jest - II","length":1768,"mode":"type"},{"id":"087","title":"XIV: He Participates in a Brave Jest - III","length":1936,"mode":"type"},{"id":"088","title":"XIV: He Participates in a Brave Jest - IV","length":5275,"mode":"type"},{"id":"089","title":"XIV: He Participates in a Brave Jest - V","length":664,"mode":"type"},{"id":"090","title":"XV: He Decides to Amuse Himself - I","length":820,"mode":"type"},{"id":"091","title":"XV: He Decides to Amuse Himself - II","length":5078,"mode":"type"},{"id":"092","title":"XV: He Decides to Amuse Himself - III","length":3160,"mode":"type"},{"id":"093","title":"XV: He Decides to Amuse Himself - IV","length":652,"mode":"type"},{"id":"094","title":"XV: He Decides to Amuse Himself - V","length":1750,"mode":"type"},{"id":"095","title":"XV: He Decides to Amuse Himself - VI","length":2015,"mode":"type"},{"id":"096","title":"XVI: He Seeks for Copy - I","length":6929,"mode":"type"},{"id":"097","title":"XVI: He Seeks for Copy - II","length":6244,"mode":"type"},{"id":"098","title":"XVI: He Seeks for Copy - III","length":223,"mode":"type"},{"id":"099","title":"XVII: He Provides Copy - I","length":2626,"mode":"type"},{"id":"100","title":"XVII: He Provides Copy - II","length":1462,"mode":"type"},{"id":"101","title":"XVII: He Provides Copy - III","length":2376,"mode":"type"},{"id":"102","title":"XVII: He Provides Copy - IV","length":6410,"mode":"type"},{"id":"103","title":"XVII: He Provides Copy - V","length":4074,"mode":"type"},{"id":"104","title":"XVII: He Provides Copy - VI","length":1600,"mode":"type"},{"id":"105","title":"XVII: He Provides Copy - VII","length":2494,"mode":"type"},{"id":"106","title":"XVII: He Provides Copy - VIII","length":929,"mode":"type"},{"id":"107","title":"XVII: He Provides Copy - IX","length":803,"mode":"type"},{"id":"108","title":"XVIII: He Spends an Afternoon in Arden - I","length":716,"mode":"type"},{"id":"109","title":"XVIII: He Spends an Afternoon in Arden - II","length":884,"mode":"type"},{"id":"110","title":"XVIII: He Spends an Afternoon in Arden - III","length":15949,"mode":"type"},{"id":"111","title":"XVIII: He Spends an Afternoon in Arden - IV","length":791,"mode":"type"},{"id":"112","title":"XIX: He Plays the Improvident Fool - I","length":3104,"mode":"type"},{"id":"113","title":"XIX: He Plays the Improvident Fool - II","length":2408,"mode":"type"},{"id":"114","title":"XIX: He Plays the Improvident Fool - III","length":6390,"mode":"type"},{"id":"115","title":"XIX: He Plays the Improvident Fool - IV","length":3644,"mode":"type"},{"id":"116","title":"XIX: He Plays the Improvident Fool - V","length":2029,"mode":"type"},{"id":"117","title":"XIX: He Plays the Improvident Fool - VI","length":6247,"mode":"type"},{"id":"118","title":"XIX: He Plays the Improvident Fool - VII","length":750,"mode":"type"},{"id":"119","title":"XX: He Dines Out, Impeded by Superstitions - I","length":9760,"mode":"type"},{"id":"120","title":"XX: He Dines Out, Impeded by Superstitions - II","length":1334,"mode":"type"},{"id":"121","title":"XX: He Dines Out, Impeded by Superstitions - III","length":5948,"mode":"type"},{"id":"122","title":"XXI: He Is Urged to Desert His Galley - I","length":740,"mode":"type"},{"id":"123","title":"XXI: He Is Urged to Desert His Galley - II","length":1349,"mode":"type"},{"id":"124","title":"XXI: He Is Urged to Desert His Galley - III","length":2107,"mode":"type"},{"id":"125","title":"XXI: He Is Urged to Desert His Galley - IV","length":886,"mode":"type"},{"id":"126","title":"XXI: He Is Urged to Desert His Galley - V","length":2110,"mode":"type"},{"id":"127","title":"XXI: He Is Urged to Desert His Galley - VI","length":5574,"mode":"type"},{"id":"128","title":"XXI: He Is Urged to Desert His Galley - VII","length":5494,"mode":"type"},{"id":"129","title":"XXI: He Is Urged to Desert His Galley - VIII","length":679,"mode":"type"},{"id":"130","title":"XXII: He Cleans the Slate - I","length":1356,"mode":"type"},{"id":"131","title":"XXII: He Cleans the Slate - II","length":3424,"mode":"type"},{"id":"132","title":"XXII: He Cleans the Slate - III","length":5556,"mode":"type"},{"id":"133","title":"XXII: He Cleans the Slate - IV","length":2604,"mode":"type"},{"id":"134","title":"XXII: He Cleans the Slate - V","length":705,"mode":"type"},{"id":"135","title":"XXIII: He Reviles Destiny and Climbs a Wall - I","length":1845,"mode":"type"},{"id":"136","title":"XXIII: He Reviles Destiny and Climbs a Wall - II","length":10162,"mode":"type"},{"id":"137","title":"XXIII: He Reviles Destiny and Climbs a Wall - III","length":1562,"mode":"type"},{"id":"138","title":"XXIV: He Reconciles Sentiment and Reason - I","length":1663,"mode":"type"},{"id":"139","title":"XXIV: He Reconciles Sentiment and Reason - II","length":8408,"mode":"type"},{"id":"140","title":"XXIV: He Reconciles Sentiment and Reason - III","length":4430,"mode":"type"},{"id":"141","title":"XXV: He Advances in the Attack on Selwoode - I","length":2115,"mode":"type"},{"id":"142","title":"XXV: He Advances in the Attack on Selwoode - II","length":1298,"mode":"type"},{"id":"143","title":"XXV: He Advances in the Attack on Selwoode - III","length":1319,"mode":"type"},{"id":"144","title":"XXV: He Advances in the Attack on Selwoode - IV","length":1834,"mode":"type"},{"id":"145","title":"XXV: He Advances in the Attack on Selwoode - V","length":576,"mode":"type"},{"id":"146","title":"XXV: He Advances in the Attack on Selwoode - VI","length":1005,"mode":"type"},{"id":"147","title":"XXV: He Advances in the Attack on Selwoode - VII","length":1197,"mode":"type"},{"id":"148","title":"XXVI: He Assists in the Diversion of Birds - I","length":882,"mode":"type"},{"id":"149","title":"XXVI: He Assists in the Diversion of Birds - II","length":9635,"mode":"type"},{"id":"150","title":"XXVI: He Assists in the Diversion of Birds - III","length":513,"mode":"type"},{"id":"151","title":"XXVII: He Calls, and Counsels, and Considers - I","length":1957,"mode":"type"},{"id":"152","title":"XXVII: He Calls, and Counsels, and Considers - II","length":879,"mode":"type"},{"id":"153","title":"XXVII: He Calls, and Counsels, and Considers - III","length":3669,"mode":"type"},{"id":"154","title":"XXVII: He Calls, and Counsels, and Considers - IV","length":1277,"mode":"type"},{"id":"155","title":"XXVII: He Calls, and Counsels, and Considers - V","length":1887,"mode":"type"},{"id":"156","title":"XXVII: He Calls, and Counsels, and Considers - VI","length":3884,"mode":"type"},{"id":"157","title":"XXVII: He Calls, and Counsels, and Considers - VII","length":3412,"mode":"type"},{"id":"158","title":"XXVII: He Calls, and Counsels, and Considers - VIII","length":1854,"mode":"type"},{"id":"159","title":"XXVII: He Calls, and Counsels, and Considers - IX","length":3082,"mode":"type"},{"id":"160","title":"XXVII: He Calls, and Counsels, and Considers - X","length":2552,"mode":"type"},{"id":"161","title":"XXVII: He Calls, and Counsels, and Considers - XI","length":1192,"mode":"type"},{"id":"162","title":"XXVIII: He Participates in Sundry Confidences - I","length":1832,"mode":"type"},{"id":"163","title":"XXVIII: He Participates in Sundry Confidences - II","length":3542,"mode":"type"},{"id":"164","title":"XXVIII: He Participates in Sundry Confidences - III","length":2215,"mode":"type"},{"id":"165","title":"XXVIII: He Participates in Sundry Confidences - IV","length":4393,"mode":"type"},{"id":"166","title":"XXVIII: He Participates in Sundry Confidences - V","length":2440,"mode":"type"},{"id":"167","title":"XXVIII: He Participates in Sundry Confidences - VI","length":2397,"mode":"type"},{"id":"168","title":"XXVIII: He Participates in Sundry Confidences - VII","length":1556,"mode":"type"},{"id":"169","title":"XXIX: He Allows the Merits of Imperfection - I","length":1210,"mode":"type"},{"id":"170","title":"XXIX: He Allows the Merits of Imperfection - II","length":7370,"mode":"type"},{"id":"171","title":"XXIX: He Allows the Merits of Imperfection - III","length":6172,"mode":"type"},{"id":"172","title":"XXX: He Gilds the Weathervane - I","length":1209,"mode":"type"},{"id":"173","title":"XXX: He Gilds the Weathervane - II","length":1921,"mode":"type"},{"id":"174","title":"XXX: He Gilds the Weathervane - III","length":5362,"mode":"type"},{"id":"175","title":"XXX: He Gilds the Weathervane - IV","length":3003,"mode":"type"},{"id":"176","title":"The Epilogue - Which Suggests That Second Thoughts -","length":2493,"mode":"type"},{"id":"177","title":"Colophon","length":1099,"mode":"hide"},{"id":"178","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489824674}
+{
+  "id": "james-branch-cabell--the-cords-of-vanity",
+  "title": "The Cords of Vanity",
+  "titleAlpha": "cords of vanity",
+  "author": "James Branch Cabell",
+  "language": "en",
+  "description": "An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.",
+  "longDescription": [
+    "The Cords of Vanity by James Branch Cabell is the thirteenth installment in his Biography of the Life of Manuel series.",
+    "Robert Etheridge Townsend is an arrogant young man from a prominent wealthy family (he is the great-grandson of Jurgen of Poictesme). As a teenager, he falls in love with Stella, beginning the first of many love affairs. Townsend's vanity allows him to proceed through these love affairs with disregard for the women who are the objects of his \"affection.\" As the years pass, he begins to mature, but still struggles to overcome the need to avoid any situation that may cause him unpleasantness.",
+    "The Cords of Vanity was originally published in 1909, and was revised in 1920 (the edition on which this ebook is based) with an introduction by author Wilson Follett. Six of the chapters were originally published as short stories in the monthly literary magazine The Smart Set."
+  ],
+  "year": 1909,
+  "genres": [
+    "classics",
+    "comedy",
+    "fiction",
+    "fantasy",
+    "romance"
+  ],
+  "topics": [
+    "medieval"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "The Biography of Manuel",
+  "part": 13,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Cords of Vanity",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Epigraph",
+      "length": 134,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Dedication",
+      "length": 85,
+      "mode": "hide"
+    },
+    {
+      "id": "005",
+      "title": "An Introduction - By Wilson Follett",
+      "length": 10126,
+      "mode": "skip"
+    },
+    {
+      "id": "006",
+      "title": "Epigraph",
+      "length": 195,
+      "mode": "skip"
+    },
+    {
+      "id": "007",
+      "title": "The Prologue - I: Writing",
+      "length": 3935,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "The Prologue - II: Reading",
+      "length": 7688,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "The Prologue - III: Arithmetic",
+      "length": 1044,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Epigraph",
+      "length": 222,
+      "mode": "skip"
+    },
+    {
+      "id": "011",
+      "title": "I: He Sits Out a Dance - I",
+      "length": 1442,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "I: He Sits Out a Dance - II",
+      "length": 1834,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "I: He Sits Out a Dance - III",
+      "length": 1825,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "I: He Sits Out a Dance - IV",
+      "length": 4678,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "I: He Sits Out a Dance - V",
+      "length": 1620,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "II: He Loves Extensively - I",
+      "length": 2270,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "II: He Loves Extensively - II",
+      "length": 2561,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "II: He Loves Extensively - III",
+      "length": 3310,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "II: He Loves Extensively - IV",
+      "length": 3880,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "II: He Loves Extensively - V",
+      "length": 3147,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "III: He Earns a Stickpin - I",
+      "length": 1637,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "III: He Earns a Stickpin - II",
+      "length": 428,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "III: He Earns a Stickpin - III",
+      "length": 1810,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "III: He Earns a Stickpin - IV",
+      "length": 1892,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "III: He Earns a Stickpin - V",
+      "length": 1434,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "III: He Earns a Stickpin - VI",
+      "length": 1133,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "III: He Earns a Stickpin - VII",
+      "length": 1952,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "III: He Earns a Stickpin - VIII",
+      "length": 2963,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "III: He Earns a Stickpin - IX",
+      "length": 601,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "IV: He Talks with Charteris - I",
+      "length": 914,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "IV: He Talks with Charteris - II",
+      "length": 4591,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "IV: He Talks with Charteris - III",
+      "length": 7220,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "IV: He Talks with Charteris - IV",
+      "length": 490,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "V: He Revisits Fairhaven and the Play - I",
+      "length": 830,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "V: He Revisits Fairhaven and the Play - II",
+      "length": 973,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "V: He Revisits Fairhaven and the Play - III",
+      "length": 1090,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "V: He Revisits Fairhaven and the Play - IV",
+      "length": 2718,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "V: He Revisits Fairhaven and the Play - V",
+      "length": 2142,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "V: He Revisits Fairhaven and the Play - VI",
+      "length": 1990,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "V: He Revisits Fairhaven and the Play - VII",
+      "length": 3340,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "VI: He Chats Over a Hedge - I",
+      "length": 921,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "VI: He Chats Over a Hedge - II",
+      "length": 1447,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "VI: He Chats Over a Hedge - III",
+      "length": 1195,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "VI: He Chats Over a Hedge - IV",
+      "length": 4689,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "VII: He Goes Mad in a Garden - I",
+      "length": 932,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "VII: He Goes Mad in a Garden - II",
+      "length": 1025,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "VII: He Goes Mad in a Garden - III",
+      "length": 2252,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "VII: He Goes Mad in a Garden - IV",
+      "length": 1496,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "VII: He Goes Mad in a Garden - V",
+      "length": 1037,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "VII: He Goes Mad in a Garden - VI",
+      "length": 4759,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "VII: He Goes Mad in a Garden - VII",
+      "length": 3747,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "VIII: He Duels with a Stupid Woman - I",
+      "length": 1056,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "VIII: He Duels with a Stupid Woman - II",
+      "length": 11293,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "VIII: He Duels with a Stupid Woman - III",
+      "length": 275,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "IX: He Puts His Tongue in His Cheek - I",
+      "length": 2825,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "IX: He Puts His Tongue in His Cheek - II",
+      "length": 901,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "IX: He Puts His Tongue in His Cheek - III",
+      "length": 9041,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "IX: He Puts His Tongue in His Cheek - IV",
+      "length": 1865,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "IX: He Puts His Tongue in His Cheek - V",
+      "length": 2694,
+      "mode": "type"
+    },
+    {
+      "id": "060",
+      "title": "IX: He Puts His Tongue in His Cheek - VI",
+      "length": 2348,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "IX: He Puts His Tongue in His Cheek - VII",
+      "length": 1047,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "X: He Samples New Emotions - I",
+      "length": 4080,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "X: He Samples New Emotions - II",
+      "length": 1140,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "X: He Samples New Emotions - III",
+      "length": 2655,
+      "mode": "type"
+    },
+    {
+      "id": "065",
+      "title": "X: He Samples New Emotions - IV",
+      "length": 263,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "X: He Samples New Emotions - V",
+      "length": 386,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "X: He Samples New Emotions - VI",
+      "length": 2991,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "X: He Samples New Emotions - VII",
+      "length": 2172,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "X: He Samples New Emotions - VIII",
+      "length": 3370,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "XI: He Postures Among Chimney-Pots - I",
+      "length": 1855,
+      "mode": "type"
+    },
+    {
+      "id": "071",
+      "title": "XI: He Postures Among Chimney-Pots - II",
+      "length": 4738,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "XI: He Postures Among Chimney-Pots - III",
+      "length": 2932,
+      "mode": "type"
+    },
+    {
+      "id": "073",
+      "title": "XI: He Postures Among Chimney-Pots - IV",
+      "length": 954,
+      "mode": "type"
+    },
+    {
+      "id": "074",
+      "title": "XI: He Postures Among Chimney-Pots - V",
+      "length": 11112,
+      "mode": "type"
+    },
+    {
+      "id": "075",
+      "title": "XII: He Faces Himself and Remembers - I",
+      "length": 627,
+      "mode": "type"
+    },
+    {
+      "id": "076",
+      "title": "XII: He Faces Himself and Remembers - II",
+      "length": 2973,
+      "mode": "type"
+    },
+    {
+      "id": "077",
+      "title": "XII: He Faces Himself and Remembers - III",
+      "length": 1109,
+      "mode": "type"
+    },
+    {
+      "id": "078",
+      "title": "XII: He Faces Himself and Remembers - IV",
+      "length": 3664,
+      "mode": "type"
+    },
+    {
+      "id": "079",
+      "title": "XII: He Faces Himself and Remembers - V",
+      "length": 3295,
+      "mode": "type"
+    },
+    {
+      "id": "080",
+      "title": "XII: He Faces Himself and Remembers - VI",
+      "length": 1921,
+      "mode": "type"
+    },
+    {
+      "id": "081",
+      "title": "XII: He Faces Himself and Remembers - VII",
+      "length": 471,
+      "mode": "type"
+    },
+    {
+      "id": "082",
+      "title": "XIII: He Baits Upon the Journey - I",
+      "length": 2132,
+      "mode": "type"
+    },
+    {
+      "id": "083",
+      "title": "XIII: He Baits Upon the Journey - II",
+      "length": 2127,
+      "mode": "type"
+    },
+    {
+      "id": "084",
+      "title": "XIII: He Baits Upon the Journey - III",
+      "length": 10186,
+      "mode": "type"
+    },
+    {
+      "id": "085",
+      "title": "XIV: He Participates in a Brave Jest - I",
+      "length": 1099,
+      "mode": "type"
+    },
+    {
+      "id": "086",
+      "title": "XIV: He Participates in a Brave Jest - II",
+      "length": 1768,
+      "mode": "type"
+    },
+    {
+      "id": "087",
+      "title": "XIV: He Participates in a Brave Jest - III",
+      "length": 1936,
+      "mode": "type"
+    },
+    {
+      "id": "088",
+      "title": "XIV: He Participates in a Brave Jest - IV",
+      "length": 5275,
+      "mode": "type"
+    },
+    {
+      "id": "089",
+      "title": "XIV: He Participates in a Brave Jest - V",
+      "length": 664,
+      "mode": "type"
+    },
+    {
+      "id": "090",
+      "title": "XV: He Decides to Amuse Himself - I",
+      "length": 820,
+      "mode": "type"
+    },
+    {
+      "id": "091",
+      "title": "XV: He Decides to Amuse Himself - II",
+      "length": 5078,
+      "mode": "type"
+    },
+    {
+      "id": "092",
+      "title": "XV: He Decides to Amuse Himself - III",
+      "length": 3160,
+      "mode": "type"
+    },
+    {
+      "id": "093",
+      "title": "XV: He Decides to Amuse Himself - IV",
+      "length": 652,
+      "mode": "type"
+    },
+    {
+      "id": "094",
+      "title": "XV: He Decides to Amuse Himself - V",
+      "length": 1750,
+      "mode": "type"
+    },
+    {
+      "id": "095",
+      "title": "XV: He Decides to Amuse Himself - VI",
+      "length": 2015,
+      "mode": "type"
+    },
+    {
+      "id": "096",
+      "title": "XVI: He Seeks for Copy - I",
+      "length": 6929,
+      "mode": "type"
+    },
+    {
+      "id": "097",
+      "title": "XVI: He Seeks for Copy - II",
+      "length": 6244,
+      "mode": "type"
+    },
+    {
+      "id": "098",
+      "title": "XVI: He Seeks for Copy - III",
+      "length": 223,
+      "mode": "type"
+    },
+    {
+      "id": "099",
+      "title": "XVII: He Provides Copy - I",
+      "length": 2626,
+      "mode": "type"
+    },
+    {
+      "id": "100",
+      "title": "XVII: He Provides Copy - II",
+      "length": 1462,
+      "mode": "type"
+    },
+    {
+      "id": "101",
+      "title": "XVII: He Provides Copy - III",
+      "length": 2376,
+      "mode": "type"
+    },
+    {
+      "id": "102",
+      "title": "XVII: He Provides Copy - IV",
+      "length": 6410,
+      "mode": "type"
+    },
+    {
+      "id": "103",
+      "title": "XVII: He Provides Copy - V",
+      "length": 4074,
+      "mode": "type"
+    },
+    {
+      "id": "104",
+      "title": "XVII: He Provides Copy - VI",
+      "length": 1600,
+      "mode": "type"
+    },
+    {
+      "id": "105",
+      "title": "XVII: He Provides Copy - VII",
+      "length": 2494,
+      "mode": "type"
+    },
+    {
+      "id": "106",
+      "title": "XVII: He Provides Copy - VIII",
+      "length": 929,
+      "mode": "type"
+    },
+    {
+      "id": "107",
+      "title": "XVII: He Provides Copy - IX",
+      "length": 803,
+      "mode": "type"
+    },
+    {
+      "id": "108",
+      "title": "XVIII: He Spends an Afternoon in Arden - I",
+      "length": 716,
+      "mode": "type"
+    },
+    {
+      "id": "109",
+      "title": "XVIII: He Spends an Afternoon in Arden - II",
+      "length": 884,
+      "mode": "type"
+    },
+    {
+      "id": "110",
+      "title": "XVIII: He Spends an Afternoon in Arden - III",
+      "length": 15949,
+      "mode": "type"
+    },
+    {
+      "id": "111",
+      "title": "XVIII: He Spends an Afternoon in Arden - IV",
+      "length": 791,
+      "mode": "type"
+    },
+    {
+      "id": "112",
+      "title": "XIX: He Plays the Improvident Fool - I",
+      "length": 3104,
+      "mode": "type"
+    },
+    {
+      "id": "113",
+      "title": "XIX: He Plays the Improvident Fool - II",
+      "length": 2408,
+      "mode": "type"
+    },
+    {
+      "id": "114",
+      "title": "XIX: He Plays the Improvident Fool - III",
+      "length": 6390,
+      "mode": "type"
+    },
+    {
+      "id": "115",
+      "title": "XIX: He Plays the Improvident Fool - IV",
+      "length": 3644,
+      "mode": "type"
+    },
+    {
+      "id": "116",
+      "title": "XIX: He Plays the Improvident Fool - V",
+      "length": 2029,
+      "mode": "type"
+    },
+    {
+      "id": "117",
+      "title": "XIX: He Plays the Improvident Fool - VI",
+      "length": 6247,
+      "mode": "type"
+    },
+    {
+      "id": "118",
+      "title": "XIX: He Plays the Improvident Fool - VII",
+      "length": 750,
+      "mode": "type"
+    },
+    {
+      "id": "119",
+      "title": "XX: He Dines Out, Impeded by Superstitions - I",
+      "length": 9760,
+      "mode": "type"
+    },
+    {
+      "id": "120",
+      "title": "XX: He Dines Out, Impeded by Superstitions - II",
+      "length": 1334,
+      "mode": "type"
+    },
+    {
+      "id": "121",
+      "title": "XX: He Dines Out, Impeded by Superstitions - III",
+      "length": 5948,
+      "mode": "type"
+    },
+    {
+      "id": "122",
+      "title": "XXI: He Is Urged to Desert His Galley - I",
+      "length": 740,
+      "mode": "type"
+    },
+    {
+      "id": "123",
+      "title": "XXI: He Is Urged to Desert His Galley - II",
+      "length": 1349,
+      "mode": "type"
+    },
+    {
+      "id": "124",
+      "title": "XXI: He Is Urged to Desert His Galley - III",
+      "length": 2107,
+      "mode": "type"
+    },
+    {
+      "id": "125",
+      "title": "XXI: He Is Urged to Desert His Galley - IV",
+      "length": 886,
+      "mode": "type"
+    },
+    {
+      "id": "126",
+      "title": "XXI: He Is Urged to Desert His Galley - V",
+      "length": 2110,
+      "mode": "type"
+    },
+    {
+      "id": "127",
+      "title": "XXI: He Is Urged to Desert His Galley - VI",
+      "length": 5574,
+      "mode": "type"
+    },
+    {
+      "id": "128",
+      "title": "XXI: He Is Urged to Desert His Galley - VII",
+      "length": 5494,
+      "mode": "type"
+    },
+    {
+      "id": "129",
+      "title": "XXI: He Is Urged to Desert His Galley - VIII",
+      "length": 679,
+      "mode": "type"
+    },
+    {
+      "id": "130",
+      "title": "XXII: He Cleans the Slate - I",
+      "length": 1356,
+      "mode": "type"
+    },
+    {
+      "id": "131",
+      "title": "XXII: He Cleans the Slate - II",
+      "length": 3424,
+      "mode": "type"
+    },
+    {
+      "id": "132",
+      "title": "XXII: He Cleans the Slate - III",
+      "length": 5556,
+      "mode": "type"
+    },
+    {
+      "id": "133",
+      "title": "XXII: He Cleans the Slate - IV",
+      "length": 2604,
+      "mode": "type"
+    },
+    {
+      "id": "134",
+      "title": "XXII: He Cleans the Slate - V",
+      "length": 705,
+      "mode": "type"
+    },
+    {
+      "id": "135",
+      "title": "XXIII: He Reviles Destiny and Climbs a Wall - I",
+      "length": 1845,
+      "mode": "type"
+    },
+    {
+      "id": "136",
+      "title": "XXIII: He Reviles Destiny and Climbs a Wall - II",
+      "length": 10162,
+      "mode": "type"
+    },
+    {
+      "id": "137",
+      "title": "XXIII: He Reviles Destiny and Climbs a Wall - III",
+      "length": 1562,
+      "mode": "type"
+    },
+    {
+      "id": "138",
+      "title": "XXIV: He Reconciles Sentiment and Reason - I",
+      "length": 1663,
+      "mode": "type"
+    },
+    {
+      "id": "139",
+      "title": "XXIV: He Reconciles Sentiment and Reason - II",
+      "length": 8408,
+      "mode": "type"
+    },
+    {
+      "id": "140",
+      "title": "XXIV: He Reconciles Sentiment and Reason - III",
+      "length": 4430,
+      "mode": "type"
+    },
+    {
+      "id": "141",
+      "title": "XXV: He Advances in the Attack on Selwoode - I",
+      "length": 2115,
+      "mode": "type"
+    },
+    {
+      "id": "142",
+      "title": "XXV: He Advances in the Attack on Selwoode - II",
+      "length": 1298,
+      "mode": "type"
+    },
+    {
+      "id": "143",
+      "title": "XXV: He Advances in the Attack on Selwoode - III",
+      "length": 1319,
+      "mode": "type"
+    },
+    {
+      "id": "144",
+      "title": "XXV: He Advances in the Attack on Selwoode - IV",
+      "length": 1834,
+      "mode": "type"
+    },
+    {
+      "id": "145",
+      "title": "XXV: He Advances in the Attack on Selwoode - V",
+      "length": 576,
+      "mode": "type"
+    },
+    {
+      "id": "146",
+      "title": "XXV: He Advances in the Attack on Selwoode - VI",
+      "length": 1005,
+      "mode": "type"
+    },
+    {
+      "id": "147",
+      "title": "XXV: He Advances in the Attack on Selwoode - VII",
+      "length": 1197,
+      "mode": "type"
+    },
+    {
+      "id": "148",
+      "title": "XXVI: He Assists in the Diversion of Birds - I",
+      "length": 882,
+      "mode": "type"
+    },
+    {
+      "id": "149",
+      "title": "XXVI: He Assists in the Diversion of Birds - II",
+      "length": 9635,
+      "mode": "type"
+    },
+    {
+      "id": "150",
+      "title": "XXVI: He Assists in the Diversion of Birds - III",
+      "length": 513,
+      "mode": "type"
+    },
+    {
+      "id": "151",
+      "title": "XXVII: He Calls, and Counsels, and Considers - I",
+      "length": 1957,
+      "mode": "type"
+    },
+    {
+      "id": "152",
+      "title": "XXVII: He Calls, and Counsels, and Considers - II",
+      "length": 879,
+      "mode": "type"
+    },
+    {
+      "id": "153",
+      "title": "XXVII: He Calls, and Counsels, and Considers - III",
+      "length": 3669,
+      "mode": "type"
+    },
+    {
+      "id": "154",
+      "title": "XXVII: He Calls, and Counsels, and Considers - IV",
+      "length": 1277,
+      "mode": "type"
+    },
+    {
+      "id": "155",
+      "title": "XXVII: He Calls, and Counsels, and Considers - V",
+      "length": 1887,
+      "mode": "type"
+    },
+    {
+      "id": "156",
+      "title": "XXVII: He Calls, and Counsels, and Considers - VI",
+      "length": 3884,
+      "mode": "type"
+    },
+    {
+      "id": "157",
+      "title": "XXVII: He Calls, and Counsels, and Considers - VII",
+      "length": 3412,
+      "mode": "type"
+    },
+    {
+      "id": "158",
+      "title": "XXVII: He Calls, and Counsels, and Considers - VIII",
+      "length": 1854,
+      "mode": "type"
+    },
+    {
+      "id": "159",
+      "title": "XXVII: He Calls, and Counsels, and Considers - IX",
+      "length": 3082,
+      "mode": "type"
+    },
+    {
+      "id": "160",
+      "title": "XXVII: He Calls, and Counsels, and Considers - X",
+      "length": 2552,
+      "mode": "type"
+    },
+    {
+      "id": "161",
+      "title": "XXVII: He Calls, and Counsels, and Considers - XI",
+      "length": 1192,
+      "mode": "type"
+    },
+    {
+      "id": "162",
+      "title": "XXVIII: He Participates in Sundry Confidences - I",
+      "length": 1832,
+      "mode": "type"
+    },
+    {
+      "id": "163",
+      "title": "XXVIII: He Participates in Sundry Confidences - II",
+      "length": 3542,
+      "mode": "type"
+    },
+    {
+      "id": "164",
+      "title": "XXVIII: He Participates in Sundry Confidences - III",
+      "length": 2215,
+      "mode": "type"
+    },
+    {
+      "id": "165",
+      "title": "XXVIII: He Participates in Sundry Confidences - IV",
+      "length": 4393,
+      "mode": "type"
+    },
+    {
+      "id": "166",
+      "title": "XXVIII: He Participates in Sundry Confidences - V",
+      "length": 2440,
+      "mode": "type"
+    },
+    {
+      "id": "167",
+      "title": "XXVIII: He Participates in Sundry Confidences - VI",
+      "length": 2397,
+      "mode": "type"
+    },
+    {
+      "id": "168",
+      "title": "XXVIII: He Participates in Sundry Confidences - VII",
+      "length": 1556,
+      "mode": "type"
+    },
+    {
+      "id": "169",
+      "title": "XXIX: He Allows the Merits of Imperfection - I",
+      "length": 1210,
+      "mode": "type"
+    },
+    {
+      "id": "170",
+      "title": "XXIX: He Allows the Merits of Imperfection - II",
+      "length": 7370,
+      "mode": "type"
+    },
+    {
+      "id": "171",
+      "title": "XXIX: He Allows the Merits of Imperfection - III",
+      "length": 6172,
+      "mode": "type"
+    },
+    {
+      "id": "172",
+      "title": "XXX: He Gilds the Weathervane - I",
+      "length": 1209,
+      "mode": "type"
+    },
+    {
+      "id": "173",
+      "title": "XXX: He Gilds the Weathervane - II",
+      "length": 1921,
+      "mode": "type"
+    },
+    {
+      "id": "174",
+      "title": "XXX: He Gilds the Weathervane - III",
+      "length": 5362,
+      "mode": "type"
+    },
+    {
+      "id": "175",
+      "title": "XXX: He Gilds the Weathervane - IV",
+      "length": 3003,
+      "mode": "type"
+    },
+    {
+      "id": "176",
+      "title": "The Epilogue - Which Suggests That Second Thoughts -",
+      "length": 2493,
+      "mode": "type"
+    },
+    {
+      "id": "177",
+      "title": "Colophon",
+      "length": 1099,
+      "mode": "hide"
+    },
+    {
+      "id": "178",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL6585778W",
+  "goodreadsId": "1699615",
+  "rating": 0.6900000000000001,
+  "popularity": 22,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489824674
+}

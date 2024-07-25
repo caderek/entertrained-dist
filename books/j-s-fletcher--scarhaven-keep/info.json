@@ -1,1 +1,248 @@
-{"id":"j-s-fletcher--scarhaven-keep","title":"Scarhaven Keep","titleAlpha":"scarhaven keep","author":"J. S. Fletcher","language":"en","description":"A famous actor goes missing on the northern English sea coast.","longDescription":["In Scarhaven Keep, the playwright Richard Copplestone is pulled into a search for a missing actor which leads him to the town of Scarhaven on the northern English sea coast. As he slowly uncovers the secrets of the residents of Scarhaven, the mystery deepens and reveals much more than a simple missing person."],"year":1922,"genres":["classics","fiction","mystery"],"topics":["detective"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/j-s-fletcher/scarhaven-keep"},"openlibraryId":"OL1797754W","goodreadsId":"2465305","rating":0.43897648,"popularity":12,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Scarhaven Keep","length":19,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I: Wanted at Rehersal","length":12523,"mode":"type"},{"id":"004","title":"II: Grey Rock and Grey Sea","length":15929,"mode":"type"},{"id":"005","title":"III: The Man Who Knew Something","length":13543,"mode":"type"},{"id":"006","title":"IV: The Estate Agent","length":13963,"mode":"type"},{"id":"007","title":"V: The Greyle History","length":13405,"mode":"type"},{"id":"008","title":"VI: The Leading Lady","length":11634,"mode":"type"},{"id":"009","title":"VII: Left on Guard","length":15642,"mode":"type"},{"id":"010","title":"VIII: Right of Way","length":13180,"mode":"type"},{"id":"011","title":"IX: Hobkin's Hole","length":13755,"mode":"type"},{"id":"012","title":"X: The Invalid Curate","length":13409,"mode":"type"},{"id":"013","title":"XI: Beneath the Brambles","length":14085,"mode":"type"},{"id":"014","title":"XII: Good Men and True","length":13803,"mode":"type"},{"id":"015","title":"XIII: Mr. Dennie","length":12666,"mode":"type"},{"id":"016","title":"XIV: By Private Treaty","length":14810,"mode":"type"},{"id":"017","title":"XV: The Cablegram from New York","length":12638,"mode":"type"},{"id":"018","title":"XVI: In Touch with the Missing","length":14527,"mode":"type"},{"id":"019","title":"XVII: The Old Playbill","length":13617,"mode":"type"},{"id":"020","title":"XVIII: The Lie on the Tombstone","length":12248,"mode":"type"},{"id":"021","title":"XIX: The Steam Yacht","length":15064,"mode":"type"},{"id":"022","title":"XX: The Courteous Captain","length":16201,"mode":"type"},{"id":"023","title":"XXI: Marooned","length":11480,"mode":"type"},{"id":"024","title":"XXII: The Old Hand","length":14145,"mode":"type"},{"id":"025","title":"XXIII: The Yacht Comes Back","length":12252,"mode":"type"},{"id":"026","title":"XXIV: The Torpedo-Boat Destroyer","length":11097,"mode":"type"},{"id":"027","title":"XXV: The Squire","length":12713,"mode":"type"},{"id":"028","title":"XXVI: The Reaver's Glen","length":13060,"mode":"type"},{"id":"029","title":"XXVII: The Peel Tower","length":13126,"mode":"type"},{"id":"030","title":"XXVIII: The Footprints","length":10933,"mode":"type"},{"id":"031","title":"XXIX: Scarvell's Cut","length":11465,"mode":"type"},{"id":"032","title":"XXX: The Greengrocer's Cart","length":15288,"mode":"type"},{"id":"033","title":"XXXI: Ambassadress Extraordinary","length":16001,"mode":"type"},{"id":"034","title":"Colophon","length":1111,"mode":"hide"},{"id":"035","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489800694}
+{
+  "id": "j-s-fletcher--scarhaven-keep",
+  "title": "Scarhaven Keep",
+  "titleAlpha": "scarhaven keep",
+  "author": "J. S. Fletcher",
+  "language": "en",
+  "description": "A famous actor goes missing on the northern English sea coast.",
+  "longDescription": [
+    "In Scarhaven Keep, the playwright Richard Copplestone is pulled into a search for a missing actor which leads him to the town of Scarhaven on the northern English sea coast. As he slowly uncovers the secrets of the residents of Scarhaven, the mystery deepens and reveals much more than a simple missing person."
+  ],
+  "year": 1920,
+  "genres": [
+    "classics",
+    "fiction",
+    "mystery"
+  ],
+  "topics": [
+    "detective"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/j-s-fletcher/scarhaven-keep"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Scarhaven Keep",
+      "length": 19,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: Wanted at Rehersal",
+      "length": 12523,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: Grey Rock and Grey Sea",
+      "length": 15929,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: The Man Who Knew Something",
+      "length": 13543,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: The Estate Agent",
+      "length": 13963,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: The Greyle History",
+      "length": 13405,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: The Leading Lady",
+      "length": 11634,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: Left on Guard",
+      "length": 15642,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: Right of Way",
+      "length": 13180,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: Hobkin's Hole",
+      "length": 13755,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: The Invalid Curate",
+      "length": 13409,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: Beneath the Brambles",
+      "length": 14085,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: Good Men and True",
+      "length": 13803,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: Mr. Dennie",
+      "length": 12666,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: By Private Treaty",
+      "length": 14810,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: The Cablegram from New York",
+      "length": 12638,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI: In Touch with the Missing",
+      "length": 14527,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII: The Old Playbill",
+      "length": 13617,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII: The Lie on the Tombstone",
+      "length": 12248,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX: The Steam Yacht",
+      "length": 15064,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX: The Courteous Captain",
+      "length": 16201,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI: Marooned",
+      "length": 11480,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII: The Old Hand",
+      "length": 14145,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII: The Yacht Comes Back",
+      "length": 12252,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV: The Torpedo-Boat Destroyer",
+      "length": 11097,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXV: The Squire",
+      "length": 12713,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXVI: The Reaver's Glen",
+      "length": 13060,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVII: The Peel Tower",
+      "length": 13126,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVIII: The Footprints",
+      "length": 10933,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXIX: Scarvell's Cut",
+      "length": 11465,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXX: The Greengrocer's Cart",
+      "length": 15288,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXXI: Ambassadress Extraordinary",
+      "length": 16001,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Colophon",
+      "length": 1111,
+      "mode": "hide"
+    },
+    {
+      "id": "035",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1797754W",
+  "goodreadsId": "6327020",
+  "rating": 0.744,
+  "popularity": 241,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489800694
+}

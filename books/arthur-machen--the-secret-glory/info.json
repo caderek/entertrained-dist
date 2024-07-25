@@ -1,1 +1,197 @@
-{"id":"arthur-machen--the-secret-glory","title":"The Secret Glory","titleAlpha":"secret glory","author":"Arthur Machen","language":"en","description":"An eccentric schoolboy embarks on a spiritual quest for hidden wonders.","longDescription":["Ambrose Meyrick has high expectations of the world, and is disappointed in the mundane factory town around him. He finds that others fail to see or even try to appreciate what he thinks is beautiful and excellent, but he gets along by pretending to conform, while the English public school tries to beat any individualism or imagination out of him.","While Ambrose has trouble meeting the school's expectations, he reaches back in his memory to a time with his father and their visit to an old Welsh farmer who had an ancient holy cup. This cup opens up a mystical world of beauty and splendor to Ambrose, which provides an escape from his troubled life.","This book is considered a fantasy leaning on the theme of a holy grail. It's one of Machen's later works, and is sometimes compared to his earlier and more significant work, The Hill of Dreams."],"year":null,"genres":["classics","fiction","young-adult"],"topics":["school"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/arthur-machen/the-secret-glory"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Secret Glory","length":18,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Dedication","length":20,"mode":"hide"},{"id":"004","title":"Note","length":267,"mode":"type"},{"id":"005","title":"Preface","length":4084,"mode":"skip"},{"id":"006","title":"I - I","length":17530,"mode":"type"},{"id":"007","title":"I - II","length":14681,"mode":"type"},{"id":"008","title":"I - III","length":34773,"mode":"type"},{"id":"009","title":"II - I","length":11517,"mode":"type"},{"id":"010","title":"II - II","length":17418,"mode":"type"},{"id":"011","title":"II - III","length":27624,"mode":"type"},{"id":"012","title":"II - IV","length":19889,"mode":"type"},{"id":"013","title":"II - V","length":19679,"mode":"type"},{"id":"014","title":"III - I","length":18321,"mode":"type"},{"id":"015","title":"III - II","length":13087,"mode":"type"},{"id":"016","title":"III - III","length":15182,"mode":"type"},{"id":"017","title":"III - IV","length":16438,"mode":"type"},{"id":"018","title":"IV - I","length":28821,"mode":"type"},{"id":"019","title":"IV - II","length":23008,"mode":"type"},{"id":"020","title":"IV - III","length":24093,"mode":"type"},{"id":"021","title":"IV - IV","length":21329,"mode":"type"},{"id":"022","title":"IV - V","length":28041,"mode":"type"},{"id":"023","title":"Epilogue","length":4642,"mode":"type"},{"id":"024","title":"Endnotes","length":1470,"mode":"hide"},{"id":"025","title":"Colophon","length":1070,"mode":"hide"},{"id":"026","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489448602}
+{
+  "id": "arthur-machen--the-secret-glory",
+  "title": "The Secret Glory",
+  "titleAlpha": "secret glory",
+  "author": "Arthur Machen",
+  "language": "en",
+  "description": "An eccentric schoolboy embarks on a spiritual quest for hidden wonders.",
+  "longDescription": [
+    "Ambrose Meyrick has high expectations of the world, and is disappointed in the mundane factory town around him. He finds that others fail to see or even try to appreciate what he thinks is beautiful and excellent, but he gets along by pretending to conform, while the English public school tries to beat any individualism or imagination out of him.",
+    "While Ambrose has trouble meeting the school's expectations, he reaches back in his memory to a time with his father and their visit to an old Welsh farmer who had an ancient holy cup. This cup opens up a mystical world of beauty and splendor to Ambrose, which provides an escape from his troubled life.",
+    "This book is considered a fantasy leaning on the theme of a holy grail. It's one of Machen's later works, and is sometimes compared to his earlier and more significant work, The Hill of Dreams."
+  ],
+  "year": 1922,
+  "genres": [
+    "classics",
+    "fiction",
+    "young-adult",
+    "fantasy"
+  ],
+  "topics": [
+    "school"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/arthur-machen/the-secret-glory"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Secret Glory",
+      "length": 18,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Note",
+      "length": 267,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Preface",
+      "length": 4084,
+      "mode": "skip"
+    },
+    {
+      "id": "006",
+      "title": "I - I",
+      "length": 17530,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "I - II",
+      "length": 14681,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "I - III",
+      "length": 34773,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "II - I",
+      "length": 11517,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "II - II",
+      "length": 17418,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "II - III",
+      "length": 27624,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "II - IV",
+      "length": 19889,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "II - V",
+      "length": 19679,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "III - I",
+      "length": 18321,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "III - II",
+      "length": 13087,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "III - III",
+      "length": 15182,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "III - IV",
+      "length": 16438,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "IV - I",
+      "length": 28821,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "IV - II",
+      "length": 23008,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "IV - III",
+      "length": 24093,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "IV - IV",
+      "length": 21329,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "IV - V",
+      "length": 28041,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Epilogue",
+      "length": 4642,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Endnotes",
+      "length": 1470,
+      "mode": "hide"
+    },
+    {
+      "id": "025",
+      "title": "Colophon",
+      "length": 1070,
+      "mode": "hide"
+    },
+    {
+      "id": "026",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL3389028W",
+  "goodreadsId": "4494811",
+  "rating": 0.758,
+  "popularity": 123,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489448602
+}

@@ -1,1 +1,251 @@
-{"id":"freeman-wills-crofts--the-cask","title":"The Cask","titleAlpha":"cask","author":"Freeman Wills Crofts","language":"en","description":"A cask dropped during the unloading of a ship sets detectives on the trail of a murderer.","longDescription":["During the unloading of an Insular and Continental Steam Navigation Company ship arrived from Rouen, the Bullfinch, a cask falls, splits, and reveals its unexpected contents. As the dockworkers try to work out what to do, Mr. Léon Felix arrives and claims the cask as his own. His actions set into motion a complicated trail for the detectives of London's Scotland Yard and Paris's Sûreté to follow to the end.","Freeman Wills Crofts was one of many authors writing crime fiction in Britain in the 1920s and 30s, and was a contemporary and acquaintance of both Agatha Christie and Raymond Chandler. The Cask, his first novel, was written during leave from his job as a railway engineer, but its reception was good enough to set Crofts on the course of a further thirty crime novels over his career as an author."],"year":1920,"genres":["classics","crime","fiction","mystery"],"topics":["detective","murder"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/freeman-wills-crofts/the-cask"},"openlibraryId":"OL16871587W","goodreadsId":"544251","rating":0.732,"popularity":657,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Cask","length":25,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Part I: London - I: A Strange Consignment","length":30653,"mode":"type"},{"id":"004","title":"Part I: London - II: Inspector Burnley on the Track","length":21719,"mode":"type"},{"id":"005","title":"Part I: London - III: The Watcher on the Wall","length":14343,"mode":"type"},{"id":"006","title":"Part I: London - IV: A Midnight Interview","length":13693,"mode":"type"},{"id":"007","title":"Part I: London - V: Felix Tells a Story","length":19923,"mode":"type"},{"id":"008","title":"Part I: London - VI: The Art of Detection","length":26533,"mode":"type"},{"id":"009","title":"Part I: London - VII: The Cask at Last","length":20593,"mode":"type"},{"id":"010","title":"Part I: London - VIII: The Opening of the Cask","length":12463,"mode":"type"},{"id":"011","title":"Part II: Paris - IX: M. le Chef de la Sûreté","length":17888,"mode":"type"},{"id":"012","title":"Part II: Paris - X: Who Wrote the Letter?","length":19062,"mode":"type"},{"id":"013","title":"Part II: Paris - XI: Mm. Dupierre Et Cie","length":12493,"mode":"type"},{"id":"014","title":"Part II: Paris - XII: At the Gare St. Lazare","length":17346,"mode":"type"},{"id":"015","title":"Part II: Paris - XIII: The Owner of the Dress","length":14973,"mode":"type"},{"id":"016","title":"Part II: Paris - XIV: M. Boirac Makes a Statement","length":12840,"mode":"type"},{"id":"017","title":"Part II: Paris - XV: The House in the Avenue de l'Alma","length":17497,"mode":"type"},{"id":"018","title":"Part II: Paris - XVI: Inspector Burnley Up Against It","length":24120,"mode":"type"},{"id":"019","title":"Part II: Paris - XVII: A Council of War","length":23172,"mode":"type"},{"id":"020","title":"Part II: Paris - XVIII: Lefarge Hunts Alone","length":22537,"mode":"type"},{"id":"021","title":"Part II: Paris - XIX: The Testing of an Alibi","length":27750,"mode":"type"},{"id":"022","title":"Part II: Paris - XX: Some Damning Evidence","length":23903,"mode":"type"},{"id":"023","title":"Part III: London and Paris - XXI: A New Point of View","length":16149,"mode":"type"},{"id":"024","title":"Part III: London and Paris - XXII: Felix Tells a Second Story","length":31614,"mode":"type"},{"id":"025","title":"Part III: London and Paris - XXIII: Clifford Gets to Work","length":18944,"mode":"type"},{"id":"026","title":"Part III: London and Paris - XXIV: Mr. Georges La Touche","length":15416,"mode":"type"},{"id":"027","title":"Part III: London and Paris - XXV: Disappointment","length":15479,"mode":"type"},{"id":"028","title":"Part III: London and Paris - XXVI: A Clue at Last","length":29432,"mode":"type"},{"id":"029","title":"Part III: London and Paris - XXVII: La Touche's Dilemma","length":30039,"mode":"type"},{"id":"030","title":"Part III: London and Paris - XXVIII: The Unravelling of the Web","length":19845,"mode":"type"},{"id":"031","title":"Part III: London and Paris - XXIX: A Dramatic Dénouement","length":39858,"mode":"type"},{"id":"032","title":"Part III: London and Paris - XXX: Conclusion","length":4538,"mode":"type"},{"id":"033","title":"List of Illustrations","length":200,"mode":"hide"},{"id":"034","title":"Colophon","length":1026,"mode":"hide"},{"id":"035","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489686993}
+{
+  "id": "freeman-wills-crofts--the-cask",
+  "title": "The Cask",
+  "titleAlpha": "cask",
+  "author": "Freeman Wills Crofts",
+  "language": "en",
+  "description": "A cask dropped during the unloading of a ship sets detectives on the trail of a murderer.",
+  "longDescription": [
+    "During the unloading of an Insular and Continental Steam Navigation Company ship arrived from Rouen, the Bullfinch, a cask falls, splits, and reveals its unexpected contents. As the dockworkers try to work out what to do, Mr. Léon Felix arrives and claims the cask as his own. His actions set into motion a complicated trail for the detectives of London's Scotland Yard and Paris's Sûreté to follow to the end.",
+    "Freeman Wills Crofts was one of many authors writing crime fiction in Britain in the 1920s and 30s, and was a contemporary and acquaintance of both Agatha Christie and Raymond Chandler. The Cask, his first novel, was written during leave from his job as a railway engineer, but its reception was good enough to set Crofts on the course of a further thirty crime novels over his career as an author."
+  ],
+  "year": 1920,
+  "genres": [
+    "classics",
+    "crime",
+    "fiction",
+    "mystery"
+  ],
+  "topics": [
+    "detective",
+    "murder"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-cask"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Cask",
+      "length": 25,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Part I: London - I: A Strange Consignment",
+      "length": 30653,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Part I: London - II: Inspector Burnley on the Track",
+      "length": 21719,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Part I: London - III: The Watcher on the Wall",
+      "length": 14343,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Part I: London - IV: A Midnight Interview",
+      "length": 13693,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Part I: London - V: Felix Tells a Story",
+      "length": 19923,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Part I: London - VI: The Art of Detection",
+      "length": 26533,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Part I: London - VII: The Cask at Last",
+      "length": 20593,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Part I: London - VIII: The Opening of the Cask",
+      "length": 12463,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Part II: Paris - IX: M. le Chef de la Sûreté",
+      "length": 17888,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Part II: Paris - X: Who Wrote the Letter?",
+      "length": 19062,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Part II: Paris - XI: Mm. Dupierre Et Cie",
+      "length": 12493,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Part II: Paris - XII: At the Gare St. Lazare",
+      "length": 17346,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Part II: Paris - XIII: The Owner of the Dress",
+      "length": 14973,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Part II: Paris - XIV: M. Boirac Makes a Statement",
+      "length": 12840,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Part II: Paris - XV: The House in the Avenue de l'Alma",
+      "length": 17497,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Part II: Paris - XVI: Inspector Burnley Up Against It",
+      "length": 24120,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Part II: Paris - XVII: A Council of War",
+      "length": 23172,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Part II: Paris - XVIII: Lefarge Hunts Alone",
+      "length": 22537,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Part II: Paris - XIX: The Testing of an Alibi",
+      "length": 27750,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Part II: Paris - XX: Some Damning Evidence",
+      "length": 23903,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Part III: London and Paris - XXI: A New Point of View",
+      "length": 16149,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Part III: London and Paris - XXII: Felix Tells a Second Story",
+      "length": 31614,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Part III: London and Paris - XXIII: Clifford Gets to Work",
+      "length": 18944,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Part III: London and Paris - XXIV: Mr. Georges La Touche",
+      "length": 15416,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Part III: London and Paris - XXV: Disappointment",
+      "length": 15479,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Part III: London and Paris - XXVI: A Clue at Last",
+      "length": 29432,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Part III: London and Paris - XXVII: La Touche's Dilemma",
+      "length": 30039,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Part III: London and Paris - XXVIII: The Unravelling of the Web",
+      "length": 19845,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Part III: London and Paris - XXIX: A Dramatic Dénouement",
+      "length": 39858,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Part III: London and Paris - XXX: Conclusion",
+      "length": 4538,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "List of Illustrations",
+      "length": 200,
+      "mode": "hide"
+    },
+    {
+      "id": "034",
+      "title": "Colophon",
+      "length": 1026,
+      "mode": "hide"
+    },
+    {
+      "id": "035",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL16871587W",
+  "goodreadsId": "544251",
+  "rating": 0.732,
+  "popularity": 657,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489686993
+}

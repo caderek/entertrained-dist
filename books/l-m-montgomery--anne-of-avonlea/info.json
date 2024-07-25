@@ -1,1 +1,257 @@
-{"id":"l-m-montgomery--anne-of-avonlea","title":"Anne of Avonlea","titleAlpha":"anne of avonlea","author":"L. M. Montgomery","language":"en","description":"A young woman enters adulthood as she works as a schoolteacher in a country village.","longDescription":["Anne Shirley, now 16, is moving from childhood into adulthood. As she begins teaching at Avonlea school she is determined to treat the children as she wishes she had been treated, and has many theories as to how that should be accomplished. She also enters the grown-up world of Avonlea in typical Anne fashion by working to beautify the landscape, and helping to form the Avonlea Village Improvement Society. Old friends are joined by new ones, including an outspoken neighbor with a rude parrot and a young-at-heart spinster who proves to be a true kindred spirit.","Anne of Avonlea, originally published in 1909, is the sequel to Anne of Green Gables, and follows Anne Shirley through her next two years. While it has received less critical acclaim than its predecessor, it has enjoyed enduring popularity and has been adapted into television, movie, and theater."],"year":1988,"genres":["classics","fiction"],"topics":["country"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/l-m-montgomery/anne-of-avonlea"},"openlibraryId":"OL3542109W","goodreadsId":"543906","rating":0.46573475999999997,"popularity":4,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Anne of Avonlea","length":21,"mode":"hide"},{"id":"002","title":"Imprint","length":1177,"mode":"hide"},{"id":"003","title":"Dedication","length":101,"mode":"hide"},{"id":"004","title":"Epigraph","length":139,"mode":"skip"},{"id":"005","title":"I: An Irate Neighbour","length":18595,"mode":"type"},{"id":"006","title":"II: Selling in Haste and Repenting at Leisure","length":10883,"mode":"type"},{"id":"007","title":"III: Mr. Harrison at Home","length":13080,"mode":"type"},{"id":"008","title":"IV: Different Opinions","length":8823,"mode":"type"},{"id":"009","title":"V: A Full-Fledged Schoolma'am","length":13006,"mode":"type"},{"id":"010","title":"VI: All Sorts and Conditions of Men... and Women","length":19791,"mode":"type"},{"id":"011","title":"VII: The Pointing of Duty","length":10373,"mode":"type"},{"id":"012","title":"VIII: Marilla Adopts Twins","length":16520,"mode":"type"},{"id":"013","title":"IX: A Question of Colour","length":11432,"mode":"type"},{"id":"014","title":"X: Davy in Search of a Sensation","length":18023,"mode":"type"},{"id":"015","title":"XI: Facts and Fancies","length":16660,"mode":"type"},{"id":"016","title":"XII: A Jonah Day","length":13224,"mode":"type"},{"id":"017","title":"XIII: A Golden Picnic","length":18421,"mode":"type"},{"id":"018","title":"XIV: A Danger Averted","length":21435,"mode":"type"},{"id":"019","title":"XV: The Beginning of Vacation","length":14278,"mode":"type"},{"id":"020","title":"XVI: The Substance of Things Hoped For","length":12167,"mode":"type"},{"id":"021","title":"XVII: A Chapter of Accidents","length":19565,"mode":"type"},{"id":"022","title":"XVIII: An Adventure on the Tory Road","length":17443,"mode":"type"},{"id":"023","title":"XIX: Just a Happy Day","length":20782,"mode":"type"},{"id":"024","title":"XX: The Way It Often Happens","length":14056,"mode":"type"},{"id":"025","title":"XXI: Sweet Miss Lavendar","length":23251,"mode":"type"},{"id":"026","title":"XXII: Odds and Ends","length":8618,"mode":"type"},{"id":"027","title":"XXIII: Miss Lavendar's Romance","length":13106,"mode":"type"},{"id":"028","title":"XXIV: A Prophet in His Own Country","length":15780,"mode":"type"},{"id":"029","title":"XXV: An Avonlea Scandal","length":22541,"mode":"type"},{"id":"030","title":"XXVI: Around the Bend","length":20952,"mode":"type"},{"id":"031","title":"XXVII: An Afternoon at the Stone House","length":22288,"mode":"type"},{"id":"032","title":"XXVIII: The Prince Comes Back to the Enchanted Palace","length":19505,"mode":"type"},{"id":"033","title":"XXIX: Poetry and Prose","length":12649,"mode":"type"},{"id":"034","title":"XXX: A Wedding at the Stone House","length":14775,"mode":"type"},{"id":"035","title":"Colophon","length":980,"mode":"hide"},{"id":"036","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489900660}
+{
+  "id": "l-m-montgomery--anne-of-avonlea",
+  "title": "Anne of Avonlea",
+  "titleAlpha": "anne of avonlea",
+  "author": "L. M. Montgomery",
+  "language": "en",
+  "description": "A young woman enters adulthood as she works as a schoolteacher in a country village.",
+  "longDescription": [
+    "Anne Shirley, now 16, is moving from childhood into adulthood. As she begins teaching at Avonlea school she is determined to treat the children as she wishes she had been treated, and has many theories as to how that should be accomplished. She also enters the grown-up world of Avonlea in typical Anne fashion by working to beautify the landscape, and helping to form the Avonlea Village Improvement Society. Old friends are joined by new ones, including an outspoken neighbor with a rude parrot and a young-at-heart spinster who proves to be a true kindred spirit.",
+    "Anne of Avonlea, originally published in 1909, is the sequel to Anne of Green Gables, and follows Anne Shirley through her next two years. While it has received less critical acclaim than its predecessor, it has enjoyed enduring popularity and has been adapted into television, movie, and theater."
+  ],
+  "year": 1909,
+  "genres": [
+    "classics",
+    "fiction",
+    "young-adult"
+  ],
+  "topics": [
+    "country",
+    "friendship",
+    "school"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Anne of Green Gables",
+  "part": 2,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/l-m-montgomery/anne-of-avonlea"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Anne of Avonlea",
+      "length": 21,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1177,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 101,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Epigraph",
+      "length": 139,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "I: An Irate Neighbour",
+      "length": 18595,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "II: Selling in Haste and Repenting at Leisure",
+      "length": 10883,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "III: Mr. Harrison at Home",
+      "length": 13080,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "IV: Different Opinions",
+      "length": 8823,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "V: A Full-Fledged Schoolma'am",
+      "length": 13006,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VI: All Sorts and Conditions of Men... and Women",
+      "length": 19791,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VII: The Pointing of Duty",
+      "length": 10373,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VIII: Marilla Adopts Twins",
+      "length": 16520,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "IX: A Question of Colour",
+      "length": 11432,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "X: Davy in Search of a Sensation",
+      "length": 18023,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XI: Facts and Fancies",
+      "length": 16660,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XII: A Jonah Day",
+      "length": 13224,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIII: A Golden Picnic",
+      "length": 18421,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIV: A Danger Averted",
+      "length": 21435,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XV: The Beginning of Vacation",
+      "length": 14278,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVI: The Substance of Things Hoped For",
+      "length": 12167,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVII: A Chapter of Accidents",
+      "length": 19565,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVIII: An Adventure on the Tory Road",
+      "length": 17443,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XIX: Just a Happy Day",
+      "length": 20782,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XX: The Way It Often Happens",
+      "length": 14056,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXI: Sweet Miss Lavendar",
+      "length": 23251,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXII: Odds and Ends",
+      "length": 8618,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXIII: Miss Lavendar's Romance",
+      "length": 13106,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXIV: A Prophet in His Own Country",
+      "length": 15780,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXV: An Avonlea Scandal",
+      "length": 22541,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVI: Around the Bend",
+      "length": 20952,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVII: An Afternoon at the Stone House",
+      "length": 22288,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXVIII: The Prince Comes Back to the Enchanted Palace",
+      "length": 19505,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXIX: Poetry and Prose",
+      "length": 12649,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXX: A Wedding at the Stone House",
+      "length": 14775,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Colophon",
+      "length": 980,
+      "mode": "hide"
+    },
+    {
+      "id": "036",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL77744W",
+  "goodreadsId": "77390",
+  "rating": 0.844,
+  "popularity": 203231,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489900660
+}

@@ -1,1 +1,124 @@
-{"id":"dorothy-m-richardson--backwater","title":"Backwater","titleAlpha":"backwater","author":"Dorothy M. Richardson","language":"en","description":"A young woman returns to England and takes a job teaching at a North London suburban school.","longDescription":["Backwater is the second installment in Dorothy M. Richardson's pioneering sequence of autobiographical novels, Pilgrimage.","Returning from Germany after the events of the first novel, Pointed Roofs, Miriam Henderson, now eighteen years old, takes a position as a teacher in a North London suburban school. While there she must manage her doubts and fears about her own future, while negotiating changes and difficulties in her own family."],"year":null,"genres":["autobiography","classics","fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/dorothy-m-richardson/backwater"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Backwater","length":26,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"I","length":26681,"mode":"type"},{"id":"004","title":"II","length":39188,"mode":"type"},{"id":"005","title":"III","length":42294,"mode":"type"},{"id":"006","title":"IV","length":32262,"mode":"type"},{"id":"007","title":"V","length":15734,"mode":"type"},{"id":"008","title":"VI","length":40746,"mode":"type"},{"id":"009","title":"VII","length":26406,"mode":"type"},{"id":"010","title":"VIII","length":33671,"mode":"type"},{"id":"011","title":"IX","length":11311,"mode":"type"},{"id":"012","title":"X","length":35774,"mode":"type"},{"id":"013","title":"Colophon","length":1017,"mode":"hide"},{"id":"014","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489544106}
+{
+  "id": "dorothy-m-richardson--backwater",
+  "title": "Backwater",
+  "titleAlpha": "backwater",
+  "author": "Dorothy M. Richardson",
+  "language": "en",
+  "description": "A young woman returns to England and takes a job teaching at a North London suburban school.",
+  "longDescription": [
+    "Backwater is the second installment in Dorothy M. Richardson's pioneering sequence of autobiographical novels, Pilgrimage.",
+    "Returning from Germany after the events of the first novel, Pointed Roofs, Miriam Henderson, now eighteen years old, takes a position as a teacher in a North London suburban school. While there she must manage her doubts and fears about her own future, while negotiating changes and difficulties in her own family."
+  ],
+  "year": 1916,
+  "genres": [
+    "autobiography",
+    "classics",
+    "fiction"
+  ],
+  "topics": [
+    "family",
+    "school"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "Pilgrimage",
+  "part": 2,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/dorothy-m-richardson/backwater"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Backwater",
+      "length": 26,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I",
+      "length": 26681,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II",
+      "length": 39188,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III",
+      "length": 42294,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV",
+      "length": 32262,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V",
+      "length": 15734,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI",
+      "length": 40746,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII",
+      "length": 26406,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII",
+      "length": 33671,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX",
+      "length": 11311,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X",
+      "length": 35774,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Colophon",
+      "length": 1017,
+      "mode": "hide"
+    },
+    {
+      "id": "014",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL38078313W",
+  "goodreadsId": "6851264",
+  "rating": 0.762,
+  "popularity": 62,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489544106
+}

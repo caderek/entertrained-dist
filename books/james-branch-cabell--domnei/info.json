@@ -1,1 +1,318 @@
-{"id":"james-branch-cabell--domnei","title":"Domnei","titleAlpha":"domnei","author":"James Branch Cabell","language":"en","description":"The tale of to what extent a woman's love is worth pursuing.","longDescription":["Domnei by James Branch Cabell is the fourth installment in his Biography of the Life of Manuel series, which follows the lives of Dom Manuel and his descendants in the fictional French county of Poictesme.","It was initially published as The Soul of Melicent in 1913 under the erroneous advice of Cabell's publisher, who suggested that the title would help sell more copies. But only 493 copies were sold of the original print run. In 1920 the book was republished as Domnei: A Comedy of Woman-Worship, Cabell's original vision for the title.","The story follows Perion de la Forêt, fugitive leader of a mercenary troop, and his unbridled passion for his newly-wed and newly-distant lover, the Princess Melicent, daughter of Dom Manuel. The tale takes us to many locations in Middle-Ages Europe as we witness to what extent men will go to pursue a woman's love."],"year":null,"genres":["classics","fantasy","fiction","history"],"topics":["medieval"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/james-branch-cabell/domnei"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Domnei","length":24,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Epigraph I","length":42,"mode":"skip"},{"id":"004","title":"Dedication","length":49,"mode":"hide"},{"id":"005","title":"Epigraph II","length":407,"mode":"skip"},{"id":"006","title":"A Preface","length":7438,"mode":"skip"},{"id":"007","title":"Critical Comment","length":3398,"mode":"type"},{"id":"008","title":"The Argument","length":630,"mode":"type"},{"id":"009","title":"Incipit","length":528,"mode":"type"},{"id":"010","title":"Part I: Perion - I: How Perion Was Unmasked","length":7424,"mode":"type"},{"id":"011","title":"Part I: Perion - II: How the Vicomte Was Very Gay","length":3162,"mode":"type"},{"id":"012","title":"Part I: Perion - III: How Melicent Wooed","length":11419,"mode":"type"},{"id":"013","title":"Part I: Perion - IV: How the Bishop Aided Perion","length":7392,"mode":"type"},{"id":"014","title":"Part I: Perion - V: How Melicent Wedded","length":4731,"mode":"type"},{"id":"015","title":"Part II: Melicent - VI: How Melicent Sought Oversea","length":3781,"mode":"type"},{"id":"016","title":"Part II: Melicent - VII: How Perion Was Freed","length":7314,"mode":"type"},{"id":"017","title":"Part II: Melicent - VIII: How Demetrios Was Amused","length":4787,"mode":"type"},{"id":"018","title":"Part II: Melicent - IX: How Time Sped in Heathenry","length":6412,"mode":"type"},{"id":"019","title":"Part II: Melicent - X: How Demetrios Wooed","length":6488,"mode":"type"},{"id":"020","title":"Part III: Demetrios - XI: How Time Sped with Perion","length":3457,"mode":"type"},{"id":"021","title":"Part III: Demetrios - XII: How Demetrios Was Taken","length":2894,"mode":"type"},{"id":"022","title":"Part III: Demetrios - XIII: How They Praised Melicent","length":4917,"mode":"type"},{"id":"023","title":"Part III: Demetrios - XIV: How Perion Braved Theodoret","length":8884,"mode":"type"},{"id":"024","title":"Part III: Demetrios - XV: How Perion Fought","length":6936,"mode":"type"},{"id":"025","title":"Part III: Demetrios - XVI: How Demetrios Meditated","length":3641,"mode":"type"},{"id":"026","title":"Part III: Demetrios - XVII: How a Minstrel Came","length":8317,"mode":"type"},{"id":"027","title":"Part III: Demetrios - XVIII: How They Cried Quits","length":3122,"mode":"type"},{"id":"028","title":"Part III: Demetrios - XIX: How Flamberge Was Lost","length":6126,"mode":"type"},{"id":"029","title":"Part III: Demetrios - XX: How Perion Got Aid","length":5530,"mode":"type"},{"id":"030","title":"Part IV: Ahasuerus - XXI: How Demetrios Held His Chattel","length":6736,"mode":"type"},{"id":"031","title":"Part IV: Ahasuerus - XXII: How Misery Held Nacumera","length":6266,"mode":"type"},{"id":"032","title":"Part IV: Ahasuerus - XXIII: How Demetrios Cried Farewell","length":9965,"mode":"type"},{"id":"033","title":"Part IV: Ahasuerus - XXIV: How Orestes Ruled","length":3271,"mode":"type"},{"id":"034","title":"Part IV: Ahasuerus - XXV: How Women Talked Together","length":6172,"mode":"type"},{"id":"035","title":"Part IV: Ahasuerus - XXVI: How Men Ordered Matters","length":4180,"mode":"type"},{"id":"036","title":"Part IV: Ahasuerus - XXVII: How Ahasuerus Was Candid","length":3199,"mode":"type"},{"id":"037","title":"Part IV: Ahasuerus - XXVIII: How Perion Saw Melicent","length":5717,"mode":"type"},{"id":"038","title":"Part IV: Ahasuerus - XXIX: How a Bargain Was Cried","length":5499,"mode":"type"},{"id":"039","title":"Part IV: Ahasuerus - XXX: How Melicent Conquered","length":11109,"mode":"type"},{"id":"040","title":"The Afterword - II","length":1977,"mode":"type"},{"id":"041","title":"The Afterword - III","length":4107,"mode":"type"},{"id":"042","title":"The Afterword - IV","length":1899,"mode":"type"},{"id":"043","title":"Bibliography","length":2903,"mode":"hide"},{"id":"044","title":"Endnotes","length":386,"mode":"hide"},{"id":"045","title":"Colophon","length":1062,"mode":"hide"},{"id":"046","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489818054}
+{
+  "id": "james-branch-cabell--domnei",
+  "title": "Domnei",
+  "titleAlpha": "domnei",
+  "author": "James Branch Cabell",
+  "language": "en",
+  "description": "The tale of to what extent a woman's love is worth pursuing.",
+  "longDescription": [
+    "Domnei by James Branch Cabell is the fourth installment in his Biography of the Life of Manuel series, which follows the lives of Dom Manuel and his descendants in the fictional French county of Poictesme.",
+    "It was initially published as The Soul of Melicent in 1913 under the erroneous advice of Cabell's publisher, who suggested that the title would help sell more copies. But only 493 copies were sold of the original print run. In 1920 the book was republished as Domnei: A Comedy of Woman-Worship, Cabell's original vision for the title.",
+    "The story follows Perion de la Forêt, fugitive leader of a mercenary troop, and his unbridled passion for his newly-wed and newly-distant lover, the Princess Melicent, daughter of Dom Manuel. The tale takes us to many locations in Middle-Ages Europe as we witness to what extent men will go to pursue a woman's love."
+  ],
+  "year": 1913,
+  "genres": [
+    "classics",
+    "fantasy",
+    "fiction",
+    "comedy",
+    "romance"
+  ],
+  "topics": [
+    "medieval"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": "The Biography of Manuel",
+  "part": 4,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/james-branch-cabell/domnei"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Domnei",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Epigraph I",
+      "length": 42,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Dedication",
+      "length": 49,
+      "mode": "hide"
+    },
+    {
+      "id": "005",
+      "title": "Epigraph II",
+      "length": 407,
+      "mode": "skip"
+    },
+    {
+      "id": "006",
+      "title": "A Preface",
+      "length": 7438,
+      "mode": "skip"
+    },
+    {
+      "id": "007",
+      "title": "Critical Comment",
+      "length": 3398,
+      "mode": "skip"
+    },
+    {
+      "id": "008",
+      "title": "The Argument",
+      "length": 630,
+      "mode": "skip"
+    },
+    {
+      "id": "009",
+      "title": "Incipit",
+      "length": 528,
+      "mode": "skip"
+    },
+    {
+      "id": "010",
+      "title": "Part I: Perion - I: How Perion Was Unmasked",
+      "length": 7424,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Part I: Perion - II: How the Vicomte Was Very Gay",
+      "length": 3162,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Part I: Perion - III: How Melicent Wooed",
+      "length": 11419,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Part I: Perion - IV: How the Bishop Aided Perion",
+      "length": 7392,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Part I: Perion - V: How Melicent Wedded",
+      "length": 4731,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Part II: Melicent - VI: How Melicent Sought Oversea",
+      "length": 3781,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Part II: Melicent - VII: How Perion Was Freed",
+      "length": 7314,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Part II: Melicent - VIII: How Demetrios Was Amused",
+      "length": 4787,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Part II: Melicent - IX: How Time Sped in Heathenry",
+      "length": 6412,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Part II: Melicent - X: How Demetrios Wooed",
+      "length": 6488,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Part III: Demetrios - XI: How Time Sped with Perion",
+      "length": 3457,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Part III: Demetrios - XII: How Demetrios Was Taken",
+      "length": 2894,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Part III: Demetrios - XIII: How They Praised Melicent",
+      "length": 4917,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Part III: Demetrios - XIV: How Perion Braved Theodoret",
+      "length": 8884,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Part III: Demetrios - XV: How Perion Fought",
+      "length": 6936,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Part III: Demetrios - XVI: How Demetrios Meditated",
+      "length": 3641,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Part III: Demetrios - XVII: How a Minstrel Came",
+      "length": 8317,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Part III: Demetrios - XVIII: How They Cried Quits",
+      "length": 3122,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Part III: Demetrios - XIX: How Flamberge Was Lost",
+      "length": 6126,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Part III: Demetrios - XX: How Perion Got Aid",
+      "length": 5530,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Part IV: Ahasuerus - XXI: How Demetrios Held His Chattel",
+      "length": 6736,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Part IV: Ahasuerus - XXII: How Misery Held Nacumera",
+      "length": 6266,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Part IV: Ahasuerus - XXIII: How Demetrios Cried Farewell",
+      "length": 9965,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Part IV: Ahasuerus - XXIV: How Orestes Ruled",
+      "length": 3271,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Part IV: Ahasuerus - XXV: How Women Talked Together",
+      "length": 6172,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Part IV: Ahasuerus - XXVI: How Men Ordered Matters",
+      "length": 4180,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Part IV: Ahasuerus - XXVII: How Ahasuerus Was Candid",
+      "length": 3199,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Part IV: Ahasuerus - XXVIII: How Perion Saw Melicent",
+      "length": 5717,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "Part IV: Ahasuerus - XXIX: How a Bargain Was Cried",
+      "length": 5499,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Part IV: Ahasuerus - XXX: How Melicent Conquered",
+      "length": 11109,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "The Afterword - II",
+      "length": 1977,
+      "mode": "skip"
+    },
+    {
+      "id": "041",
+      "title": "The Afterword - III",
+      "length": 4107,
+      "mode": "skip"
+    },
+    {
+      "id": "042",
+      "title": "The Afterword - IV",
+      "length": 1899,
+      "mode": "skip"
+    },
+    {
+      "id": "043",
+      "title": "Bibliography",
+      "length": 2903,
+      "mode": "hide"
+    },
+    {
+      "id": "044",
+      "title": "Endnotes",
+      "length": 386,
+      "mode": "hide"
+    },
+    {
+      "id": "045",
+      "title": "Colophon",
+      "length": 1062,
+      "mode": "hide"
+    },
+    {
+      "id": "046",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL6585782W",
+  "goodreadsId": "2971151",
+  "rating": 0.756,
+  "popularity": 110,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489818054
+}

@@ -1,1 +1,177 @@
-{"id":"august-strindberg--the-inferno","title":"The Inferno","titleAlpha":"inferno","author":"August Strindberg","language":"en","description":"A writer succumbing to mania tries to find a path out through occultism and religion, in Strindberg's semi-autobiographical novel.","longDescription":["The narrator of The Inferno - ostensibly August Strindberg himself - has not had an easy recent past, and a move to Paris is not helping. As his mania overtakes his ability to function in the society of artists, writers, scientists and philosophers he'd like to be part of, he turns to more unconventional methods to help make sense of his world.","Written in diary form, The Inferno is a semi-autobiographical work that blends self-deprecating humour with a whirl of neurosis and attempted rationalisation. The novel, with a certain amount of exaggeration for literary effect, charts two years of Strindberg's life in the 1890s. Presented here is Claud Field's 1913 translation from the original French."],"year":null,"genres":["autobiography","biography","classics","fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/august-strindberg/the-inferno/claud-field"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Inferno","length":49,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Introduction","length":6778,"mode":"type"},{"id":"004","title":"Epigraph","length":84,"mode":"skip"},{"id":"005","title":"I: The Hand of the Invisible","length":19264,"mode":"type"},{"id":"006","title":"II: St. Louis Leads Me to Orfila","length":7495,"mode":"type"},{"id":"007","title":"III: Paradise Regained","length":4059,"mode":"type"},{"id":"008","title":"IV: The Fall and Paradise Lost","length":41140,"mode":"type"},{"id":"009","title":"V: Purgatory - Extracts from My Journal - 1896","length":32897,"mode":"type"},{"id":"010","title":"VI: Hell","length":37914,"mode":"type"},{"id":"011","title":"VII: Beatrice","length":12130,"mode":"type"},{"id":"012","title":"VIII: Swedenborg","length":22810,"mode":"type"},{"id":"013","title":"IX: Extracts from the Diary of a Damned Soul","length":18869,"mode":"type"},{"id":"014","title":"X: The Eternal Has Spoken","length":5479,"mode":"type"},{"id":"015","title":"XI: Hell Let Loose","length":11868,"mode":"type"},{"id":"016","title":"XII: Pilgrimage and Penance","length":7609,"mode":"type"},{"id":"017","title":"XIII: The Deliverer","length":7382,"mode":"type"},{"id":"018","title":"XIV: Tribulations","length":7844,"mode":"type"},{"id":"019","title":"XV: Whither?","length":7714,"mode":"type"},{"id":"020","title":"Epilogue","length":2432,"mode":"type"},{"id":"021","title":"Endnotes","length":512,"mode":"hide"},{"id":"022","title":"Colophon","length":1074,"mode":"hide"},{"id":"023","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489454586}
+{
+  "id": "august-strindberg--the-inferno",
+  "title": "The Inferno",
+  "titleAlpha": "inferno",
+  "author": "August Strindberg",
+  "language": "en",
+  "description": "A writer succumbing to mania tries to find a path out through occultism and religion, in Strindberg's semi-autobiographical novel.",
+  "longDescription": [
+    "The narrator of The Inferno - ostensibly August Strindberg himself - has not had an easy recent past, and a move to Paris is not helping. As his mania overtakes his ability to function in the society of artists, writers, scientists and philosophers he'd like to be part of, he turns to more unconventional methods to help make sense of his world.",
+    "Written in diary form, The Inferno is a semi-autobiographical work that blends self-deprecating humour with a whirl of neurosis and attempted rationalisation. The novel, with a certain amount of exaggeration for literary effect, charts two years of Strindberg's life in the 1890s. Presented here is Claud Field's 1913 translation from the original French."
+  ],
+  "year": 1897,
+  "genres": [
+    "autobiography",
+    "biography",
+    "classics",
+    "fiction",
+    "psychological"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/august-strindberg/the-inferno/claud-field"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Inferno",
+      "length": 49,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Introduction",
+      "length": 6778,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Epigraph",
+      "length": 84,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "I: The Hand of the Invisible",
+      "length": 19264,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "II: St. Louis Leads Me to Orfila",
+      "length": 7495,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "III: Paradise Regained",
+      "length": 4059,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "IV: The Fall and Paradise Lost",
+      "length": 41140,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "V: Purgatory - Extracts from My Journal - 1896",
+      "length": 32897,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VI: Hell",
+      "length": 37914,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VII: Beatrice",
+      "length": 12130,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VIII: Swedenborg",
+      "length": 22810,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "IX: Extracts from the Diary of a Damned Soul",
+      "length": 18869,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "X: The Eternal Has Spoken",
+      "length": 5479,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XI: Hell Let Loose",
+      "length": 11868,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XII: Pilgrimage and Penance",
+      "length": 7609,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIII: The Deliverer",
+      "length": 7382,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIV: Tribulations",
+      "length": 7844,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XV: Whither?",
+      "length": 7714,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Epilogue",
+      "length": 2432,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Endnotes",
+      "length": 512,
+      "mode": "hide"
+    },
+    {
+      "id": "022",
+      "title": "Colophon",
+      "length": 1074,
+      "mode": "hide"
+    },
+    {
+      "id": "023",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL20596401W",
+  "goodreadsId": "7943016",
+  "rating": 0.718,
+  "popularity": 1311,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489454586
+}

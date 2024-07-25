@@ -1,1 +1,138 @@
-{"id":"henry-david-thoreau--a-week-on-the-concord-and-merrimack-rivers","title":"A Week on the Concord and Merrimack Rivers","titleAlpha":"week on the concord and merrimack rivers","author":"Henry David Thoreau","language":"en","description":"On a rowboat excursion with his brother, Thoreau lets his thoughts meander with the river.","longDescription":["In 1839, Thoreau and his brother took a small boat upriver and back. Some years later, while in his cabin at Walden Pond, he gathered his notes from that journey and other writings from his journals, and composed this, his first book.","Like the rivers it describes, the book meanders through varying territories and climates. He writes of the natural surroundings they encounter and of the history of the region, but also takes long and remarkable detours through topics like friendship, history, a comparison of Christianity and Hinduism, Vedic literature, government and conscience, Thoreau's philosophy of literature, monuments and graveyards, poetry (in particular Ossian, Chaucer, and certain minor Greek poets), and the satires of Aulus Persius Flaccus. Thoreau also includes several poems of his own.","Thoreau had the first edition of this book published at his own expense, and at first it struggled to find an audience. \"I have now a library of nearly 900 volumes,\" he remarked at one point, \"over 700 of which I wrote myself.\""],"year":1849,"genres":["classics","nonfiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/henry-david-thoreau/a-week-on-the-concord-and-merrimack-rivers"},"openlibraryId":"OL55670W","goodreadsId":"307899","rating":0.734,"popularity":640,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - A Week on the Concord and Merrimack Rivers","length":24,"mode":"hide"},{"id":"002","title":"Imprint","length":1176,"mode":"hide"},{"id":"003","title":"Dedication","length":146,"mode":"hide"},{"id":"004","title":"I Am Bound for a Distant Shore","length":167,"mode":"type"},{"id":"005","title":"The Only Permanent Shore","length":338,"mode":"type"},{"id":"006","title":"Ovid","length":388,"mode":"type"},{"id":"007","title":"Concord River","length":13753,"mode":"type"},{"id":"008","title":"Saturday","length":46387,"mode":"type"},{"id":"009","title":"Sunday","length":122810,"mode":"type"},{"id":"010","title":"Monday","length":102916,"mode":"type"},{"id":"011","title":"Tuesday","length":92780,"mode":"type"},{"id":"012","title":"Wednesday","length":104451,"mode":"type"},{"id":"013","title":"Thursday","length":59525,"mode":"type"},{"id":"014","title":"Friday","length":98128,"mode":"type"},{"id":"015","title":"Colophon","length":1186,"mode":"hide"},{"id":"016","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489756183}
+{
+  "id": "henry-david-thoreau--a-week-on-the-concord-and-merrimack-rivers",
+  "title": "A Week on the Concord and Merrimack Rivers",
+  "titleAlpha": "week on the concord and merrimack rivers",
+  "author": "Henry David Thoreau",
+  "language": "en",
+  "description": "On a rowboat excursion with his brother, Thoreau lets his thoughts meander with the river.",
+  "longDescription": [
+    "In 1839, Thoreau and his brother took a small boat upriver and back. Some years later, while in his cabin at Walden Pond, he gathered his notes from that journey and other writings from his journals, and composed this, his first book.",
+    "Like the rivers it describes, the book meanders through varying territories and climates. He writes of the natural surroundings they encounter and of the history of the region, but also takes long and remarkable detours through topics like friendship, history, a comparison of Christianity and Hinduism, Vedic literature, government and conscience, Thoreau's philosophy of literature, monuments and graveyards, poetry (in particular Ossian, Chaucer, and certain minor Greek poets), and the satires of Aulus Persius Flaccus. Thoreau also includes several poems of his own.",
+    "Thoreau had the first edition of this book published at his own expense, and at first it struggled to find an audience. \"I have now a library of nearly 900 volumes,\" he remarked at one point, \"over 700 of which I wrote myself.\""
+  ],
+  "year": 1849,
+  "genres": [
+    "classics",
+    "nonfiction",
+    "travel",
+    "memoir",
+    "philosophy",
+    "poetry",
+    "history"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/henry-david-thoreau/a-week-on-the-concord-and-merrimack-rivers"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - A Week on the Concord and Merrimack Rivers",
+      "length": 24,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 146,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "I Am Bound for a Distant Shore",
+      "length": 167,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "The Only Permanent Shore",
+      "length": 338,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Ovid",
+      "length": 388,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Concord River",
+      "length": 13753,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Saturday",
+      "length": 46387,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Sunday",
+      "length": 122810,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Monday",
+      "length": 102916,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Tuesday",
+      "length": 92780,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Wednesday",
+      "length": 104451,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Thursday",
+      "length": 59525,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Friday",
+      "length": 98128,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Colophon",
+      "length": 1186,
+      "mode": "hide"
+    },
+    {
+      "id": "016",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL55670W",
+  "goodreadsId": "123840",
+  "rating": 0.8460000000000001,
+  "popularity": 2182,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489756183
+}
