@@ -1,1 +1,189 @@
-{"id":"beatrix-potter--short-fiction","title":"Short Fiction","titleAlpha":"short fiction","author":"Beatrix Potter","language":"en","description":"A collection of Beatrix Potter's short stories for children, ordered by date of publication.","longDescription":["Beatrix Potter's tales of the animal inhabitants of the Lake District countryside in which she lived started with the simple story of a naughty rabbit, written for a young friend. It was eventually published nine years later in 1902 as \"The Tale of Peter Rabbit,\" accompanied by her watercolor illustrations. Its success led to the publishing of a further twenty-two books in the series over the next three decades.","The creatures detailed lead period-correct lives, with many of them having jobs in the animal society that mimic the society Beatrix was living in. Her stories rarely shy away from showing the dangers of the wider world that the inhabitants find themselves in, and similarly they rarely end on a completely happy note. But despite this - or perhaps because of this - they have remained globally popular over the last century with both children and parents alike. The stories have been translated many times over, and continue to be presented in new formats including TV, film, theater, and even ballet.","The success of her books and the associated licensing deals allowed Beatrix Potter to purchase large tracts of land in the Lake District, which later became part of the new British National Parks system. Her love of nature and the locality led her to fell farming and other local traditions, and she was even able to use her skills with watercolors to scientifically document the fungi of the area.","This collection comprises the twenty-two \"Tale\" books in the U. S. public domain."],"year":null,"genres":["children","classics","fiction","shorts"],"topics":["thieves"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/beatrix-potter/short-fiction"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Imprint","length":1177,"mode":"hide"},{"id":"002","title":"The Tale of Peter Rabbit","length":5114,"mode":"type"},{"id":"003","title":"The Tale of Squirrel Nutkin","length":6540,"mode":"type"},{"id":"004","title":"The Tailor of Gloucester","length":15756,"mode":"type"},{"id":"005","title":"The Tale of Benjamin Bunny","length":6204,"mode":"type"},{"id":"006","title":"The Tale of Two Bad Mice","length":4970,"mode":"type"},{"id":"007","title":"The Tale of Mrs. Tiggy-Winkle","length":7475,"mode":"type"},{"id":"008","title":"The Tale of the Pie and the Patty-Pan","length":15213,"mode":"type"},{"id":"009","title":"The Tale of Mr. Jeremy Fisher","length":4250,"mode":"type"},{"id":"010","title":"The Story of a Fierce Bad Rabbit","length":717,"mode":"type"},{"id":"011","title":"The Story of Miss Moppet","length":1138,"mode":"type"},{"id":"012","title":"The Tale of Tom Kitten","length":3927,"mode":"type"},{"id":"013","title":"The Tale of Jemima Puddle-Duck","length":6960,"mode":"type"},{"id":"014","title":"The Tale of Samuel Whiskers - Or, The Roly-Poly Pudding","length":14022,"mode":"type"},{"id":"015","title":"The Tale of the Flopsy Bunnies","length":5658,"mode":"type"},{"id":"016","title":"The Tale of Ginger and Pickles","length":6382,"mode":"type"},{"id":"017","title":"The Tale of Mrs. Tittlemouse","length":6439,"mode":"type"},{"id":"018","title":"The Tale of Timmy Tiptoes","length":7397,"mode":"type"},{"id":"019","title":"The Tale of Mr. Tod","length":26534,"mode":"type"},{"id":"020","title":"The Tale of Pigling Bland","length":19330,"mode":"type"},{"id":"021","title":"The Tale of Johnny Town-Mouse","length":7124,"mode":"type"},{"id":"022","title":"Colophon","length":1190,"mode":"hide"},{"id":"023","title":"Uncopyright","length":2050,"mode":"hide"},{"id":"024","title":"List of Illustrations","length":78361,"mode":"hide"}],"createdAt":1720831171125}
+{
+  "id": "beatrix-potter--short-fiction",
+  "title": "Short Fiction",
+  "titleAlpha": "short fiction",
+  "author": "Beatrix Potter",
+  "language": "en",
+  "description": "A collection of Beatrix Potter's short stories for children, ordered by date of publication.",
+  "longDescription": [
+    "Beatrix Potter's tales of the animal inhabitants of the Lake District countryside in which she lived started with the simple story of a naughty rabbit, written for a young friend. It was eventually published nine years later in 1902 as \"The Tale of Peter Rabbit,\" accompanied by her watercolor illustrations. Its success led to the publishing of a further twenty-two books in the series over the next three decades.",
+    "The creatures detailed lead period-correct lives, with many of them having jobs in the animal society that mimic the society Beatrix was living in. Her stories rarely shy away from showing the dangers of the wider world that the inhabitants find themselves in, and similarly they rarely end on a completely happy note. But despite this - or perhaps because of this - they have remained globally popular over the last century with both children and parents alike. The stories have been translated many times over, and continue to be presented in new formats including TV, film, theater, and even ballet.",
+    "The success of her books and the associated licensing deals allowed Beatrix Potter to purchase large tracts of land in the Lake District, which later became part of the new British National Parks system. Her love of nature and the locality led her to fell farming and other local traditions, and she was even able to use her skills with watercolors to scientifically document the fungi of the area.",
+    "This collection comprises the twenty-two \"Tale\" books in the U. S. public domain."
+  ],
+  "year": 1997,
+  "genres": [
+    "children",
+    "classics",
+    "fiction",
+    "shorts",
+    "adventure",
+    "fantasy"
+  ],
+  "topics": [
+    "animals",
+    "fables"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/beatrix-potter/short-fiction"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Imprint",
+      "length": 1177,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "The Tale of Peter Rabbit",
+      "length": 5114,
+      "mode": "type"
+    },
+    {
+      "id": "003",
+      "title": "The Tale of Squirrel Nutkin",
+      "length": 6540,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "The Tailor of Gloucester",
+      "length": 15756,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "The Tale of Benjamin Bunny",
+      "length": 6204,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "The Tale of Two Bad Mice",
+      "length": 4970,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "The Tale of Mrs. Tiggy-Winkle",
+      "length": 7475,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "The Tale of the Pie and the Patty-Pan",
+      "length": 15213,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "The Tale of Mr. Jeremy Fisher",
+      "length": 4250,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "The Story of a Fierce Bad Rabbit",
+      "length": 717,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "The Story of Miss Moppet",
+      "length": 1138,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "The Tale of Tom Kitten",
+      "length": 3927,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "The Tale of Jemima Puddle-Duck",
+      "length": 6960,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "The Tale of Samuel Whiskers - Or, The Roly-Poly Pudding",
+      "length": 14022,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "The Tale of the Flopsy Bunnies",
+      "length": 5658,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "The Tale of Ginger and Pickles",
+      "length": 6382,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "The Tale of Mrs. Tittlemouse",
+      "length": 6439,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "The Tale of Timmy Tiptoes",
+      "length": 7397,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "The Tale of Mr. Tod",
+      "length": 26534,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "The Tale of Pigling Bland",
+      "length": 19330,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "The Tale of Johnny Town-Mouse",
+      "length": 7124,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Colophon",
+      "length": 1190,
+      "mode": "hide"
+    },
+    {
+      "id": "023",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    },
+    {
+      "id": "024",
+      "title": "List of Illustrations",
+      "length": 78361,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL31429555W",
+  "goodreadsId": "22307346",
+  "rating": 0.898,
+  "popularity": 2870,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1720831171125
+}

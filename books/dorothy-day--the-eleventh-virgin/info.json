@@ -1,1 +1,153 @@
-{"id":"dorothy-day--the-eleventh-virgin","title":"The Eleventh Virgin","titleAlpha":"eleventh virgin","author":"Dorothy Day","language":"en","description":"A young radical journalist has a love affair in New York in the 1910s.","longDescription":["Though Dorothy Day may be best known today for her religious peace activism and her role in founding the Catholic Worker movement, she lived a bohemian youth in the Lower West Side of New York City during the late 1910s and early 1920s. As an editor for radical socialist publications like The Liberator and The Masses, Day was involved in several left-wing causes as well as the Silent Sentinels' 1917 protest for women's suffrage in front of the White House.","The Eleventh Virgin is a semi-autobiographical novel told through the eyes of June Henreddy, a young radical journalist whose fictional life closely parallels Day's own life experiences, including her eventual disillusionment with her bohemian lifestyle. Though later derided by Day as \"a very bad book,\" The Eleventh Virgin captures a vibrant image of New York's radical counterculture in the early 20th century and sheds a light on the youthful misadventures of a woman who would eventually be praised by Pope Francis for her dream of \"social justice and the rights of persons\" during his historic address to a joint session of Congress in 2015."],"year":null,"genres":["classics","fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/dorothy-day/the-eleventh-virgin"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Eleventh Virgin","length":16,"mode":"hide"},{"id":"002","title":"Imprint","length":1194,"mode":"hide"},{"id":"003","title":"Dedication","length":205,"mode":"hide"},{"id":"004","title":"Part I: Adolescent - I","length":13791,"mode":"type"},{"id":"005","title":"Part I: Adolescent - II","length":24219,"mode":"type"},{"id":"006","title":"Part I: Adolescent - III","length":21070,"mode":"type"},{"id":"007","title":"Part I: Adolescent - IV","length":9014,"mode":"type"},{"id":"008","title":"Part I: Adolescent - V","length":33468,"mode":"type"},{"id":"009","title":"Part II: Still Adolescent - I","length":74872,"mode":"type"},{"id":"010","title":"Part II: Still Adolescent - II","length":41307,"mode":"type"},{"id":"011","title":"Part II: Still Adolescent - III","length":51421,"mode":"type"},{"id":"012","title":"Part III: Not So Much So - I","length":32346,"mode":"type"},{"id":"013","title":"Part III: Not So Much So - II","length":31270,"mode":"type"},{"id":"014","title":"Part III: Not So Much So - III","length":34269,"mode":"type"},{"id":"015","title":"Part III: Not So Much So - IV","length":17758,"mode":"type"},{"id":"016","title":"Monologue","length":1232,"mode":"type"},{"id":"017","title":"Endnotes","length":937,"mode":"hide"},{"id":"018","title":"Colophon","length":981,"mode":"hide"},{"id":"019","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489540802}
+{
+  "id": "dorothy-day--the-eleventh-virgin",
+  "title": "The Eleventh Virgin",
+  "titleAlpha": "eleventh virgin",
+  "author": "Dorothy Day",
+  "language": "en",
+  "description": "A young radical journalist has a love affair in New York in the 1910s.",
+  "longDescription": [
+    "Though Dorothy Day may be best known today for her religious peace activism and her role in founding the Catholic Worker movement, she lived a bohemian youth in the Lower West Side of New York City during the late 1910s and early 1920s. As an editor for radical socialist publications like The Liberator and The Masses, Day was involved in several left-wing causes as well as the Silent Sentinels' 1917 protest for women's suffrage in front of the White House.",
+    "The Eleventh Virgin is a semi-autobiographical novel told through the eyes of June Henreddy, a young radical journalist whose fictional life closely parallels Day's own life experiences, including her eventual disillusionment with her bohemian lifestyle. Though later derided by Day as \"a very bad book,\" The Eleventh Virgin captures a vibrant image of New York's radical counterculture in the early 20th century and sheds a light on the youthful misadventures of a woman who would eventually be praised by Pope Francis for her dream of \"social justice and the rights of persons\" during his historic address to a joint session of Congress in 2015."
+  ],
+  "year": 1924,
+  "genres": [
+    "classics",
+    "fiction",
+    "history",
+    "romance",
+    "autobiography"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/dorothy-day/the-eleventh-virgin"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Eleventh Virgin",
+      "length": 16,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 205,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Part I: Adolescent - I",
+      "length": 13791,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Part I: Adolescent - II",
+      "length": 24219,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Part I: Adolescent - III",
+      "length": 21070,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Part I: Adolescent - IV",
+      "length": 9014,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Part I: Adolescent - V",
+      "length": 33468,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Part II: Still Adolescent - I",
+      "length": 74872,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Part II: Still Adolescent - II",
+      "length": 41307,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Part II: Still Adolescent - III",
+      "length": 51421,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Part III: Not So Much So - I",
+      "length": 32346,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Part III: Not So Much So - II",
+      "length": 31270,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Part III: Not So Much So - III",
+      "length": 34269,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Part III: Not So Much So - IV",
+      "length": 17758,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Monologue",
+      "length": 1232,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Endnotes",
+      "length": 937,
+      "mode": "hide"
+    },
+    {
+      "id": "018",
+      "title": "Colophon",
+      "length": 981,
+      "mode": "hide"
+    },
+    {
+      "id": "019",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL25899176W",
+  "goodreadsId": "13162576",
+  "rating": 0.7,
+  "popularity": 16,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489540802
+}

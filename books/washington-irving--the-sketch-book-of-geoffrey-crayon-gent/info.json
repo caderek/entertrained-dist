@@ -1,1 +1,291 @@
-{"id":"washington-irving--the-sketch-book-of-geoffrey-crayon-gent","title":"The Sketch-Book of Geoffrey Crayon, Gent.","titleAlpha":"sketch-book of geoffrey crayon, gent.","author":"Washington Irving","language":"en","description":"A collection of 34 essays and short stories, including \"The Legend of Sleepy Hollow\" and \"Rip Van Winkle.\"","longDescription":["Initially published throughout 1819 and 1820, The Sketch-Book is a collection of 34 essays and short stories, collected and ordered according to the Author's Revised Edition published in 1848. The Sketch-Book is the first publication to use Irving's pseudonym Geoffrey Crayon, which he would carry into later works.","The stories vary in nature, from the comical \"The Mutability of Literature\" to the eerie and seemingly supernatural \"The Legend of Sleepy Hollow,\" but the personality of their narrator, Geoffrey Crayon, connects the stories and attracts their readers. Some stories are written on American topics, forming the need for separate American and English editions, and others consist of English life and landscape, written from the perspective of living in England for a time.","Two of the stories, \"The Legend of Sleepy Hollow\" and \"Rip Van Winkle,\" are Irving's most well-known works, and are presented as posthumous writings of fictional Dutch historian Diedrich Knickerbocker. From these stories came the iconic characters Rip Van Winkle, Ichabod Crane, and the Headless Horseman."],"year":1800,"genres":["classics","fantasy","fiction","history","shorts","travel"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/washington-irving/the-sketch-book-of-geoffrey-crayon-gent"},"openlibraryId":"OL13096162W","goodreadsId":"704126","rating":0.48073271999999995,"popularity":47,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Sketch-Book of Geoffrey Crayon, Gent.","length":22,"mode":"hide"},{"id":"002","title":"Imprint","length":1176,"mode":"hide"},{"id":"003","title":"Epigraph","length":233,"mode":"skip"},{"id":"004","title":"Preface to the Revised Edition","length":11753,"mode":"skip"},{"id":"005","title":"The Author's Account of Himself","length":5831,"mode":"type"},{"id":"006","title":"The Voyage","length":12997,"mode":"type"},{"id":"007","title":"Roscoe","length":13561,"mode":"type"},{"id":"008","title":"The Wife","length":15561,"mode":"type"},{"id":"009","title":"Rip Van Winkle - A Posthumous Writing of Diedrich Knickerbocker","length":40707,"mode":"type"},{"id":"010","title":"English Writers on America","length":19364,"mode":"type"},{"id":"011","title":"Rural Life in England","length":14770,"mode":"type"},{"id":"012","title":"The Broken Heart","length":11429,"mode":"type"},{"id":"013","title":"The Art of Book-Making","length":14620,"mode":"type"},{"id":"014","title":"A Royal Poet","length":28201,"mode":"type"},{"id":"015","title":"The Country Church","length":10955,"mode":"type"},{"id":"016","title":"The Widow and Her Son","length":15208,"mode":"type"},{"id":"017","title":"A Sunday in London","length":3896,"mode":"type"},{"id":"018","title":"The Boar's Head Tavern, Eastcheap - A Shakespearian Research","length":22075,"mode":"type"},{"id":"019","title":"The Mutability of Literature - A Colloquy in Westminster Abbey","length":21189,"mode":"type"},{"id":"020","title":"Rural Funerals","length":22797,"mode":"type"},{"id":"021","title":"The Inn Kitchen","length":4058,"mode":"type"},{"id":"022","title":"The Spectre Bridegroom - A Traveller's Tale","length":31983,"mode":"type"},{"id":"023","title":"Westminster Abbey","length":23262,"mode":"type"},{"id":"024","title":"Christmas","length":11347,"mode":"type"},{"id":"025","title":"The Stage Coach","length":13257,"mode":"type"},{"id":"026","title":"Christmas Eve","length":22453,"mode":"type"},{"id":"027","title":"Christmas Day","length":26732,"mode":"type"},{"id":"028","title":"The Christmas Dinner","length":25822,"mode":"type"},{"id":"029","title":"London Antiques","length":11737,"mode":"type"},{"id":"030","title":"Little Britain","length":29298,"mode":"type"},{"id":"031","title":"Stratford-on-Avon","length":36354,"mode":"type"},{"id":"032","title":"Traits of Indian Character","length":23385,"mode":"type"},{"id":"033","title":"Philip of Pokanoket - An Indian Memoir","length":35592,"mode":"type"},{"id":"034","title":"John Bull","length":24023,"mode":"type"},{"id":"035","title":"The Pride of the Village","length":18742,"mode":"type"},{"id":"036","title":"The Angler","length":18435,"mode":"type"},{"id":"037","title":"The Legend of Sleepy Hollow","length":69279,"mode":"type"},{"id":"038","title":"L'Envoy","length":4401,"mode":"type"},{"id":"039","title":"Endnotes","length":20140,"mode":"hide"},{"id":"040","title":"Colophon","length":1101,"mode":"hide"},{"id":"041","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721490226338}
+{
+  "id": "washington-irving--the-sketch-book-of-geoffrey-crayon-gent",
+  "title": "The Sketch-Book of Geoffrey Crayon, Gent.",
+  "titleAlpha": "sketch-book of geoffrey crayon, gent.",
+  "author": "Washington Irving",
+  "language": "en",
+  "description": "A collection of 34 essays and short stories, including \"The Legend of Sleepy Hollow\" and \"Rip Van Winkle.\"",
+  "longDescription": [
+    "Initially published throughout 1819 and 1820, The Sketch-Book is a collection of 34 essays and short stories, collected and ordered according to the Author's Revised Edition published in 1848. The Sketch-Book is the first publication to use Irving's pseudonym Geoffrey Crayon, which he would carry into later works.",
+    "The stories vary in nature, from the comical \"The Mutability of Literature\" to the eerie and seemingly supernatural \"The Legend of Sleepy Hollow,\" but the personality of their narrator, Geoffrey Crayon, connects the stories and attracts their readers. Some stories are written on American topics, forming the need for separate American and English editions, and others consist of English life and landscape, written from the perspective of living in England for a time.",
+    "Two of the stories, \"The Legend of Sleepy Hollow\" and \"Rip Van Winkle,\" are Irving's most well-known works, and are presented as posthumous writings of fictional Dutch historian Diedrich Knickerbocker. From these stories came the iconic characters Rip Van Winkle, Ichabod Crane, and the Headless Horseman."
+  ],
+  "year": 1819,
+  "genres": [
+    "classics",
+    "fantasy",
+    "fiction",
+    "history",
+    "shorts",
+    "travel",
+    "comedy",
+    "horror"
+  ],
+  "topics": [
+    "supernatural"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/washington-irving/the-sketch-book-of-geoffrey-crayon-gent"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Sketch-Book of Geoffrey Crayon, Gent.",
+      "length": 22,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Epigraph",
+      "length": 233,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Preface to the Revised Edition",
+      "length": 11753,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "The Author's Account of Himself",
+      "length": 5831,
+      "mode": "skip"
+    },
+    {
+      "id": "006",
+      "title": "The Voyage",
+      "length": 12997,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Roscoe",
+      "length": 13561,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "The Wife",
+      "length": 15561,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Rip Van Winkle - A Posthumous Writing of Diedrich Knickerbocker",
+      "length": 40707,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "English Writers on America",
+      "length": 19364,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Rural Life in England",
+      "length": 14770,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "The Broken Heart",
+      "length": 11429,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "The Art of Book-Making",
+      "length": 14620,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "A Royal Poet",
+      "length": 28201,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "The Country Church",
+      "length": 10955,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "The Widow and Her Son",
+      "length": 15208,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "A Sunday in London",
+      "length": 3896,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "The Boar's Head Tavern, Eastcheap - A Shakespearian Research",
+      "length": 22075,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "The Mutability of Literature - A Colloquy in Westminster Abbey",
+      "length": 21189,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Rural Funerals",
+      "length": 22797,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "The Inn Kitchen",
+      "length": 4058,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "The Spectre Bridegroom - A Traveller's Tale",
+      "length": 31983,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Westminster Abbey",
+      "length": 23262,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Christmas",
+      "length": 11347,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "The Stage Coach",
+      "length": 13257,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Christmas Eve",
+      "length": 22453,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Christmas Day",
+      "length": 26732,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "The Christmas Dinner",
+      "length": 25822,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "London Antiques",
+      "length": 11737,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Little Britain",
+      "length": 29298,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Stratford-on-Avon",
+      "length": 36354,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Traits of Indian Character",
+      "length": 23385,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Philip of Pokanoket - An Indian Memoir",
+      "length": 35592,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "John Bull",
+      "length": 24023,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "The Pride of the Village",
+      "length": 18742,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "The Angler",
+      "length": 18435,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "The Legend of Sleepy Hollow",
+      "length": 69279,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "L'Envoy",
+      "length": 4401,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Endnotes",
+      "length": 20140,
+      "mode": "hide"
+    },
+    {
+      "id": "040",
+      "title": "Colophon",
+      "length": 1101,
+      "mode": "hide"
+    },
+    {
+      "id": "041",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL13096162W",
+  "goodreadsId": "704126",
+  "rating": 0.784,
+  "popularity": 56271,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490226338
+}

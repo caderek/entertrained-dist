@@ -1,1 +1,380 @@
-{"id":"henry-lawson--while-the-billy-boils","title":"While the Billy Boils","titleAlpha":"while the billy boils","author":"Henry Lawson","language":"en","description":"A short story collection based on Australian colonial life in 1890s.","longDescription":["While the Billy Boils collates Henry Lawson's most well known short stories of the 1890s, originally published in a variety of Australian and New Zealand newspapers - most prominently the Sydney Bulletin. Lawson presents a satirical and sometimes emotional study of frontier life in late colonial Australia, and the characters living in it."],"year":1896,"genres":["classics","fiction","shorts"],"topics":["frontier"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils"},"openlibraryId":"OL1230163W","goodreadsId":"1855158","rating":0.788,"popularity":72,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - While the Billy Boils","length":17,"mode":"hide"},{"id":"002","title":"Imprint","length":1181,"mode":"hide"},{"id":"003","title":"Preface to the First Edition","length":875,"mode":"skip"},{"id":"004","title":"An Old Mate of Your Father's","length":8870,"mode":"type"},{"id":"005","title":"Settling on the Land","length":11695,"mode":"type"},{"id":"006","title":"Enter Mitchell","length":3617,"mode":"type"},{"id":"007","title":"Stiffner and Jim - (Thirdly, Bill)","length":13681,"mode":"type"},{"id":"008","title":"When the Sun Went Down","length":5082,"mode":"type"},{"id":"009","title":"The Man Who Forgot","length":10511,"mode":"type"},{"id":"010","title":"Hungerford","length":6974,"mode":"type"},{"id":"011","title":"A Camp-Fire Yarn","length":7033,"mode":"type"},{"id":"012","title":"His Country-After All","length":9344,"mode":"type"},{"id":"013","title":"A Day on a Selection","length":12101,"mode":"type"},{"id":"014","title":"That There Dog o' Mine","length":4675,"mode":"type"},{"id":"015","title":"Going Blind","length":11436,"mode":"type"},{"id":"016","title":"Arvie Aspinall's Alarm Clock","length":6857,"mode":"type"},{"id":"017","title":"Stragglers","length":11575,"mode":"type"},{"id":"018","title":"The Union Buries Its Dead","length":9416,"mode":"type"},{"id":"019","title":"On the Edge of a Plain","length":2628,"mode":"type"},{"id":"020","title":"In a Dry Season","length":6353,"mode":"type"},{"id":"021","title":"He'd Come Back","length":4276,"mode":"type"},{"id":"022","title":"Another of Mitchell's Plans for the Future","length":3591,"mode":"type"},{"id":"023","title":"Steelman","length":5502,"mode":"type"},{"id":"024","title":"Drifted Back","length":4184,"mode":"type"},{"id":"025","title":"Remailed","length":8040,"mode":"type"},{"id":"026","title":"Mitchell Doesn't Believe in the Sack","length":3343,"mode":"type"},{"id":"027","title":"Shooting the Moon","length":5117,"mode":"type"},{"id":"028","title":"His Father's Mate","length":20496,"mode":"type"},{"id":"029","title":"An Echo from the Old Bark School","length":2329,"mode":"type"},{"id":"030","title":"The Shearing of the Cook's Dog","length":6689,"mode":"type"},{"id":"031","title":"\"Dossing Out\" and \"Camping\"","length":7336,"mode":"type"},{"id":"032","title":"Across the Straits","length":11286,"mode":"type"},{"id":"033","title":"The Drover's Wife","length":17275,"mode":"type"},{"id":"034","title":"Steelman's Pupil","length":9355,"mode":"type"},{"id":"035","title":"An Unfinished Love Story","length":9468,"mode":"type"},{"id":"036","title":"Board and Residence","length":11319,"mode":"type"},{"id":"037","title":"His Colonial Oath","length":2346,"mode":"type"},{"id":"038","title":"\"Some Day\"","length":5029,"mode":"type"},{"id":"039","title":"A Visit of Condolence","length":8032,"mode":"type"},{"id":"040","title":"In a Wet Season","length":7957,"mode":"type"},{"id":"041","title":"\"Rats\"","length":5397,"mode":"type"},{"id":"042","title":"Mitchell: A Character Sketch","length":3055,"mode":"type"},{"id":"043","title":"The Bush Undertaker","length":16327,"mode":"type"},{"id":"044","title":"Our Pipes","length":6150,"mode":"type"},{"id":"045","title":"Coming Across - A Study in the Steerage","length":25696,"mode":"type"},{"id":"046","title":"The Story of Malachi","length":10038,"mode":"type"},{"id":"047","title":"Two Dogs and a Fence","length":3497,"mode":"type"},{"id":"048","title":"Jones's Alley","length":23824,"mode":"type"},{"id":"049","title":"\"Brummy Usen\"","length":7743,"mode":"type"},{"id":"050","title":"Bogg of Geebung","length":5716,"mode":"type"},{"id":"051","title":"She Wouldn't Speak","length":4947,"mode":"type"},{"id":"052","title":"The Geological Spieler","length":16552,"mode":"type"},{"id":"053","title":"Macquarie's Mate","length":8637,"mode":"type"},{"id":"054","title":"Baldy Thompson","length":5411,"mode":"type"},{"id":"055","title":"For Auld Lang Syne","length":8981,"mode":"type"},{"id":"056","title":"Colophon","length":1006,"mode":"hide"},{"id":"057","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489766247}
+{
+  "id": "henry-lawson--while-the-billy-boils",
+  "title": "While the Billy Boils",
+  "titleAlpha": "while the billy boils",
+  "author": "Henry Lawson",
+  "language": "en",
+  "description": "A short story collection based on Australian colonial life in 1890s.",
+  "longDescription": [
+    "While the Billy Boils collates Henry Lawson's most well known short stories of the 1890s, originally published in a variety of Australian and New Zealand newspapers - most prominently the Sydney Bulletin. Lawson presents a satirical and sometimes emotional study of frontier life in late colonial Australia, and the characters living in it."
+  ],
+  "year": 1896,
+  "genres": [
+    "classics",
+    "fiction",
+    "shorts"
+  ],
+  "topics": [
+    "frontier"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - While the Billy Boils",
+      "length": 17,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1181,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Preface to the First Edition",
+      "length": 875,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "An Old Mate of Your Father's",
+      "length": 8870,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Settling on the Land",
+      "length": 11695,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Enter Mitchell",
+      "length": 3617,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Stiffner and Jim - (Thirdly, Bill)",
+      "length": 13681,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "When the Sun Went Down",
+      "length": 5082,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "The Man Who Forgot",
+      "length": 10511,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Hungerford",
+      "length": 6974,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "A Camp-Fire Yarn",
+      "length": 7033,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "His Country-After All",
+      "length": 9344,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "A Day on a Selection",
+      "length": 12101,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "That There Dog o' Mine",
+      "length": 4675,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Going Blind",
+      "length": 11436,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Arvie Aspinall's Alarm Clock",
+      "length": 6857,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Stragglers",
+      "length": 11575,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "The Union Buries Its Dead",
+      "length": 9416,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "On the Edge of a Plain",
+      "length": 2628,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "In a Dry Season",
+      "length": 6353,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "He'd Come Back",
+      "length": 4276,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Another of Mitchell's Plans for the Future",
+      "length": 3591,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Steelman",
+      "length": 5502,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Drifted Back",
+      "length": 4184,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Remailed",
+      "length": 8040,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Mitchell Doesn't Believe in the Sack",
+      "length": 3343,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Shooting the Moon",
+      "length": 5117,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "His Father's Mate",
+      "length": 20496,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "An Echo from the Old Bark School",
+      "length": 2329,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "The Shearing of the Cook's Dog",
+      "length": 6689,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "\"Dossing Out\" and \"Camping\"",
+      "length": 7336,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Across the Straits",
+      "length": 11286,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "The Drover's Wife",
+      "length": 17275,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Steelman's Pupil",
+      "length": 9355,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "An Unfinished Love Story",
+      "length": 9468,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Board and Residence",
+      "length": 11319,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "His Colonial Oath",
+      "length": 2346,
+      "mode": "type"
+    },
+    {
+      "id": "038",
+      "title": "\"Some Day\"",
+      "length": 5029,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "A Visit of Condolence",
+      "length": 8032,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "In a Wet Season",
+      "length": 7957,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "\"Rats\"",
+      "length": 5397,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Mitchell: A Character Sketch",
+      "length": 3055,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "The Bush Undertaker",
+      "length": 16327,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Our Pipes",
+      "length": 6150,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Coming Across - A Study in the Steerage",
+      "length": 25696,
+      "mode": "type"
+    },
+    {
+      "id": "046",
+      "title": "The Story of Malachi",
+      "length": 10038,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Two Dogs and a Fence",
+      "length": 3497,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Jones's Alley",
+      "length": 23824,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "\"Brummy Usen\"",
+      "length": 7743,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Bogg of Geebung",
+      "length": 5716,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "She Wouldn't Speak",
+      "length": 4947,
+      "mode": "type"
+    },
+    {
+      "id": "052",
+      "title": "The Geological Spieler",
+      "length": 16552,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "Macquarie's Mate",
+      "length": 8637,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "Baldy Thompson",
+      "length": 5411,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "For Auld Lang Syne",
+      "length": 8981,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "Colophon",
+      "length": 1006,
+      "mode": "hide"
+    },
+    {
+      "id": "057",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1230163W",
+  "goodreadsId": "9282840",
+  "rating": 0.788,
+  "popularity": 72,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489766247
+}

@@ -1,1 +1,201 @@
-{"id":"george-sand--the-devils-pool","title":"The Devil's Pool","titleAlpha":"devil's pool","author":"George Sand","language":"en","description":"The father-in-law of a young widower seeks to find him a new wife.","longDescription":["Germain, a late-twenties widower, still lives with his late wife's family. Germain's father-in-law Maurice decides that two years is long enough to grieve; Germain needs a wife, and his children need a mother. Maurice has investigated, and found what he believes is a suitable match in a neighboring village. He sends Germain off to meet the woman, and on the way drops off a teenage girl at the farm where she has been newly employed. The rest of the novel demonstrates the old aphorism of \"the best-laid plans... often go awry.\"","The Devil's Pool is the first of four pastoral novels that George Sand originally intended to release together. They were inspired by the community in which she was raised."],"year":1846,"genres":["classics","fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/george-sand/the-devils-pool/jane-minot-sedgwick_ellery-sedgwick"},"openlibraryId":"OL982018W","goodreadsId":"3609868","rating":0.686,"popularity":4440,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Devil's Pool","length":71,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Notice","length":2106,"mode":"type"},{"id":"004","title":"The Author to the Reader","length":7375,"mode":"type"},{"id":"005","title":"I: The Tillage of the Soil","length":14878,"mode":"type"},{"id":"006","title":"II: Father Maurice","length":5857,"mode":"type"},{"id":"007","title":"III: Germain, the Skilled Husbandman","length":8874,"mode":"type"},{"id":"008","title":"IV: Mother Guillette","length":7153,"mode":"type"},{"id":"009","title":"V: Petit-Pierre","length":11154,"mode":"type"},{"id":"010","title":"VI: On the Heath","length":8770,"mode":"type"},{"id":"011","title":"VII: Underneath the Big Oaks","length":9331,"mode":"type"},{"id":"012","title":"VIII: The Evening Prayer","length":6112,"mode":"type"},{"id":"013","title":"IX: Despite the Cold","length":10895,"mode":"type"},{"id":"014","title":"X: Beneath the Stars","length":11117,"mode":"type"},{"id":"015","title":"XI: The Belle of the Village","length":6513,"mode":"type"},{"id":"016","title":"XII: The Master","length":10005,"mode":"type"},{"id":"017","title":"XIII: The Old Woman","length":9195,"mode":"type"},{"id":"018","title":"XIV: The Return to the Farm","length":6983,"mode":"type"},{"id":"019","title":"XV: Mother Maurice","length":5578,"mode":"type"},{"id":"020","title":"XVI: Little Marie","length":4468,"mode":"type"},{"id":"021","title":"Appendix - I: A Country Wedding","length":13313,"mode":"type"},{"id":"022","title":"Appendix - II: The Wedding Favors","length":12226,"mode":"type"},{"id":"023","title":"Appendix - III: The Wedding","length":13216,"mode":"type"},{"id":"024","title":"Appendix - IV: The Cabbage","length":17282,"mode":"type"},{"id":"025","title":"Endnotes","length":370,"mode":"hide"},{"id":"026","title":"Colophon","length":1122,"mode":"hide"},{"id":"027","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489723309}
+{
+  "id": "george-sand--the-devils-pool",
+  "title": "The Devil's Pool",
+  "titleAlpha": "devil's pool",
+  "author": "George Sand",
+  "language": "en",
+  "description": "The father-in-law of a young widower seeks to find him a new wife.",
+  "longDescription": [
+    "Germain, a late-twenties widower, still lives with his late wife's family. Germain's father-in-law Maurice decides that two years is long enough to grieve; Germain needs a wife, and his children need a mother. Maurice has investigated, and found what he believes is a suitable match in a neighboring village. He sends Germain off to meet the woman, and on the way drops off a teenage girl at the farm where she has been newly employed. The rest of the novel demonstrates the old aphorism of \"the best-laid plans... often go awry.\"",
+    "The Devil's Pool is the first of four pastoral novels that George Sand originally intended to release together. They were inspired by the community in which she was raised."
+  ],
+  "year": 1846,
+  "genres": [
+    "classics",
+    "fiction",
+    "romance"
+  ],
+  "topics": [
+    "family"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/george-sand/the-devils-pool/jane-minot-sedgwick_ellery-sedgwick"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Devil's Pool",
+      "length": 71,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Notice",
+      "length": 2106,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "The Author to the Reader",
+      "length": 7375,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "I: The Tillage of the Soil",
+      "length": 14878,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "II: Father Maurice",
+      "length": 5857,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "III: Germain, the Skilled Husbandman",
+      "length": 8874,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "IV: Mother Guillette",
+      "length": 7153,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "V: Petit-Pierre",
+      "length": 11154,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VI: On the Heath",
+      "length": 8770,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VII: Underneath the Big Oaks",
+      "length": 9331,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VIII: The Evening Prayer",
+      "length": 6112,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "IX: Despite the Cold",
+      "length": 10895,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "X: Beneath the Stars",
+      "length": 11117,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XI: The Belle of the Village",
+      "length": 6513,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XII: The Master",
+      "length": 10005,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIII: The Old Woman",
+      "length": 9195,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIV: The Return to the Farm",
+      "length": 6983,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XV: Mother Maurice",
+      "length": 5578,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVI: Little Marie",
+      "length": 4468,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "Appendix - I: A Country Wedding",
+      "length": 13313,
+      "mode": "skip"
+    },
+    {
+      "id": "022",
+      "title": "Appendix - II: The Wedding Favors",
+      "length": 12226,
+      "mode": "skip"
+    },
+    {
+      "id": "023",
+      "title": "Appendix - III: The Wedding",
+      "length": 13216,
+      "mode": "skip"
+    },
+    {
+      "id": "024",
+      "title": "Appendix - IV: The Cabbage",
+      "length": 17282,
+      "mode": "skip"
+    },
+    {
+      "id": "025",
+      "title": "Endnotes",
+      "length": 370,
+      "mode": "hide"
+    },
+    {
+      "id": "026",
+      "title": "Colophon",
+      "length": 1122,
+      "mode": "hide"
+    },
+    {
+      "id": "027",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL982018W",
+  "goodreadsId": "3609868",
+  "rating": 0.686,
+  "popularity": 4440,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489723309
+}

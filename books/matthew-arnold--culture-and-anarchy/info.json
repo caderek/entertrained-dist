@@ -1,1 +1,149 @@
-{"id":"matthew-arnold--culture-and-anarchy","title":"Culture and Anarchy","titleAlpha":"culture and anarchy","author":"Matthew Arnold","language":"en","description":"Matthew Arnold describes what he considers to be the flaws in Victorian British society.","longDescription":["In Culture and Anarchy, Matthew Arnold sets out what he sees as the major flaws in the various classes of British society: the aristocrats are too out of touch with mainstream society; the middle class has energy but needs refinement; and the working class doesn't know what it wants. Arnold worries that democratic freedom will devolve into anarchy, and argues that culture - \"the best which has been thought and said\" - must be developed in each person in order to achieve perfection. Incubating culture in this way will provide the cohesion needed to keep society together.","Arnold places the collective identity of the people in the State, and yet as a British liberal, seems to understand his countrymen's mistrust of a centralized authority. He leaves it to each person to look inward, to be well informed, to cultivate the kinds of things that will bring about \"sweetness and light,\" which are his terms to represent beauty and intelligence. He sees each class as fixed on certain \"stock notions.\" But rather than look for a \"rival fetish\" to take the place of any such false notion, society should \"turn a free and fresh stream of thought upon the whole matter in question.\" These writings came at a time of great political, social, scientific, and religious change, and attempted to provide a blueprint for society to navigate through it all.","Culture and Anarchy was first published as a series of essays in Cornhill Magazine, and then was collected into a book in 1869. This ebook is based on a 1925 edition, which is essentially the 1882 third edition."],"year":1869,"genres":["classics","nonfiction","philosophy"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy"},"openlibraryId":"OL1336793W","goodreadsId":"251264","rating":0.6839999999999999,"popularity":1012,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Culture and Anarchy","length":19,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Preface","length":56367,"mode":"skip"},{"id":"004","title":"Introduction","length":4239,"mode":"type"},{"id":"005","title":"I: Sweetness and Light","length":54964,"mode":"type"},{"id":"006","title":"II: Doing as One Likes","length":49360,"mode":"type"},{"id":"007","title":"III: Barbarians, Philistines, Populace","length":58055,"mode":"type"},{"id":"008","title":"IV: Hebraism and Hellenism","length":28635,"mode":"type"},{"id":"009","title":"V: Porro Unum Est Necessarium","length":37959,"mode":"type"},{"id":"010","title":"VI: Our Liberal Practitioners - I","length":15412,"mode":"type"},{"id":"011","title":"VI: Our Liberal Practitioners - II","length":12135,"mode":"type"},{"id":"012","title":"VI: Our Liberal Practitioners - III","length":7803,"mode":"type"},{"id":"013","title":"VI: Our Liberal Practitioners - IV","length":25146,"mode":"type"},{"id":"014","title":"VI: Our Liberal Practitioners - V","length":3309,"mode":"type"},{"id":"015","title":"Conclusion","length":17625,"mode":"type"},{"id":"016","title":"Endnotes","length":735,"mode":"hide"},{"id":"017","title":"Colophon","length":1073,"mode":"hide"},{"id":"018","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489971476}
+{
+  "id": "matthew-arnold--culture-and-anarchy",
+  "title": "Culture and Anarchy",
+  "titleAlpha": "culture and anarchy",
+  "author": "Matthew Arnold",
+  "language": "en",
+  "description": "Matthew Arnold describes what he considers to be the flaws in Victorian British society.",
+  "longDescription": [
+    "In Culture and Anarchy, Matthew Arnold sets out what he sees as the major flaws in the various classes of British society: the aristocrats are too out of touch with mainstream society; the middle class has energy but needs refinement; and the working class doesn't know what it wants. Arnold worries that democratic freedom will devolve into anarchy, and argues that culture - \"the best which has been thought and said\" - must be developed in each person in order to achieve perfection. Incubating culture in this way will provide the cohesion needed to keep society together.",
+    "Arnold places the collective identity of the people in the State, and yet as a British liberal, seems to understand his countrymen's mistrust of a centralized authority. He leaves it to each person to look inward, to be well informed, to cultivate the kinds of things that will bring about \"sweetness and light,\" which are his terms to represent beauty and intelligence. He sees each class as fixed on certain \"stock notions.\" But rather than look for a \"rival fetish\" to take the place of any such false notion, society should \"turn a free and fresh stream of thought upon the whole matter in question.\" These writings came at a time of great political, social, scientific, and religious change, and attempted to provide a blueprint for society to navigate through it all.",
+    "Culture and Anarchy was first published as a series of essays in Cornhill Magazine, and then was collected into a book in 1869. This ebook is based on a 1925 edition, which is essentially the 1882 third edition."
+  ],
+  "year": 1869,
+  "genres": [
+    "classics",
+    "nonfiction",
+    "philosophy",
+    "history"
+  ],
+  "topics": [
+    "politics"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Culture and Anarchy",
+      "length": 19,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Preface",
+      "length": 56367,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Introduction",
+      "length": 4239,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "I: Sweetness and Light",
+      "length": 54964,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "II: Doing as One Likes",
+      "length": 49360,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "III: Barbarians, Philistines, Populace",
+      "length": 58055,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "IV: Hebraism and Hellenism",
+      "length": 28635,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "V: Porro Unum Est Necessarium",
+      "length": 37959,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VI: Our Liberal Practitioners - I",
+      "length": 15412,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VI: Our Liberal Practitioners - II",
+      "length": 12135,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VI: Our Liberal Practitioners - III",
+      "length": 7803,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "VI: Our Liberal Practitioners - IV",
+      "length": 25146,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "VI: Our Liberal Practitioners - V",
+      "length": 3309,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Conclusion",
+      "length": 17625,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Endnotes",
+      "length": 735,
+      "mode": "hide"
+    },
+    {
+      "id": "017",
+      "title": "Colophon",
+      "length": 1073,
+      "mode": "hide"
+    },
+    {
+      "id": "018",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1336793W",
+  "goodreadsId": "251264",
+  "rating": 0.6839999999999999,
+  "popularity": 1012,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489971476
+}

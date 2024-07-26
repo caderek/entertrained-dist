@@ -1,1 +1,157 @@
-{"id":"marie-de-france--lais","title":"Lais","titleAlpha":"lais","author":"Marie de France","language":"en","description":"A collection of twelfth-century medieval tales of chivalry and romance.","longDescription":["Marie de France is regarded as the first female poet writing in French. Most of the details of her life are lost to history, and even though she was thought to have lived and composed mostly in England - perhaps at the court of King Henry II - she herself says she is of France. The Lais were likely composed in the 1170s in the Anglo-Norman language, the language of the Norman conquerors of England.","The lais, or lays, are a collection of twelve medieval poems attributed to Marie, telling tales of chivalry, knights, ladies, and love lost and found. A streak of the fantastical runs through them: ships sail themselves without a crew, animals speak, and knights shapeshift to werewolves or hawks - the better to fly into ladies' towers."],"year":1999,"genres":["classics","fiction","romance","shorts"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/marie-de-france/lais/eugene-mason"},"openlibraryId":"OL2831482W","goodreadsId":"119079","rating":0.50806404,"popularity":25,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Lais","length":48,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Introduction","length":24912,"mode":"type"},{"id":"004","title":"Prologue by Way of Dedication","length":2193,"mode":"hide"},{"id":"005","title":"The Lay of Gugemar","length":36518,"mode":"type"},{"id":"006","title":"The Lay of the Dolorous Knight","length":10529,"mode":"type"},{"id":"007","title":"The Lay of Eliduc","length":45756,"mode":"type"},{"id":"008","title":"The Lay of the Nightingale","length":6743,"mode":"type"},{"id":"009","title":"The Lay of Sir Launfal","length":26927,"mode":"type"},{"id":"010","title":"The Lay of the Two Lovers","length":9796,"mode":"type"},{"id":"011","title":"The Lay of the Werewolf","length":13226,"mode":"type"},{"id":"012","title":"The Lay of the Ash Tree","length":18854,"mode":"type"},{"id":"013","title":"The Lay of the Honeysuckle","length":4245,"mode":"type"},{"id":"014","title":"The Lay of Equitan","length":11250,"mode":"type"},{"id":"015","title":"The Lay of Milon","length":21462,"mode":"type"},{"id":"016","title":"The Lay of Yonec","length":21026,"mode":"type"},{"id":"017","title":"Endnotes","length":87,"mode":"hide"},{"id":"018","title":"Colophon","length":1113,"mode":"hide"},{"id":"019","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489955885}
+{
+  "id": "marie-de-france--lais",
+  "title": "Lais",
+  "titleAlpha": "lais",
+  "author": "Marie de France",
+  "language": "en",
+  "description": "A collection of twelfth-century medieval tales of chivalry and romance.",
+  "longDescription": [
+    "Marie de France is regarded as the first female poet writing in French. Most of the details of her life are lost to history, and even though she was thought to have lived and composed mostly in England - perhaps at the court of King Henry II - she herself says she is of France. The Lais were likely composed in the 1170s in the Anglo-Norman language, the language of the Norman conquerors of England.",
+    "The lais, or lays, are a collection of twelve medieval poems attributed to Marie, telling tales of chivalry, knights, ladies, and love lost and found. A streak of the fantastical runs through them: ships sail themselves without a crew, animals speak, and knights shapeshift to werewolves or hawks - the better to fly into ladies' towers."
+  ],
+  "year": 1160,
+  "genres": [
+    "classics",
+    "fiction",
+    "romance",
+    "shorts"
+  ],
+  "topics": [
+    "medieval",
+    "knights",
+    "folklore",
+    "legends"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/marie-de-france/lais/eugene-mason"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Lais",
+      "length": 48,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Introduction",
+      "length": 24912,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Prologue by Way of Dedication",
+      "length": 2193,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "The Lay of Gugemar",
+      "length": 36518,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "The Lay of the Dolorous Knight",
+      "length": 10529,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "The Lay of Eliduc",
+      "length": 45756,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "The Lay of the Nightingale",
+      "length": 6743,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "The Lay of Sir Launfal",
+      "length": 26927,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "The Lay of the Two Lovers",
+      "length": 9796,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "The Lay of the Werewolf",
+      "length": 13226,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "The Lay of the Ash Tree",
+      "length": 18854,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "The Lay of the Honeysuckle",
+      "length": 4245,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "The Lay of Equitan",
+      "length": 11250,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "The Lay of Milon",
+      "length": 21462,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "The Lay of Yonec",
+      "length": 21026,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Endnotes",
+      "length": 87,
+      "mode": "hide"
+    },
+    {
+      "id": "018",
+      "title": "Colophon",
+      "length": 1113,
+      "mode": "hide"
+    },
+    {
+      "id": "019",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL2831482W",
+  "goodreadsId": "119079",
+  "rating": 0.768,
+  "popularity": 8732,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489955885
+}

@@ -1,1 +1,231 @@
-{"id":"frederick-rolfe--hadrian-the-seventh","title":"Hadrian the Seventh","titleAlpha":"hadrian the seventh","author":"Frederick Rolfe","language":"en","description":"A long-suffering English seminarian is unexpectedly elected as the next Pope.","longDescription":["George Arthur Rose aspired to the priesthood, but after being much abused and taken advantage of for many years by his Catholic brothers, he finds himself disillusioned with humanity. But just as the secret conclave in Rome is deadlocked in the election of the next Pope, he finds himself rediscovered. A compromise in the election results in Rose being chosen for the office, and he styles himself as Hadrian the Seventh. With his new authority, he implements church reforms and a program to bring Christian order to the nations of the world.","Frederick Rolfe was considered an eccentric, as evidenced by his often-idiosyncratic spelling (\"Xystine Chapel\") and made-up words like \"contortuplications\" and \"occession.\" Hadrian the Seventh, written under the pen name of \"Baron Corvo,\" is a novel of wish-fulfillment, reflecting Rolfe's vision of how he wants to order the world given unlimited power. Written before the world wars and amid the increasing secularization of twentieth century society, it was perhaps almost-plausible to think that a religious figure could get everyone on the same program merely by moral persuasion."],"year":null,"genres":["classics","comedy","fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/frederick-rolfe/hadrian-the-seventh"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Hadrian the Seventh","length":20,"mode":"hide"},{"id":"002","title":"Imprint","length":1194,"mode":"hide"},{"id":"003","title":"Dedication","length":10,"mode":"hide"},{"id":"004","title":"Preface","length":558,"mode":"skip"},{"id":"005","title":"Prooimion","length":108341,"mode":"type"},{"id":"006","title":"I","length":3809,"mode":"type"},{"id":"007","title":"II","length":28315,"mode":"type"},{"id":"008","title":"III","length":21912,"mode":"type"},{"id":"009","title":"IV","length":26047,"mode":"type"},{"id":"010","title":"V","length":25710,"mode":"type"},{"id":"011","title":"VI","length":28205,"mode":"type"},{"id":"012","title":"VII","length":28793,"mode":"type"},{"id":"013","title":"VIII","length":25993,"mode":"type"},{"id":"014","title":"IX","length":12132,"mode":"type"},{"id":"015","title":"X","length":33750,"mode":"type"},{"id":"016","title":"XI","length":62730,"mode":"type"},{"id":"017","title":"XII","length":12313,"mode":"type"},{"id":"018","title":"XIII","length":40933,"mode":"type"},{"id":"019","title":"XIV","length":23113,"mode":"type"},{"id":"020","title":"XV","length":34113,"mode":"type"},{"id":"021","title":"XVI","length":16071,"mode":"type"},{"id":"022","title":"XVII","length":22709,"mode":"type"},{"id":"023","title":"XVIII","length":9358,"mode":"type"},{"id":"024","title":"XIX","length":31484,"mode":"type"},{"id":"025","title":"XX","length":26118,"mode":"type"},{"id":"026","title":"XXI","length":16627,"mode":"type"},{"id":"027","title":"XXII","length":51618,"mode":"type"},{"id":"028","title":"XXIII","length":9247,"mode":"type"},{"id":"029","title":"XXIV","length":17075,"mode":"type"},{"id":"030","title":"Endnotes","length":167,"mode":"hide"},{"id":"031","title":"Colophon","length":1106,"mode":"hide"},{"id":"032","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489682416}
+{
+  "id": "frederick-rolfe--hadrian-the-seventh",
+  "title": "Hadrian the Seventh",
+  "titleAlpha": "hadrian the seventh",
+  "author": "Frederick Rolfe",
+  "language": "en",
+  "description": "A long-suffering English seminarian is unexpectedly elected as the next Pope.",
+  "longDescription": [
+    "George Arthur Rose aspired to the priesthood, but after being much abused and taken advantage of for many years by his Catholic brothers, he finds himself disillusioned with humanity. But just as the secret conclave in Rome is deadlocked in the election of the next Pope, he finds himself rediscovered. A compromise in the election results in Rose being chosen for the office, and he styles himself as Hadrian the Seventh. With his new authority, he implements church reforms and a program to bring Christian order to the nations of the world.",
+    "Frederick Rolfe was considered an eccentric, as evidenced by his often-idiosyncratic spelling (\"Xystine Chapel\") and made-up words like \"contortuplications\" and \"occession.\" Hadrian the Seventh, written under the pen name of \"Baron Corvo,\" is a novel of wish-fulfillment, reflecting Rolfe's vision of how he wants to order the world given unlimited power. Written before the world wars and amid the increasing secularization of twentieth century society, it was perhaps almost-plausible to think that a religious figure could get everyone on the same program merely by moral persuasion."
+  ],
+  "year": 1904,
+  "genres": [
+    "classics",
+    "fiction",
+    "satire"
+  ],
+  "topics": [
+    "religion"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/frederick-rolfe/hadrian-the-seventh"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Hadrian the Seventh",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 10,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Preface",
+      "length": 558,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "Prooimion",
+      "length": 108341,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "I",
+      "length": 3809,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "II",
+      "length": 28315,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "III",
+      "length": 21912,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "IV",
+      "length": 26047,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "V",
+      "length": 25710,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VI",
+      "length": 28205,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VII",
+      "length": 28793,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "VIII",
+      "length": 25993,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "IX",
+      "length": 12132,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "X",
+      "length": 33750,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XI",
+      "length": 62730,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XII",
+      "length": 12313,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIII",
+      "length": 40933,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XIV",
+      "length": 23113,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XV",
+      "length": 34113,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVI",
+      "length": 16071,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVII",
+      "length": 22709,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XVIII",
+      "length": 9358,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XIX",
+      "length": 31484,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XX",
+      "length": 26118,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXI",
+      "length": 16627,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXII",
+      "length": 51618,
+      "mode": "hide"
+    },
+    {
+      "id": "028",
+      "title": "XXIII",
+      "length": 9247,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXIV",
+      "length": 17075,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "Endnotes",
+      "length": 167,
+      "mode": "hide"
+    },
+    {
+      "id": "031",
+      "title": "Colophon",
+      "length": 1106,
+      "mode": "hide"
+    },
+    {
+      "id": "032",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL3956110W",
+  "goodreadsId": "849948",
+  "rating": 0.6940000000000001,
+  "popularity": 523,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489682416
+}

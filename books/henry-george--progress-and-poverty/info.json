@@ -1,1 +1,485 @@
-{"id":"henry-george--progress-and-poverty","title":"Progress and Poverty","titleAlpha":"progress and poverty","author":"Henry George","language":"en","description":"An explanation on why increased productivity has not led to increased wages, and how the application of a single land value tax can fix this and lead to a more just society.","longDescription":["Progress and Poverty, first published in 1879, was American political economist Henry George's most popular book. It explores why the economy of the mid-to-late 1800s had seen a simultaneous economic growth and growth in poverty. The book's appeal was in its balance of moral and economic arguments, challenging the popular notion that the poor, through uncontrolled population growth, were responsible for their own woes. Inspired by his years living in San Francisco and his own experience with privation, George argues instead that poverty had grown due to the increasing speculation and monopolization of land, as landowners had captured the increases in growth, investment, and productivity through the rising cost of rent.","To solve this, George proposes the complete taxation of the unimproved value of land, thus returning the value of land, created through location, to the community. This solution would incentivize individuals to use the land they own productively and remove the tendency to speculate upon land's increasing value. George's argument was profoundly liberal, as individuals retain the right to own land and enjoy the profits generated from production upon it.","Progress and Poverty was hugely popular in the 1890s, being outsold only by the Bible. It inspired the Single Tax Movement, and influenced a wide range of intellectuals and policymakers in the early 1900s including Leo Tolstoy, Albert Einstein, and Winston Churchill."],"year":null,"genres":["classics","nonfiction"],"topics":["economics"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/henry-george/progress-and-poverty"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Progress and Poverty","length":17,"mode":"hide"},{"id":"002","title":"Epigraph","length":890,"mode":"skip"},{"id":"003","title":"Imprint","length":1184,"mode":"hide"},{"id":"004","title":"Dedication","length":219,"mode":"hide"},{"id":"005","title":"Epigraph","length":618,"mode":"skip"},{"id":"006","title":"Preface to the Fourth Edition","length":11584,"mode":"skip"},{"id":"007","title":"Epigraph","length":188,"mode":"skip"},{"id":"008","title":"The Problem","length":19668,"mode":"type"},{"id":"009","title":"Book I: Wages and Capital - Epigraph","length":59,"mode":"skip"},{"id":"010","title":"Book I: Wages and Capital - I: The Current Doctrine of Wages - Its Insufficiency","length":22559,"mode":"type"},{"id":"011","title":"Book I: Wages and Capital - II: The Meaning of the Terms","length":33955,"mode":"type"},{"id":"012","title":"Book I: Wages and Capital - III: Wages Not Drawn from Capital, but Produced by the Labor","length":38039,"mode":"type"},{"id":"013","title":"Book I: Wages and Capital - IV: The Maintenance of Laborers Not Drawn from Capital","length":16230,"mode":"type"},{"id":"014","title":"Book I: Wages and Capital - V: The Real Functions of Capital","length":15964,"mode":"type"},{"id":"015","title":"Book II: Population and Subsistence - Epigraph","length":137,"mode":"skip"},{"id":"016","title":"Book II: Population and Subsistence - I: The Malthusian Theory, Its Genesis and Support","length":21766,"mode":"type"},{"id":"017","title":"Book II: Population and Subsistence - II: Inferences from Facts","length":46108,"mode":"type"},{"id":"018","title":"Book II: Population and Subsistence - III: Inferences from Analogy","length":19595,"mode":"type"},{"id":"019","title":"Book II: Population and Subsistence - IV: Disproof of the Malthusian Theory","length":20910,"mode":"type"},{"id":"020","title":"Book III: The Laws of Distribution - Epigraph","length":675,"mode":"skip"},{"id":"021","title":"Book III: The Laws of Distribution - I: The Inquiry Narrowed to the Laws of Distribution - The Necessary Relation of These Laws","length":21287,"mode":"type"},{"id":"022","title":"Book III: The Laws of Distribution - II: Rent and the Law of Rent","length":13571,"mode":"type"},{"id":"023","title":"Book III: The Laws of Distribution - III: Of Interest and the Cause of Interest","length":29892,"mode":"type"},{"id":"024","title":"Book III: The Laws of Distribution - IV: Of Spurious Capital and of Profits Often Mistaken for Interest","length":11157,"mode":"type"},{"id":"025","title":"Book III: The Laws of Distribution - V: The Law of Interest","length":15849,"mode":"type"},{"id":"026","title":"Book III: The Laws of Distribution - VI: Wages and the Law of Wages","length":24219,"mode":"type"},{"id":"027","title":"Book III: The Laws of Distribution - VII: The Correlation and Coordination of These Laws","length":3421,"mode":"type"},{"id":"028","title":"Book III: The Laws of Distribution - VIII: The Statics of the Problem Thus Explained","length":6670,"mode":"type"},{"id":"029","title":"Book IV: Effect of Material Progress Upon the Distribution of Wealth - Epigraph","length":625,"mode":"skip"},{"id":"030","title":"Book IV: Effect of Material Progress Upon the Distribution of Wealth - I: The Dynamics of the Problem Yet to Seek","length":3474,"mode":"type"},{"id":"031","title":"Book IV: Effect of Material Progress Upon the Distribution of Wealth - II: The Effect of Increase of Population Upon the Distribution of Wealth","length":25809,"mode":"type"},{"id":"032","title":"Book IV: Effect of Material Progress Upon the Distribution of Wealth - III: The Effect of Improvements in the Arts Upon the Distribution of Wealth","length":20158,"mode":"type"},{"id":"033","title":"Book IV: Effect of Material Progress Upon the Distribution of Wealth - IV: Effect of the Expectation Raised by Material Progress","length":10280,"mode":"type"},{"id":"034","title":"Book V: The Problem Solved - Epigraph","length":363,"mode":"skip"},{"id":"035","title":"Book V: The Problem Solved - I: The Primary Cause of Recurring Paroxysms of Industrial Depression","length":34487,"mode":"type"},{"id":"036","title":"Book V: The Problem Solved - II: The Persistence of Poverty Amid Advancing Wealth","length":26831,"mode":"type"},{"id":"037","title":"Book VI: The Remedy - Epigraph","length":2286,"mode":"skip"},{"id":"038","title":"Book VI: The Remedy - I: Insufficiency of Remedies Currently Advocated - I: From Greater Economy in Government","length":6507,"mode":"type"},{"id":"039","title":"Book VI: The Remedy - I: Insufficiency of Remedies Currently Advocated - II: From the Diffusion of Education and Improved Habits of Industry and Thrift","length":11766,"mode":"type"},{"id":"040","title":"Book VI: The Remedy - I: Insufficiency of Remedies Currently Advocated - III: From Combinations of Workmen","length":11963,"mode":"type"},{"id":"041","title":"Book VI: The Remedy - I: Insufficiency of Remedies Currently Advocated - IV: From Cooperation","length":5849,"mode":"type"},{"id":"042","title":"Book VI: The Remedy - I: Insufficiency of Remedies Currently Advocated - V: From Governmental Direction and Interference","length":3260,"mode":"type"},{"id":"043","title":"Book VI: The Remedy - I: Insufficiency of Remedies Currently Advocated - VI: From a More General Distribution of Land","length":12656,"mode":"type"},{"id":"044","title":"Book VI: The Remedy - II: The True Remedy","length":3665,"mode":"type"},{"id":"045","title":"Book VII: Justice of the Remedy - Epigraph","length":189,"mode":"skip"},{"id":"046","title":"Book VII: Justice of the Remedy - I: The Injustice of Private Property in Land","length":24781,"mode":"type"},{"id":"047","title":"Book VII: Justice of the Remedy - II: The Enslavement of Laborers the Ultimate Result of Private Property in Land","length":20069,"mode":"type"},{"id":"048","title":"Book VII: Justice of the Remedy - III: Claim of Land Owners to Compensation","length":17467,"mode":"type"},{"id":"049","title":"Book VII: Justice of the Remedy - IV: Private Property in Land Historically Considered","length":30926,"mode":"type"},{"id":"050","title":"Book VII: Justice of the Remedy - V: Of Property in Land in the United States","length":18657,"mode":"type"},{"id":"051","title":"Book VIII: Application of the Remedy - Epigraph","length":515,"mode":"skip"},{"id":"052","title":"Book VIII: Application of the Remedy - I: Private Property in Land Inconsistent with the Best Use of Land","length":9654,"mode":"type"},{"id":"053","title":"Book VIII: Application of the Remedy - II: How Equal Rights to the Land May Be Asserted and Secured","length":10202,"mode":"type"},{"id":"054","title":"Book VIII: Application of the Remedy - III: The Proposition Tried by the Canons of Taxation - I: The Effect of Taxes Upon Production","length":8880,"mode":"type"},{"id":"055","title":"Book VIII: Application of the Remedy - III: The Proposition Tried by the Canons of Taxation - II: As to Ease and Cheapness of Collection","length":3756,"mode":"type"},{"id":"056","title":"Book VIII: Application of the Remedy - III: The Proposition Tried by the Canons of Taxation - III: As to Certainty","length":4263,"mode":"type"},{"id":"057","title":"Book VIII: Application of the Remedy - III: The Proposition Tried by the Canons of Taxation - IV: As to Equality","length":4855,"mode":"type"},{"id":"058","title":"Book VIII: Application of the Remedy - IV: Endorsements and Objections","length":14652,"mode":"type"},{"id":"059","title":"Book IX: Effects of the Remedy - Epigraph","length":411,"mode":"skip"},{"id":"060","title":"Book IX: Effects of the Remedy - I: Of the Effect Upon the Production of Wealth","length":11376,"mode":"type"},{"id":"061","title":"Book IX: Effects of the Remedy - II: Of the Effect Upon Distribution and Thence Upon Production","length":12431,"mode":"type"},{"id":"062","title":"Book IX: Effects of the Remedy - III: Of the Effect Upon Individuals and Classes","length":11576,"mode":"type"},{"id":"063","title":"Book IX: Effects of the Remedy - IV: Of the Changes That Would Be Wrought in Social Organization and Social Life","length":33945,"mode":"type"},{"id":"064","title":"Book X: The Law of Human Progress - Epigraph","length":170,"mode":"skip"},{"id":"065","title":"Book X: The Law of Human Progress - I: The Current Theory of Human Progress - Its Insufficiency","length":25238,"mode":"type"},{"id":"066","title":"Book X: The Law of Human Progress - II: Differences in Civilization - To What Due","length":30066,"mode":"type"},{"id":"067","title":"Book X: The Law of Human Progress - III: The Law of Human Progress","length":38993,"mode":"type"},{"id":"068","title":"Book X: The Law of Human Progress - IV: How Modern Civilization May Decline","length":30760,"mode":"type"},{"id":"069","title":"Book X: The Law of Human Progress - V: The Central Truth","length":16299,"mode":"type"},{"id":"070","title":"Conclusion - Epigraph","length":324,"mode":"skip"},{"id":"071","title":"Conclusion - The Problem of Individual Life","length":18209,"mode":"type"},{"id":"072","title":"Endnotes","length":25635,"mode":"hide"},{"id":"073","title":"Colophon","length":1073,"mode":"hide"},{"id":"074","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489760135}
+{
+  "id": "henry-george--progress-and-poverty",
+  "title": "Progress and Poverty",
+  "titleAlpha": "progress and poverty",
+  "author": "Henry George",
+  "language": "en",
+  "description": "An explanation on why increased productivity has not led to increased wages, and how the application of a single land value tax can fix this and lead to a more just society.",
+  "longDescription": [
+    "Progress and Poverty, first published in 1879, was American political economist Henry George's most popular book. It explores why the economy of the mid-to-late 1800s had seen a simultaneous economic growth and growth in poverty. The book's appeal was in its balance of moral and economic arguments, challenging the popular notion that the poor, through uncontrolled population growth, were responsible for their own woes. Inspired by his years living in San Francisco and his own experience with privation, George argues instead that poverty had grown due to the increasing speculation and monopolization of land, as landowners had captured the increases in growth, investment, and productivity through the rising cost of rent.",
+    "To solve this, George proposes the complete taxation of the unimproved value of land, thus returning the value of land, created through location, to the community. This solution would incentivize individuals to use the land they own productively and remove the tendency to speculate upon land's increasing value. George's argument was profoundly liberal, as individuals retain the right to own land and enjoy the profits generated from production upon it.",
+    "Progress and Poverty was hugely popular in the 1890s, being outsold only by the Bible. It inspired the Single Tax Movement, and influenced a wide range of intellectuals and policymakers in the early 1900s including Leo Tolstoy, Albert Einstein, and Winston Churchill."
+  ],
+  "year": 1879,
+  "genres": [
+    "classics",
+    "nonfiction",
+    "history"
+  ],
+  "topics": [
+    "economics",
+    "politics"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/henry-george/progress-and-poverty"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Progress and Poverty",
+      "length": 17,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Epigraph",
+      "length": 890,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Dedication",
+      "length": 219,
+      "mode": "hide"
+    },
+    {
+      "id": "005",
+      "title": "Epigraph",
+      "length": 618,
+      "mode": "hide"
+    },
+    {
+      "id": "006",
+      "title": "Preface to the Fourth Edition",
+      "length": 11584,
+      "mode": "skip"
+    },
+    {
+      "id": "007",
+      "title": "Epigraph",
+      "length": 188,
+      "mode": "skip"
+    },
+    {
+      "id": "008",
+      "title": "The Problem",
+      "length": 19668,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Book I: Wages and Capital - Epigraph",
+      "length": 59,
+      "mode": "skip"
+    },
+    {
+      "id": "010",
+      "title": "Book I: Wages and Capital - I: The Current Doctrine of Wages - Its Insufficiency",
+      "length": 22559,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Book I: Wages and Capital - II: The Meaning of the Terms",
+      "length": 33955,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "Book I: Wages and Capital - III: Wages Not Drawn from Capital, but Produced by the Labor",
+      "length": 38039,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "Book I: Wages and Capital - IV: The Maintenance of Laborers Not Drawn from Capital",
+      "length": 16230,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "Book I: Wages and Capital - V: The Real Functions of Capital",
+      "length": 15964,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "Book II: Population and Subsistence - Epigraph",
+      "length": 137,
+      "mode": "skip"
+    },
+    {
+      "id": "016",
+      "title": "Book II: Population and Subsistence - I: The Malthusian Theory, Its Genesis and Support",
+      "length": 21766,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "Book II: Population and Subsistence - II: Inferences from Facts",
+      "length": 46108,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "Book II: Population and Subsistence - III: Inferences from Analogy",
+      "length": 19595,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "Book II: Population and Subsistence - IV: Disproof of the Malthusian Theory",
+      "length": 20910,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "Book III: The Laws of Distribution - Epigraph",
+      "length": 675,
+      "mode": "skip"
+    },
+    {
+      "id": "021",
+      "title": "Book III: The Laws of Distribution - I: The Inquiry Narrowed to the Laws of Distribution - The Necessary Relation of These Laws",
+      "length": 21287,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "Book III: The Laws of Distribution - II: Rent and the Law of Rent",
+      "length": 13571,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "Book III: The Laws of Distribution - III: Of Interest and the Cause of Interest",
+      "length": 29892,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "Book III: The Laws of Distribution - IV: Of Spurious Capital and of Profits Often Mistaken for Interest",
+      "length": 11157,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Book III: The Laws of Distribution - V: The Law of Interest",
+      "length": 15849,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "Book III: The Laws of Distribution - VI: Wages and the Law of Wages",
+      "length": 24219,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "Book III: The Laws of Distribution - VII: The Correlation and Coordination of These Laws",
+      "length": 3421,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "Book III: The Laws of Distribution - VIII: The Statics of the Problem Thus Explained",
+      "length": 6670,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "Book IV: Effect of Material Progress Upon the Distribution of Wealth - Epigraph",
+      "length": 625,
+      "mode": "skip"
+    },
+    {
+      "id": "030",
+      "title": "Book IV: Effect of Material Progress Upon the Distribution of Wealth - I: The Dynamics of the Problem Yet to Seek",
+      "length": 3474,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "Book IV: Effect of Material Progress Upon the Distribution of Wealth - II: The Effect of Increase of Population Upon the Distribution of Wealth",
+      "length": 25809,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Book IV: Effect of Material Progress Upon the Distribution of Wealth - III: The Effect of Improvements in the Arts Upon the Distribution of Wealth",
+      "length": 20158,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "Book IV: Effect of Material Progress Upon the Distribution of Wealth - IV: Effect of the Expectation Raised by Material Progress",
+      "length": 10280,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Book V: The Problem Solved - Epigraph",
+      "length": 363,
+      "mode": "skip"
+    },
+    {
+      "id": "035",
+      "title": "Book V: The Problem Solved - I: The Primary Cause of Recurring Paroxysms of Industrial Depression",
+      "length": 34487,
+      "mode": "type"
+    },
+    {
+      "id": "036",
+      "title": "Book V: The Problem Solved - II: The Persistence of Poverty Amid Advancing Wealth",
+      "length": 26831,
+      "mode": "type"
+    },
+    {
+      "id": "037",
+      "title": "Book VI: The Remedy - Epigraph",
+      "length": 2286,
+      "mode": "skip"
+    },
+    {
+      "id": "038",
+      "title": "Book VI: The Remedy - I: Insufficiency of Remedies Currently Advocated - I: From Greater Economy in Government",
+      "length": 6507,
+      "mode": "type"
+    },
+    {
+      "id": "039",
+      "title": "Book VI: The Remedy - I: Insufficiency of Remedies Currently Advocated - II: From the Diffusion of Education and Improved Habits of Industry and Thrift",
+      "length": 11766,
+      "mode": "type"
+    },
+    {
+      "id": "040",
+      "title": "Book VI: The Remedy - I: Insufficiency of Remedies Currently Advocated - III: From Combinations of Workmen",
+      "length": 11963,
+      "mode": "type"
+    },
+    {
+      "id": "041",
+      "title": "Book VI: The Remedy - I: Insufficiency of Remedies Currently Advocated - IV: From Cooperation",
+      "length": 5849,
+      "mode": "type"
+    },
+    {
+      "id": "042",
+      "title": "Book VI: The Remedy - I: Insufficiency of Remedies Currently Advocated - V: From Governmental Direction and Interference",
+      "length": 3260,
+      "mode": "type"
+    },
+    {
+      "id": "043",
+      "title": "Book VI: The Remedy - I: Insufficiency of Remedies Currently Advocated - VI: From a More General Distribution of Land",
+      "length": 12656,
+      "mode": "type"
+    },
+    {
+      "id": "044",
+      "title": "Book VI: The Remedy - II: The True Remedy",
+      "length": 3665,
+      "mode": "type"
+    },
+    {
+      "id": "045",
+      "title": "Book VII: Justice of the Remedy - Epigraph",
+      "length": 189,
+      "mode": "skip"
+    },
+    {
+      "id": "046",
+      "title": "Book VII: Justice of the Remedy - I: The Injustice of Private Property in Land",
+      "length": 24781,
+      "mode": "type"
+    },
+    {
+      "id": "047",
+      "title": "Book VII: Justice of the Remedy - II: The Enslavement of Laborers the Ultimate Result of Private Property in Land",
+      "length": 20069,
+      "mode": "type"
+    },
+    {
+      "id": "048",
+      "title": "Book VII: Justice of the Remedy - III: Claim of Land Owners to Compensation",
+      "length": 17467,
+      "mode": "type"
+    },
+    {
+      "id": "049",
+      "title": "Book VII: Justice of the Remedy - IV: Private Property in Land Historically Considered",
+      "length": 30926,
+      "mode": "type"
+    },
+    {
+      "id": "050",
+      "title": "Book VII: Justice of the Remedy - V: Of Property in Land in the United States",
+      "length": 18657,
+      "mode": "type"
+    },
+    {
+      "id": "051",
+      "title": "Book VIII: Application of the Remedy - Epigraph",
+      "length": 515,
+      "mode": "skip"
+    },
+    {
+      "id": "052",
+      "title": "Book VIII: Application of the Remedy - I: Private Property in Land Inconsistent with the Best Use of Land",
+      "length": 9654,
+      "mode": "type"
+    },
+    {
+      "id": "053",
+      "title": "Book VIII: Application of the Remedy - II: How Equal Rights to the Land May Be Asserted and Secured",
+      "length": 10202,
+      "mode": "type"
+    },
+    {
+      "id": "054",
+      "title": "Book VIII: Application of the Remedy - III: The Proposition Tried by the Canons of Taxation - I: The Effect of Taxes Upon Production",
+      "length": 8880,
+      "mode": "type"
+    },
+    {
+      "id": "055",
+      "title": "Book VIII: Application of the Remedy - III: The Proposition Tried by the Canons of Taxation - II: As to Ease and Cheapness of Collection",
+      "length": 3756,
+      "mode": "type"
+    },
+    {
+      "id": "056",
+      "title": "Book VIII: Application of the Remedy - III: The Proposition Tried by the Canons of Taxation - III: As to Certainty",
+      "length": 4263,
+      "mode": "type"
+    },
+    {
+      "id": "057",
+      "title": "Book VIII: Application of the Remedy - III: The Proposition Tried by the Canons of Taxation - IV: As to Equality",
+      "length": 4855,
+      "mode": "type"
+    },
+    {
+      "id": "058",
+      "title": "Book VIII: Application of the Remedy - IV: Endorsements and Objections",
+      "length": 14652,
+      "mode": "type"
+    },
+    {
+      "id": "059",
+      "title": "Book IX: Effects of the Remedy - Epigraph",
+      "length": 411,
+      "mode": "skip"
+    },
+    {
+      "id": "060",
+      "title": "Book IX: Effects of the Remedy - I: Of the Effect Upon the Production of Wealth",
+      "length": 11376,
+      "mode": "type"
+    },
+    {
+      "id": "061",
+      "title": "Book IX: Effects of the Remedy - II: Of the Effect Upon Distribution and Thence Upon Production",
+      "length": 12431,
+      "mode": "type"
+    },
+    {
+      "id": "062",
+      "title": "Book IX: Effects of the Remedy - III: Of the Effect Upon Individuals and Classes",
+      "length": 11576,
+      "mode": "type"
+    },
+    {
+      "id": "063",
+      "title": "Book IX: Effects of the Remedy - IV: Of the Changes That Would Be Wrought in Social Organization and Social Life",
+      "length": 33945,
+      "mode": "type"
+    },
+    {
+      "id": "064",
+      "title": "Book X: The Law of Human Progress - Epigraph",
+      "length": 170,
+      "mode": "skip"
+    },
+    {
+      "id": "065",
+      "title": "Book X: The Law of Human Progress - I: The Current Theory of Human Progress - Its Insufficiency",
+      "length": 25238,
+      "mode": "type"
+    },
+    {
+      "id": "066",
+      "title": "Book X: The Law of Human Progress - II: Differences in Civilization - To What Due",
+      "length": 30066,
+      "mode": "type"
+    },
+    {
+      "id": "067",
+      "title": "Book X: The Law of Human Progress - III: The Law of Human Progress",
+      "length": 38993,
+      "mode": "type"
+    },
+    {
+      "id": "068",
+      "title": "Book X: The Law of Human Progress - IV: How Modern Civilization May Decline",
+      "length": 30760,
+      "mode": "type"
+    },
+    {
+      "id": "069",
+      "title": "Book X: The Law of Human Progress - V: The Central Truth",
+      "length": 16299,
+      "mode": "type"
+    },
+    {
+      "id": "070",
+      "title": "Conclusion - Epigraph",
+      "length": 324,
+      "mode": "skip"
+    },
+    {
+      "id": "071",
+      "title": "Conclusion - The Problem of Individual Life",
+      "length": 18209,
+      "mode": "type"
+    },
+    {
+      "id": "072",
+      "title": "Endnotes",
+      "length": 25635,
+      "mode": "hide"
+    },
+    {
+      "id": "073",
+      "title": "Colophon",
+      "length": 1073,
+      "mode": "hide"
+    },
+    {
+      "id": "074",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL13558193W",
+  "goodreadsId": "552175",
+  "rating": 0.8619999999999999,
+  "popularity": 633,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489760135
+}

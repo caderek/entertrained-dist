@@ -1,1 +1,251 @@
-{"id":"james-de-mille--a-strange-manuscript-found-in-a-copper-cylinder","title":"A Strange Manuscript Found in a Copper Cylinder","titleAlpha":"strange manuscript found in a copper cylinder","author":"James De Mille","language":"en","description":"A shipwrecked sailor travels through a portal to a lost world populated by fantastic creatures and a strange civilization.","longDescription":["A Strange Manuscript Found in a Copper Cylinder is perhaps James De Mille's most popular book; sadly, De Mille didn't get to see this novel grow in popularity, as it was first serialized posthumously, in Harper's Weekly. De Mille had written the novel before the \"lost world\" genre had become saturated, meaning many of the ideas were fresh and original for the time in which it was written. But, since he didn't succeed in publishing it during his lifetime, by the time the novel was made public other authors like H. Rider Haggard had made the ideas and plot clichéd.","The novel itself tells the tale of a shipwrecked sailor, Adam More, who passes through a mysterious underground passage into a hidden land deep in the Antarctic, kept warm by a hidden volcano. The land is populated by an ancient civilization whose views on life and wealth are the polar opposite of those held in British society of the time - they view death and poverty as the highest religious and social achievements. As More adventures through the strange land, he encounters fantastic dinosaurs, lovelorn princesses, and the classic kind of adventure that foreshadows the pulp novels of the next century."],"year":1888,"genres":["classics","fiction","science-fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/james-de-mille/a-strange-manuscript-found-in-a-copper-cylinder"},"openlibraryId":"OL96167W","goodreadsId":"490052","rating":0.6599999999999999,"popularity":905,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - A Strange Manuscript Found in a Copper Cylinder","length":19,"mode":"hide"},{"id":"002","title":"Imprint","length":1176,"mode":"hide"},{"id":"003","title":"I: The Finding of the Copper Cylinder","length":14577,"mode":"type"},{"id":"004","title":"II: Adrift in the Antarctic Ocean","length":15761,"mode":"type"},{"id":"005","title":"III: A World of Fire and Desolation","length":16110,"mode":"type"},{"id":"006","title":"IV: The Sight of Human Beings","length":20781,"mode":"type"},{"id":"007","title":"V: The Torrent Sweeping Under the Mountains","length":15211,"mode":"type"},{"id":"008","title":"VI: The New World","length":21696,"mode":"type"},{"id":"009","title":"VII: Scientific Theories and Scepticism","length":20972,"mode":"type"},{"id":"010","title":"VIII: The Cave-Dwellers","length":13878,"mode":"type"},{"id":"011","title":"IX: The Cavern of the Dead","length":15030,"mode":"type"},{"id":"012","title":"X: The Sacred Hunt","length":11750,"mode":"type"},{"id":"013","title":"XI: The Swamp Monster","length":14448,"mode":"type"},{"id":"014","title":"XII: The Baleful Sacrifice","length":11101,"mode":"type"},{"id":"015","title":"XIII: The Awful Mista Kosek","length":15327,"mode":"type"},{"id":"016","title":"XIV: I Learn My Doom","length":14399,"mode":"type"},{"id":"017","title":"XV: The Kohen Is Inexorable","length":15447,"mode":"type"},{"id":"018","title":"XVI: The Kosekin","length":15698,"mode":"type"},{"id":"019","title":"XVII: Belief and Unbelief","length":22609,"mode":"type"},{"id":"020","title":"XVIII: A Voyage Over the Pole","length":15236,"mode":"type"},{"id":"021","title":"XIX: The Wonders of the Amir","length":15569,"mode":"type"},{"id":"022","title":"XX: The Dark Maiden Layelah","length":14628,"mode":"type"},{"id":"023","title":"XXI: The Flying Monster","length":15647,"mode":"type"},{"id":"024","title":"XXII: Escape","length":14975,"mode":"type"},{"id":"025","title":"XXIII: The Island of Fire","length":15446,"mode":"type"},{"id":"026","title":"XXIV: Recapture","length":20058,"mode":"type"},{"id":"027","title":"XXV: Falling, Like Icarus, Into the Sea","length":10729,"mode":"type"},{"id":"028","title":"XXVI: Grimm's Law Again","length":12885,"mode":"type"},{"id":"029","title":"XXVII: Oxenden Preaches a Sermon","length":8816,"mode":"type"},{"id":"030","title":"XXVIII: In Prison","length":13680,"mode":"type"},{"id":"031","title":"XXIX: The Ceremony of Separation","length":14086,"mode":"type"},{"id":"032","title":"XXX: The Day of Sacrifice","length":14844,"mode":"type"},{"id":"033","title":"XXXI: Conclusion","length":9817,"mode":"type"},{"id":"034","title":"Colophon","length":1050,"mode":"hide"},{"id":"035","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489827539}
+{
+  "id": "james-de-mille--a-strange-manuscript-found-in-a-copper-cylinder",
+  "title": "A Strange Manuscript Found in a Copper Cylinder",
+  "titleAlpha": "strange manuscript found in a copper cylinder",
+  "author": "James De Mille",
+  "language": "en",
+  "description": "A shipwrecked sailor travels through a portal to a lost world populated by fantastic creatures and a strange civilization.",
+  "longDescription": [
+    "A Strange Manuscript Found in a Copper Cylinder is perhaps James De Mille's most popular book; sadly, De Mille didn't get to see this novel grow in popularity, as it was first serialized posthumously, in Harper's Weekly. De Mille had written the novel before the \"lost world\" genre had become saturated, meaning many of the ideas were fresh and original for the time in which it was written. But, since he didn't succeed in publishing it during his lifetime, by the time the novel was made public other authors like H. Rider Haggard had made the ideas and plot clichéd.",
+    "The novel itself tells the tale of a shipwrecked sailor, Adam More, who passes through a mysterious underground passage into a hidden land deep in the Antarctic, kept warm by a hidden volcano. The land is populated by an ancient civilization whose views on life and wealth are the polar opposite of those held in British society of the time - they view death and poverty as the highest religious and social achievements. As More adventures through the strange land, he encounters fantastic dinosaurs, lovelorn princesses, and the classic kind of adventure that foreshadows the pulp novels of the next century."
+  ],
+  "year": 1888,
+  "genres": [
+    "classics",
+    "fiction",
+    "science-fiction",
+    "adventure",
+    "fantasy"
+  ],
+  "topics": [
+    "dinosaurs"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/james-de-mille/a-strange-manuscript-found-in-a-copper-cylinder"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - A Strange Manuscript Found in a Copper Cylinder",
+      "length": 19,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1176,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I: The Finding of the Copper Cylinder",
+      "length": 14577,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II: Adrift in the Antarctic Ocean",
+      "length": 15761,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III: A World of Fire and Desolation",
+      "length": 16110,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV: The Sight of Human Beings",
+      "length": 20781,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V: The Torrent Sweeping Under the Mountains",
+      "length": 15211,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI: The New World",
+      "length": 21696,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII: Scientific Theories and Scepticism",
+      "length": 20972,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII: The Cave-Dwellers",
+      "length": 13878,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX: The Cavern of the Dead",
+      "length": 15030,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X: The Sacred Hunt",
+      "length": 11750,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI: The Swamp Monster",
+      "length": 14448,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII: The Baleful Sacrifice",
+      "length": 11101,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII: The Awful Mista Kosek",
+      "length": 15327,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV: I Learn My Doom",
+      "length": 14399,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV: The Kohen Is Inexorable",
+      "length": 15447,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI: The Kosekin",
+      "length": 15698,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII: Belief and Unbelief",
+      "length": 22609,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII: A Voyage Over the Pole",
+      "length": 15236,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX: The Wonders of the Amir",
+      "length": 15569,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX: The Dark Maiden Layelah",
+      "length": 14628,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI: The Flying Monster",
+      "length": 15647,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII: Escape",
+      "length": 14975,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII: The Island of Fire",
+      "length": 15446,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV: Recapture",
+      "length": 20058,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXV: Falling, Like Icarus, Into the Sea",
+      "length": 10729,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXVI: Grimm's Law Again",
+      "length": 12885,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVII: Oxenden Preaches a Sermon",
+      "length": 8816,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVIII: In Prison",
+      "length": 13680,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXIX: The Ceremony of Separation",
+      "length": 14086,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXX: The Day of Sacrifice",
+      "length": 14844,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXXI: Conclusion",
+      "length": 9817,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "Colophon",
+      "length": 1050,
+      "mode": "hide"
+    },
+    {
+      "id": "035",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL96167W",
+  "goodreadsId": "490052",
+  "rating": 0.6599999999999999,
+  "popularity": 905,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489827539
+}

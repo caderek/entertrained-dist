@@ -1,1 +1,239 @@
-{"id":"e-phillips-oppenheim--the-great-impersonation","title":"The Great Impersonation","titleAlpha":"great impersonation","author":"E. Phillips Oppenheim","language":"en","description":"A German spy attempts to infiltrate English society by assuming the identity of his doppelganger.","longDescription":["It's 1913, and war is on the horizon. The disgraced English aristocrat, Everard Dominey, is stumbling through East Africa when he comes across his old classmate and lookalike - the German Baron von Ragastein. Shortly after their chance encounter, Dominey returns to England. But is it really him, or a German secret agent, looking to infiltrate English society?","As Dominey attempts to resume his life, he must reacquaint himself with his insane and murderous wife, the passionate ex-lover that recognizes him, and uncover the mystery of the death that led to his exile.","Oppenheim's classic spy-thriller was enormously popular when it was first published in 1920, selling over a million copies, and leading to three major motion pictures. It is featured on The Guardian's list of \"1,000 Novels Everyone Must Read.\""],"year":1920,"genres":["classics","fiction"],"topics":["espionage"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/e-phillips-oppenheim/the-great-impersonation"},"openlibraryId":"OL241517W","goodreadsId":"949698","rating":0.778,"popularity":981,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Great Impersonation","length":26,"mode":"hide"},{"id":"002","title":"Imprint","length":1194,"mode":"hide"},{"id":"003","title":"I","length":15434,"mode":"type"},{"id":"004","title":"II","length":16129,"mode":"type"},{"id":"005","title":"III","length":10158,"mode":"type"},{"id":"006","title":"IV","length":18141,"mode":"type"},{"id":"007","title":"V","length":13053,"mode":"type"},{"id":"008","title":"VI","length":27391,"mode":"type"},{"id":"009","title":"VII","length":20445,"mode":"type"},{"id":"010","title":"VIII","length":13555,"mode":"type"},{"id":"011","title":"IX","length":11585,"mode":"type"},{"id":"012","title":"X","length":16756,"mode":"type"},{"id":"013","title":"XI","length":11755,"mode":"type"},{"id":"014","title":"XII","length":11626,"mode":"type"},{"id":"015","title":"XIII","length":13835,"mode":"type"},{"id":"016","title":"XIV","length":12292,"mode":"type"},{"id":"017","title":"XV","length":16900,"mode":"type"},{"id":"018","title":"XVI","length":15414,"mode":"type"},{"id":"019","title":"XVII","length":13987,"mode":"type"},{"id":"020","title":"XVIII","length":13563,"mode":"type"},{"id":"021","title":"XIX","length":14441,"mode":"type"},{"id":"022","title":"XX","length":12309,"mode":"type"},{"id":"023","title":"XXI","length":9602,"mode":"type"},{"id":"024","title":"XXII","length":13792,"mode":"type"},{"id":"025","title":"XXIII","length":17896,"mode":"type"},{"id":"026","title":"XXIV","length":9615,"mode":"type"},{"id":"027","title":"XXV","length":10347,"mode":"type"},{"id":"028","title":"XXVI","length":18646,"mode":"type"},{"id":"029","title":"XXVII","length":9282,"mode":"type"},{"id":"030","title":"XXVIII","length":18696,"mode":"type"},{"id":"031","title":"XXIX","length":18102,"mode":"type"},{"id":"032","title":"Colophon","length":1068,"mode":"hide"},{"id":"033","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489560289}
+{
+  "id": "e-phillips-oppenheim--the-great-impersonation",
+  "title": "The Great Impersonation",
+  "titleAlpha": "great impersonation",
+  "author": "E. Phillips Oppenheim",
+  "language": "en",
+  "description": "A German spy attempts to infiltrate English society by assuming the identity of his doppelganger.",
+  "longDescription": [
+    "It's 1913, and war is on the horizon. The disgraced English aristocrat, Everard Dominey, is stumbling through East Africa when he comes across his old classmate and lookalike - the German Baron von Ragastein. Shortly after their chance encounter, Dominey returns to England. But is it really him, or a German secret agent, looking to infiltrate English society?",
+    "As Dominey attempts to resume his life, he must reacquaint himself with his insane and murderous wife, the passionate ex-lover that recognizes him, and uncover the mystery of the death that led to his exile.",
+    "Oppenheim's classic spy-thriller was enormously popular when it was first published in 1920, selling over a million copies, and leading to three major motion pictures. It is featured on The Guardian's list of \"1,000 Novels Everyone Must Read.\""
+  ],
+  "year": 1920,
+  "genres": [
+    "classics",
+    "fiction",
+    "thriller",
+    "adventure"
+  ],
+  "topics": [
+    "espionage"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/e-phillips-oppenheim/the-great-impersonation"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Great Impersonation",
+      "length": 26,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1194,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "I",
+      "length": 15434,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "II",
+      "length": 16129,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "III",
+      "length": 10158,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "IV",
+      "length": 18141,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "V",
+      "length": 13053,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "VI",
+      "length": 27391,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VII",
+      "length": 20445,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VIII",
+      "length": 13555,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "IX",
+      "length": 11585,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "X",
+      "length": 16756,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "XI",
+      "length": 11755,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XII",
+      "length": 11626,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XIII",
+      "length": 13835,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XIV",
+      "length": 12292,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XV",
+      "length": 16900,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XVI",
+      "length": 15414,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XVII",
+      "length": 13987,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVIII",
+      "length": 13563,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XIX",
+      "length": 14441,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XX",
+      "length": 12309,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XXI",
+      "length": 9602,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XXII",
+      "length": 13792,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXIII",
+      "length": 17896,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXIV",
+      "length": 9615,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXV",
+      "length": 10347,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXVI",
+      "length": 18646,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXVII",
+      "length": 9282,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVIII",
+      "length": 18696,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXIX",
+      "length": 18102,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "Colophon",
+      "length": 1068,
+      "mode": "hide"
+    },
+    {
+      "id": "033",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL241517W",
+  "goodreadsId": "949698",
+  "rating": 0.778,
+  "popularity": 981,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489560289
+}

@@ -1,1 +1,118 @@
-{"id":"george-du-maurier--trilby","title":"Trilby","titleAlpha":"trilby","author":"George du Maurier","language":"en","description":"A young woman captures the hearts of a group of artists before falling under the spell of a strange villain.","longDescription":["Three men, working as artists in Paris, enjoy their days and evenings together in artistic and musical activities. A mysterious character named Svengali often visits their workshop and plays the piano. He is talented and thinks very highly of himself. Soon enough a young woman named Trilby O'Ferrall, an artist's model, joins the group when she hears music coming from the workshop. She is unconventional but charming, and captures the hearts of all the men around her. But before long, the villainous Svengali starts to exercise a mysterious power over her.","George du Maurier tells the story mostly from the point of view of the three men: Little Billee, the Laird, and Taffy. His portrayal of Svengali later received criticism for being antisemitic, and the word \"Svengali\" has since come to mean someone who manipulates another, often for evil purposes.","Trilby was a very popular work in its day, as Gothic horror was undergoing a revival. It was first published as a serial in Harper's New Monthly Magazine in 1894."],"year":1894,"genres":["classics","fiction","psychological","romance"],"topics":["art"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/george-du-maurier/trilby"},"openlibraryId":"OL1940374W","goodreadsId":"751624","rating":0.6639999999999999,"popularity":1395,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Trilby","length":22,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Part I","length":70074,"mode":"type"},{"id":"004","title":"Part II","length":69429,"mode":"type"},{"id":"005","title":"Part III","length":60698,"mode":"type"},{"id":"006","title":"Part IV","length":64028,"mode":"type"},{"id":"007","title":"Part V: Little Billee - An Interlude","length":84711,"mode":"type"},{"id":"008","title":"Part VI","length":63390,"mode":"type"},{"id":"009","title":"Part VII","length":73608,"mode":"type"},{"id":"010","title":"Part VIII","length":73026,"mode":"type"},{"id":"011","title":"Endnotes","length":325,"mode":"hide"},{"id":"012","title":"Colophon","length":1049,"mode":"hide"},{"id":"013","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489714759}
+{
+  "id": "george-du-maurier--trilby",
+  "title": "Trilby",
+  "titleAlpha": "trilby",
+  "author": "George du Maurier",
+  "language": "en",
+  "description": "A young woman captures the hearts of a group of artists before falling under the spell of a strange villain.",
+  "longDescription": [
+    "Three men, working as artists in Paris, enjoy their days and evenings together in artistic and musical activities. A mysterious character named Svengali often visits their workshop and plays the piano. He is talented and thinks very highly of himself. Soon enough a young woman named Trilby O'Ferrall, an artist's model, joins the group when she hears music coming from the workshop. She is unconventional but charming, and captures the hearts of all the men around her. But before long, the villainous Svengali starts to exercise a mysterious power over her.",
+    "George du Maurier tells the story mostly from the point of view of the three men: Little Billee, the Laird, and Taffy. His portrayal of Svengali later received criticism for being antisemitic, and the word \"Svengali\" has since come to mean someone who manipulates another, often for evil purposes.",
+    "Trilby was a very popular work in its day, as Gothic horror was undergoing a revival. It was first published as a serial in Harper's New Monthly Magazine in 1894."
+  ],
+  "year": 1894,
+  "genres": [
+    "classics",
+    "fiction",
+    "psychological",
+    "romance",
+    "gothic"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/george-du-maurier/trilby"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Trilby",
+      "length": 22,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Part I",
+      "length": 70074,
+      "mode": "type"
+    },
+    {
+      "id": "004",
+      "title": "Part II",
+      "length": 69429,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "Part III",
+      "length": 60698,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "Part IV",
+      "length": 64028,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Part V: Little Billee - An Interlude",
+      "length": 84711,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Part VI",
+      "length": 63390,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "Part VII",
+      "length": 73608,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "Part VIII",
+      "length": 73026,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Endnotes",
+      "length": 325,
+      "mode": "hide"
+    },
+    {
+      "id": "012",
+      "title": "Colophon",
+      "length": 1049,
+      "mode": "hide"
+    },
+    {
+      "id": "013",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL1940374W",
+  "goodreadsId": "751624",
+  "rating": 0.6639999999999999,
+  "popularity": 1395,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489714759
+}

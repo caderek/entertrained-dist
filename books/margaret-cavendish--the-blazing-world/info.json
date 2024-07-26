@@ -1,1 +1,95 @@
-{"id":"margaret-cavendish--the-blazing-world","title":"The Blazing World","titleAlpha":"blazing world","author":"Margaret Cavendish","language":"en","description":"A young lady is abducted and finds herself the empress of a strange new world.","longDescription":["A young lady is abducted by sea and finds herself transported into a new world where the blazing stars make night as bright as day. She marries the world's Emperor, becoming Empress, and through consultation with many creatures and immaterial spirits she elaborates on contemporary scientific and philosophical topics.","The story presents the view that a society with a unified language and religion can be made orderly under the rule of a benevolent monarch. Margaret Cavendish, the Duchess of Newcastle, plays her own part in the story by providing advice and showing the Empress around her own world.","The Blazing World was written in 1666, a few years after the restoration of the British monarchy. With its fantastic setting, the book is considered an early forerunner of the science fiction genre."],"year":1994,"genres":["classics","fantasy","fiction","philosophy","science-fiction","travel"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/margaret-cavendish/the-blazing-world"},"openlibraryId":"OL7981518W","goodreadsId":"354620","rating":0.50806404,"popularity":12,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Blazing World","length":23,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Dedication","length":590,"mode":"hide"},{"id":"004","title":"Introduction","length":1925,"mode":"type"},{"id":"005","title":"The Description of a New World, Called the Blazing-World - The Description of a New World, Called the Blazing-World","length":176620,"mode":"type"},{"id":"006","title":"The Description of a New World, Called the Blazing-World - The Second Part of the Description of the New Blazing-World","length":46523,"mode":"type"},{"id":"007","title":"The Description of a New World, Called the Blazing-World - The Epilogue to the Reader","length":2518,"mode":"type"},{"id":"008","title":"Colophon","length":1062,"mode":"hide"},{"id":"009","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489944022}
+{
+  "id": "margaret-cavendish--the-blazing-world",
+  "title": "The Blazing World",
+  "titleAlpha": "blazing world",
+  "author": "Margaret Cavendish",
+  "language": "en",
+  "description": "A young lady is abducted and finds herself the empress of a strange new world.",
+  "longDescription": [
+    "A young lady is abducted by sea and finds herself transported into a new world where the blazing stars make night as bright as day. She marries the world's Emperor, becoming Empress, and through consultation with many creatures and immaterial spirits she elaborates on contemporary scientific and philosophical topics.",
+    "The story presents the view that a society with a unified language and religion can be made orderly under the rule of a benevolent monarch. Margaret Cavendish, the Duchess of Newcastle, plays her own part in the story by providing advice and showing the Empress around her own world.",
+    "The Blazing World was written in 1666, a few years after the restoration of the British monarchy. With its fantastic setting, the book is considered an early forerunner of the science fiction genre."
+  ],
+  "year": 1666,
+  "genres": [
+    "classics",
+    "fantasy",
+    "fiction",
+    "science-fiction",
+    "travel",
+    "philosophy"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/margaret-cavendish/the-blazing-world"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Blazing World",
+      "length": 23,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 590,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "Introduction",
+      "length": 1925,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "The Description of a New World, Called the Blazing-World - The Description of a New World, Called the Blazing-World",
+      "length": 176620,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "The Description of a New World, Called the Blazing-World - The Second Part of the Description of the New Blazing-World",
+      "length": 46523,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "The Description of a New World, Called the Blazing-World - The Epilogue to the Reader",
+      "length": 2518,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "Colophon",
+      "length": 1062,
+      "mode": "hide"
+    },
+    {
+      "id": "009",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL7981518W",
+  "goodreadsId": "354620",
+  "rating": 0.65,
+  "popularity": 1545,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489944022
+}

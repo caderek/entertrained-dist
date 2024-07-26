@@ -1,1 +1,261 @@
-{"id":"procopius--the-secret-history","title":"The Secret History","titleAlpha":"secret history","author":"Procopius","language":"en","description":"Procopius recounts the supposed true history of Justinian's reign.","longDescription":["A military official and chronicler under the Eastern Roman emperor Justinian, Procopius is a key primary source for historians studying Justinian's reign. In addition to writing a conventional history of Justinian's wars titled History of the Wars and a panegyric to Justinian's construction projects titled The Buildings, Procopius composed a Secret History supposedly consisting of the incidents he withheld from his previous books.","In his Secret History, which was lost for centuries before it resurfaced at the Vatican Library in Rome in the 17th century, Procopius purports to unveil the celebrated Byzantine monarchs Justinian and Theodora for who they really are: corrupt, arbitrary, and literally demonic tyrants. Although considered an authentic text, its invective tone against Justinian and Theodora and its sometimes extravagant accusations (e.g. that Justinian was a demon in human form with a vanishing head) puts it in an unclear position between fiction and history. Nevertheless, the Secret History continues to be an object of study by classicists, and Procopius's purpose for composing such a scathing text remains an object of speculation."],"year":1982,"genres":["classics","history","nonfiction"],"topics":["empires"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/procopius/the-secret-history/richard-atwater"},"openlibraryId":"OL136693W","goodreadsId":"561444","rating":0.768,"popularity":3099,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The Secret History","length":45,"mode":"hide"},{"id":"002","title":"Imprint","length":1191,"mode":"hide"},{"id":"003","title":"Introduction","length":18226,"mode":"type"},{"id":"004","title":"Foreword by the Historian","length":2860,"mode":"skip"},{"id":"005","title":"I: How the Great General Belisarius Was Hoodwinked by His Wife, Whose Lover Became a Monk","length":7082,"mode":"type"},{"id":"006","title":"II: How Belated Jealousy Affected Belisarius's Military Judgment, to the Joy of the Enemy","length":8567,"mode":"type"},{"id":"007","title":"III: Showing the Danger of Interfering with a Woman's Intrigues, Especially When the Woman Is the Friend of an Empress","length":6440,"mode":"type"},{"id":"008","title":"IV: How Theodora, Revenging Her Dear Antonina, Humiliated the Conqueror of Africa and Italy","length":8472,"mode":"type"},{"id":"009","title":"V: How Theodora Tricked the General's Daughter Into a Liaison with the Empress's Nephew, and Belisarius Became a Public Laughing Stock","length":8310,"mode":"type"},{"id":"010","title":"VI: Ignorance of the Emperor Justin, and His Stencilled Signature, and How His Nephew Justinian Was the Virtual Ruler","length":5358,"mode":"type"},{"id":"011","title":"VII: Outrages of the Blues","length":8493,"mode":"type"},{"id":"012","title":"VIII: Character and Appearance of Justinian","length":6811,"mode":"type"},{"id":"013","title":"IX: And How Theodora, Most Depraved of All Courtesans, Won His Love","length":9732,"mode":"type"},{"id":"014","title":"X: How Justinian Created a New Law Permitting Him to Marry a Courtesan on Her Promise to Repent Her Past; and the Truth About the Apparent Quarrels of a Happy Pair","length":6670,"mode":"type"},{"id":"015","title":"XI: How the Defender of the Faith Ruined His Subjects","length":8562,"mode":"type"},{"id":"016","title":"XII: Proving That Justinian and Theodora Were Actually Fiends in Human Form","length":8083,"mode":"type"},{"id":"017","title":"XIII: Deceptive Affability and Piety of a Tyrant","length":6560,"mode":"type"},{"id":"018","title":"XIV: Justice for Sale","length":5209,"mode":"type"},{"id":"019","title":"XV: How an Roman Citizens Became Slaves, and a Complaining Patrician Was Ribaldly Mocked by Theodora's Eunuchs","length":6709,"mode":"type"},{"id":"020","title":"XVI: What Happened to Those Who Fell Out of Favor with Theodora","length":6254,"mode":"type"},{"id":"021","title":"XVII: How She Saved Five Hundred Harlots from a Life of Sin, Made Away with Her Own Natural Son, and Other Curious Incidents of Her Passion for Match Making","length":9020,"mode":"type"},{"id":"022","title":"XVIII: How Justinian Killed a Trillion People","length":8330,"mode":"type"},{"id":"023","title":"XIX: How He Seized All the Wealth of the Romans and Threw It Away in the Sea and on the Barbarians","length":3885,"mode":"type"},{"id":"024","title":"XX: Debasing of the Quaestorship","length":5499,"mode":"type"},{"id":"025","title":"XXI: The Sky Tax, the Selling of All Offices, and How Border Armies Were Forbidden to Punish Invading Barbarians","length":5979,"mode":"type"},{"id":"026","title":"XXII: Further Corruption in High Places","length":7868,"mode":"type"},{"id":"027","title":"XXIII: How Landowners Were Ruined","length":5491,"mode":"type"},{"id":"028","title":"XXIV: Unjust Treatment of the Soldiers, and How Justinian Tricked the \"Students\" Out of Their Pay by Threatening to Send Them to War","length":6455,"mode":"type"},{"id":"029","title":"XXV: How He Robbed His Own Officials, Merchants, Sailors, Workmen, and Everybody Else","length":6779,"mode":"type"},{"id":"030","title":"XXVI: How He Spoiled the Beauty of the Cities and Plundered the Poor","length":9575,"mode":"type"},{"id":"031","title":"XXVII: How the Defender of the Faith Protected the Interests of the Christians","length":5865,"mode":"type"},{"id":"032","title":"XXVIII: His Violation of the Laws of the Romans, and How Jews Were Fined for Eating Lamb","length":3810,"mode":"type"},{"id":"033","title":"XXIX: Other Incidents Revealing Him as a Liar and a Hypocrite","length":6897,"mode":"type"},{"id":"034","title":"XXX: Further Innovations of Justinian and Theodora, and a Conclusion Which Imagines the Death of an Emperor","length":6845,"mode":"type"},{"id":"035","title":"Endnotes","length":5805,"mode":"hide"},{"id":"036","title":"Colophon","length":1087,"mode":"hide"},{"id":"037","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721490052344}
+{
+  "id": "procopius--the-secret-history",
+  "title": "The Secret History",
+  "titleAlpha": "secret history",
+  "author": "Procopius",
+  "language": "en",
+  "description": "Procopius recounts the supposed true history of Justinian's reign.",
+  "longDescription": [
+    "A military official and chronicler under the Eastern Roman emperor Justinian, Procopius is a key primary source for historians studying Justinian's reign. In addition to writing a conventional history of Justinian's wars titled History of the Wars and a panegyric to Justinian's construction projects titled The Buildings, Procopius composed a Secret History supposedly consisting of the incidents he withheld from his previous books.",
+    "In his Secret History, which was lost for centuries before it resurfaced at the Vatican Library in Rome in the 17th century, Procopius purports to unveil the celebrated Byzantine monarchs Justinian and Theodora for who they really are: corrupt, arbitrary, and literally demonic tyrants. Although considered an authentic text, its invective tone against Justinian and Theodora and its sometimes extravagant accusations (e.g. that Justinian was a demon in human form with a vanishing head) puts it in an unclear position between fiction and history. Nevertheless, the Secret History continues to be an object of study by classicists, and Procopius's purpose for composing such a scathing text remains an object of speculation."
+  ],
+  "year": 500,
+  "genres": [
+    "classics",
+    "history",
+    "nonfiction"
+  ],
+  "topics": [
+    "empires"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/procopius/the-secret-history/richard-atwater"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The Secret History",
+      "length": 45,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1191,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Introduction",
+      "length": 18226,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Foreword by the Historian",
+      "length": 2860,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "I: How the Great General Belisarius Was Hoodwinked by His Wife, Whose Lover Became a Monk",
+      "length": 7082,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "II: How Belated Jealousy Affected Belisarius's Military Judgment, to the Joy of the Enemy",
+      "length": 8567,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "III: Showing the Danger of Interfering with a Woman's Intrigues, Especially When the Woman Is the Friend of an Empress",
+      "length": 6440,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "IV: How Theodora, Revenging Her Dear Antonina, Humiliated the Conqueror of Africa and Italy",
+      "length": 8472,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "V: How Theodora Tricked the General's Daughter Into a Liaison with the Empress's Nephew, and Belisarius Became a Public Laughing Stock",
+      "length": 8310,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VI: Ignorance of the Emperor Justin, and His Stencilled Signature, and How His Nephew Justinian Was the Virtual Ruler",
+      "length": 5358,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VII: Outrages of the Blues",
+      "length": 8493,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "VIII: Character and Appearance of Justinian",
+      "length": 6811,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "IX: And How Theodora, Most Depraved of All Courtesans, Won His Love",
+      "length": 9732,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "X: How Justinian Created a New Law Permitting Him to Marry a Courtesan on Her Promise to Repent Her Past; and the Truth About the Apparent Quarrels of a Happy Pair",
+      "length": 6670,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XI: How the Defender of the Faith Ruined His Subjects",
+      "length": 8562,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "XII: Proving That Justinian and Theodora Were Actually Fiends in Human Form",
+      "length": 8083,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XIII: Deceptive Affability and Piety of a Tyrant",
+      "length": 6560,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XIV: Justice for Sale",
+      "length": 5209,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XV: How an Roman Citizens Became Slaves, and a Complaining Patrician Was Ribaldly Mocked by Theodora's Eunuchs",
+      "length": 6709,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XVI: What Happened to Those Who Fell Out of Favor with Theodora",
+      "length": 6254,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XVII: How She Saved Five Hundred Harlots from a Life of Sin, Made Away with Her Own Natural Son, and Other Curious Incidents of Her Passion for Match Making",
+      "length": 9020,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVIII: How Justinian Killed a Trillion People",
+      "length": 8330,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "XIX: How He Seized All the Wealth of the Romans and Threw It Away in the Sea and on the Barbarians",
+      "length": 3885,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "XX: Debasing of the Quaestorship",
+      "length": 5499,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "XXI: The Sky Tax, the Selling of All Offices, and How Border Armies Were Forbidden to Punish Invading Barbarians",
+      "length": 5979,
+      "mode": "type"
+    },
+    {
+      "id": "026",
+      "title": "XXII: Further Corruption in High Places",
+      "length": 7868,
+      "mode": "type"
+    },
+    {
+      "id": "027",
+      "title": "XXIII: How Landowners Were Ruined",
+      "length": 5491,
+      "mode": "type"
+    },
+    {
+      "id": "028",
+      "title": "XXIV: Unjust Treatment of the Soldiers, and How Justinian Tricked the \"Students\" Out of Their Pay by Threatening to Send Them to War",
+      "length": 6455,
+      "mode": "type"
+    },
+    {
+      "id": "029",
+      "title": "XXV: How He Robbed His Own Officials, Merchants, Sailors, Workmen, and Everybody Else",
+      "length": 6779,
+      "mode": "type"
+    },
+    {
+      "id": "030",
+      "title": "XXVI: How He Spoiled the Beauty of the Cities and Plundered the Poor",
+      "length": 9575,
+      "mode": "type"
+    },
+    {
+      "id": "031",
+      "title": "XXVII: How the Defender of the Faith Protected the Interests of the Christians",
+      "length": 5865,
+      "mode": "type"
+    },
+    {
+      "id": "032",
+      "title": "XXVIII: His Violation of the Laws of the Romans, and How Jews Were Fined for Eating Lamb",
+      "length": 3810,
+      "mode": "type"
+    },
+    {
+      "id": "033",
+      "title": "XXIX: Other Incidents Revealing Him as a Liar and a Hypocrite",
+      "length": 6897,
+      "mode": "type"
+    },
+    {
+      "id": "034",
+      "title": "XXX: Further Innovations of Justinian and Theodora, and a Conclusion Which Imagines the Death of an Emperor",
+      "length": 6845,
+      "mode": "type"
+    },
+    {
+      "id": "035",
+      "title": "Endnotes",
+      "length": 5805,
+      "mode": "hide"
+    },
+    {
+      "id": "036",
+      "title": "Colophon",
+      "length": 1087,
+      "mode": "hide"
+    },
+    {
+      "id": "037",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL136693W",
+  "goodreadsId": "561444",
+  "rating": 0.768,
+  "popularity": 3099,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490052344
+}

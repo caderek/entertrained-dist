@@ -1,1 +1,99 @@
-{"id":"barbara-newhall-follett--the-house-without-windows","title":"The House Without Windows","titleAlpha":"house without windows","author":"Barbara Newhall Follett","language":"en","description":"A young woman seeks a new home where she is not trapped by walls or windows.","longDescription":["A young girl named Eepersip lives with her parents in a cottage, but she feels trapped within its confines, so she leaves civilization and seeks a free and carefree life in nature.","After leaving her parents, she founds a home in the outdoors, rejecting both the society of adults and the comforts of civilization; she initially is content to live in the meadow, but she grows restless and seeks a new place to live in both the sea and the mountain. In time, she reaches a higher form of life.","Follett started writing the novel in 1923 at the age of 9, but the first draft was lost in a house fire, which led her to rewrite the entire work. It was eventually published to critical success in 1927, when she was just 12 years old."],"year":null,"genres":["children","classics","fiction"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/barbara-newhall-follett/the-house-without-windows"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - The House Without Windows","length":28,"mode":"hide"},{"id":"002","title":"Imprint","length":1177,"mode":"hide"},{"id":"003","title":"Dedication","length":40,"mode":"hide"},{"id":"004","title":"I: The Meadow","length":71473,"mode":"type"},{"id":"005","title":"II: The Sea","length":45686,"mode":"type"},{"id":"006","title":"III: The Mountains","length":62220,"mode":"type"},{"id":"007","title":"Historical Note - (By Another Hand)","length":14344,"mode":"type"},{"id":"008","title":"Endnotes","length":371,"mode":"hide"},{"id":"009","title":"Colophon","length":1032,"mode":"hide"},{"id":"010","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489460247}
+{
+  "id": "barbara-newhall-follett--the-house-without-windows",
+  "title": "The House Without Windows",
+  "titleAlpha": "house without windows",
+  "author": "Barbara Newhall Follett",
+  "language": "en",
+  "description": "A young woman seeks a new home where she is not trapped by walls or windows.",
+  "longDescription": [
+    "A young girl named Eepersip lives with her parents in a cottage, but she feels trapped within its confines, so she leaves civilization and seeks a free and carefree life in nature.",
+    "After leaving her parents, she founds a home in the outdoors, rejecting both the society of adults and the comforts of civilization; she initially is content to live in the meadow, but she grows restless and seeks a new place to live in both the sea and the mountain. In time, she reaches a higher form of life.",
+    "Follett started writing the novel in 1923 at the age of 9, but the first draft was lost in a house fire, which led her to rewrite the entire work. It was eventually published to critical success in 1927, when she was just 12 years old."
+  ],
+  "year": 1927,
+  "genres": [
+    "children",
+    "classics",
+    "fiction",
+    "fantasy"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/barbara-newhall-follett/the-house-without-windows"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - The House Without Windows",
+      "length": 28,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1177,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Dedication",
+      "length": 40,
+      "mode": "hide"
+    },
+    {
+      "id": "004",
+      "title": "I: The Meadow",
+      "length": 71473,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II: The Sea",
+      "length": 45686,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III: The Mountains",
+      "length": 62220,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "Historical Note - (By Another Hand)",
+      "length": 14344,
+      "mode": "skip"
+    },
+    {
+      "id": "008",
+      "title": "Endnotes",
+      "length": 371,
+      "mode": "hide"
+    },
+    {
+      "id": "009",
+      "title": "Colophon",
+      "length": 1032,
+      "mode": "hide"
+    },
+    {
+      "id": "010",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL21211665W",
+  "goodreadsId": "6256913",
+  "rating": 0.728,
+  "popularity": 973,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489460247
+}

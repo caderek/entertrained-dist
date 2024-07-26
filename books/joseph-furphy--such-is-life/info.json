@@ -1,1 +1,116 @@
-{"id":"joseph-furphy--such-is-life","title":"Such Is Life","titleAlpha":"such is life","author":"Joseph Furphy","language":"en","description":"A minor government official travels the Australian outback and talks to a variety of characters such as bullock-team drivers and swagmen along the way.","longDescription":["Such Is Life is an Australian novel written by Joseph Furphy under a pseudonym of \"Tom Collins\" and published in 1903. It purports to be a series of diary entries by the author, selected at approximately one-month intervals during late 1883 and early 1884. \"Tom Collins\" travels rural New South Wales and Victoria, interacting and talking at length with a variety of characters including the drivers of bullock-teams, itinerant swagmen, boundary riders, and squatters (the owners of large rural properties). The novel is full of entertaining and sometimes melancholy incidents mixed with the philosophical ramblings of the author and his frequent quotations from Shakespeare and poetry. Its depictions of the Australian bush, the rural lifestyle, and the depredations of drought are vivid.","Furphy is sometimes called the \"Father of the Australian Novel,\" and Such Is Life is considered a classic of Australian literature."],"year":null,"genres":["classics","fiction"],"topics":["frontier"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/joseph-furphy/such-is-life"},"openlibraryId":null,"goodreadsId":null,"rating":null,"popularity":null,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Such Is Life","length":18,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Introduction","length":760,"mode":"type"},{"id":"004","title":"I","length":155598,"mode":"type"},{"id":"005","title":"II","length":93452,"mode":"type"},{"id":"006","title":"III","length":146749,"mode":"type"},{"id":"007","title":"IV","length":141025,"mode":"type"},{"id":"008","title":"V","length":88232,"mode":"type"},{"id":"009","title":"VI","length":182401,"mode":"type"},{"id":"010","title":"VII","length":106619,"mode":"type"},{"id":"011","title":"Endnotes","length":381,"mode":"hide"},{"id":"012","title":"Colophon","length":994,"mode":"hide"},{"id":"013","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489868973}
+{
+  "id": "joseph-furphy--such-is-life",
+  "title": "Such Is Life",
+  "titleAlpha": "such is life",
+  "author": "Joseph Furphy",
+  "language": "en",
+  "description": "A minor government official travels the Australian outback and talks to a variety of characters such as bullock-team drivers and swagmen along the way.",
+  "longDescription": [
+    "Such Is Life is an Australian novel written by Joseph Furphy under a pseudonym of \"Tom Collins\" and published in 1903. It purports to be a series of diary entries by the author, selected at approximately one-month intervals during late 1883 and early 1884. \"Tom Collins\" travels rural New South Wales and Victoria, interacting and talking at length with a variety of characters including the drivers of bullock-teams, itinerant swagmen, boundary riders, and squatters (the owners of large rural properties). The novel is full of entertaining and sometimes melancholy incidents mixed with the philosophical ramblings of the author and his frequent quotations from Shakespeare and poetry. Its depictions of the Australian bush, the rural lifestyle, and the depredations of drought are vivid.",
+    "Furphy is sometimes called the \"Father of the Australian Novel,\" and Such Is Life is considered a classic of Australian literature."
+  ],
+  "year": 1903,
+  "genres": [
+    "classics",
+    "fiction"
+  ],
+  "topics": [
+    "frontier"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/joseph-furphy/such-is-life"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Such Is Life",
+      "length": 18,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Introduction",
+      "length": 760,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "I",
+      "length": 155598,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II",
+      "length": 93452,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III",
+      "length": 146749,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "IV",
+      "length": 141025,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "V",
+      "length": 88232,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VI",
+      "length": 182401,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VII",
+      "length": 106619,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "Endnotes",
+      "length": 381,
+      "mode": "hide"
+    },
+    {
+      "id": "012",
+      "title": "Colophon",
+      "length": 994,
+      "mode": "hide"
+    },
+    {
+      "id": "013",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL11321161W",
+  "goodreadsId": "8227620",
+  "rating": 0.7,
+  "popularity": 109,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489868973
+}

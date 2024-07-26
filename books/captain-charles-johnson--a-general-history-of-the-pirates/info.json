@@ -1,1 +1,203 @@
-{"id":"captain-charles-johnson--a-general-history-of-the-pirates","title":"A General History of the Pirates","titleAlpha":"general history of the pirates","author":"Captain Charles Johnson","language":"en","description":"The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.","longDescription":["During the Golden Age of Piracy, a writer calling himself \"Captain\" Charles Johnson introduced London readers to the denizens of a savage world just beyond their shores. These pirates took up residence in readers' imaginations, where they've been a mainstay of popular culture ever since.","Pirate history especially resonates for American readers, as what would become the wild frontier of the American west began in the piratical eastern seaboard of Colonial times. When revolutionaries gathered in Philadelphia to found a continental republic, it was with a memory of the Pirate Republic founded eighty years earlier in Nassau and its attempt at self-government, ship-board democracy, and defiance of empire. When Grant arrived in Virginia to restore thirteen breakaway states to that republic, he came with a memory of Woodes Rogers' arrival in the Bahamas to reclaim those islands for the Empire. The legacy of triangular trade, on which these pirates preyed and depended, has continued to play out across the nation's history.","For its contemporary readers piracy was serious business, and this book describes their exploits with a journalistic spirit. Johnson writes history, but history in the present tense. He editorializes, shares his personal knowledge of seamanship, and offers practical advice both to maritime merchants and to powerful policymakers. He draws stories from interviews with living pirates, draws from public and legal records, and develops historical context, bringing his own social analysis to bear. In some parts, he presents human interest stories as tabloid journalism with \"a little the air of a novel,\" recounted mostly because they're interesting.","And they are interesting: the bored gentleman and inept pirate Stede Bonnet as he arrives unarmed to a battle of wits with the experienced, savage, and polygamous Edward Teach; Teach, who said of this crew that \"if he did not now and then kill one of them, they would forget who he was\"; the scandalous pirate-thruple of Mary Read, Anne Bonny, and \"Calico\" Jack Rackham. To the present day, in countless works, across media, Johnson's pirates and the world they inhabit live on."],"year":1932,"genres":["biography","classics","nonfiction"],"topics":["pirates"],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates"},"openlibraryId":"OL8098755W","goodreadsId":"578241","rating":0.3990681,"popularity":10,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - A General History of the Pirates","length":28,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"The Preface","length":14590,"mode":"skip"},{"id":"004","title":"Introduction","length":45361,"mode":"type"},{"id":"005","title":"I: Of Captain Avery, and His Crew","length":33231,"mode":"type"},{"id":"006","title":"II: Of Captain Martel, and His Crew","length":9354,"mode":"type"},{"id":"007","title":"III: Of Captain Teach Alias Blackbeard","length":34868,"mode":"type"},{"id":"008","title":"IV: Of Major Stede Bonnet and His Crew","length":36185,"mode":"type"},{"id":"009","title":"V: Of Capt. Edward England, and His Crew","length":49395,"mode":"type"},{"id":"010","title":"VI: Of Captain Charles Vane, and His Crew","length":14541,"mode":"type"},{"id":"011","title":"VII: Of Captain John Rackam, and His Crew","length":10818,"mode":"type"},{"id":"012","title":"The Life of Mary Read","length":15303,"mode":"type"},{"id":"013","title":"The Life of Anne Bonny","length":13302,"mode":"type"},{"id":"014","title":"VIII: Of Captain Howel Davis, and His Crew","length":59560,"mode":"type"},{"id":"015","title":"IX: Of Captain Bartho. Roberts, and His Crew","length":203540,"mode":"type"},{"id":"016","title":"X: Of Captain Anstis, and His Crew","length":19481,"mode":"type"},{"id":"017","title":"XI: Of Captain Worley, and His Crew","length":6982,"mode":"type"},{"id":"018","title":"XII: Of Capt. George Lowther, and His Crew","length":31416,"mode":"type"},{"id":"019","title":"XIII: Of Captain Edward Low, and His Crew","length":42504,"mode":"type"},{"id":"020","title":"XIV: Of Capt. John Evans, and His Crew","length":6913,"mode":"type"},{"id":"021","title":"XV: Of Captain John Phillips, and His Crew","length":24148,"mode":"type"},{"id":"022","title":"XVI: Of Captain Spriggs, and His Crew","length":12918,"mode":"type"},{"id":"023","title":"An Account of the Piracies and Murders Committed by Philip Roche, etc.","length":9173,"mode":"type"},{"id":"024","title":"An Abstract of the Civil Law and Statute Law Now in Force, in Relation to Piracy","length":6739,"mode":"type"},{"id":"025","title":"Endnotes","length":52,"mode":"hide"},{"id":"026","title":"Colophon","length":1060,"mode":"hide"},{"id":"027","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721489504150}
+{
+  "id": "captain-charles-johnson--a-general-history-of-the-pirates",
+  "title": "A General History of the Pirates",
+  "titleAlpha": "general history of the pirates",
+  "author": "Captain Charles Johnson",
+  "language": "en",
+  "description": "The lives and stories of the daring pirate outlaws who terrorized the Atlantic Ocean and Caribbean Sea in the 18th century.",
+  "longDescription": [
+    "During the Golden Age of Piracy, a writer calling himself \"Captain\" Charles Johnson introduced London readers to the denizens of a savage world just beyond their shores. These pirates took up residence in readers' imaginations, where they've been a mainstay of popular culture ever since.",
+    "Pirate history especially resonates for American readers, as what would become the wild frontier of the American west began in the piratical eastern seaboard of Colonial times. When revolutionaries gathered in Philadelphia to found a continental republic, it was with a memory of the Pirate Republic founded eighty years earlier in Nassau and its attempt at self-government, ship-board democracy, and defiance of empire. When Grant arrived in Virginia to restore thirteen breakaway states to that republic, he came with a memory of Woodes Rogers' arrival in the Bahamas to reclaim those islands for the Empire. The legacy of triangular trade, on which these pirates preyed and depended, has continued to play out across the nation's history.",
+    "For its contemporary readers piracy was serious business, and this book describes their exploits with a journalistic spirit. Johnson writes history, but history in the present tense. He editorializes, shares his personal knowledge of seamanship, and offers practical advice both to maritime merchants and to powerful policymakers. He draws stories from interviews with living pirates, draws from public and legal records, and develops historical context, bringing his own social analysis to bear. In some parts, he presents human interest stories as tabloid journalism with \"a little the air of a novel,\" recounted mostly because they're interesting.",
+    "And they are interesting: the bored gentleman and inept pirate Stede Bonnet as he arrives unarmed to a battle of wits with the experienced, savage, and polygamous Edward Teach; Teach, who said of this crew that \"if he did not now and then kill one of them, they would forget who he was\"; the scandalous pirate-thruple of Mary Read, Anne Bonny, and \"Calico\" Jack Rackham. To the present day, in countless works, across media, Johnson's pirates and the world they inhabit live on."
+  ],
+  "year": 1724,
+  "genres": [
+    "biography",
+    "classics",
+    "nonfiction"
+  ],
+  "topics": [
+    "pirates"
+  ],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/captain-charles-johnson/a-general-history-of-the-pirates"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - A General History of the Pirates",
+      "length": 28,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "The Preface",
+      "length": 14590,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "Introduction",
+      "length": 45361,
+      "mode": "skip"
+    },
+    {
+      "id": "005",
+      "title": "I: Of Captain Avery, and His Crew",
+      "length": 33231,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "II: Of Captain Martel, and His Crew",
+      "length": 9354,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "III: Of Captain Teach Alias Blackbeard",
+      "length": 34868,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "IV: Of Major Stede Bonnet and His Crew",
+      "length": 36185,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "V: Of Capt. Edward England, and His Crew",
+      "length": 49395,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VI: Of Captain Charles Vane, and His Crew",
+      "length": 14541,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VII: Of Captain John Rackam, and His Crew",
+      "length": 10818,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "The Life of Mary Read",
+      "length": 15303,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "The Life of Anne Bonny",
+      "length": 13302,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "VIII: Of Captain Howel Davis, and His Crew",
+      "length": 59560,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "IX: Of Captain Bartho. Roberts, and His Crew",
+      "length": 203540,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "X: Of Captain Anstis, and His Crew",
+      "length": 19481,
+      "mode": "type"
+    },
+    {
+      "id": "017",
+      "title": "XI: Of Captain Worley, and His Crew",
+      "length": 6982,
+      "mode": "type"
+    },
+    {
+      "id": "018",
+      "title": "XII: Of Capt. George Lowther, and His Crew",
+      "length": 31416,
+      "mode": "type"
+    },
+    {
+      "id": "019",
+      "title": "XIII: Of Captain Edward Low, and His Crew",
+      "length": 42504,
+      "mode": "type"
+    },
+    {
+      "id": "020",
+      "title": "XIV: Of Capt. John Evans, and His Crew",
+      "length": 6913,
+      "mode": "type"
+    },
+    {
+      "id": "021",
+      "title": "XV: Of Captain John Phillips, and His Crew",
+      "length": 24148,
+      "mode": "type"
+    },
+    {
+      "id": "022",
+      "title": "XVI: Of Captain Spriggs, and His Crew",
+      "length": 12918,
+      "mode": "type"
+    },
+    {
+      "id": "023",
+      "title": "An Account of the Piracies and Murders Committed by Philip Roche, etc.",
+      "length": 9173,
+      "mode": "type"
+    },
+    {
+      "id": "024",
+      "title": "An Abstract of the Civil Law and Statute Law Now in Force, in Relation to Piracy",
+      "length": 6739,
+      "mode": "type"
+    },
+    {
+      "id": "025",
+      "title": "Endnotes",
+      "length": 52,
+      "mode": "hide"
+    },
+    {
+      "id": "026",
+      "title": "Colophon",
+      "length": 1060,
+      "mode": "hide"
+    },
+    {
+      "id": "027",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL8098755W",
+  "goodreadsId": "24933526",
+  "rating": 0.74,
+  "popularity": 1534,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721489504150
+}

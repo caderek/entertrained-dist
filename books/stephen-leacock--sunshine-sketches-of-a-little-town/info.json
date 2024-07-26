@@ -1,1 +1,141 @@
-{"id":"stephen-leacock--sunshine-sketches-of-a-little-town","title":"Sunshine Sketches of a Little Town","titleAlpha":"sunshine sketches of a little town","author":"Stephen Leacock","language":"en","description":"A humorous account of life in the fictional small town of Mariposa.","longDescription":["Sunshine Sketches of a Little Town is Stephen Leacock's humourous and affectionate account of small-town life in the fictional town of Mariposa. Written in 1912, it is drawn from his experiences living in Orillia, Ontario.","The book is a series of funny and satirical anecdotes that illustrate the inner workings of life in Mariposa - from business to politics to steamboat disasters. The town is populated by many archetypal characters including the shrewd businessman Mr. Smith, the lovelorn bank teller Mr. Pupkin, and the mathematically challenged Rev. Mr. Drone.","During his lifetime, Stephen Leacock was very popular in much of the English-speaking world as a writer and humourist. Sunshine Sketches is considered one of his most notable and enduring works. In Canada, the Stephen Leacock Medal for Humour is named in his honour. The medal is an annual award for the best Canadian book of literary humour published in the previous year."],"year":1912,"genres":["classics","comedy","fiction","satire"],"topics":[],"rights":"The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).","publisher":"Standard Ebooks","source":{"isUrl":true,"value":"https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town"},"openlibraryId":"OL626383W","goodreadsId":"1025985","rating":0.746,"popularity":3691,"cover":null,"free":false,"custom":false,"series":null,"part":0,"chapters":[{"id":"001","title":"Titlepage - Sunshine Sketches of a Little Town","length":20,"mode":"hide"},{"id":"002","title":"Imprint","length":1184,"mode":"hide"},{"id":"003","title":"Preface","length":8398,"mode":"skip"},{"id":"004","title":"I: The Hostelry of Mr. Smith","length":44780,"mode":"type"},{"id":"005","title":"II: The Speculations of Jefferson Thorpe","length":30908,"mode":"type"},{"id":"006","title":"III: The Marine Excursions of the Knights of Pythias","length":38165,"mode":"type"},{"id":"007","title":"IV: The Ministrations of the Rev. Mr. Drone","length":31216,"mode":"type"},{"id":"008","title":"V: The Whirlwind Campaign in Mariposa","length":15472,"mode":"type"},{"id":"009","title":"VI: The Beacon on the Hill","length":19398,"mode":"type"},{"id":"010","title":"VII: The Extraordinary Entanglement of Mr. Pupkin","length":21544,"mode":"type"},{"id":"011","title":"VIII: The Foreordained Attachment of Zena Pepperleigh and Peter Pupkin","length":24783,"mode":"type"},{"id":"012","title":"IX: The Mariposa Bank Mystery","length":30728,"mode":"type"},{"id":"013","title":"X: The Great Election in Missinaba County","length":21787,"mode":"type"},{"id":"014","title":"XI: The Candidacy of Mr. Smith","length":27424,"mode":"type"},{"id":"015","title":"XII: L'Envoi. The Train to Mariposa","length":11615,"mode":"type"},{"id":"016","title":"Colophon","length":1090,"mode":"hide"},{"id":"017","title":"Uncopyright","length":2050,"mode":"hide"}],"createdAt":1721490128488}
+{
+  "id": "stephen-leacock--sunshine-sketches-of-a-little-town",
+  "title": "Sunshine Sketches of a Little Town",
+  "titleAlpha": "sunshine sketches of a little town",
+  "author": "Stephen Leacock",
+  "language": "en",
+  "description": "A humorous account of life in the fictional small town of Mariposa.",
+  "longDescription": [
+    "Sunshine Sketches of a Little Town is Stephen Leacock's humourous and affectionate account of small-town life in the fictional town of Mariposa. Written in 1912, it is drawn from his experiences living in Orillia, Ontario.",
+    "The book is a series of funny and satirical anecdotes that illustrate the inner workings of life in Mariposa - from business to politics to steamboat disasters. The town is populated by many archetypal characters including the shrewd businessman Mr. Smith, the lovelorn bank teller Mr. Pupkin, and the mathematically challenged Rev. Mr. Drone.",
+    "During his lifetime, Stephen Leacock was very popular in much of the English-speaking world as a writer and humourist. Sunshine Sketches is considered one of his most notable and enduring works. In Canada, the Stephen Leacock Medal for Humour is named in his honour. The medal is an annual award for the best Canadian book of literary humour published in the previous year."
+  ],
+  "year": 1912,
+  "genres": [
+    "classics",
+    "comedy",
+    "fiction",
+    "satire"
+  ],
+  "topics": [],
+  "rights": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+  "publisher": "Standard Ebooks",
+  "series": null,
+  "part": 0,
+  "source": {
+    "isUrl": true,
+    "value": "https://standardebooks.org/ebooks/stephen-leacock/sunshine-sketches-of-a-little-town"
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "title": "Titlepage - Sunshine Sketches of a Little Town",
+      "length": 20,
+      "mode": "hide"
+    },
+    {
+      "id": "002",
+      "title": "Imprint",
+      "length": 1184,
+      "mode": "hide"
+    },
+    {
+      "id": "003",
+      "title": "Preface",
+      "length": 8398,
+      "mode": "skip"
+    },
+    {
+      "id": "004",
+      "title": "I: The Hostelry of Mr. Smith",
+      "length": 44780,
+      "mode": "type"
+    },
+    {
+      "id": "005",
+      "title": "II: The Speculations of Jefferson Thorpe",
+      "length": 30908,
+      "mode": "type"
+    },
+    {
+      "id": "006",
+      "title": "III: The Marine Excursions of the Knights of Pythias",
+      "length": 38165,
+      "mode": "type"
+    },
+    {
+      "id": "007",
+      "title": "IV: The Ministrations of the Rev. Mr. Drone",
+      "length": 31216,
+      "mode": "type"
+    },
+    {
+      "id": "008",
+      "title": "V: The Whirlwind Campaign in Mariposa",
+      "length": 15472,
+      "mode": "type"
+    },
+    {
+      "id": "009",
+      "title": "VI: The Beacon on the Hill",
+      "length": 19398,
+      "mode": "type"
+    },
+    {
+      "id": "010",
+      "title": "VII: The Extraordinary Entanglement of Mr. Pupkin",
+      "length": 21544,
+      "mode": "type"
+    },
+    {
+      "id": "011",
+      "title": "VIII: The Foreordained Attachment of Zena Pepperleigh and Peter Pupkin",
+      "length": 24783,
+      "mode": "type"
+    },
+    {
+      "id": "012",
+      "title": "IX: The Mariposa Bank Mystery",
+      "length": 30728,
+      "mode": "type"
+    },
+    {
+      "id": "013",
+      "title": "X: The Great Election in Missinaba County",
+      "length": 21787,
+      "mode": "type"
+    },
+    {
+      "id": "014",
+      "title": "XI: The Candidacy of Mr. Smith",
+      "length": 27424,
+      "mode": "type"
+    },
+    {
+      "id": "015",
+      "title": "XII: L'Envoi. The Train to Mariposa",
+      "length": 11615,
+      "mode": "type"
+    },
+    {
+      "id": "016",
+      "title": "Colophon",
+      "length": 1090,
+      "mode": "hide"
+    },
+    {
+      "id": "017",
+      "title": "Uncopyright",
+      "length": 2050,
+      "mode": "hide"
+    }
+  ],
+  "openlibraryId": "OL626383W",
+  "goodreadsId": "1025985",
+  "rating": 0.746,
+  "popularity": 3691,
+  "cover": null,
+  "free": false,
+  "custom": false,
+  "createdAt": 1721490128488
+}
