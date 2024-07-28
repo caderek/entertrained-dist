@@ -13,6 +13,7 @@
   "genres": [
     "nonfiction"
   ],
+  "topics": [],
   "rights": "CC BY 4.0",
   "publisher": "Entertrained",
   "source": {
@@ -41,5 +42,12 @@
       "mode": "type"
     }
   ],
+  "openlibraryId": null,
+  "goodreadsId": null,
+  "rating": null,
+  "popularity": 0,
+  "cover": null,
+  "free": true,
+  "custom": false,
   "createdAt": 1718327863644
 }
