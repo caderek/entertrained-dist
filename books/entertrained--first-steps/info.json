@@ -7,33 +7,31 @@
   "description": "A step-by-step guide that kickstarts your adventure into the world of touch typing",
   "longDescription": [
     "Reading this manual will equip you with the knowledge and skills to fully utilize Entertrained, a platform designed to make learning touch typing an enjoyable experience. It will guide you on how to practice typing with famous novels, enhancing your accuracy and speed.",
-    "The manual also introduces a Reading mode, a feature that allows you to continue enjoying the story even when you’re taking a break from typing. It will show you how to customize your experience, making it truly yours.",
-    "By reading this manual, you’ll understand how to embark on this journey of learning and enjoyment."
+    "The manual also introduces a Reading mode, a feature that allows you to continue enjoying the story even when you’re taking a break from typing. It will show you how to customize your experience, making it truly yours."
   ],
   "year": 2024,
   "genres": [
     "nonfiction"
   ],
-  "topics": [],
   "rights": "CC BY 4.0",
   "publisher": "Entertrained",
-  "series": null,
-  "part": 0,
   "source": {
     "isUrl": true,
     "value": "https://entertrained.app"
   },
+  "series": null,
+  "part": 0,
   "chapters": [
     {
       "id": "000",
       "title": "Chapter 1: The Art of Typing",
-      "length": 853,
+      "length": 751,
       "mode": "type"
     },
     {
       "id": "001",
       "title": "Chapter 2: The Joy of Reading",
-      "length": 1092,
+      "length": 1110,
       "mode": "type"
     },
     {
@@ -43,12 +41,5 @@
       "mode": "type"
     }
   ],
-  "openlibraryId": null,
-  "goodreadsId": null,
-  "rating": null,
-  "popularity": null,
-  "cover": null,
-  "free": true,
-  "custom": false,
   "createdAt": 1718327863644
 }

@@ -38,6 +38,8 @@ export type IconsId =
   | "link-external"
   | "light-mode"
   | "less"
+  | "keyboard"
+  | "keyboard-off"
   | "info"
   | "home"
   | "heart"
@@ -106,6 +108,8 @@ export type IconsKey =
   | "LinkExternal"
   | "LightMode"
   | "Less"
+  | "Keyboard"
+  | "KeyboardOff"
   | "Info"
   | "Home"
   | "Heart"
@@ -174,6 +178,8 @@ export enum Icons {
   LinkExternal = "link-external",
   LightMode = "light-mode",
   Less = "less",
+  Keyboard = "keyboard",
+  KeyboardOff = "keyboard-off",
   Info = "info",
   Home = "home",
   Heart = "heart",
@@ -243,31 +249,33 @@ export const ICONS_CODEPOINTS: { [key in Icons]: string } = {
   [Icons.LinkExternal]: "10150",
   [Icons.LightMode]: "61724",
   [Icons.Less]: "11165",
-  [Icons.Info]: "61725",
-  [Icons.Home]: "61726",
-  [Icons.Heart]: "61727",
-  [Icons.HeartOff]: "61728",
-  [Icons.Fullscreen]: "61729",
-  [Icons.FullscreenOff]: "61730",
+  [Icons.Keyboard]: "61725",
+  [Icons.KeyboardOff]: "61726",
+  [Icons.Info]: "61727",
+  [Icons.Home]: "61728",
+  [Icons.Heart]: "61729",
+  [Icons.HeartOff]: "61730",
+  [Icons.Fullscreen]: "61731",
+  [Icons.FullscreenOff]: "61732",
   [Icons.Flame]: "9670",
   [Icons.FlameOff]: "9671",
   [Icons.FlameHalf]: "11030",
-  [Icons.Extra]: "61731",
-  [Icons.Enter]: "61732",
-  [Icons.Enter1]: "61733",
-  [Icons.Download]: "61734",
-  [Icons.DarkMode]: "61735",
-  [Icons.Close]: "61736",
-  [Icons.Books]: "61737",
-  [Icons.BookmarkOn]: "61738",
-  [Icons.BookmarkOff]: "61739",
-  [Icons.Backspace]: "61740",
-  [Icons.BackspaceWord]: "61741",
-  [Icons.Back]: "61742",
-  [Icons.ArrowUp]: "61743",
-  [Icons.ArrowRight]: "61744",
-  [Icons.ArrowLeft]: "61745",
-  [Icons.ArrowDown]: "61746",
-  [Icons.Annotations]: "61747",
-  [Icons.Accuracy]: "61748",
+  [Icons.Extra]: "61733",
+  [Icons.Enter]: "61734",
+  [Icons.Enter1]: "61735",
+  [Icons.Download]: "61736",
+  [Icons.DarkMode]: "61737",
+  [Icons.Close]: "61738",
+  [Icons.Books]: "61739",
+  [Icons.BookmarkOn]: "61740",
+  [Icons.BookmarkOff]: "61741",
+  [Icons.Backspace]: "61742",
+  [Icons.BackspaceWord]: "61743",
+  [Icons.Back]: "61744",
+  [Icons.ArrowUp]: "61745",
+  [Icons.ArrowRight]: "61746",
+  [Icons.ArrowLeft]: "61747",
+  [Icons.ArrowDown]: "61748",
+  [Icons.Annotations]: "61749",
+  [Icons.Accuracy]: "61750",
 };
