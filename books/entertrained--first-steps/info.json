@@ -16,12 +16,12 @@
   "topics": [],
   "rights": "CC BY 4.0",
   "publisher": "Entertrained",
+  "series": null,
+  "part": 0,
   "source": {
     "isUrl": true,
     "value": "https://entertrained.app"
   },
-  "series": null,
-  "part": 0,
   "chapters": [
     {
       "id": "000",
@@ -32,13 +32,13 @@
     {
       "id": "001",
       "title": "Chapter 2: The Joy of Reading",
-      "length": 1110,
+      "length": 992,
       "mode": "type"
     },
     {
       "id": "002",
       "title": "Chapter 3: Make It Your Own",
-      "length": 583,
+      "length": 584,
       "mode": "type"
     }
   ],

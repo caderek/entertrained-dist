@@ -2272,7 +2272,7 @@
   "rating": 0.8400000000000001,
   "popularity": 803409,
   "cover": null,
-  "free": false,
+  "free": true,
   "custom": false,
   "createdAt": 1720555877120
 }

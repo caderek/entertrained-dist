@@ -163,7 +163,7 @@
   "rating": 0.86,
   "popularity": 42685,
   "cover": null,
-  "free": false,
+  "free": true,
   "custom": false,
   "createdAt": 1720831851817
 }
