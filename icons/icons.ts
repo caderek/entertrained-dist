@@ -2,6 +2,7 @@ export type IconsId =
   | "zen"
   | "watch"
   | "warning"
+  | "twitter"
   | "toggle-on"
   | "toggle-off"
   | "symbols"
@@ -45,11 +46,14 @@ export type IconsId =
   | "home"
   | "heart"
   | "heart-off"
+  | "google"
+  | "github"
   | "fullscreen"
   | "fullscreen-off"
   | "flame"
   | "flame-off"
   | "flame-half"
+  | "facebook"
   | "extra"
   | "enter"
   | "enter-1"
@@ -67,12 +71,13 @@ export type IconsId =
   | "arrow-left"
   | "arrow-down"
   | "annotations"
-  | "accuracy";
+  | "accuracy"
 
 export type IconsKey =
   | "Zen"
   | "Watch"
   | "Warning"
+  | "Twitter"
   | "ToggleOn"
   | "ToggleOff"
   | "Symbols"
@@ -116,11 +121,14 @@ export type IconsKey =
   | "Home"
   | "Heart"
   | "HeartOff"
+  | "Google"
+  | "Github"
   | "Fullscreen"
   | "FullscreenOff"
   | "Flame"
   | "FlameOff"
   | "FlameHalf"
+  | "Facebook"
   | "Extra"
   | "Enter"
   | "Enter1"
@@ -138,12 +146,13 @@ export type IconsKey =
   | "ArrowLeft"
   | "ArrowDown"
   | "Annotations"
-  | "Accuracy";
+  | "Accuracy"
 
 export enum Icons {
   Zen = "zen",
   Watch = "watch",
   Warning = "warning",
+  Twitter = "twitter",
   ToggleOn = "toggle-on",
   ToggleOff = "toggle-off",
   Symbols = "symbols",
@@ -187,11 +196,14 @@ export enum Icons {
   Home = "home",
   Heart = "heart",
   HeartOff = "heart-off",
+  Google = "google",
+  Github = "github",
   Fullscreen = "fullscreen",
   FullscreenOff = "fullscreen-off",
   Flame = "flame",
   FlameOff = "flame-off",
   FlameHalf = "flame-half",
+  Facebook = "facebook",
   Extra = "extra",
   Enter = "enter",
   Enter1 = "enter-1",
@@ -216,6 +228,7 @@ export const ICONS_CODEPOINTS: { [key in Icons]: string } = {
   [Icons.Zen]: "61697",
   [Icons.Watch]: "61698",
   [Icons.Warning]: "61699",
+  [Icons.Twitter]: "61752",
   [Icons.ToggleOn]: "61700",
   [Icons.ToggleOff]: "61701",
   [Icons.Symbols]: "61702",
@@ -259,11 +272,14 @@ export const ICONS_CODEPOINTS: { [key in Icons]: string } = {
   [Icons.Home]: "61729",
   [Icons.Heart]: "61730",
   [Icons.HeartOff]: "61731",
+  [Icons.Google]: "61753",
+  [Icons.Github]: "61754",
   [Icons.Fullscreen]: "61732",
   [Icons.FullscreenOff]: "61733",
   [Icons.Flame]: "9670",
   [Icons.FlameOff]: "9671",
   [Icons.FlameHalf]: "11030",
+  [Icons.Facebook]: "61755",
   [Icons.Extra]: "61734",
   [Icons.Enter]: "61735",
   [Icons.Enter1]: "61736",
@@ -282,4 +298,4 @@ export const ICONS_CODEPOINTS: { [key in Icons]: string } = {
   [Icons.ArrowDown]: "61749",
   [Icons.Annotations]: "61750",
   [Icons.Accuracy]: "61751",
-};
+}
